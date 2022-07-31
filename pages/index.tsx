@@ -5,6 +5,8 @@ import utilStyles from "../styles/utils.module.css";
 import Link from "next/link";
 import Date from "../components/date";
 import { GetStaticProps } from "next";
+import Image from "next/image";
+import CoverImage from "img/cover.jpg";
 
 export const getStaticProps: GetStaticProps = async (context) => {
   const allPostsData = getSortedPostsData();
@@ -21,6 +23,9 @@ export default function Home({ allPostsData }) {
       <Head>
         <title>{siteTitle}</title>
       </Head>
+      <section>
+        <Image priority src={CoverImage} />
+      </section>
       <section className={utilStyles.headingMd}>
         <p>[Your Self Introduction]</p>
         <p>
