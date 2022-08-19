@@ -11,7 +11,13 @@ export default function Layout({ children, home }: { children: React.ReactNode; 
     <div className={styles.container}>
       <Head>
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/css/all.min.css" />
-        <link rel="icon" href="/favicon.ico" />
+        <link rel="apple-touch-icon" sizes="152x152" href="/apple-touch-icon.png" />
+        <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png" />
+        <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png" />
+        <link rel="manifest" href="/site.webmanifest" />
+        <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#d45500" />
+        <meta name="msapplication-TileColor" content="#d45500" />
+        <meta name="theme-color" content="#ffffff" />
         <meta name="description" content="LMSC Website" />
       </Head>
       <header className={styles.header}>
