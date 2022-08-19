@@ -3,8 +3,7 @@ import styles from "./layout.module.scss";
 /* import utilStyles from "../styles/utils.module.css"; */
 import Link from "next/link";
 import Nav from "components/nav";
-const name = "[Your Name]";
-export const siteTitle = "Next.js Sample Website";
+export const siteTitle = "LMSC Website";
 
 export default function Layout({ children, home }: { children: React.ReactNode; home?: boolean }) {
   return (
