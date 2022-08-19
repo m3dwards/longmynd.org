@@ -2,6 +2,27 @@ import styles from "./nav.module.scss";
 import classNames from "classnames";
 import React from "react";
 
+interface menuItem {
+  title: string;
+  link?: string;
+  isButton?: boolean;
+  subItems?: menuItem[];
+}
+
+const menuData: menuItem[] = [
+  { title: "Sites" },
+  { title: "News & Safety" },
+  {
+    title: "About Us",
+    subItems: [{ title: "Commitee" }, { title: "Meetings" }, { title: "Competitions" }, { title: "Gallery" }],
+  },
+  { title: "Learn", subItems: [{ title: "Schools & Tandems" }, { title: "Coaching" }, { title: "Resources" }] },
+  { title: "Social" },
+
+  { title: "Join the club", isButton: true },
+  { title: "Contact Us", isButton: true },
+];
+
 export default function () {
   const [menuOpenState, setmenuOpenState] = React.useState(false);
   const [subMenuActiveState, setSubMenuActiveState] = React.useState("");
@@ -29,11 +50,15 @@ export default function () {
         <li className={styles.item}>
           <a href="#">About</a>
         </li>
-        <li className={classNames(styles.item, styles.hasSubmenu)}>
+        <li
+          className={classNames(styles.item, styles.hasSubmenu, {
+            [styles.submenuActive]: subMenuActiveState === "Services",
+          })}
+        >
           <a tabIndex={0} onClick={handleSubMenuClick("Services")}>
             Services
           </a>
-          <ul className={classNames(styles.submenu, { [styles.submenuActive]: subMenuActiveState === "Services" })}>
+          <ul className={classNames(styles.submenu)}>
             <li className={styles.subitem}>
               <a href="#">Design</a>
             </li>
@@ -49,11 +74,15 @@ export default function () {
           </ul>
         </li>
 
-        <li className={classNames(styles.item, styles.hasSubmenu)}>
+        <li
+          className={classNames(styles.item, styles.hasSubmenu, {
+            [styles.submenuActive]: subMenuActiveState === "Plans",
+          })}
+        >
           <a tabIndex={0} onClick={handleSubMenuClick("Plans")}>
             Plans
           </a>
-          <ul className={classNames(styles.submenu, { [styles.submenuActive]: subMenuActiveState === "Plans" })}>
+          <ul className={classNames(styles.submenu)}>
             <li className={styles.subitem}>
               <a href="#">Freelancer</a>
             </li>

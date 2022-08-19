@@ -21,9 +21,10 @@
 .item.button {
   padding: 9px 5px;
 }
-.item:not(.button).hasSubmenu:has(.submenuActive) > a:hover,
-.item.hasSubmenu:has(.submenuActive) > a:hover::after {
-  color: var(--highlight-color-light);
+.item:not(.button).hasSubmenu.submenuActive > a:hover,
+.item.hasSubmenu.submenuActive > a:hover::after {
+  color: var(--primary-color-dark);
+  background-color: var(--highlight-color-light);
 }
 .menu {
   display: flex;
@@ -57,9 +58,9 @@
 
 .submenu {
   display: none;
-  &.submenuActive {
-    display: block;
-  }
+}
+.submenuActive .submenu {
+  display: block;
 }
 .hasSubmenu i {
   font-size: 12px;
@@ -128,7 +129,7 @@
   .button {
     order: 2;
   }
-  .hasSubmenu:hover .submenu {
+  .submenuActive .submenu {
     display: block;
     position: absolute;
     left: 0;
@@ -139,10 +140,20 @@
       color: var(--primary-color-dark);
     }
   }
-  .toggle {
+  .submenuActive > a,
+  .submenuActive > a::after,
+  .submenuActive > a:hover,
+  .submenuActive > a:hover::after {
+    color: var(--primary-color-dark);
+    background-color: #fff !important;
+  }
+  .hasSubmenu .toggle {
     display: none;
   }
   .submenuActive {
     border-radius: 0;
+  }
+  .toggle {
+    display: none;
   }
 }
