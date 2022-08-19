@@ -1,10 +1,25 @@
 import styles from "./nav.module.scss";
 import classNames from "classnames";
+import React from "react";
 
 export default function () {
+  const [menuOpenState, setmenuOpenState] = React.useState(false);
+  const [subMenuActiveState, setSubMenuActiveState] = React.useState("");
+
+  const handleNavToggle = () => {
+    setmenuOpenState(!menuOpenState);
+  };
+
+  const handleSubMenuClick = (item: string) => () => {
+    if (subMenuActiveState === item) {
+      setSubMenuActiveState("");
+      return;
+    }
+    setSubMenuActiveState(item);
+  };
   return (
     <nav className={styles.nav}>
-      <ul className={styles.menu}>
+      <ul className={classNames(styles.menu, { [styles.active]: menuOpenState })}>
         <li className={styles.logo}>
           <a href="#">LMSC</a>
         </li>
@@ -15,8 +30,10 @@ export default function () {
           <a href="#">About</a>
         </li>
         <li className={classNames(styles.item, styles.hasSubmenu)}>
-          <a tabIndex={0}>Services</a>
-          <ul className={styles.submenu}>
+          <a tabIndex={0} onClick={handleSubMenuClick("Services")}>
+            Services
+          </a>
+          <ul className={classNames(styles.submenu, { [styles.submenuActive]: subMenuActiveState === "Services" })}>
             <li className={styles.subitem}>
               <a href="#">Design</a>
             </li>
@@ -33,8 +50,10 @@ export default function () {
         </li>
 
         <li className={classNames(styles.item, styles.hasSubmenu)}>
-          <a tabIndex={0}>Plans</a>
-          <ul className={styles.submenu}>
+          <a tabIndex={0} onClick={handleSubMenuClick("Plans")}>
+            Plans
+          </a>
+          <ul className={classNames(styles.submenu, { [styles.submenuActive]: subMenuActiveState === "Plans" })}>
             <li className={styles.subitem}>
               <a href="#">Freelancer</a>
             </li>
@@ -53,11 +72,11 @@ export default function () {
           <a href="#">Contact</a>
         </li>
         <li className={classNames(styles.item, styles.button)}>
-          <a href="#">Log In</a>
+          <a href="#">Join the club</a>
         </li>
         <li className={styles.toggle}>
-          <a href="#">
-            <i className="fas fa-bars"></i>
+          <a href="#" onClick={handleNavToggle}>
+            <i className={classNames("fas", { "fa-bars": !menuOpenState }, { "fa-times": menuOpenState })}></i>
           </a>
         </li>
       </ul>
