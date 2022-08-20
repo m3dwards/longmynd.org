@@ -48,7 +48,8 @@ export default function Nav({ data }: { data?: { sites: [] } }) {
   }
 
   const menuData: menuItem[] = [
-    { title: "News & Safety" },
+    { title: "News", link: "/news" },
+    { title: "Safety", link: "/safety" },
     { title: "Learn", subItems: [{ title: "Schools & Tandems" }, { title: "Coaching" }, { title: "Resources" }] },
     { title: "Social" },
     {

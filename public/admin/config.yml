@@ -15,6 +15,13 @@ collections:
           - { label: "Title", name: "title", widget: "string" }
           - { label: "Publish Date", name: "date", widget: "datetime" }
           - { label: "Body", name: "body", widget: "markdown" }
+      - label: "News"
+        name: "news"
+        file: "content/news.md"
+        fields:
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Publish Date", name: "date", widget: "datetime" }
+          - { label: "Body", name: "body", widget: "markdown" }
   - label: "Sites"
     name: "sites"
     folder: "content/sites"
@@ -22,6 +29,24 @@ collections:
     identifier_field: name
     fields:
       - { label: "Name", name: "name", widget: "string" }
+      - { label: "Publish Date", name: "date", widget: "datetime" }
+      - { label: "Featured Image", name: "thumbnail", widget: "image" }
+      - { label: "Body", name: "body", widget: "markdown" }
+  - label: "News"
+    name: "news"
+    folder: "content/news"
+    create: true
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Publish Date", name: "date", widget: "datetime" }
+      - { label: "Featured Image", name: "thumbnail", widget: "image" }
+      - { label: "Body", name: "body", widget: "markdown" }
+  - label: "Safety"
+    name: "safety"
+    folder: "content/safety"
+    create: true
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
       - { label: "Publish Date", name: "date", widget: "datetime" }
       - { label: "Featured Image", name: "thumbnail", widget: "image" }
       - { label: "Body", name: "body", widget: "markdown" }
