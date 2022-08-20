@@ -1,0 +1,27 @@
+backend:
+  name: git-gateway
+  # name: test-repo
+  branch: main # Branch to update (optional; defaults to master)
+media_folder: public/img
+public_folder: img
+collections:
+  - name: "pages"
+    label: "Pages"
+    files:
+      - label: "Home"
+        name: "home"
+        file: "content/index.md"
+        fields:
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Publish Date", name: "date", widget: "datetime" }
+          - { label: "Body", name: "body", widget: "markdown" }
+  - label: "Sites"
+    name: "sites"
+    folder: "content/sites"
+    create: true
+    identifier_field: name
+    fields:
+      - { label: "Name", name: "name", widget: "string" }
+      - { label: "Publish Date", name: "date", widget: "datetime" }
+      - { label: "Featured Image", name: "thumbnail", widget: "image" }
+      - { label: "Body", name: "body", widget: "markdown" }
