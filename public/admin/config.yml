@@ -19,6 +19,8 @@ collections:
     name: "sites"
     folder: "content/sites"
     create: true
+    nested:
+      depth: 100
     identifier_field: name
     fields:
       - { label: "Name", name: "name", widget: "string" }
