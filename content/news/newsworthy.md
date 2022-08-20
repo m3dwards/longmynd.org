@@ -1,5 +1,5 @@
 ---
-name: Something newsworthy
+title: Something newsworthy
 date: 2022-08-17T19:31:20Z
 ---
 
