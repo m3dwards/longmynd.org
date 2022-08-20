@@ -29,8 +29,8 @@ collections:
       - { label: "Featured Image", name: "thumbnail", widget: "image" }
       - { label: "Body", name: "body", widget: "markdown" }
     meta: { path: { widget: string, label: "Path", index_file: "index" } }
-  - name: pages
-    label: Pages
+  - name: pages2
+    label: Pages2
     label_singular: "Page"
     folder: content/pages
     create: true
