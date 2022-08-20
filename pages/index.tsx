@@ -7,6 +7,7 @@ import Date from "../components/date";
 import { GetStaticProps } from "next";
 import Image from "next/image";
 import CoverImage from "img/cover.jpg";
+import { attributes, react as HomeContent } from "content/index.md";
 
 export const getStaticProps: GetStaticProps = async (context) => {
   const allPostsData = getSortedPostsData();
@@ -26,29 +27,12 @@ export default function Home({ allPostsData }) {
       <section>
         <Image priority src={CoverImage} />
       </section>
-      <section className={utilStyles.headingMd}>
-        <p>[Your Self Introduction]</p>
-        <p>
-          (This is a sample website - you’ll be building a site like this on{" "}
-          <a href="https://nextjs.org/learn">our Next.js tutorial</a>.)
-        </p>
-      </section>
-      {/* Add this <section> tag below the existing <section> tag */}
-      <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
-        <h2 className={utilStyles.headingLg}>Blog</h2>
-        <ul className={utilStyles.list}>
-          {allPostsData.map(({ id, date, title }) => (
-            <li className={utilStyles.listItem} key={id}>
-              <Link href={`/posts/${id}`}>
-                <a>{title}</a>
-              </Link>
-              <br />
-              <small className={utilStyles.lightText}>
-                <Date dateString={date} />
-              </small>
-            </li>
-          ))}
-        </ul>
+      <section>
+        <>
+          <HomeContent />
+          {attributes.title}
+          {attributes.date}
+        </>
       </section>
     </Layout>
   );
