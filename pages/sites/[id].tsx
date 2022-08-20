@@ -3,28 +3,30 @@ import { getAllCollectionIds, getCollectionData } from "../../lib/collection";
 import Head from "next/head";
 import Date from "../../components/date";
 import utilStyles from "../../styles/utils.module.css";
-import { GetStaticProps, GetStaticPaths } from "next";
+import { GetStaticPaths } from "next";
+import { getBaseProps } from "lib/baseProps";
 
-export default function Site({
-  siteData,
-}: {
+export default function Site(props: {
   siteData: {
     name: string;
-    date: string;
+    date: Date;
     contentHtml: string;
   };
+  sites: [];
 }) {
+  console.log("component got");
+  console.log(props);
   return (
-    <Layout>
+    <Layout navData={{ sites: props.sites }}>
       <Head>
-        <title>{siteData.name}</title>
+        <title>{props.siteData.name}</title>
       </Head>
       <article>
-        <h1 className={utilStyles.headingXl}>{siteData.name}</h1>
+        <h1 className={utilStyles.headingXl}>{props.siteData.name}</h1>
         <div className={utilStyles.lightText}>
-          <Date dateString={siteData.date} />
+          <Date date={props.siteData.date} />
         </div>
-        <div dangerouslySetInnerHTML={{ __html: siteData.contentHtml }} />
+        <div dangerouslySetInnerHTML={{ __html: props.siteData.contentHtml }} />
       </article>
     </Layout>
   );
@@ -38,13 +40,12 @@ export const getStaticPaths: GetStaticPaths = async () => {
   };
 };
 
-export const getStaticProps: GetStaticProps = async ({ params }) => {
+const pageProps = async ({ params }) => {
   const siteData = await getCollectionData(params.id as string, "content/sites");
-  console.log("data");
+  console.log("site data is");
   console.log(siteData);
   return {
-    props: {
-      siteData,
-    },
+    siteData,
   };
 };
+export const getStaticProps = getBaseProps(pageProps);

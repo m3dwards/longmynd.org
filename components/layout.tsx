@@ -5,7 +5,15 @@ import Link from "next/link";
 import Nav from "components/nav";
 export const siteTitle = "LMSC Website";
 
-export default function Layout({ children, home }: { children: React.ReactNode; home?: boolean }) {
+export default function Layout({
+  children,
+  home,
+  navData,
+}: {
+  children: React.ReactNode;
+  home?: boolean;
+  navData: object;
+}) {
   return (
     <div className={styles.container}>
       <Head>
@@ -20,7 +28,7 @@ export default function Layout({ children, home }: { children: React.ReactNode; 
         <meta name="description" content="LMSC Website" />
       </Head>
       <header className={styles.header}>
-        <Nav />
+        <Nav data={navData as { sites: [] }} />
       </header>
       <main>{children}</main>
       {!home && (

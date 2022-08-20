@@ -13,39 +13,6 @@ interface menuItem {
   image?: string;
 }
 
-const menuData: menuItem[] = [
-  { title: "News & Safety" },
-  { title: "Learn", subItems: [{ title: "Schools & Tandems" }, { title: "Coaching" }, { title: "Resources" }] },
-  { title: "Social" },
-  {
-    title: "About Us",
-    subItems: [{ title: "Commitee" }, { title: "Meetings" }, { title: "Competitions" }, { title: "Gallery" }],
-  },
-  {
-    title: "Sites",
-    subItems: [
-      { title: "Sites Guide" },
-      { title: "Black Knoll", image: Arrow },
-      { title: "Caer Caradoc", image: Arrow },
-      { title: "Camlo", image: Arrow },
-      { title: "Clatter", image: Arrow },
-      { title: "Clunbury", image: Arrow },
-      { title: "Corndon", image: Arrow },
-      { title: "Lan Fawr", image: Arrow },
-      { title: "The Lawley", image: Arrow },
-      { title: "Llandinam", image: Arrow },
-      { title: "Long Mynd", image: Arrow },
-      { title: "Sarn", image: Arrow },
-      { title: "Shepherds Tump", image: Arrow },
-      { title: "The Wrekin NW", image: Arrow },
-      { title: "The Wrekin SE", image: Arrow },
-    ],
-  },
-
-  { title: "Join the club", isButton: true },
-  { title: "Contact Us", isButton: true, secondary: true },
-];
-
 function useOutsideAlerter(ref, onClick: Function) {
   React.useEffect(() => {
     /**
@@ -65,7 +32,7 @@ function useOutsideAlerter(ref, onClick: Function) {
   }, [ref]);
 }
 
-export default function () {
+export default function Nav({ data }: { data?: { sites: [] } }) {
   const wrapperRef = React.useRef(null);
   const handleClickOutside = () => {
     setSubMenuActiveState("");
@@ -74,6 +41,28 @@ export default function () {
 
   const [menuOpenState, setmenuOpenState] = React.useState(false);
   const [subMenuActiveState, setSubMenuActiveState] = React.useState("");
+
+  const sites = [];
+  for (const site of data.sites as Array<{ name: string; id: string }>) {
+    sites.push({ title: site.name, image: Arrow, link: "/sites/" + site.id });
+  }
+
+  const menuData: menuItem[] = [
+    { title: "News & Safety" },
+    { title: "Learn", subItems: [{ title: "Schools & Tandems" }, { title: "Coaching" }, { title: "Resources" }] },
+    { title: "Social" },
+    {
+      title: "About Us",
+      subItems: [{ title: "Commitee" }, { title: "Meetings" }, { title: "Competitions" }, { title: "Gallery" }],
+    },
+    {
+      title: "Sites",
+      subItems: [{ title: "Sites Guide" }, ...sites],
+    },
+
+    { title: "Join the club", isButton: true },
+    { title: "Contact Us", isButton: true, secondary: true },
+  ];
 
   const handleNavToggle = () => {
     setmenuOpenState(!menuOpenState);
@@ -93,9 +82,10 @@ export default function () {
           <a href="#">LMSC</a>
         </li>
 
-        {menuData.map((item) => {
+        {menuData.map((item, i) => {
           return (
             <li
+              key={i}
               className={classNames(
                 styles.item,
                 { [styles.hasSubmenu]: !!item.subItems },
@@ -111,9 +101,9 @@ export default function () {
               </a>
               {item.subItems && (
                 <ul className={classNames(styles.submenu)}>
-                  {item.subItems.map((subitem) => {
+                  {item.subItems.map((subitem, j) => {
                     return (
-                      <li className={styles.subitem}>
+                      <li key={j} className={styles.subitem}>
                         <a href={subitem.link}>{subitem.title}</a>
                         {subitem.image && <Image src={subitem.image} height={20} width={20} layout="fixed" />}
                       </li>

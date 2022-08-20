@@ -48,7 +48,6 @@ export function getAllCollectionIds(collectionPath: string) {
 }
 
 export async function getCollectionData(id: string, collectionPath: string) {
-  console.log("trying");
   const collectionDirectory = path.join(process.cwd(), collectionPath);
   const fullPath = path.join(collectionDirectory, `${id}.md`);
   const fileContents = fs.readFileSync(fullPath, "utf8");
@@ -65,7 +64,6 @@ export async function getCollectionData(id: string, collectionPath: string) {
     ...(matterResult.data as { date: string; name: string }),
   };
 
-  console.log(returnObject);
   // Combine the data with the id and contentHtml
   return returnObject;
 }

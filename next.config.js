@@ -1,4 +1,5 @@
-module.exports = {
+const nextConfig = {
+  reactStrictMode: true,
   webpack: (cfg) => {
     cfg.module.rules.push({
       test: /\.md$/,
@@ -7,4 +8,8 @@ module.exports = {
     });
     return cfg;
   },
-};
+}
+
+const { withSuperjson } = require('next-superjson')
+
+module.exports = withSuperjson()(nextConfig)

@@ -1,26 +1,21 @@
 import Head from "next/head";
-import { getSortedPostsData } from "../lib/posts";
 import Layout, { siteTitle } from "../components/layout";
-import utilStyles from "../styles/utils.module.css";
-import Link from "next/link";
-import Date from "../components/date";
 import { GetStaticProps } from "next";
 import Image from "next/image";
 import CoverImage from "img/cover.jpg";
 import { attributes, react as HomeContent } from "content/index.md";
+import { getSortedCollectionData } from "lib/collection";
+import { getBaseProps } from "lib/baseProps";
 
-export const getStaticProps: GetStaticProps = async (context) => {
-  const allPostsData = getSortedPostsData();
-  return {
-    props: {
-      allPostsData,
-    },
-  };
+const pageProps = async (_: any) => {
+  const allSitesData = getSortedCollectionData("content/sites");
+  return { sites2: allSitesData };
 };
+export const getStaticProps = getBaseProps(pageProps);
 
-export default function Home({ allPostsData }) {
+export default function Home({ sites, sites2 }) {
   return (
-    <Layout home>
+    <Layout home navData={{ sites }}>
       <Head>
         <title>{siteTitle}</title>
       </Head>
