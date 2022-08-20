@@ -10,9 +10,9 @@ const pageProps = async (_: any) => {
 };
 export const getStaticProps = getBaseProps(pageProps);
 
-export default function Home({ sites }) {
+export default function Home({ baseProps }) {
   return (
-    <Layout home navData={{ sites }}>
+    <Layout home navData={baseProps}>
       <Head>
         <title>{siteTitle}</title>
       </Head>

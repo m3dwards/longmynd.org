@@ -32,7 +32,7 @@ function useOutsideAlerter(ref, onClick: Function) {
   }, [ref]);
 }
 
-export default function Nav({ data }: { data?: { sites: [] } }) {
+export default function Nav({ data }: { data: { sites: []; safety: [] } }) {
   const wrapperRef = React.useRef(null);
   const handleClickOutside = () => {
     setSubMenuActiveState("");
@@ -47,9 +47,14 @@ export default function Nav({ data }: { data?: { sites: [] } }) {
     sites.push({ title: site.name, image: Arrow, link: "/sites/" + site.id });
   }
 
+  const safetyPages = [];
+  for (const safetyPage of data.safety as Array<{ title: string; id: string }>) {
+    safetyPages.push({ title: safetyPage.title, link: "/safety/" + safetyPage.id });
+  }
+
   const menuData: menuItem[] = [
     { title: "News", link: "/news" },
-    { title: "Safety", link: "/safety" },
+    { title: "Safety", subItems: [...safetyPages] },
     { title: "Learn", subItems: [{ title: "Schools & Tandems" }, { title: "Coaching" }, { title: "Resources" }] },
     { title: "Social" },
     {

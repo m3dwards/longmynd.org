@@ -28,7 +28,7 @@ export default function Layout({
         <meta name="description" content="LMSC Website" />
       </Head>
       <header className={styles.header}>
-        <Nav data={navData as { sites: [] }} />
+        <Nav data={navData as { sites: []; safety: [] }} />
       </header>
       <main>{children}</main>
       {!home && (

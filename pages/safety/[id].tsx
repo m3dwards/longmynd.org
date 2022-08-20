@@ -11,7 +11,7 @@ export default function Site({
   baseProps,
 }: {
   siteData: {
-    name: string;
+    title: string;
     date: Date;
     contentHtml: string;
   };
@@ -20,10 +20,10 @@ export default function Site({
   return (
     <Layout navData={baseProps}>
       <Head>
-        <title>{siteData.name}</title>
+        <title>{siteData.title}</title>
       </Head>
       <article>
-        <h1 className={utilStyles.headingXl}>{siteData.name}</h1>
+        <h1 className={utilStyles.headingXl}>{siteData.title}</h1>
         <div className={utilStyles.lightText}>
           <Date date={siteData.date} />
         </div>
@@ -34,7 +34,7 @@ export default function Site({
 }
 
 export const getStaticPaths: GetStaticPaths = async () => {
-  const paths = getAllCollectionIds("content/sites");
+  const paths = getAllCollectionIds("content/safety");
   return {
     paths,
     fallback: false,
@@ -42,7 +42,7 @@ export const getStaticPaths: GetStaticPaths = async () => {
 };
 
 const pageProps = async ({ params }) => {
-  const siteData = await getCollectionData(params.id as string, "content/sites");
+  const siteData = await getCollectionData(params.id as string, "content/safety");
   return {
     siteData,
   };
