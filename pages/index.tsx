@@ -1,3 +1,4 @@
+import React from "react";
 import Head from "next/head";
 import Layout, { siteTitle } from "../components/layout";
 import styles from "./index.module.scss";
@@ -7,6 +8,8 @@ import CoverLogo from "img/home-circle-logo-black-white.png";
 import Hill2 from "img/hill2.jpg";
 import Hill3 from "img/hill3.jpg";
 import { attributes, react as HomeContent } from "content/index.md";
+import { remark } from "remark";
+import html from "remark-html";
 import { getBaseProps } from "lib/baseProps";
 
 const pageProps = async (_: any) => {
@@ -15,6 +18,20 @@ const pageProps = async (_: any) => {
 export const getStaticProps = getBaseProps(pageProps);
 
 export default function Home({ baseProps }) {
+  const [topBodyState, setTopBodyState] = React.useState("");
+
+  const getTopBody = async () => {
+    const topBodyContent = await remark()
+      .use(html)
+      .process(attributes.topbody as string);
+    const topBodyHtml = topBodyContent.toString();
+    setTopBodyState(topBodyHtml);
+  };
+
+  React.useEffect(() => {
+    getTopBody();
+  }, []);
+
   return (
     <Layout
       home
@@ -42,18 +59,21 @@ export default function Home({ baseProps }) {
       </Head>
       <section>
         <>
-          <a href="/sites/all-sites" className={styles.featureBox}>
-            <Image src={Hill2} layout="fill" width="100%" height="100%" />
-            <div className={styles.textContainer}>
-              <span>Site Guide</span>
-            </div>
-          </a>
-          <a href="/sites/webcams" className={styles.featureBox}>
-            <Image src={Hill3} layout="fill" width="100%" height="100%" />
-            <div className={styles.textContainer}>
-              <span>Webcams</span>
-            </div>
-          </a>
+          <div dangerouslySetInnerHTML={{ __html: topBodyState }}></div>
+          <section>
+            <a href="/sites/all-sites" className={styles.featureBox}>
+              <Image src={Hill2} layout="fill" width="100%" height="100%" />
+              <div className={styles.textContainer}>
+                <span>Site Guide</span>
+              </div>
+            </a>
+            <a href="/sites/webcams" className={styles.featureBox}>
+              <Image src={Hill3} layout="fill" width="100%" height="100%" />
+              <div className={styles.textContainer}>
+                <span>Webcams</span>
+              </div>
+            </a>
+          </section>
           <HomeContent />
           {attributes.title}
           {attributes.date}
