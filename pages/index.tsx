@@ -103,8 +103,6 @@ export default function Home({ baseProps }) {
             </div>
           </section>
           <HomeContent />
-          {attributes.title}
-          {attributes.date}
         </>
       </section>
     </Layout>
