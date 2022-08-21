@@ -48,6 +48,13 @@ export default function Layout({
           </div>
         </div>
       </main>
+      <footer className={styles.footer}>
+        <div>
+          <span>
+            The Long Mynd Soaring Club - <a href="https://github.com/maxwedwards/longmynd.org">Source code</a>
+          </span>
+        </div>
+      </footer>
     </div>
   );
 }
