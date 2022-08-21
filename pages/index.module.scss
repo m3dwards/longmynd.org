@@ -49,6 +49,7 @@
 
 .featureBox {
   margin: 20px;
+  margin-top: 50px;
   display: inline-block;
   width: 300px;
   height: 300px;
@@ -81,6 +82,13 @@
 .newsSection {
   min-width: 360px;
   max-width: 500px;
+}
+
+.shortNewsItem {
+  margin-bottom: 20px;
+  small {
+    margin-left: 20px;
+  }
 }
 
 // tiny devices make heading smaller to fit

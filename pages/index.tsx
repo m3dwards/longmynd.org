@@ -78,8 +78,8 @@ export default function Home({ baseProps }) {
               </a>
             </div>
             <div className={styles.newsSection}>
+              <h2>Recent News</h2>
               <div className={styles.shortNewsItem}>
-                <h2>Recent News</h2>
                 <strong>News item 1</strong>
                 <small>
                   <em>29/8/2022</em>
@@ -90,7 +90,6 @@ export default function Home({ baseProps }) {
                 <button>Read more</button>
               </div>
               <div className={styles.shortNewsItem}>
-                <h2>Recent News</h2>
                 <strong>News item 1</strong>
                 <small>
                   <em>29/8/2022</em>
