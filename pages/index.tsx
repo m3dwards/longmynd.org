@@ -20,13 +20,17 @@ export default function Home({ baseProps }) {
       top={
         <div className={styles.cover}>
           <div className={styles.coverText}>
-            <h1>Long Mynd Soaring Club</h1>
+            <div>
+              <h1>Long Mynd Soaring Club</h1>
+            </div>
           </div>
           <div className={styles.coverBackground}>
             <Image priority src={CoverImage} layout="fill" objectFit="cover" width="100%" height="100%" />
           </div>
           <div className={styles.coverLogo}>
-            <Image priority src={CoverLogo} width="220px" height="220px" />
+            <div>
+              <Image priority src={CoverLogo} layout="fill" width="100%" height="100%" />
+            </div>
           </div>
         </div>
       }

@@ -19,17 +19,37 @@
   display: flex;
   align-items: center;
   justify-content: center;
+  div {
+    width: 220px;
+    height: 220px;
+    // padding-bottom: 20%;
+    position: relative;
+    top: -15%;
+  }
 }
 .coverText {
   z-index: 1;
-  position: absolute;
-  top: 470px;
-  left: 550px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  div {
+    position: relative;
+    top: 20%;
+  }
 
   h1 {
     color: #fff;
     background-color: rgb(0, 0, 0, 0.5);
     padding: 10px;
     display: inline-block;
+  }
+}
+
+// tiny devices make heading smaller to fit
+@media all and (max-width: 399px) {
+  .coverText {
+    h1 {
+      font-size: 28px;
+    }
   }
 }
