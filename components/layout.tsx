@@ -7,10 +7,12 @@ export const siteTitle = "LMSC Website";
 
 export default function Layout({
   children,
+  top,
   home,
   navData,
 }: {
   children: React.ReactNode;
+  top?: React.ReactNode;
   home?: boolean;
   navData: object;
 }) {
@@ -30,14 +32,22 @@ export default function Layout({
       <header className={styles.header}>
         <Nav data={navData as { sites: []; safety: [] }} />
       </header>
-      <main>{children}</main>
-      {!home && (
-        <div className={styles.backToHome}>
-          <Link href="/">
-            <a>← Back to home</a>
-          </Link>
+      <main>
+        {top && top}
+        <div className={styles.main}>
+          <div>
+            {children}
+
+            {!home && (
+              <div className={styles.backToHome}>
+                <Link href="/">
+                  <a>← Back to home</a>
+                </Link>
+              </div>
+            )}
+          </div>
         </div>
-      )}
+      </main>
     </div>
   );
 }

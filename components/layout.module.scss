@@ -12,3 +12,11 @@
 .backToHome {
   margin: 3rem 0 0;
 }
+
+.main {
+  display: flex;
+  justify-content: center;
+  div {
+    max-width: var(--max-site-width);
+  }
+}

@@ -85,7 +85,7 @@ export default function Nav({ data }: { data: { sites: []; safety: [] } }) {
     <nav className={styles.nav}>
       <ul ref={wrapperRef} className={classNames(styles.menu, { [styles.active]: menuOpenState })}>
         <li className={styles.logo}>
-          <a href="#">LMSC</a>
+          <a href="/">LMSC</a>
         </li>
 
         {menuData.map((item, i) => {

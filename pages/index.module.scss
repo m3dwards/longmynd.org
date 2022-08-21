@@ -1,0 +1,35 @@
+.cover {
+  display: grid;
+  background-color: #fff !important;
+  grid-template-columns: [first-col] 100%;
+  grid-template-rows: [first-row] 500px;
+  height: 500px;
+  div {
+    grid-column-start: first-col;
+    grid-row-start: first-row;
+  }
+}
+
+.coverBackground {
+  position: relative;
+  height: 100%;
+  width: 100%;
+}
+.coverLogo {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.coverText {
+  z-index: 1;
+  position: absolute;
+  top: 470px;
+  left: 550px;
+
+  h1 {
+    color: #fff;
+    background-color: rgb(0, 0, 0, 0.5);
+    padding: 10px;
+    display: inline-block;
+  }
+}
