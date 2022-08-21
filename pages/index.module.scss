@@ -71,6 +71,18 @@
   }
 }
 
+.homeSections {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+}
+
+.newsSection {
+  min-width: 360px;
+  max-width: 500px;
+}
+
 // tiny devices make heading smaller to fit
 @media all and (max-width: 399px) {
   .coverText {

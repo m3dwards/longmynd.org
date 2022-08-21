@@ -16,7 +16,7 @@
 .main {
   display: flex;
   justify-content: center;
-  div {
+  > div {
     max-width: var(--max-site-width);
   }
 }

@@ -60,19 +60,47 @@ export default function Home({ baseProps }) {
       <section>
         <>
           <div dangerouslySetInnerHTML={{ __html: topBodyState }}></div>
-          <section>
-            <a href="/sites/all-sites" className={styles.featureBox}>
-              <Image src={Hill2} layout="fill" width="100%" height="100%" />
-              <div className={styles.textContainer}>
-                <span>Site Guide</span>
+          <section className={styles.homeSections}>
+            <div>
+              <a href="/sites/all-sites" className={styles.featureBox}>
+                <Image src={Hill2} layout="fill" width="100%" height="100%" />
+                <div className={styles.textContainer}>
+                  <span>Site Guide</span>
+                </div>
+              </a>
+            </div>
+            <div>
+              <a href="/sites/webcams" className={styles.featureBox}>
+                <Image src={Hill3} layout="fill" width="100%" height="100%" />
+                <div className={styles.textContainer}>
+                  <span>Webcams</span>
+                </div>
+              </a>
+            </div>
+            <div className={styles.newsSection}>
+              <div className={styles.shortNewsItem}>
+                <h2>Recent News</h2>
+                <strong>News item 1</strong>
+                <small>
+                  <em>29/8/2022</em>
+                </small>
+                <p>
+                  A news story covering important developments within the LMSC community. Webcams are now back online...
+                </p>
+                <button>Read more</button>
               </div>
-            </a>
-            <a href="/sites/webcams" className={styles.featureBox}>
-              <Image src={Hill3} layout="fill" width="100%" height="100%" />
-              <div className={styles.textContainer}>
-                <span>Webcams</span>
+              <div className={styles.shortNewsItem}>
+                <h2>Recent News</h2>
+                <strong>News item 1</strong>
+                <small>
+                  <em>29/8/2022</em>
+                </small>
+                <p>
+                  A news story covering important developments within the LMSC community. Webcams are now back online...
+                </p>
+                <button>Read more</button>
               </div>
-            </a>
+            </div>
           </section>
           <HomeContent />
           {attributes.title}
