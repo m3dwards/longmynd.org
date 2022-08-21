@@ -3,7 +3,7 @@ import Layout, { siteTitle } from "../components/layout";
 import styles from "./index.module.scss";
 import Image from "next/image";
 import CoverImage from "img/cover.jpg";
-import CoverLogo from "img/home-circle-logo-transparent.png";
+import CoverLogo from "img/home-circle-logo-white-transparent.png";
 import { attributes, react as HomeContent } from "content/index.md";
 import { getBaseProps } from "lib/baseProps";
 

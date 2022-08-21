@@ -3,6 +3,7 @@ import classNames from "classnames";
 import React from "react";
 import Image from "next/image";
 import Arrow from "img/arrow.svg";
+import Icon from "img/icon-white.png";
 
 interface menuItem {
   title: string;
@@ -86,6 +87,7 @@ export default function Nav({ data }: { data: { sites: []; safety: [] } }) {
       <ul ref={wrapperRef} className={classNames(styles.menu, { [styles.active]: menuOpenState })}>
         <li className={styles.logo}>
           <a href="/">LMSC</a>
+          <Image src={Icon} priority layout="fixed" height="30px" width="30px" />
         </li>
 
         {menuData.map((item, i) => {

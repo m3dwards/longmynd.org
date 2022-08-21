@@ -38,10 +38,12 @@
   }
 
   h1 {
-    color: #fff;
-    background-color: rgb(0, 0, 0, 0.5);
+    color: #333;
+    background-color: rgb(255, 255, 255, 0.7);
     padding: 10px;
     display: inline-block;
+    border-radius: 5px;
+    border: solid transparent;
   }
 }
 
