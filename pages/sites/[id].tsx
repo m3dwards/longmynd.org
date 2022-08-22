@@ -43,7 +43,7 @@ export default function Site({
             </table>
           </div>
           <div className={styles.picture}>
-            <Image src={siteData.mainImage} priority width="300px" height="300px" />
+            <Image src={"/" + siteData.mainImage} priority width="300px" height="300px" />
           </div>
         </div>
         <div className={utilStyles.lightText}>
