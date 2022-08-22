@@ -38,14 +38,12 @@ collections:
           options: ["Sensitive", "Not Sensitive"],
           default: ["Not Sensitive"],
         }
-      - {
-          label: "Location",
-          name: "location",
-          widget: "object",
-          fields:
-            - { label: "Grid Ref", name: "gridref", widget: "string" }
-            - { label: "LatLong", name: "latlong", widget: "map" }
-        }
+      - label: "Location"
+        name: "location"
+        widget: "object"
+        fields:
+          - { label: "Grid Ref", name: "gridref", widget: "string" }
+          - { label: "LatLong", name: "latlong", widget: "map" }
       - { label: "Sensitivities", name: "sensitivities", widget: "text" }
       - { label: "Publish Date", name: "date", widget: "datetime" }
       - { label: "Featured Image", name: "thumbnail", widget: "image", required: false }
