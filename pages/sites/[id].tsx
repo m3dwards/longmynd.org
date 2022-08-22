@@ -16,6 +16,7 @@ export default function Site({
     name: string;
     date: Date;
     mainImage: string;
+    status: string;
     contentHtml: string;
   };
   baseProps: object;
@@ -30,7 +31,17 @@ export default function Site({
       <section>
         <h1 className={utilStyles.headingXl}>{siteData.name}</h1>
         <div className={styles.topSection}>
-          <div className={styles.keyInfo}></div>
+          <div className={styles.keyInfo}>
+            <h2>Key Info</h2>
+            <table>
+              <tr>
+                <td>
+                  <strong>Status:</strong>
+                </td>
+                <td>{siteData.status}</td>
+              </tr>
+            </table>
+          </div>
           <div className={styles.picture}>
             <Image src={siteData.mainImage} priority width="300px" height="300px" />
           </div>
