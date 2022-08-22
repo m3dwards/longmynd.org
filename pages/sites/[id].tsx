@@ -7,6 +7,7 @@ import utilStyles from "../../styles/utils.module.css";
 import { GetStaticPaths } from "next";
 import styles from "./site.module.scss";
 import { getBaseProps } from "lib/baseProps";
+import Hill1 from "img/hill1.jpg";
 
 export default function Site({
   siteData,
@@ -16,7 +17,15 @@ export default function Site({
     name: string;
     date: Date;
     mainImage: string;
+    poiImage: string;
     status: string;
+    sensitive: string;
+    hgRating: string;
+    pgRating: string;
+    windDirection: [];
+    location: { gridref: string; latlong: string; maps: string };
+    sensitivities: string;
+
     contentHtml: string;
   };
   baseProps: object;
@@ -40,14 +49,85 @@ export default function Site({
                 </td>
                 <td>{siteData.status}</td>
               </tr>
+              <tr>
+                <td>
+                  <strong>Sensitive:</strong>
+                </td>
+                <td>{siteData.sensitive}</td>
+              </tr>
+              <tr>
+                <td>
+                  <strong>HG Rating:</strong>
+                </td>
+                <td>{siteData.hgRating}</td>
+              </tr>
+              <tr>
+                <td>
+                  <strong>PG Rating:</strong>
+                </td>
+                <td>{siteData.pgRating}</td>
+              </tr>
+              <tr>
+                <td>
+                  <strong>Wind Direction{siteData.windDirection.length > 1 ? "s" : ""}:</strong>
+                </td>
+                <td>
+                  {siteData.windDirection.map((wd) => (
+                    <>
+                      <span>
+                        {wd["from"]} - {wd["to"]}
+                      </span>
+                      <br />
+                    </>
+                  ))}
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  <strong>Grid Reference:</strong>
+                </td>
+                <td>{siteData.location.gridref}</td>
+              </tr>
+              <tr>
+                <td>
+                  <strong>Latitude & Longitute:</strong>
+                </td>
+                <td>{siteData.location.latlong}</td>
+              </tr>
+              <tr>
+                <td>
+                  <strong>Maps:</strong>
+                </td>
+                <td>{siteData.location.maps}</td>
+              </tr>
             </table>
           </div>
           <div className={styles.picture}>
-            <Image src={"/" + siteData.mainImage} priority width="300px" height="300px" />
+            <div>
+              <a href={siteData.mainImage}>
+                <Image src={Hill1} priority layout="fill" objectFit="cover" />
+              </a>
+            </div>
           </div>
         </div>
-        <div className={utilStyles.lightText}>
-          <Date date={siteData.date} />
+        <div>
+          <h2>Sensitivities</h2>
+          <div dangerouslySetInnerHTML={{ __html: siteData.sensitivities }} />
+        </div>
+        <div>
+          <h2>Points of interest</h2>
+          <div className="poiImage">
+            <a href={siteData.poiImage}>
+              <Image src={siteData.poiImage} priority layout="fill" objectFit="cover" />
+            </a>
+          </div>
+          <div className="poiKey">
+            Blue arrows = take-off areas <br />
+            Green triangles = landing fields <br />
+            Thick red line = power lines (note: not all power lines are shown) <br />
+            Red oblong = gates P = parking <br />
+            <strong>Click on map to increase size</strong>
+          </div>
         </div>
         <div dangerouslySetInnerHTML={{ __html: siteData.contentHtml }} />
       </section>

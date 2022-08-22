@@ -1,0 +1,22 @@
+.topSection {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+.keyInfo,
+.picture {
+  // flex-basis: 360px;
+  flex: 1 1 auto;
+  min-width: 360px;
+}
+
+.picture {
+  > div {
+    width: 100%;
+    min-width: 300px;
+    height: 100%;
+    min-height: 300px;
+    position: relative;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  }
+}
