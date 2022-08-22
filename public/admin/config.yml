@@ -5,10 +5,6 @@ backend:
 site_url: https://longmynd.netlify.app
 media_folder: public/img
 public_folder: /img
-media_library:
-  name: media
-  config:
-    publicKey: demopublickey
 collections:
   - name: "pages"
     label: "Pages"
