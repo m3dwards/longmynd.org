@@ -162,6 +162,9 @@
   }
   .subitem a {
     justify-content: space-between;
+    span:first-child {
+      margin-right: 15px;
+    }
   }
   .subitem a > * {
     flex: 0 1 auto;
