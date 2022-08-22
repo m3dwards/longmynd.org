@@ -78,7 +78,7 @@ collections:
               pattern: ['^((\-?|\+?)?\d+(\.\d+)?),\s*((\-?|\+?)?\d+(\.\d+)?)$', "Must be decimal lat/long"],
             }
           - { label: "Maps", name: "maps", widget: "string" }
-      - { label: "Sensitivities", name: "sensitivities", widget: "text" }
+      - { label: "Sensitivities", name: "sensitivities", widget: "text", required: false }
       - { label: "Publish Date", name: "date", widget: "datetime" }
       - { label: "Featured Image", name: "thumbnail", widget: "image", required: false }
       - { label: "Body", name: "body", widget: "markdown" }
