@@ -26,7 +26,8 @@ sensitivities: >-
 
   When low on the ridge, take care when members of the public are present including horse riders and dog walkers.
 date: 2022-08-21T14:22:46.482Z
-mainImage: /img/longmyndmap.jpg
+mainImage: /img/hill1.jpeg
+poiImage: /img/longmyndmap.jpg
 ---
 
 Long Mynd
