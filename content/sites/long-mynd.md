@@ -2,8 +2,8 @@
 name: Long Mynd
 status: Open to all
 sensitive: Sensitive
-hgrating: CP
-pgrating: CP
+hgRating: CP
+pgRating: CP
 windDirection:
   - from: WSW
     to: WNW

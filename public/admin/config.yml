@@ -14,7 +14,7 @@ collections:
         fields:
           - { label: "Title", name: "title", widget: "string" }
           - { label: "Publish Date", name: "date", widget: "datetime" }
-          - { label: "Top Body", name: "topbody", widget: "markdown" }
+          - { label: "Top Body", name: "topBody", widget: "markdown" }
           - { label: "Body", name: "body", widget: "markdown" }
       - label: "News"
         name: "news"
@@ -44,8 +44,8 @@ collections:
           options: ["Sensitive", "Not Sensitive"],
           default: ["Not Sensitive"],
         }
-      - { label: "HG Rating", name: "hgrating", widget: "string" }
-      - { label: "PG Rating", name: "pgrating", widget: "string" }
+      - { label: "HG Rating", name: "hgRating", widget: "string" }
+      - { label: "PG Rating", name: "pgRating", widget: "string" }
       - label: "Takes Wind Direction"
         name: "windDirection"
         widget: "list"
@@ -80,7 +80,7 @@ collections:
           - { label: "Maps", name: "maps", widget: "string" }
       - { label: "Sensitivities", name: "sensitivities", widget: "text", required: false }
       - { label: "Publish Date", name: "date", widget: "datetime" }
-      - { label: "Featured Image", name: "thumbnail", widget: "image", required: false }
+      - { label: "Main Image", name: "mainImage", widget: "image", required: false }
       - { label: "Body", name: "body", widget: "markdown" }
   - label: "News"
     name: "news"
