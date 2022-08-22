@@ -67,41 +67,47 @@ export default function Site({
                 </td>
                 <td>{siteData.pgRating}</td>
               </tr>
-              <tr>
-                <td>
-                  <strong>
-                    Wind Direction{siteData.windDirection && siteData.windDirection.length > 1 ? "s" : ""}:
-                  </strong>
-                </td>
-                <td>
-                  {siteData.windDirection.map((wd) => (
-                    <>
-                      <span>
-                        {wd["from"]} - {wd["to"]}
-                      </span>
-                      <br />
-                    </>
-                  ))}
-                </td>
-              </tr>
-              <tr>
-                <td>
-                  <strong>Grid Reference:</strong>
-                </td>
-                <td>{siteData.location.gridref}</td>
-              </tr>
-              <tr>
-                <td>
-                  <strong>Latitude & Longitute:</strong>
-                </td>
-                <td>{siteData.location.latlong}</td>
-              </tr>
-              <tr>
-                <td>
-                  <strong>Maps:</strong>
-                </td>
-                <td>{siteData.location.maps}</td>
-              </tr>
+              {siteData.windDirection && (
+                <tr>
+                  <td>
+                    <strong>
+                      Wind Direction{siteData.windDirection && siteData.windDirection.length > 1 ? "s" : ""}:
+                    </strong>
+                  </td>
+                  <td>
+                    {siteData.windDirection.map((wd) => (
+                      <>
+                        <span>
+                          {wd["from"]} - {wd["to"]}
+                        </span>
+                        <br />
+                      </>
+                    ))}
+                  </td>
+                </tr>
+              )}
+              {siteData.location && (
+                <>
+                  <tr>
+                    <td>
+                      <strong>Grid Reference:</strong>
+                    </td>
+                    <td>{siteData.location.gridref}</td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <strong>Latitude & Longitute:</strong>
+                    </td>
+                    <td>{siteData.location.latlong}</td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <strong>Maps:</strong>
+                    </td>
+                    <td>{siteData.location.maps}</td>
+                  </tr>
+                </>
+              )}
             </table>
           </div>
           {siteData.mainImage && (
