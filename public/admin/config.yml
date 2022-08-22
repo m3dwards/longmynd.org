@@ -68,7 +68,6 @@ collections:
       - label: "Location"
         name: "location"
         widget: "object"
-        collapsed: true
         fields:
           - { label: "Grid Ref", name: "gridref", widget: "string" }
           - { label: "LatLong", name: "latlong", widget: "map" }
