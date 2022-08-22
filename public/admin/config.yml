@@ -30,6 +30,23 @@ collections:
     identifier_field: name
     fields:
       - { label: "Name", name: "name", widget: "string" }
+      - { label: "Status", name: "status", widget: "select", options: ["Open", "Closed"], default: "Open" }
+      - {
+          label: "Sensitive",
+          name: "sensitive",
+          widget: "select",
+          options: ["Sensitive", "Not Sensitive"],
+          default: ["Not Sensitive"],
+        }
+      - {
+          label: "Location",
+          name: "location",
+          widget: "object",
+          fields:
+            - { label: "Grid Ref", name: "gridref", widget: "string" }
+            - { label: "LatLong", name: "latlong", widget: "map" }
+        }
+      - { label: "Sensitivities", name: "sensitivities", widget: "text" }
       - { label: "Publish Date", name: "date", widget: "datetime" }
       - { label: "Featured Image", name: "thumbnail", widget: "image", required: false }
       - { label: "Body", name: "body", widget: "markdown" }
