@@ -11,14 +11,14 @@
 .submenu {
   list-style-type: none;
 }
-.logo {
+.logo a {
   font-size: 20px;
-  display: flex;
-  margin: -3px 0;
+  display: flex !important;
+  padding: 22px 0 !important;
   flex-direction: row;
   align-items: center;
-  a {
-    margin-right: 10px;
+  span {
+    margin-right: 15px;
   }
 }
 .item {

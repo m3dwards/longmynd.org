@@ -86,8 +86,10 @@ export default function Nav({ data }: { data: { sites: []; safety: [] } }) {
     <nav className={styles.nav}>
       <ul ref={wrapperRef} className={classNames(styles.menu, { [styles.active]: menuOpenState })}>
         <li className={styles.logo}>
-          <a href="/">LMSC</a>
-          <Image src={Icon} priority layout="fixed" height="30px" width="30px" />
+          <a href="/">
+            <span>LMSC</span>
+            <Image src={Icon} priority layout="fixed" height="30px" width="30px" />
+          </a>
         </li>
 
         {menuData.map((item, i) => {
