@@ -13,8 +13,8 @@
 }
 .logo {
   font-size: 20px;
-  padding: 7px 10px 7px 0;
   display: flex;
+  margin: -3px 0;
   flex-direction: row;
   align-items: center;
   a {
@@ -22,10 +22,10 @@
   }
 }
 .item {
-  padding: 10px;
+  margin-top: 0px;
 }
-.item.button {
-  padding: 9px 5px;
+.item.button + .item.button {
+  margin-left: 10px;
 }
 // .item:not(.button).hasSubmenu.submenuActive > a:hover,
 // .item.hasSubmenu.submenuActive > a:hover::after {
@@ -43,19 +43,18 @@
 }
 .menu li a {
   display: block;
-  padding: 15px 5px;
+  padding: 25px 15px;
 }
 .menu li.subitem a {
   padding: 10px;
 }
-.subitem {
-  display: flex;
+.subitem a {
+  display: flex !important;
   flex-direction: row;
   align-items: center;
   justify-content: space-evenly;
-  padding: 0 10px;
 }
-.subitem > * {
+.subitem a > * {
   flex: 1;
 }
 .toggle {
@@ -94,7 +93,7 @@
   padding-left: 5px;
 }
 .subitem a {
-  padding: 10px 15px;
+  padding: 10px 25px;
   color: var(--primary-color-dark);
 }
 .submenuActive {
@@ -118,6 +117,7 @@
     width: auto;
     order: 1;
     display: block;
+    margin: 10px 0;
   }
   .toggle {
     flex: 1;
@@ -160,10 +160,10 @@
       padding-bottom: 0;
     }
   }
-  .subitem {
+  .subitem a {
     justify-content: space-between;
   }
-  .subitem > * {
+  .subitem a > * {
     flex: 0 1 auto;
   }
   .logo {

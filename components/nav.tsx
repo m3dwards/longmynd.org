@@ -112,8 +112,10 @@ export default function Nav({ data }: { data: { sites: []; safety: [] } }) {
                   {item.subItems.map((subitem, j) => {
                     return (
                       <li key={j} className={styles.subitem}>
-                        <a href={subitem.link}>{subitem.title}</a>
-                        {subitem.image && <Image src={subitem.image} height={20} width={20} layout="fixed" />}
+                        <a href={subitem.link}>
+                          <span>{subitem.title}</span>
+                          {subitem.image && <Image src={subitem.image} height={20} width={20} layout="fixed" />}
+                        </a>
                       </li>
                     );
                   })}

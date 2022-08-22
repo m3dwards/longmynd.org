@@ -48,11 +48,10 @@
 }
 
 .featureBox {
-  margin: 20px;
   margin-top: 50px;
   display: inline-block;
-  width: 300px;
-  height: 300px;
+  width: 280px;
+  height: 280px;
   color: #fff;
   position: relative;
   div.textContainer {
@@ -77,11 +76,14 @@
   flex-direction: row;
   justify-content: space-evenly;
   flex-wrap: wrap;
+  gap: 20px 30px;
 }
 
 .newsSection {
-  min-width: 360px;
-  max-width: 500px;
+  flex-basis: 300px;
+  min-width: 200px;
+  flex-shrink: 1;
+  flex-grow: 1;
 }
 
 .shortNewsItem {

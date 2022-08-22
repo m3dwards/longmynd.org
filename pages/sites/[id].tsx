@@ -22,13 +22,15 @@ export default function Site({
       <Head>
         <title>{siteData.name}</title>
       </Head>
-      <article>
-        <h1 className={utilStyles.headingXl}>{siteData.name}</h1>
-        <div className={utilStyles.lightText}>
-          <Date date={siteData.date} />
+      <section>
+        <div>
+          <h1 className={utilStyles.headingXl}>{siteData.name}</h1>
+          <div className={utilStyles.lightText}>
+            <Date date={siteData.date} />
+          </div>
+          <div dangerouslySetInnerHTML={{ __html: siteData.contentHtml }} />
         </div>
-        <div dangerouslySetInnerHTML={{ __html: siteData.contentHtml }} />
-      </article>
+      </section>
     </Layout>
   );
 }
