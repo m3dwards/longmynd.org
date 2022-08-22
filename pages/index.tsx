@@ -63,7 +63,7 @@ export default function Home({ baseProps }) {
           <section className={styles.homeSections}>
             <div>
               <a href="/sites/all-sites" className={styles.featureBox}>
-                <Image src={Hill2} layout="fill" width="100%" height="100%" />
+                <Image priority src={Hill2} layout="fill" width="100%" height="100%" />
                 <div className={styles.textContainer}>
                   <span>Site Guide</span>
                 </div>
@@ -71,7 +71,7 @@ export default function Home({ baseProps }) {
             </div>
             <div>
               <a href="/sites/webcams" className={styles.featureBox}>
-                <Image src={Hill3} layout="fill" width="100%" height="100%" />
+                <Image priority src={Hill3} layout="fill" width="100%" height="100%" />
                 <div className={styles.textContainer}>
                   <span>Webcams</span>
                 </div>
