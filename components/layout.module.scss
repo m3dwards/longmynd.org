@@ -1,3 +1,8 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+}
 .header {
   background-color: var(--bg-color);
   display: flex;
@@ -10,6 +15,9 @@
   margin: 3rem 0 0;
 }
 
+.mainContainer {
+  flex-grow: 1;
+}
 .main {
   display: flex;
   justify-content: center;

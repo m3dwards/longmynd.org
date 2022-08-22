@@ -29,10 +29,13 @@ export default function Layout({
         <meta name="theme-color" content="#ffffff" />
         <meta name="description" content="LMSC Website" />
       </Head>
-      <header className={styles.header}>
-        <Nav data={navData as { sites: []; safety: [] }} />
-      </header>
-      <main>
+
+      <div>
+        <header className={styles.header}>
+          <Nav data={navData as { sites: []; safety: [] }} />
+        </header>
+      </div>
+      <main className={styles.mainContainer}>
         {top && top}
         <div className={styles.main}>
           <div>
@@ -48,13 +51,15 @@ export default function Layout({
           </div>
         </div>
       </main>
-      <footer className={styles.footer}>
-        <div>
-          <span>
-            The Long Mynd Soaring Club - <a href="https://github.com/maxwedwards/longmynd.org">Source code</a>
-          </span>
-        </div>
-      </footer>
+      <div>
+        <footer className={styles.footer}>
+          <div>
+            <span>
+              The Long Mynd Soaring Club - <a href="https://github.com/maxwedwards/longmynd.org">Source code</a>
+            </span>
+          </div>
+        </footer>
+      </div>
     </div>
   );
 }
