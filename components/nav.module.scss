@@ -183,11 +183,17 @@
     position: absolute;
     left: 0;
     top: 74px;
-    background-color: var(--bg-color);
-    z-index: 1;
+    background-color: #f5f5f5;
+    z-index: 4;
     white-space: nowrap;
     a {
-      color: #fff;
+      color: var(--primary-color-dark);
+    }
+    li:hover {
+      background-color: var(--bg-color) !important;
+      a {
+        color: #fff;
+      }
     }
   }
   .hasSubmenu .toggle {
@@ -200,13 +206,13 @@
     display: none;
   }
   .submenuActive {
-    background-color: var(--bg-color);
+    background-color: #f5f5f5;
   }
   .submenuActive > a,
   .submenuActive > a::after,
   .submenuActive > a:hover,
   .submenuActive > a:hover::after {
-    color: #fff;
-    background-color: var(--bg-color) !important;
+    color: var(--primary-color-dark);
+    background-color: #f5f5f5 !important;
   }
 }
