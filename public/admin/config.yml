@@ -56,14 +56,14 @@ collections:
               name: "from",
               widget: "select",
               options:
-                ["N", "NNE", "NE", "ENE", "E", "ESE", "SE", "SSE", "S", "SSW", "SW", "WSW", "W", "NWN", "NW", "NNW"],
+                ["N", "NNE", "NE", "ENE", "E", "ESE", "SE", "SSE", "S", "SSW", "SW", "WSW", "W", "WNW", "NW", "NNW"],
             }
           - {
               label: "To",
               name: "to",
               widget: "select",
               options:
-                ["N", "NNE", "NE", "ENE", "E", "ESE", "SE", "SSE", "S", "SSW", "SW", "WSW", "W", "NWN", "NW", "NNW"],
+                ["N", "NNE", "NE", "ENE", "E", "ESE", "SE", "SSE", "S", "SSW", "SW", "WSW", "W", "WNW", "NW", "NNW"],
             }
       - label: "Location"
         name: "location"
