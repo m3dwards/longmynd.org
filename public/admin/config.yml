@@ -71,8 +71,13 @@ collections:
         collapsed: true
         fields:
           - { label: "Grid Ref", name: "gridref", widget: "string" }
-          - { label: "Latitude", name: "latitude", widget: "number", value_type: "float", step: 0 }
-          - { label: "longitude", name: "longitude", widget: "number", value_type: "float", step: 0 }
+          - {
+              label: "Latitude & Longitude",
+              name: "latlong",
+              widget: "string",
+              pattern: ['^((\-?|\+?)?\d+(\.\d+)?),\s*((\-?|\+?)?\d+(\.\d+)?)$', "Must be decimal lat/long"],
+            }
+          - { label: "longitude", name: "longitude", widget: "string" }
           - { label: "Maps", name: "maps", widget: "string" }
       - { label: "Sensitivities", name: "sensitivities", widget: "text" }
       - { label: "Publish Date", name: "date", widget: "datetime" }
