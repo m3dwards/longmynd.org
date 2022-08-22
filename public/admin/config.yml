@@ -30,7 +30,13 @@ collections:
     identifier_field: name
     fields:
       - { label: "Name", name: "name", widget: "string" }
-      - { label: "Status", name: "status", widget: "select", options: ["Open", "Closed"], default: "Open" }
+      - {
+          label: "Status",
+          name: "status",
+          widget: "select",
+          options: ["Open to all", "Open to club members", "Closed"],
+          default: "Open to all",
+        }
       - {
           label: "Sensitive",
           name: "sensitive",
@@ -38,12 +44,35 @@ collections:
           options: ["Sensitive", "Not Sensitive"],
           default: ["Not Sensitive"],
         }
+      - { label: "HG Rating", name: "hgrating", widget: "string" }
+      - { label: "PG Rating", name: "pgrating", widget: "string" }
+      - label: "Takes Wind Direction"
+        name: "windDirection"
+        widget: "list"
+        summary: "{{fields.from}} - {{fields.to}}"
+        fields:
+          - {
+              label: "From",
+              name: "from",
+              widget: "select",
+              options:
+                ["N", "NNE", "NE", "ENE", "E", "ESE", "SE", "SSE", "S", "SSW", "SW", "WSW", "W", "NWN", "NW", "NNW"],
+            }
+          - {
+              label: "To",
+              name: "to",
+              widget: "select",
+              options:
+                ["N", "NNE", "NE", "ENE", "E", "ESE", "SE", "SSE", "S", "SSW", "SW", "WSW", "W", "NWN", "NW", "NNW"],
+            }
       - label: "Location"
         name: "location"
         widget: "object"
+        collapsed: true
         fields:
           - { label: "Grid Ref", name: "gridref", widget: "string" }
           - { label: "LatLong", name: "latlong", widget: "map" }
+          - { label: "Maps", name: "maps", widget: "string" }
       - { label: "Sensitivities", name: "sensitivities", widget: "text" }
       - { label: "Publish Date", name: "date", widget: "datetime" }
       - { label: "Featured Image", name: "thumbnail", widget: "image", required: false }
