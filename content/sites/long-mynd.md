@@ -8,7 +8,6 @@ windDirection:
   - from: WSW
     to: WNW
 location:
-  latlong: '{"type":"Point","coordinates":[-2.8776168,52.5231279]}'
   gridref: SO404918
   maps: 1:50000 137 or Explorer 216
 sensitivities: >-
