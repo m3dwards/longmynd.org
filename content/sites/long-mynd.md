@@ -31,5 +31,3 @@ mainImage: img/longmyndmap.jpg
 Long Mynd
 
 Long Mynd is a lovely site
-
-![](img/icon.png)
