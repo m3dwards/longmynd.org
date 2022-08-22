@@ -71,8 +71,8 @@ collections:
         collapsed: true
         fields:
           - { label: "Grid Ref", name: "gridref", widget: "string" }
-          - { label: "Latitude", name: "latitude", widget: "number", value_type: "float" }
-          - { label: "longitude", name: "longitude", widget: "number", value_type: "float" }
+          - { label: "Latitude", name: "latitude", widget: "number", value_type: "float", step: 0 }
+          - { label: "longitude", name: "longitude", widget: "number", value_type: "float", step: 0 }
           - { label: "Maps", name: "maps", widget: "string" }
       - { label: "Sensitivities", name: "sensitivities", widget: "text" }
       - { label: "Publish Date", name: "date", widget: "datetime" }
