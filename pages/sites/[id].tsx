@@ -127,12 +127,12 @@ export default function Site({
         {siteData.poiImage && (
           <div>
             <h2>Points of interest</h2>
-            <div className="poiImage">
+            <div className={styles.poiImage}>
               <a href={siteData.poiImage}>
                 <Image src={siteData.poiImage} priority layout="fill" objectFit="cover" />
               </a>
             </div>
-            <div className="poiKey">
+            <div className={styles.poiKey}>
               Blue arrows = take-off areas <br />
               Green triangles = landing fields <br />
               Thick red line = power lines (note: not all power lines are shown) <br />
