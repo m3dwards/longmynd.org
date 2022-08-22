@@ -69,7 +69,9 @@ export default function Site({
               </tr>
               <tr>
                 <td>
-                  <strong>Wind Direction{siteData.windDirection.length > 1 ? "s" : ""}:</strong>
+                  <strong>
+                    Wind Direction{siteData.windDirection && siteData.windDirection.length > 1 ? "s" : ""}:
+                  </strong>
                 </td>
                 <td>
                   {siteData.windDirection.map((wd) => (
