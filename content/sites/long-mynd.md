@@ -10,7 +10,7 @@ windDirection:
 location:
   gridref: SO404918
   maps: 1:50000 137 or Explorer 216
-  latlong: 52.5211, -2.8786
+  latlong: 52.5212, -2.8801
 sensitivities: >-
   There is now only 1 ‘PG only’ bottom landing field which is the field
   immediately below the PG launch area – this can be used for ‘unplanned’ bottom
