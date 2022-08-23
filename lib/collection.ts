@@ -56,7 +56,7 @@ export async function getCollectionData(id: string, collectionPath: string) {
   const matterResult = matter(fileContents);
 
   // Use remark to convert markdown into HTML string
-  const processedContent = await remark().use(html).process(matterResult.content);
+  const processedContent = await remark().use(html, { sanitize: true }).process(matterResult.content);
   const contentHtml = processedContent.toString();
   const returnObject = {
     id,
