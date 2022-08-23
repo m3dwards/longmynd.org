@@ -4,8 +4,8 @@ status: Open to all
 hgRating: CP+10
 pgRating: CP+10
 windDirection:
-  - from: SSE
-    to: SE
+  - from: SE
+    to: SSE
   - from: SW
     to: W
 location:
