@@ -112,3 +112,30 @@ button {
   border: none;
   border-radius: 2px;
 }
+
+.pill {
+  display: flex;
+  align-items: center;
+  flex-wrap: nowrap;
+  width: fit-content;
+  gap: 7px;
+  height: 25px;
+  border-radius: 30px;
+  background-color: blue;
+  border: none;
+  color: white;
+  padding: 5px 10px;
+  font-size: 1em;
+  span {
+    font-size: 1em;
+  }
+  &.green {
+    background-color: var(--success-color);
+  }
+  &.red {
+    background-color: var(--danger-color);
+  }
+  &.warning {
+    background-color: var(--warning-color);
+  }
+}

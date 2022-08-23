@@ -8,6 +8,7 @@ import { GetStaticPaths } from "next";
 import styles from "./site.module.scss";
 import { getBaseProps } from "lib/baseProps";
 import Hill1 from "img/hill1.jpg";
+import { WarningRegular as WarningIcon, CheckmarkCircleRegular as CheckIcon } from "@fluentui/react-icons";
 
 export default function Site({
   siteData,
@@ -23,7 +24,7 @@ export default function Site({
     hgRating: string;
     pgRating: string;
     windDirection: [];
-    location: { gridref: string; latlong: string; maps: string };
+    location: { gridref: string; latlong: string; physicalMaps: string };
     sensitivities: string;
 
     contentHtml: string;
@@ -47,13 +48,21 @@ export default function Site({
                 <td>
                   <strong>Status:</strong>
                 </td>
-                <td>{siteData.status}</td>
+                <td>
+                  <span className="pill green">
+                    {siteData.status} <CheckIcon />
+                  </span>
+                </td>
               </tr>
               <tr>
                 <td>
                   <strong>Sensitive:</strong>
                 </td>
-                <td>{siteData.sensitive}</td>
+                <td>
+                  <span className="pill warning">
+                    {siteData.sensitive} <WarningIcon />
+                  </span>
+                </td>
               </tr>
               <tr>
                 <td>
@@ -94,17 +103,71 @@ export default function Site({
                     </td>
                     <td>{siteData.location.gridref}</td>
                   </tr>
+                  {siteData.location.latlong && (
+                    <>
+                      <tr>
+                        <td>
+                          <strong>Latitude & Longitute:</strong>
+                        </td>
+                        <td>{siteData.location.latlong}</td>
+                      </tr>
+
+                      <tr>
+                        <td>
+                          <strong>Online Maps:</strong>
+                        </td>
+                        <td>
+                          <a
+                            href={`https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(
+                              siteData.location.latlong
+                            )}`}
+                            target="_blank"
+                          >
+                            Google Maps
+                          </a>
+                          <br />
+                          <a
+                            href={`https://www.openstreetmap.org/?mlat=${siteData.location.latlong
+                              .split(",")[0]
+                              .trim()}&mlon=${siteData.location.latlong.split(",")[1].trim()}`}
+                            target="_blank"
+                          >
+                            Open Street Map
+                          </a>
+                          <br />
+                          <a
+                            href={`https://explore.osmaps.com/pin?lat=${siteData.location.latlong
+                              .split(",")[0]
+                              .trim()}&lon=${siteData.location.latlong.split(",")[1].trim()}&zoom=14.0000`}
+                            target="_blank"
+                          >
+                            OS Maps
+                          </a>
+                          <br />
+                          <a
+                            href={`https://www.bing.com/maps?cp=${siteData.location.latlong
+                              .split(",")[0]
+                              .trim()}~${siteData.location.latlong
+                              .split(",")[1]
+                              .trim()}&lvl=14&style=r&sp=point.${siteData.location.latlong
+                              .split(",")[0]
+                              .trim()}_${siteData.location.latlong.split(",")[1].trim()}_${encodeURIComponent(
+                              siteData.location.latlong
+                            )}`}
+                            target="_blank"
+                          >
+                            Bing Maps
+                          </a>
+                          <br />
+                        </td>
+                      </tr>
+                    </>
+                  )}
                   <tr>
                     <td>
-                      <strong>Latitude & Longitute:</strong>
+                      <strong>Physical Maps:</strong>
                     </td>
-                    <td>{siteData.location.latlong}</td>
-                  </tr>
-                  <tr>
-                    <td>
-                      <strong>Maps:</strong>
-                    </td>
-                    <td>{siteData.location.maps}</td>
+                    <td>{siteData.location.physicalMaps}</td>
                   </tr>
                 </>
               )}
