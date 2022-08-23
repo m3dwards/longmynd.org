@@ -78,8 +78,14 @@ collections:
               widget: "string",
               pattern: ['^((\-?|\+?)?\d+(\.\d+)?),\s*((\-?|\+?)?\d+(\.\d+)?)$', "Must be decimal lat/long"],
             }
-          - { label: "Maps", name: "maps", widget: "string" }
-      - { label: "Sensitivities", name: "sensitivities", widget: "text", required: false }
+          - { label: "Physical Maps", name: "physicalMaps", widget: "string" }
+      - {
+          label: "Sensitivities",
+          name: "sensitivities",
+          widget: "list",
+          required: false,
+          fields: [{ label: "Sensitivity", name: "sensitivity", widget: "string" }],
+        }
       - { label: "Publish Date", name: "date", widget: "datetime" }
       - { label: "Main Image", name: "mainImage", widget: "image", required: false }
       - { label: "POI Image", name: "poiImage", widget: "image", required: false }
