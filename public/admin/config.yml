@@ -84,7 +84,7 @@ collections:
           name: "sensitivities",
           widget: "list",
           required: false,
-          fields: [{ label: "Sensitivity", name: "sensitivity", widget: "string" }],
+          fields: [{ label: "Sensitivity", name: "sensitivity", widget: "text" }],
         }
       - { label: "Publish Date", name: "date", widget: "datetime" }
       - { label: "Main Image", name: "mainImage", widget: "image", required: false }
