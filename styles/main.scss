@@ -114,7 +114,7 @@ button {
 }
 
 .pill {
-  display: flex;
+  display: inline-flex;
   align-items: center;
   flex-wrap: nowrap;
   width: fit-content;
@@ -126,6 +126,9 @@ button {
   color: white;
   padding: 5px 10px;
   font-size: 1em;
+  + .pill {
+    margin-left: 10px;
+  }
   span {
     font-size: 1em;
   }

@@ -38,13 +38,7 @@ collections:
           options: ["Open to all", "Open to club members", "Closed"],
           default: "Open to all",
         }
-      - {
-          label: "Sensitive",
-          name: "sensitive",
-          widget: "select",
-          options: ["Sensitive", "Not Sensitive"],
-          default: ["Not Sensitive"],
-        }
+      - { label: "Sensitive", name: "sensitive", widget: "boolean", default: false }
       - { label: "Fee", name: "fee", widget: "string" }
       - { label: "HG Rating", name: "hgRating", widget: "string" }
       - { label: "PG Rating", name: "pgRating", widget: "string" }

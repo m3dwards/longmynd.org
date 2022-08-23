@@ -49,27 +49,24 @@ export default function Site({
           <div className={styles.keyInfo}>
             <h2>Key Info</h2>
             <table>
-              <tr>
-                <td>
-                  <strong>Status:</strong>
-                </td>
-                <td>
-                  <span className={"pill " + (siteData.status.toLowerCase().includes("open") ? "green" : "red")}>
-                    {siteData.status} {siteData.status.toLowerCase().includes("open") && <CheckIcon />}
-                    {!siteData.status.toLowerCase().includes("open") && <ClosedIcon />}
-                  </span>
-                </td>
-              </tr>
-              <tr>
-                <td>
-                  <strong>Sensitive:</strong>
-                </td>
-                <td>
-                  <span className="pill warning">
-                    {siteData.sensitive} <WarningIcon fontSize={20} />
-                  </span>
-                </td>
-              </tr>
+              {siteData.status && (
+                <tr>
+                  <td>
+                    <strong>Status:</strong>
+                  </td>
+                  <td>
+                    <span className={"pill " + (siteData.status.toLowerCase().includes("open") ? "green" : "red")}>
+                      {siteData.status} {siteData.status.toLowerCase().includes("open") && <CheckIcon />}
+                      {!siteData.status.toLowerCase().includes("open") && <ClosedIcon />}
+                    </span>
+                    {siteData.sensitive && (
+                      <span className="pill warning">
+                        {siteData.sensitive} <WarningIcon fontSize={20} />
+                      </span>
+                    )}
+                  </td>
+                </tr>
+              )}
               {siteData.fee && (
                 <tr>
                   <td>

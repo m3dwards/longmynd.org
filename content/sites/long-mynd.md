@@ -1,7 +1,6 @@
 ---
 name: Long Mynd
 status: Open to all
-sensitive: Sensitive
 fee: £3 for non-members
 hgRating: CP
 pgRating: CP
