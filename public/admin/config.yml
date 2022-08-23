@@ -40,8 +40,8 @@ collections:
         }
       - { label: "Sensitive", name: "sensitive", widget: "boolean", default: false, required: false }
       - { label: "Fee", name: "fee", widget: "string", required: false }
-      - { label: "HG Rating", name: "hgRating", widget: "string" }
-      - { label: "PG Rating", name: "pgRating", widget: "string" }
+      - { label: "Required HG Rating", name: "hgRating", widget: "string" }
+      - { label: "Required PG Rating", name: "pgRating", widget: "string" }
       - label: "Takes Wind Direction"
         name: "windDirection"
         widget: "list"
