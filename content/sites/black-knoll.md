@@ -9,4 +9,4 @@ location:
   latlong: 52.496241, -2.8932007
 date: 2022-08-21T14:19:24.804Z
 ---
-Black Knoll
+<span style="color:blue">some *blue* text</span> Black Knoll
