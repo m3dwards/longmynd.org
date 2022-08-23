@@ -4,6 +4,7 @@ import React from "react";
 import Image from "next/image";
 import Arrow from "img/arrow.svg";
 import Icon from "img/icon-white.png";
+import WindIndicator from "./WindIndicator";
 
 interface menuItem {
   title: string;
@@ -44,8 +45,16 @@ export default function Nav({ data }: { data: { sites: []; safety: [] } }) {
   const [subMenuActiveState, setSubMenuActiveState] = React.useState("");
 
   const sites = [];
-  for (const site of data.sites as Array<{ name: string; id: string }>) {
-    sites.push({ title: site.name, image: Arrow, link: "/sites/" + site.id });
+  for (const site of data.sites as Array<{
+    name: string;
+    id: string;
+    windDirection: Array<{ from: string; to: string }>;
+  }>) {
+    sites.push({
+      title: site.name,
+      image: site.windDirection ? <WindIndicator size={35} directions={site.windDirection} /> : undefined,
+      link: "/sites/" + site.id,
+    });
   }
 
   const safetyPages = [];
@@ -116,7 +125,7 @@ export default function Nav({ data }: { data: { sites: []; safety: [] } }) {
                       <li key={j} className={styles.subitem}>
                         <a href={subitem.link}>
                           <span>{subitem.title}</span>
-                          {subitem.image && <Image src={subitem.image} height={20} width={20} layout="fixed" />}
+                          {subitem.image && subitem.image}
                         </a>
                       </li>
                     );

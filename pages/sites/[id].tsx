@@ -13,6 +13,7 @@ import {
   CheckmarkCircle20Regular as CheckIcon,
   DismissCircle20Regular as ClosedIcon,
 } from "@fluentui/react-icons";
+import WindIndicator from "components/WindIndicator";
 
 export default function Site({
   siteData,
@@ -103,6 +104,7 @@ export default function Site({
                         <br />
                       </>
                     ))}
+                    <WindIndicator size={40} directions={siteData.windDirection} />
                   </td>
                 </tr>
               )}
