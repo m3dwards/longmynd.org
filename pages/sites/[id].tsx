@@ -61,7 +61,7 @@ export default function Site({
                     </span>
                     {siteData.sensitive && (
                       <span className="pill warning">
-                        {siteData.sensitive} <WarningIcon fontSize={20} />
+                        Sensitive <WarningIcon fontSize={20} />
                       </span>
                     )}
                   </td>
