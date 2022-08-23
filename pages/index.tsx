@@ -23,7 +23,7 @@ export default function Home({ baseProps }) {
   const getTopBody = async () => {
     const topBodyContent = await remark()
       .use(html)
-      .process(attributes.topbody as string);
+      .process(attributes.topBody as string);
     const topBodyHtml = topBodyContent.toString();
     setTopBodyState(topBodyHtml);
   };

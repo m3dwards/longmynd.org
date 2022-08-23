@@ -204,22 +204,25 @@ export default function Site({
           </div>
         )}
         {siteData.poiImage && (
-          <div>
+          <>
             <h2>Points of interest</h2>
-            <div className={styles.poiImage}>
-              <a href={siteData.poiImage}>
-                <Image src={siteData.poiImage} priority layout="fill" objectFit="cover" />
-              </a>
+            <div className={styles.poiContainer}>
+              <div className={styles.poiImage}>
+                <a href={siteData.poiImage}>
+                  <Image src={siteData.poiImage} priority layout="fill" objectFit="cover" />
+                </a>
+              </div>
+              <div className={styles.poiKey}>
+                Blue arrows = take-off areas <br />
+                Green triangles = landing fields <br />
+                Thick red line = power lines (note: not all power lines are shown) <br />
+                Red oblong = gates P = parking <br />
+                <strong>Click on map to increase size</strong>
+              </div>
             </div>
-            <div className={styles.poiKey}>
-              Blue arrows = take-off areas <br />
-              Green triangles = landing fields <br />
-              Thick red line = power lines (note: not all power lines are shown) <br />
-              Red oblong = gates P = parking <br />
-              <strong>Click on map to increase size</strong>
-            </div>
-          </div>
+          </>
         )}
+        <h2>Description</h2>
         <div dangerouslySetInnerHTML={{ __html: siteData.contentHtml }} />
       </section>
     </Layout>

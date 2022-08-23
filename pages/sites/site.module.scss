@@ -27,11 +27,21 @@
   }
 }
 
-.poiImage {
-  width: 360px;
-  height: 360px;
-  position: relative;
-  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+.poiContainer {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-end;
+  gap: 20px;
+
+  .poiImage {
+    width: 360px;
+    height: 360px;
+    position: relative;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  }
+  .poiKey {
+    height: fit-content;
+  }
 }
 
 .sensitivity {
