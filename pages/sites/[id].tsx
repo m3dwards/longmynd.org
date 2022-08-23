@@ -8,7 +8,11 @@ import { GetStaticPaths } from "next";
 import styles from "./site.module.scss";
 import { getBaseProps } from "lib/baseProps";
 import Hill1 from "img/hill1.jpg";
-import { WarningRegular as WarningIcon, CheckmarkCircleRegular as CheckIcon } from "@fluentui/react-icons";
+import {
+  WarningRegular as WarningIcon,
+  CheckmarkCircle20Regular as CheckIcon,
+  DismissCircle20Regular as ClosedIcon,
+} from "@fluentui/react-icons";
 
 export default function Site({
   siteData,
@@ -50,8 +54,9 @@ export default function Site({
                   <strong>Status:</strong>
                 </td>
                 <td>
-                  <span className="pill green">
-                    {siteData.status} <CheckIcon />
+                  <span className={"pill " + (siteData.status.toLowerCase().includes("open") ? "green" : "red")}>
+                    {siteData.status} {siteData.status.toLowerCase().includes("open") && <CheckIcon />}
+                    {!siteData.status.toLowerCase().includes("open") && <ClosedIcon />}
                   </span>
                 </td>
               </tr>
@@ -61,7 +66,7 @@ export default function Site({
                 </td>
                 <td>
                   <span className="pill warning">
-                    {siteData.sensitive} <WarningIcon />
+                    {siteData.sensitive} <WarningIcon fontSize={20} />
                   </span>
                 </td>
               </tr>
