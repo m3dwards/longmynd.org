@@ -21,11 +21,12 @@ export default function Site({
     poiImage: string;
     status: string;
     sensitive: string;
+    fee: string;
     hgRating: string;
     pgRating: string;
     windDirection: [];
     location: { gridref: string; latlong: string; physicalMaps: string };
-    sensitivities: string;
+    sensitivities: Array<{ sensitivity: string }>;
 
     contentHtml: string;
   };
@@ -64,15 +65,23 @@ export default function Site({
                   </span>
                 </td>
               </tr>
+              {siteData.fee && (
+                <tr>
+                  <td>
+                    <strong>Site Fee</strong>
+                  </td>
+                  <td>{siteData.fee}</td>
+                </tr>
+              )}
               <tr>
                 <td>
-                  <strong>HG Rating:</strong>
+                  <strong>Required HG Rating:</strong>
                 </td>
                 <td>{siteData.hgRating}</td>
               </tr>
               <tr>
                 <td>
-                  <strong>PG Rating:</strong>
+                  <strong>Required PG Rating:</strong>
                 </td>
                 <td>{siteData.pgRating}</td>
               </tr>
@@ -183,10 +192,17 @@ export default function Site({
             </div>
           )}
         </div>
-        <div>
-          <h2>Sensitivities</h2>
-          <div dangerouslySetInnerHTML={{ __html: siteData.sensitivities }} />
-        </div>
+        {siteData.sensitivities && (
+          <div>
+            <h2>Sensitivities</h2>
+            {siteData.sensitivities.map((s) => (
+              <div className={styles.sensitivity}>
+                <WarningIcon />
+                {s.sensitivity}
+              </div>
+            ))}
+          </div>
+        )}
         {siteData.poiImage && (
           <div>
             <h2>Points of interest</h2>

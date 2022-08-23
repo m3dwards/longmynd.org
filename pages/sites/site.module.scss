@@ -33,3 +33,14 @@
   position: relative;
   box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
 }
+
+.sensitivity {
+  margin-bottom: 15px;
+  svg {
+    font-size: 26px;
+    color: var(--warning-color);
+    position: relative;
+    top: 6px;
+    margin-right: 10px;
+  }
+}
