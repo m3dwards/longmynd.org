@@ -125,7 +125,7 @@ export default function Nav({ data }: { data: { sites: []; safety: [] } }) {
                       <li key={j} className={styles.subitem}>
                         <a href={subitem.link}>
                           <span>{subitem.title}</span>
-                          {subitem.image && subitem.image}
+                          {subitem.image && <span>{subitem.image}</span>}
                         </a>
                       </li>
                     );
