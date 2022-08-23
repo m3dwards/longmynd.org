@@ -1,6 +1,6 @@
 ---
 name: Black Knoll
-status: Open to club members
+status: Closed
 hgRating: CP
 pgRating: CP
 location:
