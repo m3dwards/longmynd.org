@@ -3,6 +3,9 @@ name: Black Knoll
 status: Closed
 hgRating: CP
 pgRating: CP
+windDirection:
+  - from: WSW
+    to: WNW
 location:
   physicalMaps: 1:50000 137 or Explorer 216
   gridref: SO394890
