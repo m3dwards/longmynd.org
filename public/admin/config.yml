@@ -15,7 +15,7 @@ collections:
         fields:
           - { label: "Title", name: "title", widget: "string" }
           - { label: "Publish Date", name: "date", widget: "datetime" }
-          - { label: "Top Body", name: "topBody", widget: "markdown" }
+          - { label: "Top Body", name: "topBody", widget: "markdown", media_library: { config: { max_file_size: 5 } } }
           - { label: "Body", name: "body", widget: "markdown" }
       - label: "News"
         name: "news"
@@ -82,7 +82,13 @@ collections:
           fields: [{ label: "Sensitivity", name: "sensitivity", widget: "text" }],
         }
       - { label: "Publish Date", name: "date", widget: "datetime" }
-      - { label: "Main Image", name: "mainImage", widget: "image", required: false }
+      - {
+          label: "Main Image",
+          name: "mainImage",
+          widget: "image",
+          required: false,
+          media_library: { config: { max_file_size: 512 } },
+        }
       - { label: "POI Image", name: "poiImage", widget: "image", required: false }
       - { label: "Body", name: "body", widget: "markdown" }
   - label: "News"
