@@ -28,7 +28,7 @@ sensitivities:
   - sensitivity: When low on the ridge, take care when members of the public are
       present including horse riders and dog walkers.
 date: 2022-08-21T14:22:46.482Z
-mainImage: /img/hill1.jpeg
+mainImage: /img/longmyndmap.jpg
 poiImage: /img/longmyndmap.jpg
 ---
 
