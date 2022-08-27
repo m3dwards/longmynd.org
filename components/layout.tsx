@@ -28,6 +28,7 @@ export default function Layout({
         <meta name="msapplication-TileColor" content="#d45500" />
         <meta name="theme-color" content="#ffffff" />
         <meta name="description" content="LMSC Website" />
+        <script type="text/javascript" src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
       </Head>
 
       <div>
