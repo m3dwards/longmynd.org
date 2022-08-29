@@ -31,7 +31,8 @@ date: 2022-08-21T14:22:46.482Z
 mainImage: /img/longmyndmap.jpg
 poiImage: /img/longmyndmap.jpg
 ---
-
 Long Mynd
 
 Long Mynd is a lovely site
+
+<https://what3words.com/windmill.grounded.student>
