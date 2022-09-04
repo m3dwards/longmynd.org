@@ -9,7 +9,7 @@ windDirection:
     to: NNW
 location:
   latlong: 52.6667, -2.55
-  gridref: SJ628081
+  gridref: ///objective.papers.noises
   physicalMaps: 1:50000 136 or Explorer 215
 date: 2022-08-21T14:23:27.074Z
 ---
