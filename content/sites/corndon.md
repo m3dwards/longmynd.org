@@ -28,10 +28,10 @@ sensitivities:
   - sensitivity: >-
       FARM WITH HORSES – NB TO AVOID
 
-      Click to expandNote the farm indicated with the red oval and cross, in the photograph on the right. DO NOT overfly this farm or the surrounding fields. It is used to breed highly expensive, very nervous, race horses, which are apparently easily scared by things flying above. Causing damage to one of these horses would be very expensive indeed.
+      Click to expand Note the farm indicated with the red oval and cross, in the photograph on the right. DO NOT overfly this farm or the surrounding fields. It is used to breed highly expensive, very nervous, race horses, which are apparently easily scared by things flying above. Causing damage to one of these horses would be very expensive indeed.
 date: 2022-08-21T14:21:00.308Z
 ---
-Corndon
+[Corndon](https://what3words.com/writings.stooping.pianists)
 
 #### ACCESS
 
@@ -69,17 +69,6 @@ Bottom landing:
 
 * Hang gliders: bottom landing is in the big, flat field to the NE (alongside the access road) BUT approach is over power lines (which have claimed victims) after a long glide, often into wind and alternatives are for skilled pilots only! The only access is via a gate at the western end. From the SE face there is no official bottom landing. Top landing is easy behind the barbed wire.
 * Paragliders: In northerly wind it is possible to land in the fields on the right side after the first gate on the track up. You can also land in the field on the left but this is smaller and trickier.  In an east wind, it is preferable to slope land (although watch out for lots of rocks strewn along the slope), or land in the large brown scrub area immediately under the hill. Do NOT walk out through the farm or ask a friend to collect you. You must walk back up the front of the hill. In south-east wind there is no official bottom landing. You must top land or slope land at the foot of the hill and walk back up.
-
-#### MULTIMEDIA SITE GUIDE
-
-This is available to view online, or to download to mobile devices. Use it to complement the information provided in text format on this page. **PLEASE NOTE**: *since this was recorded, the club has increased the required minimum hours to CP + 25. The hours given in the recording are therefore incorrect. The multimedia guide is older than this page, so do use both.*
-
-[View the site guide online](http://www.judithmole.net/lmsc/siteguide_corndon.html)
-
-Get it on your mobile. Download the relevant file and transfer it to your mobile:
-
-* If your mobile can view Flash files, use this one: [Flash version](http://www.judithmole.net/lmsc/siteguide_corndon.swf)
-* If your mobile can view MP4 files, use this one: [MP4 version](http://www.judithmole.net/lmsc/siteguide_corndon.mp4)
 
 #### SITE RECORD
 
