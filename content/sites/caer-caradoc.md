@@ -9,7 +9,7 @@ windDirection:
 location:
   latlong: 52.5556, -2.7722
   physicalMaps: 1:50000 137 or Explorer 217
-  gridref: SO477954
+  gridref: ///buggy.glorious.thin
 date: 2022-08-21T14:19:54.068Z
 ---
 Caer Caradoc
