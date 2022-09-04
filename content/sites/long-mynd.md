@@ -29,7 +29,7 @@ sensitivities:
       present including horse riders and dog walkers.
 date: 2022-08-21T14:22:46.482Z
 mainImage: /img/longmyndmap.jpg
-poiImage: /img/longmyndmap.jpg
+poiImage: /img/mynd2-map.jpeg
 ---
 Long Mynd
 
