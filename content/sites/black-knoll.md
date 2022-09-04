@@ -8,7 +8,7 @@ windDirection:
     to: WNW
 location:
   physicalMaps: 1:50000 137 or Explorer 216
-  gridref: SO394890
+  gridref: ///actor.joggers.suave
   latlong: 52.496241, -2.8932007
 sensitivities:
   - sensitivity: >
