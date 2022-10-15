@@ -54,3 +54,26 @@
     margin-right: 10px;
   }
 }
+
+.subNav {
+  margin-top: 3em;
+  margin-bottom: 1em;
+  ul {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    li {
+      list-style: none;
+      padding: 10px;
+      background-color: var(--highlight-color-light);
+      margin: 0.5em;
+      border-radius: 2px;
+      a {
+        color: black;
+        &:visited {
+          color: black;
+        }
+      }
+    }
+  }
+}
