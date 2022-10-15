@@ -108,7 +108,7 @@ collections:
       - { label: "Local Attractions", name: "localAttractions", widget: "markdown", required: false }
       - {
           label: "Site Records",
-          name: "siterecords",
+          name: "siteRecords",
           widget: "list",
           required: false,
           fields: [{ label: "Record", name: "record", widget: "text" }],

@@ -9,7 +9,7 @@ windDirection:
   - from: WSW
     to: WNW
 location:
-  what3words: SO404918
+  what3words: ///windmill.grounded.student
   physicalMaps: 1:50000 137 or Explorer 216
   latlong: 52.5211, -2.8786
 sensitivities:
@@ -31,8 +31,8 @@ accessAndParking: H﻿ere is some content about access and parking
 launchesAndLanding: H﻿ere is some content about launches and landing
 flying: F﻿lying this site is very easy and fun!
 weatherStations:
-  - station: '<iframe style="width: 100%; height: 170px;"
-      src="https://widget.holfuy.com/?station=1175&amp;su=mph&amp;t=C&amp;lang=en&amp;mode=average&amp;avgrows=32"
+  - station: '<iframe style="width: 580px; height: 250px;"
+      src="https://widget.holfuy.com/?station=1175&amp;su=mph&amp;t=C&amp;lang=en&amp;mode=detailed"
       width="300" height="150" frameborder="0" marginwidth="1" marginheight="1"
       scrolling="no"></iframe>'
   - station: '<iframe style="width: 100%; height: 170px;"
@@ -42,7 +42,7 @@ weatherStations:
 webcams: "![Long Mynd looking
   north](https://www.mysolarcam.com/LongMyndNorth/last_big.jpg)"
 localAttractions: H﻿ere are some local attractions
-siterecords:
+siteRecords:
   - record: 29/07/2022 Max Edwards flew 50km towards Worcester
 mainImage: /img/longmyndmap.jpg
 poiImage: /img/mynd2-map.jpeg

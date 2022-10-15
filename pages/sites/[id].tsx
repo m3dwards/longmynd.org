@@ -1,3 +1,6 @@
+import React from "react";
+import { remark } from "remark";
+import html from "remark-html";
 import Layout, { siteTitle } from "../../components/layout";
 import Image from "next/image";
 import { getAllCollectionIds, getCollectionData } from "../../lib/collection";
@@ -33,10 +36,55 @@ export default function Site({
     location: { what3words: string; latlong: string; physicalMaps: string };
     sensitivities: Array<{ sensitivity: string }>;
 
+    accessAndParking: string;
+    launchesAndLanding: string;
+    flying: string;
+    weatherStations: Array<{ station: string }>;
+    webcams: string;
+    localAttractions: string;
+    siteRecords: Array<{ record: string }>;
+
     contentHtml: string;
   };
   baseProps: object;
 }) {
+  const [accessAndParkingState, setAccessAndParkingState] = React.useState("");
+  const [launchesAndLandingState, setLaunchesAndLandingState] = React.useState("");
+  const [flyingState, setFlyingState] = React.useState("");
+  const [webcamsState, setWebcamsState] = React.useState("");
+  const [localAttractionsState, setLocalAttractionsState] = React.useState("");
+
+  const getMarkdownContent = async () => {
+    const accessAndParkingContent = await remark()
+      .use(html)
+      .process(siteData.accessAndParking as string);
+    setAccessAndParkingState(accessAndParkingContent.toString());
+
+    const launchesAndLandingContent = await remark()
+      .use(html)
+      .process(siteData.launchesAndLanding as string);
+    setLaunchesAndLandingState(launchesAndLandingContent.toString());
+
+    const flyingContent = await remark()
+      .use(html)
+      .process(siteData.flying as string);
+    setFlyingState(flyingContent.toString());
+
+    const webcamsContent = await remark()
+      .use(html)
+      .process(siteData.webcams as string);
+    setWebcamsState(webcamsContent.toString());
+
+    const localAttractionsContent = await remark()
+      .use(html)
+      .process(siteData.localAttractions as string);
+    setLocalAttractionsState(localAttractionsContent.toString());
+  };
+
+  React.useEffect(() => {
+    getMarkdownContent();
+  }, []);
+
   return (
     <Layout navData={baseProps}>
       <Head>
@@ -197,7 +245,7 @@ export default function Site({
           )}
         </div>
         {siteData.sensitivities && (
-          <div>
+          <section>
             <h2>Sensitivities</h2>
             {siteData.sensitivities.map((s) => (
               <div className={styles.sensitivity}>
@@ -205,10 +253,10 @@ export default function Site({
                 {s.sensitivity}
               </div>
             ))}
-          </div>
+          </section>
         )}
         {siteData.poiImage && (
-          <>
+          <section>
             <h2>Points of interest</h2>
             <div className={styles.poiContainer}>
               <div className={styles.poiImage}>
@@ -224,10 +272,58 @@ export default function Site({
                 <strong>Click on map to increase size</strong>
               </div>
             </div>
-          </>
+          </section>
         )}
-        <h2>Description</h2>
-        <div dangerouslySetInnerHTML={{ __html: siteData.contentHtml }} />
+        <section>
+          <h2>Introduction</h2>
+          <div dangerouslySetInnerHTML={{ __html: siteData.contentHtml }} />
+        </section>
+        {siteData.accessAndParking && (
+          <section>
+            <h2>Access & Parking</h2>
+            <div dangerouslySetInnerHTML={{ __html: accessAndParkingState }} />
+          </section>
+        )}
+        {siteData.launchesAndLanding && (
+          <section>
+            <h2>Launches & Landing</h2>
+            <div dangerouslySetInnerHTML={{ __html: launchesAndLandingState }} />
+          </section>
+        )}
+        {siteData.flying && (
+          <section>
+            <h2>Flying</h2>
+            <div dangerouslySetInnerHTML={{ __html: flyingState }} />
+          </section>
+        )}
+        {siteData.weatherStations && (
+          <section>
+            <h2>Weather Stations</h2>
+            {siteData.weatherStations.map((ws) => (
+              <div dangerouslySetInnerHTML={{ __html: ws.station }} />
+            ))}
+          </section>
+        )}
+        {siteData.webcams && (
+          <section>
+            <h2>Webcams</h2>
+            <div dangerouslySetInnerHTML={{ __html: webcamsState }} />
+          </section>
+        )}
+        {siteData.localAttractions && (
+          <section>
+            <h2>Local Attractions</h2>
+            <div dangerouslySetInnerHTML={{ __html: localAttractionsState }} />
+          </section>
+        )}
+        {siteData.siteRecords && (
+          <section>
+            <h2>Site Records</h2>
+            {siteData.siteRecords.map((sr) => (
+              <div dangerouslySetInnerHTML={{ __html: sr.record }} />
+            ))}
+          </section>
+        )}
       </section>
     </Layout>
   );
