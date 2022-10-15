@@ -112,7 +112,7 @@ export default function Site({
                 <>
                   <tr>
                     <td>
-                      <strong>Grid Reference:</strong>
+                      <strong>What3words:</strong>
                     </td>
                     <td>{siteData.location.what3words}</td>
                   </tr>
