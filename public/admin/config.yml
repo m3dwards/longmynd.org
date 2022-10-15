@@ -97,6 +97,13 @@ collections:
       - { label: "Access And Parking", name: "accessAndParking", widget: "markdown", required: false }
       - { label: "Launches And Landing", name: "launchesAndLanding", widget: "markdown", required: false }
       - { label: "Flying", name: "flying", widget: "markdown", required: false }
+      - {
+          label: "Weather Stations",
+          name: "weatherStations",
+          widget: "list",
+          required: false,
+          fields: [{ label: "Station", name: "station", widget: "text" }],
+        }
       - { label: "Webcams", name: "webcams", widget: "markdown", required: false }
       - { label: "Local Attractions", name: "localAttractions", widget: "markdown", required: false }
       - {
