@@ -27,9 +27,23 @@ sensitivities:
       B!
   - sensitivity: When low on the ridge, take care when members of the public are
       present including horse riders and dog walkers.
-date: 2022-08-21T14:22:46.482Z
+accessAndParking: H﻿ere is some content about access and parking
+launchesAndLanding: H﻿ere is some content about launches and landing
+flying: F﻿lying this site is very easy and fun!
+webcams: >-
+  <iframe style="width: 100%; height: 170px;"
+  src="https://widget.holfuy.com/?station=1175&amp;su=mph&amp;t=C&amp;lang=en&amp;mode=average&amp;avgrows=32"
+  width="300" height="150" frameborder="0" marginwidth="1" marginheight="1"
+  scrolling="no"></iframe>
+
+
+  <img src="https://www.mysolarcam.com/LongMyndNorth/last_big.jpg" alt="">
+localAttractions: H﻿ere are some local attractions
+siterecords:
+  - record: 29/07/2022 Max Edwards flew 50km towards Worcester
 mainImage: /img/longmyndmap.jpg
 poiImage: /img/mynd2-map.jpeg
+date: 2022-10-15T18:09:30.682Z
 ---
 
 Long Mynd
