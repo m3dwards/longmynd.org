@@ -9,7 +9,7 @@ windDirection:
   - from: WSW
     to: WNW
 location:
-  gridref: SO404918
+  what3words: SO404918
   physicalMaps: 1:50000 137 or Explorer 216
   latlong: 52.5211, -2.8786
 sensitivities:
@@ -31,6 +31,7 @@ date: 2022-08-21T14:22:46.482Z
 mainImage: /img/longmyndmap.jpg
 poiImage: /img/mynd2-map.jpeg
 ---
+
 Long Mynd
 
 Long Mynd is a lovely site

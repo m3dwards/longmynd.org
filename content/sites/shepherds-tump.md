@@ -9,7 +9,8 @@ windDirection:
 location:
   latlong: 52.279062, -3.239131
   physicalMaps: 1:50000 148 or Explorer 200
-  gridref: ///seatbelt.misfits.sway
+  what3words: ///seatbelt.misfits.sway
 date: 2022-08-21T14:23:16.231Z
 ---
+
 Shepherds Tump

@@ -8,7 +8,7 @@ windDirection:
     to: WNW
 location:
   physicalMaps: 1:50000 137 or Explorer 216
-  gridref: ///actor.joggers.suave
+  what3words: ///actor.joggers.suave
   latlong: 52.496241, -2.8932007
 sensitivities:
   - sensitivity: >
@@ -24,4 +24,5 @@ sensitivities:
       above and to the forum when known!
 date: 2022-08-21T14:19:24.804Z
 ---
-<span style="color:blue">some *blue* text</span> Black Knoll
+
+<span style="color:blue">some _blue_ text</span> Black Knoll

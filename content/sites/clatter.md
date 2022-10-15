@@ -8,7 +8,7 @@ windDirection:
     to: SW
 location:
   latlong: 52.557289, -3.470164
-  gridref: ///conductor.fond.secure
+  what3words: ///conductor.fond.secure
   physicalMaps: 1:50000 136 or Explorer 215
 sensitivities:
   - sensitivity: >+
@@ -20,6 +20,7 @@ sensitivities:
 
 date: 2022-08-17T19:31:20.000Z
 ---
+
 # Clatter
 
 #### ACCESS
@@ -32,18 +33,18 @@ Please note that trees have been planted in front of take-off. At the time of pu
 
 #### FLYING
 
-* T/O altitude 1275 ft AMSL
-* Top to bottom 500 ft
-* Take-off is over a fence and is straightforward with wind. On light wind days the fence can constitute a hazard.
-* Top landing is tricky for hang gliders on a small, narrow ridge immediately behind take-off. Further back is very wet and subject to rotor. With enough height it is possible to land in the parking field near the cars. PG pilots must land behind the fence. There is no slope landing.
-* Bottom landing is tight in a field surrounded by big trees. WARNING – turbulence can be bad when the wind is off to the right due to the hill upwind across the valley.
-* No paramotors allowed.
-* No dogs allowed.
+- T/O altitude 1275 ft AMSL
+- Top to bottom 500 ft
+- Take-off is over a fence and is straightforward with wind. On light wind days the fence can constitute a hazard.
+- Top landing is tricky for hang gliders on a small, narrow ridge immediately behind take-off. Further back is very wet and subject to rotor. With enough height it is possible to land in the parking field near the cars. PG pilots must land behind the fence. There is no slope landing.
+- Bottom landing is tight in a field surrounded by big trees. WARNING – turbulence can be bad when the wind is off to the right due to the hill upwind across the valley.
+- No paramotors allowed.
+- No dogs allowed.
 
 #### SITE RECORD
 
-* Martin Knight, 05.08.09, 81km to Wrenbury. PG.
-* Malcolm Beard, 2004, 124.5km to Ashbourne. HG.
+- Martin Knight, 05.08.09, 81km to Wrenbury. PG.
+- Malcolm Beard, 2004, 124.5km to Ashbourne. HG.
 
 #### WARNING
 
@@ -59,7 +60,7 @@ See weather page for weather station actuals and history as well as current came
 
 #### VIEW BLIPSPOTS FOR THIS SITE GRAPHICALLY
 
-* [RASP BLIPspot Display – Clatter](http://rasp-uk.uk/BlipspotG.html?latlon=52.557289,-3.470164)
-* [How to interpret RASP BLIPSpot Graph Parameters (Word document)](http://www.longmynd.org/wp-content/uploads/2014/09/RASP-BlipSpot-Graph-Parameters.doc)
+- [RASP BLIPspot Display – Clatter](http://rasp-uk.uk/BlipspotG.html?latlon=52.557289,-3.470164)
+- [How to interpret RASP BLIPSpot Graph Parameters (Word document)](http://www.longmynd.org/wp-content/uploads/2014/09/RASP-BlipSpot-Graph-Parameters.doc)
 
 ###

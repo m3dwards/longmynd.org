@@ -11,7 +11,7 @@ windDirection:
 location:
   latlong: 52.323959, -3.4276022
   physicalMaps: 1:50000 136 or Explorer 200
-  gridref: ///quest.hindering.seriously
+  what3words: ///quest.hindering.seriously
 sensitivities:
   - sensitivity: Please be aware that a Falconry centre is situated at the bottom of
       the hill. The owner, Mr Eddie Churchill has asked that pilots call / text
@@ -19,4 +19,5 @@ sensitivities:
       and he will not release his falcons.
 date: 2022-08-21T14:20:26.984Z
 ---
+
 Camlo

@@ -9,7 +9,7 @@ windDirection:
     to: NNW
 location:
   latlong: 52.41667, -2.916356
-  gridref: ///thin.passenger.wanted
+  what3words: ///thin.passenger.wanted
   physicalMaps: 1:50000 137 or Explorer 201
 sensitivities:
   - sensitivity: This site is currently very sensitive in a number of respects
@@ -40,4 +40,5 @@ sensitivities:
 
 date: 2022-08-21T14:20:42.201Z
 ---
+
 Clunbury

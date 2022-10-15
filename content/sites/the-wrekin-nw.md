@@ -9,7 +9,7 @@ windDirection:
     to: NNW
 location:
   latlong: 52.6667, -2.55
-  gridref: ///objective.papers.noises
+  what3words: ///objective.papers.noises
   physicalMaps: 1:50000 136 or Explorer 215
 sensitivities:
   - sensitivity: t is essential all pilots are BHPA members for the insurance cover
@@ -31,4 +31,5 @@ sensitivities:
       possible!
 date: 2022-08-21T14:23:27.074Z
 ---
+
 The Wrekin NW

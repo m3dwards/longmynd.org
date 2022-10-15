@@ -78,7 +78,7 @@ collections:
         widget: "object"
         collapsed: true
         fields:
-          - { label: "Grid Ref", name: "gridref", widget: "string" }
+          - { label: "What three words", name: "what3words", widget: "string" }
           - {
               label: "Latitude & Longitude",
               name: "latlong",

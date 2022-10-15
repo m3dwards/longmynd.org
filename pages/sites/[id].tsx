@@ -30,7 +30,7 @@ export default function Site({
     hgRating: string;
     pgRating: string;
     windDirection: [];
-    location: { gridref: string; latlong: string; physicalMaps: string };
+    location: { what3words: string; latlong: string; physicalMaps: string };
     sensitivities: Array<{ sensitivity: string }>;
 
     contentHtml: string;
@@ -114,7 +114,7 @@ export default function Site({
                     <td>
                       <strong>Grid Reference:</strong>
                     </td>
-                    <td>{siteData.location.gridref}</td>
+                    <td>{siteData.location.what3words}</td>
                   </tr>
                   {siteData.location.latlong && (
                     <>
