@@ -37,7 +37,7 @@ webcams: >-
   scrolling="no"></iframe>
 
 
-  <img src="https://www.mysolarcam.com/LongMyndNorth/last_big.jpg" alt="">
+  ![Long Mynd looking north](https://www.mysolarcam.com/LongMyndNorth/last_big.jpg)
 localAttractions: H﻿ere are some local attractions
 siterecords:
   - record: 29/07/2022 Max Edwards flew 50km towards Worcester
