@@ -17,33 +17,13 @@ import {
   DismissCircle20Regular as ClosedIcon,
 } from "@fluentui/react-icons";
 import WindIndicator from "components/WindIndicator";
+import { site as siteType } from "types";
 
 export default function Site({
   siteData,
   baseProps,
 }: {
-  siteData: {
-    name: string;
-    date: Date;
-    mainImage: string;
-    poiImage: string;
-    status: string;
-    sensitive: string;
-    fee: string;
-    hgRating: string;
-    pgRating: string;
-    windDirection: [];
-    location: { what3words: string; latlong: string; physicalMaps: string };
-    sensitivities: Array<{ sensitivity: string }>;
-
-    accessAndParking: string;
-    launchesAndLanding: string;
-    flying: string;
-    weatherStations: Array<{ station: string }>;
-    webcams: string;
-    localAttractions: string;
-    siteRecords: Array<{ record: string }>;
-
+  siteData: siteType & {
     contentHtml: string;
   };
   baseProps: object;

@@ -67,3 +67,31 @@ export async function getCollectionData(id: string, collectionPath: string) {
   // Combine the data with the id and contentHtml
   return returnObject;
 }
+
+export async function getAllCollectionData(collectionPath: string) {
+  const collectionDirectory = path.join(process.cwd(), collectionPath);
+  const fileNames = fs.readdirSync(collectionDirectory);
+  const pageDataList = [] as Array<{ date: string; name: string; id: string; contentHtml: string }>;
+  for (const file of fileNames) {
+    if (file == "index.md") {
+      continue;
+    }
+    const fullPath = path.join(collectionDirectory, file);
+    const fileContents = fs.readFileSync(fullPath, "utf8");
+
+    // Use gray-matter to parse the collection metadata section
+    const matterResult = matter(fileContents);
+
+    // Use remark to convert markdown into HTML string
+    const processedContent = await remark().use(html, { sanitize: true }).process(matterResult.content);
+    const contentHtml = processedContent.toString();
+    const pageData = {
+      id: file.replace(/\.md$/, ""),
+      contentHtml,
+      ...(matterResult.data as { date: string; name: string }),
+    };
+
+    pageDataList.push(pageData);
+  }
+  return pageDataList;
+}
