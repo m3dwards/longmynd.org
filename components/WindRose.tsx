@@ -4,26 +4,103 @@ import React, { useRef, useEffect } from "react";
 const WindRose = ({ sites }: { sites: Array<siteType> }) => {
   const canvasRef = useRef(null);
 
+  const cardinalPoints = [
+    "N",
+    "NNE",
+    "NE",
+    "ENE",
+    "E",
+    "ESE",
+    "SE",
+    "SSE",
+    "S",
+    "SSW",
+    "SW",
+    "WSW",
+    "W",
+    "WNW",
+    "NW",
+    "NNW",
+  ];
+
   const cardinalAngles = {
-    N: [258.75, 281.25],
-    NNE: [281.25, 303.75],
-    NE: [303.75, 326.25],
-    ENE: [326.25, 348.75],
-    E: [348.75, 11.25],
-    ESE: [11.25 - 33.75],
-    SE: [33.75, 56.25],
-    SSE: [56.25, 78.75],
-    S: [78.75, 81.25],
-    SSW: [81.25, 123.75],
-    SW: [123.75, 146.25],
-    WSW: [146.25, 168.75],
-    W: [168.75, 191.25],
-    WNW: [191.25, 213.75],
-    NW: [213.75, 236.25],
-    NNW: [236.25, 258.75],
+    N: 270,
+    NNE: 292.5,
+    NE: 315,
+    ENE: 337.5,
+    E: 0,
+    ESE: 22.5,
+    SE: 45,
+    SSE: 67.5,
+    S: 90,
+    SSW: 112.5,
+    SW: 135,
+    WSW: 157.5,
+    W: 180,
+    WNW: 202.5,
+    NW: 225,
+    NNW: 247.5,
   };
 
-  const size = 300;
+  interface roseSite {
+    name: string;
+    directionFrom: string;
+    directionTo: string;
+  }
+
+  interface cardinalBin {
+    id: number;
+    sites: Array<roseSite>;
+  }
+
+  /* sites = sites.sort((sa, sb) => (sa.name.length > sb.name.length ? 1 : 0)); */
+
+  const bins: Array<cardinalBin> = [{ id: 1, sites: [] }];
+
+  for (const site of sites) {
+    if (!site.windDirection) continue;
+    for (const direction of site.windDirection) {
+      console.log(direction);
+      const siteStartIndex = cardinalPoints.findIndex((cp) => cp === direction.from);
+      let siteEndIndex = cardinalPoints.findIndex((cp) => cp === direction.to);
+      if (siteEndIndex < siteStartIndex) {
+        siteEndIndex += cardinalPoints.length;
+      }
+
+      let binPosition = 0;
+      for (const bin of bins) {
+        binPosition++;
+        let collisions = 0;
+        for (const binSite of bin.sites) {
+          const binSiteStartIndex = cardinalPoints.findIndex((cp) => cp === binSite.directionFrom);
+          let binSiteEndIndex = cardinalPoints.findIndex((cp) => cp === binSite.directionTo);
+          if (binSiteEndIndex < binSiteStartIndex) {
+            binSiteEndIndex += cardinalPoints.length;
+          }
+
+          for (var si = siteStartIndex; si <= siteEndIndex; si++) {
+            for (var bi = binSiteStartIndex; bi <= binSiteEndIndex; bi++) {
+              if (si === bi) {
+                collisions++;
+              }
+            }
+          }
+        }
+        if (collisions >= 2) {
+          if (binPosition == bins.length) {
+            bins.push({ id: binPosition + 1, sites: [] });
+          }
+          continue;
+        }
+        bin.sites.push({ name: site.name, directionFrom: direction.from, directionTo: direction.to });
+        break;
+      }
+    }
+  }
+
+  console.log(bins);
+
+  const size = 600;
   const draw = (ctx: any, x: number, y: number) => {
     const center = size / 2;
 
@@ -32,29 +109,38 @@ const WindRose = ({ sites }: { sites: Array<siteType> }) => {
      * ctx.arc(center, center, center, 0, 2 * Math.PI);
      * ctx.fill(); */
     ctx.clearRect(0, 0, size, size);
-    for (const site of sites) {
-      if (!site.windDirection) continue;
-      for (const direction of site.windDirection) {
+    for (var binIndex = 0; binIndex < bins.length; binIndex++) {
+      const bin = bins[binIndex];
+      const radiusOffset = 40 * binIndex;
+      for (const site of bin.sites) {
         ctx.beginPath();
         /* ctx.moveTo(center, center); */
         ctx.arc(
           center,
           center,
-          center,
-          cardinalAngles[direction.from][0] * (Math.PI / 180),
-          cardinalAngles[direction.to][1] * (Math.PI / 180)
+          center - radiusOffset,
+          cardinalAngles[site.directionFrom] * (Math.PI / 180),
+          cardinalAngles[site.directionTo] * (Math.PI / 180)
         );
         ctx.arc(
           center,
           center,
-          center - 50,
-          cardinalAngles[direction.to][1] * (Math.PI / 180),
-          cardinalAngles[direction.from][0] * (Math.PI / 180),
-          true
+          center - radiusOffset - 30,
+          cardinalAngles[site.directionTo] * (Math.PI / 180),
+          cardinalAngles[site.directionFrom] * (Math.PI / 180),
+          true // reverses arc direction
         );
         ctx.closePath();
-        ctx.fillStyle = ctx.isPointInPath(x * 2, y * 2) ? "#26867e" : "blue";
+        const hovering = ctx.isPointInPath(x * 2, y * 2);
+        ctx.fillStyle = hovering ? "#26867e" : "blue";
         ctx.fill();
+        if (hovering) {
+          ctx.fillStyle = "white";
+          ctx.fillRect(200, size - 200, 150, 75);
+          ctx.fillStyle = "black";
+          ctx.font = "20px Arial";
+          ctx.fillText(site.name, 200, size - 200);
+        }
       }
     }
   };
