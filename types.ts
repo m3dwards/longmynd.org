@@ -8,7 +8,7 @@ export interface site {
   fee: string;
   hgRating: string;
   pgRating: string;
-  windDirection: [];
+  windDirection: Array<{ from: string; to: string }>;
   location: { what3words: string; latlong: string; physicalMaps: string };
   sensitivities: Array<{ sensitivity: string }>;
   launchesAndLanding: string;
