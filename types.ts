@@ -11,6 +11,7 @@ export interface site {
   windDirection: Array<{ from: string; to: string }>;
   location: { what3words: string; latlong: string; physicalMaps: string };
   sensitivities: Array<{ sensitivity: string }>;
+  accessAndParking: string;
   launchesAndLanding: string;
   flying: string;
   weatherStations: Array<{ station: string }>;
