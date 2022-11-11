@@ -73,7 +73,7 @@ export default function Nav({ data }: { data: { sites: []; safety: [] } }) {
     },
     {
       title: "Sites",
-      subItems: [{ title: "Sites Guide" }, ...sites],
+      subItems: [{ title: "Sites Guide", link: "/sites" }, ...sites],
     },
 
     { title: "Join the club", isButton: true },
