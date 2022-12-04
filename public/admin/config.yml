@@ -36,21 +36,66 @@ collections:
           - { label: "Title", name: "title", widget: "string" }
           - { label: "Publish Date", name: "date", widget: "datetime" }
           - { label: "Body", name: "body", widget: "markdown" }
-          - {
-              label: "Other Clubs Sites",
-              name: "otherClubsSites",
-              widget: "list",
-              fields:
-                [
-                  {
-                    label: "Club Name",
-                    name: "clubName",
-                    widget: "select",
-                    options: ["South East Wales HGPC", "Malvern HGC", "North Wales HGPC"],
-                  },
-                  { label: "Site Name", name: "siteName", widget: "string" },
-                ],
-            }
+          - label: "Other Clubs Sites"
+            name: "otherClubsSites"
+            widget: "list"
+            fields:
+              - {
+                  label: "Club Name",
+                  name: "clubName",
+                  widget: "select",
+                  options: ["South East Wales HGPC", "Malvern HGC", "North Wales HGPC"],
+                }
+              - { label: "Site Name", name: "siteName", widget: "string" }
+              - {
+                  label: "From",
+                  name: "from",
+                  widget: "select",
+                  options:
+                    [
+                      "N",
+                      "NNE",
+                      "NE",
+                      "ENE",
+                      "E",
+                      "ESE",
+                      "SE",
+                      "SSE",
+                      "S",
+                      "SSW",
+                      "SW",
+                      "WSW",
+                      "W",
+                      "WNW",
+                      "NW",
+                      "NNW",
+                    ],
+                }
+              - {
+                  label: "To",
+                  name: "to",
+                  widget: "select",
+                  options:
+                    [
+                      "N",
+                      "NNE",
+                      "NE",
+                      "ENE",
+                      "E",
+                      "ESE",
+                      "SE",
+                      "SSE",
+                      "S",
+                      "SSW",
+                      "SW",
+                      "WSW",
+                      "W",
+                      "WNW",
+                      "NW",
+                      "NNW",
+                    ],
+                }
+
   - label: "Sites"
     name: "sites"
     folder: "content/sites"
