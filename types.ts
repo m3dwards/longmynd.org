@@ -19,3 +19,10 @@ export interface site {
   localAttractions: string;
   siteRecords: Array<{ record: string }>;
 }
+
+export interface additionalSite {
+  siteName: string;
+  clubName: string;
+  from: string;
+  to: string;
+}

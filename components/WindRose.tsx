@@ -1,7 +1,15 @@
-import { site as siteType } from "types";
+import { site as siteType, additionalSite } from "types";
 import React, { useRef, useEffect } from "react";
 
-const WindRose = ({ sites }: { sites: Array<siteType> }) => {
+const WindRose = ({
+  sites,
+  additionalSites,
+  width,
+}: {
+  sites: Array<siteType>;
+  additionalSites: Array<additionalSite>;
+  width: number;
+}) => {
   const canvasRef = useRef(null);
 
   const cardinalPoints = [
@@ -46,6 +54,8 @@ const WindRose = ({ sites }: { sites: Array<siteType> }) => {
     name: string;
     directionFrom: string;
     directionTo: string;
+    primaryColor: string;
+    highlightColor: string;
   }
 
   interface cardinalBin {
@@ -53,52 +63,89 @@ const WindRose = ({ sites }: { sites: Array<siteType> }) => {
     sites: Array<roseSite>;
   }
 
-  sites = sites.sort((sa, sb) => sb.name.length - sa.name.length);
-
-  const bins: Array<cardinalBin> = [{ id: 1, sites: [] }];
+  let roseSites = Array<roseSite>();
+  const highlightColor = "#555";
 
   for (const site of sites) {
     if (!site.windDirection) continue;
     for (const direction of site.windDirection) {
-      console.log(direction);
-      const siteStartIndex = cardinalPoints.findIndex((cp) => cp === direction.from);
-      let siteEndIndex = cardinalPoints.findIndex((cp) => cp === direction.to);
-      if (siteEndIndex < siteStartIndex) {
-        siteEndIndex += cardinalPoints.length;
+      roseSites.push({
+        name: site.name,
+        directionFrom: direction.from,
+        directionTo: direction.to,
+        primaryColor: "#66786a",
+        highlightColor: highlightColor,
+      });
+    }
+  }
+  // "South East Wales HGPC", "Malvern HGC", "North Wales HGPC"
+  for (const site of additionalSites) {
+    let aPrimaryColor = "";
+    console.log(site.clubName);
+    switch (site.clubName) {
+      case "South East Wales HGPC": {
+        aPrimaryColor = "#1e90ff";
+        break;
       }
-
-      let binPosition = 0;
-      for (const bin of bins) {
-        binPosition++;
-        let collisions = 0;
-        for (const binSite of bin.sites) {
-          const binSiteStartIndex = cardinalPoints.findIndex((cp) => cp === binSite.directionFrom);
-          let binSiteEndIndex = cardinalPoints.findIndex((cp) => cp === binSite.directionTo);
-          if (binSiteEndIndex < binSiteStartIndex) {
-            binSiteEndIndex += cardinalPoints.length;
-          }
-
-          for (var si = siteStartIndex; si <= siteEndIndex; si++) {
-            for (var bi = binSiteStartIndex; bi <= binSiteEndIndex; bi++) {
-              if (si === bi) {
-                collisions++;
-              }
-            }
-          }
-        }
-        if (collisions >= 2) {
-          if (binPosition == bins.length) {
-            bins.push({ id: binPosition + 1, sites: [] });
-          }
-          continue;
-        }
-        bin.sites.push({ name: site.name, directionFrom: direction.from, directionTo: direction.to });
+      case "Malvern HGC": {
+        aPrimaryColor = "#ff5b47";
+        break;
+      }
+      case "North Wales HGPC": {
+        aPrimaryColor = "#ac5aa0";
         break;
       }
     }
+    roseSites.push({
+      name: site.siteName,
+      directionFrom: site.from,
+      directionTo: site.to,
+      primaryColor: aPrimaryColor,
+      highlightColor: highlightColor,
+    });
+  }
+  roseSites = roseSites.sort((sa, sb) => sb.name.length - sa.name.length);
+
+  const bins: Array<cardinalBin> = [{ id: 1, sites: [] }];
+
+  for (const site of roseSites) {
+    const siteStartIndex = cardinalPoints.findIndex((cp) => cp === site.directionFrom);
+    let siteEndIndex = cardinalPoints.findIndex((cp) => cp === site.directionTo);
+    if (siteEndIndex < siteStartIndex) {
+      siteEndIndex += cardinalPoints.length;
+    }
+
+    let binPosition = 0;
+    for (const bin of bins) {
+      binPosition++;
+      let collisions = 0;
+      for (const binSite of bin.sites) {
+        const binSiteStartIndex = cardinalPoints.findIndex((cp) => cp === binSite.directionFrom);
+        let binSiteEndIndex = cardinalPoints.findIndex((cp) => cp === binSite.directionTo);
+        if (binSiteEndIndex < binSiteStartIndex) {
+          binSiteEndIndex += cardinalPoints.length;
+        }
+
+        for (var si = siteStartIndex; si <= siteEndIndex; si++) {
+          for (var bi = binSiteStartIndex; bi <= binSiteEndIndex; bi++) {
+            if (si === bi) {
+              collisions++;
+            }
+          }
+        }
+      }
+      if (collisions >= 2) {
+        if (binPosition == bins.length) {
+          bins.push({ id: binPosition + 1, sites: [] });
+        }
+        continue;
+      }
+      bin.sites.push(site);
+      break;
+    }
   }
 
-  const size = 800;
+  const size = width;
   const draw = (ctx: any, x: number, y: number) => {
     const center = size / 2;
 
@@ -132,16 +179,18 @@ const WindRose = ({ sites }: { sites: Array<siteType> }) => {
         );
         ctx.closePath();
         const hovering = ctx.isPointInPath(x * 2, y * 2);
-        ctx.fillStyle = hovering ? "#26867e" : "#66786a";
+        ctx.fillStyle = hovering ? site.highlightColor : site.primaryColor;
+        console.log(site.name);
+        console.log(site.primaryColor);
         ctx.fill();
         ctx.stroke();
-        if (hovering) {
-          ctx.fillStyle = "white";
-          ctx.fillRect(200, size - 200, 150, 75);
-          ctx.fillStyle = "black";
-          ctx.font = "20px verdana, sans-serif";
-          ctx.fillText(site.name, 200, size - 200);
-        }
+        /* if (hovering) {
+         *   ctx.fillStyle = "white";
+         *   ctx.fillRect(200, size - 200, 150, 75);
+         *   ctx.fillStyle = "black";
+         *   ctx.font = "20px verdana, sans-serif";
+         *   ctx.fillText(site.name, 200, size - 200);
+         * } */
         /* if (site.name !== "Corndon") continue; */
         drawTextAlongArc(
           ctx,
@@ -151,7 +200,7 @@ const WindRose = ({ sites }: { sites: Array<siteType> }) => {
           center - radiusOffset - 15,
           calculateMidAngle(cardinalAngles[site.directionFrom], cardinalAngles[site.directionTo]),
           "verdana, sans-serif",
-          3 - binIndex > 0 ? 0 : 3 - binIndex
+          3 - binIndex > 0 ? 0 : 0
         );
       }
     }
