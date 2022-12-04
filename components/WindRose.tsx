@@ -53,7 +53,7 @@ const WindRose = ({ sites }: { sites: Array<siteType> }) => {
     sites: Array<roseSite>;
   }
 
-  /* sites = sites.sort((sa, sb) => (sa.name.length > sb.name.length ? 1 : 0)); */
+  sites = sites.sort((sa, sb) => sb.name.length - sa.name.length);
 
   const bins: Array<cardinalBin> = [{ id: 1, sites: [] }];
 
@@ -98,7 +98,7 @@ const WindRose = ({ sites }: { sites: Array<siteType> }) => {
     }
   }
 
-  const size = 600;
+  const size = 800;
   const draw = (ctx: any, x: number, y: number) => {
     const center = size / 2;
 
@@ -107,9 +107,11 @@ const WindRose = ({ sites }: { sites: Array<siteType> }) => {
      * ctx.arc(center, center, center, 0, 2 * Math.PI);
      * ctx.fill(); */
     ctx.clearRect(0, 0, size, size);
+    drawCompassLines(ctx, size);
+    drawCompassPoints(ctx, size);
     for (var binIndex = 0; binIndex < bins.length; binIndex++) {
       const bin = bins[binIndex];
-      const radiusOffset = 40 * binIndex;
+      const radiusOffset = 35 * binIndex + 30;
       for (const site of bin.sites) {
         ctx.beginPath();
         /* ctx.moveTo(center, center); */
@@ -130,33 +132,52 @@ const WindRose = ({ sites }: { sites: Array<siteType> }) => {
         );
         ctx.closePath();
         const hovering = ctx.isPointInPath(x * 2, y * 2);
-        ctx.fillStyle = hovering ? "#26867e" : "blue";
+        ctx.fillStyle = hovering ? "#26867e" : "#66786a";
         ctx.fill();
+        ctx.stroke();
         if (hovering) {
           ctx.fillStyle = "white";
           ctx.fillRect(200, size - 200, 150, 75);
           ctx.fillStyle = "black";
-          ctx.font = "20px Arial";
+          ctx.font = "20px verdana, sans-serif";
           ctx.fillText(site.name, 200, size - 200);
-        } else {
-          /* if (site.name !== "Corndon") continue; */
-          ctx.font = "20px Arial";
-          ctx.fillStyle = "red";
-          drawTextAlongArc(
-            ctx,
-            site.name,
-            center,
-            center,
-            center - radiusOffset - 15,
-            calculateMidAngle(cardinalAngles[site.directionFrom], cardinalAngles[site.directionTo]),
-            "Arial"
-          );
-          console.log(site.name);
-          console.log(calculateMidAngle(cardinalAngles[site.directionFrom], cardinalAngles[site.directionTo]));
         }
+        /* if (site.name !== "Corndon") continue; */
+        drawTextAlongArc(
+          ctx,
+          site.name,
+          center,
+          center,
+          center - radiusOffset - 15,
+          calculateMidAngle(cardinalAngles[site.directionFrom], cardinalAngles[site.directionTo]),
+          "verdana, sans-serif",
+          3 - binIndex > 0 ? 0 : 3 - binIndex
+        );
       }
     }
   };
+  function drawCompassPoints(ctx: any, size: number) {
+    ctx.font = "20px verdana, sans-serif";
+    ctx.fillStyle = "black";
+    ctx.fillText("N", size / 2 - 7, 15);
+    ctx.fillText("E", size - 10, size / 2 + 6);
+    ctx.fillText("S", size / 2 - 7, size - 2);
+    ctx.fillText("W", 0, size / 2 + 6);
+  }
+  function drawCompassLines(ctx: any, size: number) {
+    ctx.save();
+    ctx.translate(size / 2, size / 2); // Move to center
+    ctx.lineWidth = 1;
+    ctx.strokeStyle = "#555";
+    for (let i = 0; i < 16; i++) {
+      ctx.rotate((22.5 * Math.PI) / 180);
+      ctx.beginPath(); // Start a new path
+      ctx.moveTo(0, 3); // Move the pen to (30, 50)
+      ctx.lineTo(0, size / 2 - 20); // Draw a line to (150, 100)
+      ctx.stroke(); // Render the pat
+    }
+    ctx.restore();
+  }
   function calculateMidAngle(start: number, end: number) {
     start += 90;
     end += 90;
@@ -182,7 +203,8 @@ const WindRose = ({ sites }: { sites: Array<siteType> }) => {
     centerY: number,
     radius: number,
     startAngle: number,
-    fName: string
+    fName: string,
+    kerning: number
   ) {
     // text:         The text to be displayed in circular fashion
     // diameter:     The diameter of the circle around which the text will
@@ -201,8 +223,7 @@ const WindRose = ({ sites }: { sites: Array<siteType> }) => {
     // declare and intialize canvas, reference, and useful variables
     //
     ctx.save();
-    const fSize = "14pt";
-    const kerning = 0;
+    const fSize = "11pt";
 
     const align = "center";
     var clockwise = 1; // draw clockwise for aligned right. Else Anticlockwise
@@ -221,7 +242,7 @@ const WindRose = ({ sites }: { sites: Array<siteType> }) => {
     var textHeight = div.offsetHeight;
     document.body.removeChild(div);
 
-    ctx.fillStyle = "red";
+    ctx.fillStyle = "white";
     ctx.font = fSize + " " + fName;
 
     // Setup letters and positioning
