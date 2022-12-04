@@ -1,0 +1,41 @@
+.otherClubs {
+  margin-top: 2em;
+  ul {
+    display: flex;
+    justify-content: space-around;
+    gap: 20px;
+  }
+  li {
+    cursor: pointer;
+    list-style: none;
+    text-align: center;
+    width: 240px;
+    &.active {
+      h3 {
+        color: white;
+      }
+    }
+    h3 {
+      color: black;
+    }
+    border: 1px solid;
+  }
+  .southEast {
+    &.active {
+      background-color: #1e90ff;
+      border: none;
+    }
+  }
+  .malvern {
+    &.active {
+      background-color: #ff5b47;
+      border: none;
+    }
+  }
+  .northWales {
+    &.active {
+      background-color: #ac5aa0;
+      border: none;
+    }
+  }
+}

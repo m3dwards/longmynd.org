@@ -1,5 +1,7 @@
+import classNames from "classnames";
 import { site as siteType, additionalSite } from "types";
-import React, { useRef, useEffect } from "react";
+import React, { useRef, useEffect, useState } from "react";
+import styles from "./windrose.module.scss";
 
 const WindRose = ({
   sites,
@@ -11,6 +13,24 @@ const WindRose = ({
   width: number;
 }) => {
   const canvasRef = useRef(null);
+
+  const [southEastActiveState, setSouthEastActiveState] = useState(true);
+  const [malvernActiveState, setMalvernActiveState] = useState(true);
+  const [northWalesActiveState, setNorthWalesActiveState] = useState(true);
+
+  const toggleSouthEastActiveState = () => {
+    setSouthEastActiveState(!southEastActiveState);
+  };
+  const toggleMalvernActiveState = () => {
+    setMalvernActiveState(!malvernActiveState);
+  };
+  const toggleNorthWalesActiveState = () => {
+    setNorthWalesActiveState(!northWalesActiveState);
+  };
+
+  useEffect(() => {
+    updateRose();
+  }, [southEastActiveState, malvernActiveState, northWalesActiveState]);
 
   const cardinalPoints = [
     "N",
@@ -84,14 +104,17 @@ const WindRose = ({
     console.log(site.clubName);
     switch (site.clubName) {
       case "South East Wales HGPC": {
+        if (!southEastActiveState) continue;
         aPrimaryColor = "#1e90ff";
         break;
       }
       case "Malvern HGC": {
+        if (!malvernActiveState) continue;
         aPrimaryColor = "#ff5b47";
         break;
       }
       case "North Wales HGPC": {
+        if (!northWalesActiveState) continue;
         aPrimaryColor = "#ac5aa0";
         break;
       }
@@ -340,6 +363,12 @@ const WindRose = ({
     draw(ctx, x, y);
   };
 
+  const updateRose = () => {
+    const canvas = canvasRef.current;
+    const ctx = canvas.getContext("2d");
+    draw(ctx, 0, 0);
+  };
+
   useEffect(() => {
     const canvas = canvasRef.current;
     const ctx = canvas.getContext("2d");
@@ -348,13 +377,43 @@ const WindRose = ({
   }, []);
 
   return (
-    <canvas
-      ref={canvasRef}
-      onMouseMove={onMouseMove}
-      style={{ width: size + "px", height: size + "px" }}
-      width={size * 2 + "px"}
-      height={size * 2 + "px"}
-    />
+    <div>
+      <canvas
+        ref={canvasRef}
+        onMouseMove={onMouseMove}
+        style={{ width: size + "px", height: size + "px" }}
+        width={size * 2 + "px"}
+        height={size * 2 + "px"}
+      />
+      <div className={styles.otherClubs}>
+        <ul>
+          <li
+            className={classNames(styles.southEast, { [styles.active]: southEastActiveState })}
+            onClick={toggleSouthEastActiveState}
+          >
+            <div>
+              <h3>South East Wales HGPC</h3>
+            </div>
+          </li>
+          <li
+            className={classNames(styles.malvern, { [styles.active]: malvernActiveState })}
+            onClick={toggleMalvernActiveState}
+          >
+            <div>
+              <h3>Malvern HGC</h3>
+            </div>
+          </li>
+          <li
+            className={classNames(styles.northWales, { [styles.active]: northWalesActiveState })}
+            onClick={toggleNorthWalesActiveState}
+          >
+            <div>
+              <h3>North Wales HGPC</h3>
+            </div>
+          </li>
+        </ul>
+      </div>
+    </div>
   );
 };
 
