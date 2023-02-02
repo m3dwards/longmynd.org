@@ -218,7 +218,7 @@ export default function Site({
             <div className={styles.picture}>
               <div>
                 <a href={siteData.mainImage}>
-                  <Image src={Hill1} priority layout="fill" objectFit="cover" />
+                  <Image src={siteData.mainImage} priority layout="fill" objectFit="cover" />
                 </a>
               </div>
             </div>
