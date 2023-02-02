@@ -44,7 +44,7 @@ webcams: "![Long Mynd looking
 localAttractions: H﻿ere are some local attractions
 siteRecords:
   - record: 29/07/2022 Max Edwards flew 50km towards Worcester
-mainImage: /img/longmyndmap.jpg
+mainImage: /img/mynd2-map.jpeg
 poiImage: /img/mynd2-map.jpeg
 date: 2022-10-15T18:09:30.682Z
 ---
