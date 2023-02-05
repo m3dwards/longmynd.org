@@ -17,6 +17,8 @@ import {
 } from "@fluentui/react-icons";
 import WindIndicator from "components/WindIndicator";
 import { site as siteType } from "types";
+import PillStatus from "components/PillStatus";
+import PillSensitive from "components/PillSensitive";
 
 export default function Site({
   siteData,
@@ -83,15 +85,8 @@ export default function Site({
                     <strong>Status:</strong>
                   </td>
                   <td>
-                    <span className={"pill " + (siteData.status.toLowerCase().includes("open") ? "green" : "red")}>
-                      {siteData.status} {siteData.status.toLowerCase().includes("open") && <CheckIcon />}
-                      {!siteData.status.toLowerCase().includes("open") && <ClosedIcon />}
-                    </span>
-                    {siteData.sensitive && (
-                      <span className="pill warning">
-                        Sensitive <WarningIcon fontSize={20} />
-                      </span>
-                    )}
+                    <PillStatus status={siteData.status} />
+                    <PillSensitive sensitive={siteData.sensitive} />
                   </td>
                 </tr>
               )}

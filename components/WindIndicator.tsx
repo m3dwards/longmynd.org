@@ -27,16 +27,17 @@ const WindIndicator = (props: { size: number; directions: Array<{ from: string; 
 
     ctx.fillStyle = "#f5ede2";
     ctx.beginPath();
-    ctx.arc(center, center, center, 0, 2 * Math.PI);
+    ctx.arc(center + 2, center + 2, center, 0, 2 * Math.PI);
+    ctx.stroke();
     ctx.fill();
 
     ctx.fillStyle = "#26867e";
     for (const direction of props.directions) {
       ctx.beginPath();
-      ctx.moveTo(center, center);
+      ctx.moveTo(center + 2, center + 2);
       ctx.arc(
-        center,
-        center,
+        center + 2,
+        center + 2,
         center,
         cardinalAngles[direction.from][0] * (Math.PI / 180),
         cardinalAngles[direction.to][1] * (Math.PI / 180)
@@ -54,7 +55,7 @@ const WindIndicator = (props: { size: number; directions: Array<{ from: string; 
     draw(context);
   }, [draw]);
 
-  return <canvas ref={canvasRef} width={props.size + "px"} height={props.size + "px"} />;
+  return <canvas ref={canvasRef} width={props.size + 5 + "px"} height={props.size + 5 + "px"} />;
 };
 
 export default WindIndicator;

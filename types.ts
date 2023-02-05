@@ -1,10 +1,11 @@
 export interface site {
   name: string;
+  published: boolean;
   date: Date;
   mainImage: string;
   poiImage: string;
   status: string;
-  sensitive: string;
+  sensitive: boolean;
   fee: string;
   hgRating: string;
   pgRating: string;

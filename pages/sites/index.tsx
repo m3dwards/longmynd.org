@@ -8,6 +8,8 @@ import styles from "./site.module.scss";
 import Head from "next/head";
 import utilStyles from "../../styles/utils.module.css";
 import WindIndicator from "components/WindIndicator";
+import PillStatus from "components/PillStatus";
+import PillSensitive from "components/PillSensitive";
 
 const pageProps = async (_: any) => {
   const collectionData = await getAllCollectionData("content/sites");
@@ -24,6 +26,7 @@ const sites = ({
   sites: Array<{ date: string; name: string; id: string; contentHtml: string } & siteType>;
   additionalSites: Array<additionalSite>;
 }) => {
+  sites = sites.filter((s) => s.published);
   return (
     <Layout navData={baseProps}>
       <Head>
@@ -44,7 +47,11 @@ const sites = ({
                 <a href={"/sites/" + site.id}>
                   <div className={styles.siteSummaryContainer}>
                     <div>
-                      {site.name} <br />
+                      <div className={styles.siteSummaryMain}>
+                        <span className={styles.siteSummaryTitle}>{site.name}</span>
+                        <PillStatus status={site.status} />
+                        <PillSensitive sensitive={site.sensitive} />
+                      </div>
                     </div>
                     <div className={styles.wind}>
                       {site.windDirection && <WindIndicator size={75} directions={site.windDirection} />}
