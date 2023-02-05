@@ -47,6 +47,7 @@ collections:
                   options: ["South East Wales HGPC", "Malvern HGC", "North Wales HGPC"],
                 }
               - { label: "Site Name", name: "siteName", widget: "string" }
+              - { label: "Link", name: "link", widget: "string" }
               - {
                   label: "From",
                   name: "from",

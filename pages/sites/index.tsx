@@ -41,7 +41,6 @@ const sites = ({
       <ul className={styles.siteSummaryBoxes}>
         {sites &&
           sites.map((site) => {
-            console.log(site);
             return (
               <li key={site.id}>
                 <a href={"/sites/" + site.id}>

@@ -8,7 +8,7 @@ const WindRose = ({
   additionalSites,
   width,
 }: {
-  sites: Array<siteType>;
+  sites: Array<siteType & { id: string }>;
   additionalSites: Array<additionalSite>;
   width: number;
 }) => {
@@ -31,6 +31,8 @@ const WindRose = ({
   useEffect(() => {
     updateRose();
   }, [southEastActiveState, malvernActiveState, northWalesActiveState]);
+
+  var link = "";
 
   const cardinalPoints = [
     "N",
@@ -76,6 +78,7 @@ const WindRose = ({
     directionTo: string;
     primaryColor: string;
     highlightColor: string;
+    link: string;
   }
 
   interface cardinalBin {
@@ -95,6 +98,7 @@ const WindRose = ({
         directionTo: direction.to,
         primaryColor: "#66786a",
         highlightColor: highlightColor,
+        link: "/sites/" + site.id,
       });
     }
   }
@@ -124,6 +128,7 @@ const WindRose = ({
       directionTo: site.to,
       primaryColor: aPrimaryColor,
       highlightColor: highlightColor,
+      link: site.link,
     });
   }
   roseSites = roseSites.sort((sa, sb) => sb.name.length - sa.name.length);
@@ -168,7 +173,8 @@ const WindRose = ({
   }
 
   const size = width;
-  const draw = (ctx: any, x: number, y: number) => {
+  const draw = (canvas: any, x: number, y: number) => {
+    const ctx = canvas.getContext("2d");
     const center = size / 2;
 
     /* ctx.fillStyle = "#f5ede2";
@@ -178,6 +184,7 @@ const WindRose = ({
     ctx.clearRect(0, 0, size, size);
     drawCompassLines(ctx, size);
     drawCompassPoints(ctx, size);
+    var hoveringOnSite = false;
     for (var binIndex = 0; binIndex < bins.length; binIndex++) {
       const bin = bins[binIndex];
       const radiusOffset = 35 * binIndex + 30;
@@ -201,6 +208,11 @@ const WindRose = ({
         );
         ctx.closePath();
         const hovering = ctx.isPointInPath(x * 2, y * 2);
+        if (hovering) {
+          hoveringOnSite = true;
+          link = site.link;
+        }
+
         ctx.fillStyle = hovering ? site.highlightColor : site.primaryColor;
         ctx.fill();
         ctx.stroke();
@@ -223,6 +235,11 @@ const WindRose = ({
           3 - binIndex > 0 ? 0 : 0
         );
       }
+    }
+    if (hoveringOnSite) {
+      canvas.style.cursor = "pointer";
+    } else {
+      canvas.style.cursor = "default";
     }
   };
   function drawCompassPoints(ctx: any, size: number) {
@@ -348,29 +365,35 @@ const WindRose = ({
    *   ctx.font = `1px ${fontFace}`;
    *   return maxWidth / ctx.measureText(text).width;
    * } */
-  const onMouseMove = (e) => {
+  const onMouseMove = (e: any) => {
     const canvas = canvasRef.current;
-    const ctx = canvas.getContext("2d");
 
     // Get the current mouse position
     var r = canvas.getBoundingClientRect(),
       x = e.clientX - r.left,
       y = e.clientY - r.top;
 
-    draw(ctx, x, y);
+    draw(canvas, x, y);
+  };
+
+  const onMouseClick = (e: any) => {
+    if (link.startsWith("http")) {
+      window.open(link);
+      return;
+    }
+    window.location.href = link;
   };
 
   const updateRose = () => {
     const canvas = canvasRef.current;
-    const ctx = canvas.getContext("2d");
-    draw(ctx, 0, 0);
+    draw(canvas, 0, 0);
   };
 
   useEffect(() => {
     const canvas = canvasRef.current;
     const ctx = canvas.getContext("2d");
     ctx.scale(window.devicePixelRatio, window.devicePixelRatio);
-    draw(ctx, 0, 0);
+    draw(canvas, 0, 0);
   }, []);
 
   return (
@@ -378,6 +401,7 @@ const WindRose = ({
       <canvas
         ref={canvasRef}
         onMouseMove={onMouseMove}
+        onMouseDown={onMouseClick}
         style={{ width: size + "px", height: size + "px" }}
         width={size * 2 + "px"}
         height={size * 2 + "px"}

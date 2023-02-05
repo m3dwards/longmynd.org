@@ -26,4 +26,5 @@ export interface additionalSite {
   clubName: string;
   from: string;
   to: string;
+  link: string;
 }
