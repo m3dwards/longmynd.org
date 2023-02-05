@@ -35,4 +35,4 @@ otherClubsSites:
     from: SE
     to: S
 ---
-Here are all our sites
+Here are all our sites and some important information that all pilots should read before flying one of our sites.
