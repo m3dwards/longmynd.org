@@ -1,5 +1,6 @@
 ---
 name: Black Knoll
+published: true
 status: Closed
 hgRating: CP
 pgRating: CP
