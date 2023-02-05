@@ -103,6 +103,7 @@ collections:
     identifier_field: name
     fields:
       - { label: "Name", name: "name", widget: "string" }
+      - { label: "Published", name: "published", widget: "boolean", default: true, required: false }
       - {
           label: "Status",
           name: "status",
