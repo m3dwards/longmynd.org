@@ -1,9 +1,8 @@
 import styles from "./nav.module.scss";
 import classNames from "classnames";
-import React, { useLocation } from "react";
+import React from "react";
 import { useRouter } from "next/router";
 import Image from "next/image";
-import Arrow from "img/arrow.svg";
 import Icon from "img/icon-white.png";
 import WindIndicator from "./WindIndicator";
 
