@@ -7,6 +7,7 @@ import WindRose from "components/WindRose";
 import styles from "./site.module.scss";
 import Head from "next/head";
 import utilStyles from "../../styles/utils.module.css";
+import WindIndicator from "components/WindIndicator";
 
 const pageProps = async (_: any) => {
   const collectionData = await getAllCollectionData("content/sites");
@@ -29,18 +30,31 @@ const sites = ({
         <title>Site Guide - {siteTitle}</title>
       </Head>
       <h1 className={utilStyles.headingXl}>Site Guide</h1>
+      <SitesContent />
       <div className={styles.windRose}>
+        <h2>Wind Rose</h2>
         <WindRose sites={sites} additionalSites={additionalSites} width={800} />
       </div>
-      <ul>
+      <ul className={styles.siteSummaryBoxes}>
         {sites &&
-          sites.map((site) => (
-            <li key={site.id}>
-              <a href={"/sites/" + site.id}>{site.name}</a>
-            </li>
-          ))}
+          sites.map((site) => {
+            console.log(site);
+            return (
+              <li key={site.id}>
+                <a href={"/sites/" + site.id}>
+                  <div className={styles.siteSummaryContainer}>
+                    <div>
+                      {site.name} <br />
+                    </div>
+                    <div className={styles.wind}>
+                      {site.windDirection && <WindIndicator size="75" directions={site.windDirection} />}
+                    </div>
+                  </div>
+                </a>
+              </li>
+            );
+          })}
       </ul>
-      <SitesContent />
     </Layout>
   );
 };

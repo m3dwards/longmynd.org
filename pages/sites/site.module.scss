@@ -81,4 +81,34 @@
 .windRose {
   width: 800px;
   margin: 4em auto 8em auto;
+  text-align: center;
+}
+
+.siteSummaryBoxes {
+  flex-wrap: wrap;
+  display: flex;
+  gap: 20px;
+  li {
+    flex-basis: 250px;
+    a {
+      display: block;
+      width: inherit;
+      height: inherit;
+      padding: 10px;
+      background-color: var(--pale-background);
+      border-top: 3px var(--bg-color) solid;
+      color: var(--primary-color-dark);
+      &:hover {
+        box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
+        text-decoration: none;
+      }
+      .siteSummaryContainer {
+        display: flex;
+        justify-content: space-between;
+        .wind {
+          flex-basis: content;
+        }
+      }
+    }
+  }
 }
