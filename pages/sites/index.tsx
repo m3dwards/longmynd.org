@@ -47,7 +47,7 @@ const sites = ({
                       {site.name} <br />
                     </div>
                     <div className={styles.wind}>
-                      {site.windDirection && <WindIndicator size="75" directions={site.windDirection} />}
+                      {site.windDirection && <WindIndicator size={75} directions={site.windDirection} />}
                     </div>
                   </div>
                 </a>
