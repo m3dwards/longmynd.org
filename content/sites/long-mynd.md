@@ -1,5 +1,6 @@
 ---
 name: Long Mynd
+published: true
 status: Open to all
 sensitive: true
 fee: £3 for non-members

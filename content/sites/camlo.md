@@ -1,5 +1,6 @@
 ---
 name: Camlo
+published: true
 status: Open to all
 hgRating: CP+10
 pgRating: CP+10

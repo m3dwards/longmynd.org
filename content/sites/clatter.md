@@ -1,5 +1,6 @@
 ---
 name: Clatter
+published: true
 status: Open to club members
 hgRating: CP +25 Hours
 pgRating: CP +15 Hours

@@ -1,5 +1,6 @@
 ---
 name: Shepherds Tump
+published: true
 status: Open to all
 hgRating: CP
 pgRating: CP

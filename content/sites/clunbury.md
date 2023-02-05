@@ -1,5 +1,6 @@
 ---
 name: Clunbury
+published: true
 status: Open to all
 sensitive: true
 hgRating: CP

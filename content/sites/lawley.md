@@ -1,5 +1,6 @@
 ---
 name: Lawley
+published: true
 status: Open to all
 hgRating: CP
 pgRating: CP

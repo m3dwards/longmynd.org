@@ -1,5 +1,6 @@
 ---
 name: Corndon
+published: true
 status: Open to all
 sensitive: true
 hgRating: CP +25 Hours

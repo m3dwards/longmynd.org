@@ -1,5 +1,6 @@
 ---
 name: Wrekin NW
+published: true
 status: Open to club members
 sensitive: true
 hgRating: CP +25 Hours
