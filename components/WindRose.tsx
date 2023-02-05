@@ -101,7 +101,6 @@ const WindRose = ({
   // "South East Wales HGPC", "Malvern HGC", "North Wales HGPC"
   for (const site of additionalSites) {
     let aPrimaryColor = "";
-    console.log(site.clubName);
     switch (site.clubName) {
       case "South East Wales HGPC": {
         if (!southEastActiveState) continue;
@@ -203,8 +202,6 @@ const WindRose = ({
         ctx.closePath();
         const hovering = ctx.isPointInPath(x * 2, y * 2);
         ctx.fillStyle = hovering ? site.highlightColor : site.primaryColor;
-        console.log(site.name);
-        console.log(site.primaryColor);
         ctx.fill();
         ctx.stroke();
         /* if (hovering) {
