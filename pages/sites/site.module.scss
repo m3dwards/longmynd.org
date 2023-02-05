@@ -78,6 +78,11 @@
   }
 }
 
+@media all and (max-width: 819px) {
+  .windRose {
+    display: none;
+  }
+}
 .windRose {
   width: 800px;
   margin: 4em auto 8em auto;
@@ -88,6 +93,7 @@
   flex-wrap: wrap;
   display: flex;
   gap: 20px;
+  justify-content: center;
   li {
     flex-basis: 330px;
     a {

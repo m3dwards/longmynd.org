@@ -1,6 +1,7 @@
 import styles from "./nav.module.scss";
 import classNames from "classnames";
-import React from "react";
+import React, { useLocation } from "react";
+import { useRouter } from "next/router";
 import Image from "next/image";
 import Arrow from "img/arrow.svg";
 import Icon from "img/icon-white.png";
@@ -73,7 +74,8 @@ export default function Nav({ data }: { data: { sites: []; safety: [] } }) {
     },
     {
       title: "Sites",
-      subItems: [{ title: "Sites Guide", link: "/sites" }, ...sites],
+      link: "/sites",
+      /* subItems: [{ title: "Sites Guide", link: "/sites" }, ...sites], */
     },
 
     { title: "Join the club", isButton: true },
@@ -91,6 +93,7 @@ export default function Nav({ data }: { data: { sites: []; safety: [] } }) {
     }
     setSubMenuActiveState(item);
   };
+  const { pathname } = useRouter();
   return (
     <nav className={styles.nav}>
       <ul ref={wrapperRef} className={classNames(styles.menu, { [styles.active]: menuOpenState })}>
@@ -107,6 +110,7 @@ export default function Nav({ data }: { data: { sites: []; safety: [] } }) {
               key={i}
               className={classNames(
                 styles.item,
+                { [styles.menuActive]: pathname === item.link },
                 { [styles.hasSubmenu]: !!item.subItems },
                 {
                   [styles.submenuActive]: subMenuActiveState === item.title,
