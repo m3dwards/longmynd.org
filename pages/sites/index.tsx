@@ -1,10 +1,12 @@
-import Layout from "components/layout";
+import Layout, { siteTitle } from "components/layout";
 import { getBaseProps } from "lib/baseProps";
 import { attributes, react as SitesContent } from "content/sites/index.md";
 import { getAllCollectionData } from "../../lib/collection";
 import { site as siteType, additionalSite } from "types";
 import WindRose from "components/WindRose";
 import styles from "./site.module.scss";
+import Head from "next/head";
+import utilStyles from "../../styles/utils.module.css";
 
 const pageProps = async (_: any) => {
   const collectionData = await getAllCollectionData("content/sites");
@@ -23,6 +25,10 @@ const sites = ({
 }) => {
   return (
     <Layout navData={baseProps}>
+      <Head>
+        <title>Site Guide - {siteTitle}</title>
+      </Head>
+      <h1 className={utilStyles.headingXl}>Site Guide</h1>
       <div className={styles.windRose}>
         <WindRose sites={sites} additionalSites={additionalSites} width={800} />
       </div>
