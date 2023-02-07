@@ -11,6 +11,8 @@ location:
   latlong: 52.5556, -2.7722
   physicalMaps: 1:50000 137 or Explorer 217
   what3words: ///buggy.glorious.thin
+sensitivities:
+  - sensitivity: This area is used by low flying military aircraft on weekdays.
 accessAndParking: From A49 2m north of Church Stretton or Cardington.
 flying: >-
   * T/O altitude 1500 ft AMSL
