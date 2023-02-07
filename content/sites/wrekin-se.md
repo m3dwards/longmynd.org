@@ -30,7 +30,36 @@ sensitivities:
 
   - sensitivity: Fields below may have livestock – please land so as to avoid where
       possible!
+accessAndParking: M54 junction 7, turn South. At 0.8 miles, close to a ‘T’
+  junction, the access track climbs off to the right. Parking is in the Wrekin
+  Forest Glen or Ercall car parks or the (now much reduced) roadside parking.
+  The Forest Glen car park will soon require payment by card or online (due May
+  2022). Traffic wardens regularly ticket those parking over the double yellow
+  lines. It is ok to take a 4×4 vehicle up to the entrance to the TV mast,  drop
+  your kit off, and return the vehicle  to the Halfway House and park the said
+  vehicle  on the left hand side of the gate (looking up the Wrekin) – do not
+  leave a vehicle anywhere on top of the hill, the Halfway House is the ONLY
+  place where we have permission to leave a single vehicle on the hill.
+flying: >-
+  * T/O altitude 1335 ft AMSL
+
+  * Top to bottom SE 580 ft (NW more at 830ft)
+
+  * Take-off: you have to be very careful where you try to launch from. It is possible to launch from the very top by the trig point, but not advisable in most conditions due to the rocks in front. Often better to go west about 150 metres just before the next set of huge rocks with a small bowl depression in the ground before them, with enough room to layout maybe 2 or 3 wings at most; here you’ll be further away from where walkers congregate too. No launch spot is easy – ensure you assess well, are capable and prepare thoroughly. Be careful the wind on launch is true of the real direction.
+
+  * Top landing: not advisable. If your chosen landing area is busy then rather keep soaring or bottom land – its not acceptable to yell to people to move out of your way in preparing to top land nor to land close to members of the public.
+
+  * Bottom landing: PG fields immediately below – do not land in taller mowing grass. If unsure, check with the farmer before flying. PG/HG field near tar road – watch for power lines and trees.
+
+  * No paramotors allowed.
+
+  * No dogs allowed.
 date: 2022-08-21T14:23:39.505Z
 ---
-
 The Wrekin SE
+
+* Pilots must be current LMSC members or have requested (with your BHPA number) and received confirmation of a temporary day pass
+* Pilots must be suitably rated & licensed and members of the BHPA.
+* All members shall observe the Countryside Code, in particular in relation to property and livestock. No livestock are to be frightened or stampeded by fliers.
+* No dogs
+* Any damage to be reported to the Estate Office (Tel 01743 232477) immediately. Farmers will be compensated for damage to crops or livestock, plus costs, if appropriate.
