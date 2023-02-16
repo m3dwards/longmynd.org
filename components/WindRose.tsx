@@ -17,6 +17,7 @@ const WindRose = ({
   const [southEastActiveState, setSouthEastActiveState] = useState(true);
   const [malvernActiveState, setMalvernActiveState] = useState(true);
   const [northWalesActiveState, setNorthWalesActiveState] = useState(true);
+  const [devicePixelRatio, setDevicePixelRatio] = useState(1);
 
   const toggleSouthEastActiveState = () => {
     setSouthEastActiveState(!southEastActiveState);
@@ -390,6 +391,7 @@ const WindRose = ({
   };
 
   useEffect(() => {
+    setDevicePixelRatio(window.devicePixelRatio);
     const canvas = canvasRef.current;
     const ctx = canvas.getContext("2d");
     ctx.scale(window.devicePixelRatio, window.devicePixelRatio);
@@ -403,8 +405,8 @@ const WindRose = ({
         onMouseMove={onMouseMove}
         onMouseDown={onMouseClick}
         style={{ width: size + "px", height: size + "px" }}
-        width={size * window.devicePixelRatio + "px"}
-        height={size * window.devicePixelRatio + "px"}
+        width={size * devicePixelRatio + "px"}
+        height={size * devicePixelRatio + "px"}
       />
       <div className={styles.otherClubs}>
         <ul>
