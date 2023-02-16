@@ -310,7 +310,7 @@ const WindRose = ({
     // declare and intialize canvas, reference, and useful variables
     //
     ctx.save();
-    const fSize = "11pt";
+    const fSize = "9.5pt";
 
     const align = "center";
     var clockwise = 1; // draw clockwise for aligned right. Else Anticlockwise

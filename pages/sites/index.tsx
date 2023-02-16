@@ -36,7 +36,7 @@ const sites = ({
       <SitesContent />
       <div className={styles.windRose}>
         <h2>Wind Rose</h2>
-        <WindRose sites={sites} additionalSites={additionalSites} width={800} />
+        <WindRose sites={sites} additionalSites={additionalSites} width={700} />
       </div>
       <ul className={styles.siteSummaryBoxes}>
         {sites &&
