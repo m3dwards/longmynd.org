@@ -403,8 +403,8 @@ const WindRose = ({
         onMouseMove={onMouseMove}
         onMouseDown={onMouseClick}
         style={{ width: size + "px", height: size + "px" }}
-        width={size * 2 + "px"}
-        height={size * 2 + "px"}
+        width={size * window.devicePixelRatio + "px"}
+        height={size * window.devicePixelRatio + "px"}
       />
       <div className={styles.otherClubs}>
         <ul>
