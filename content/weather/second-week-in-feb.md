@@ -1,5 +1,5 @@
 ---
-title: Second week in feb
+title: W/C 20th Feb
 date: 2023-02-16T17:53:06.982Z
 ---
-I﻿t's raining sideways!
+Great potential for big wave flights
