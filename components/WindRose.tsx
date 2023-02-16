@@ -208,7 +208,7 @@ const WindRose = ({
           true // reverses arc direction
         );
         ctx.closePath();
-        const hovering = ctx.isPointInPath(x * 2, y * 2);
+        const hovering = ctx.isPointInPath(x * devicePixelRatio, y * devicePixelRatio);
         if (hovering) {
           hoveringOnSite = true;
           link = site.link;
