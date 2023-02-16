@@ -392,11 +392,13 @@ const WindRose = ({
 
   useEffect(() => {
     setDevicePixelRatio(window.devicePixelRatio);
+  }, []);
+  useEffect(() => {
     const canvas = canvasRef.current;
     const ctx = canvas.getContext("2d");
     ctx.scale(window.devicePixelRatio, window.devicePixelRatio);
     draw(canvas, 0, 0);
-  }, []);
+  }, [devicePixelRatio]);
 
   return (
     <div>
