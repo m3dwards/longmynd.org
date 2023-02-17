@@ -6,6 +6,10 @@ a {
     text-decoration: underline;
   }
   cursor: pointer;
+  color: var(--link-color);
+  &:visited {
+    color: var(--link-color);
+  }
 }
 
 /*
@@ -103,6 +107,7 @@ h4,
 h5,
 h6 {
   color: var(--primary-color-dark);
+  text-decoration-color: inherit;
 }
 
 button {

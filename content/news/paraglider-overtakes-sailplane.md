@@ -1,6 +1,6 @@
 ---
-title: W/C 20th Feb
-date: 2023-02-16T17:53:06.982Z
+title: Latest paraglider from Ozone has a better glide than a sailplane!
+date: 2022-08-20T20:19:17.187Z
 ---
 
 # Welcomes to the Long Mynd Soaring Club (LMSC) – supporting pilots since

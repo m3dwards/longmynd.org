@@ -4,7 +4,8 @@ import { attributes, react as NewsContent } from "content/news.md";
 import { getBaseProps } from "lib/baseProps";
 import { getAllCollectionData } from "lib/collection";
 import { stripHtml } from "string-strip-html";
-import Date from "../../components/date";
+import Date from "components/date";
+import styles from "./news.module.scss";
 
 const pageProps = async (_: any) => {
   const newsPages = await getAllCollectionData("content/news");
@@ -25,33 +26,37 @@ export default function Home({ baseProps, newsPages, weatherPages }) {
 
           <section>
             <h2>Recent Weather Updates</h2>
-            {weatherPages &&
-              weatherPages.map((item, index) => (
-                <div key={index}>
-                  <h3>
-                    <a href={"/weather/" + item.id}>{item.title}</a>
-                  </h3>
-                  <div>
-                    <Date date={item.date} />
-                  </div>
-                  <div>{stripHtml(item.contentHtml).result}</div>
-                </div>
-              ))}
+            <div className={styles.container}>
+              {weatherPages &&
+                weatherPages.map((item, index) => (
+                  <a className={styles.newsItem} key={index} href={"/weather/" + item.id}>
+                    <div>
+                      <h3>{item.title}</h3>
+                      <small>
+                        <Date date={item.date} />
+                      </small>
+                      <div className={styles.summary}>{stripHtml(item.contentHtml).result}</div>
+                    </div>
+                  </a>
+                ))}
+            </div>
           </section>
           <section>
             <h2>Recent News</h2>
-            {newsPages &&
-              newsPages.map((item, index) => (
-                <div key={index}>
-                  <h3>
-                    <a href={"/news/" + item.id}>{item.title}</a>
-                  </h3>
-                  <div>
-                    <Date date={item.date} />
-                  </div>
-                  <div>{stripHtml(item.contentHtml).result}</div>
-                </div>
-              ))}
+            <div className={styles.container}>
+              {newsPages &&
+                newsPages.map((item, index) => (
+                  <a className={styles.newsItem} key={index} href={"/news/" + item.id}>
+                    <div>
+                      <h3>{item.title}</h3>
+                      <small>
+                        <Date date={item.date} />
+                      </small>
+                      <div className={styles.summary}>{stripHtml(item.contentHtml).result}</div>
+                    </div>
+                  </a>
+                ))}
+            </div>
           </section>
         </>
       </section>
