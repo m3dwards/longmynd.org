@@ -142,7 +142,7 @@ export default function Site({
                     <>
                       <tr>
                         <td>
-                          <strong>Latitude & Longitute:</strong>
+                          <strong>Latitude & Longitude:</strong>
                         </td>
                         <td>{siteData.location.latlong}</td>
                       </tr>
