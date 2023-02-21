@@ -6,6 +6,8 @@ import utilStyles from "../../styles/utils.module.css";
 import { GetStaticPaths } from "next";
 import { getBaseProps } from "lib/baseProps";
 import styles from "./safety.module.scss";
+import { remark } from "remark";
+import html from "remark-html";
 
 export default function Site({ siteData, baseProps }: { siteData: siteData; baseProps: object }) {
   return (
@@ -32,7 +34,7 @@ export default function Site({ siteData, baseProps }: { siteData: siteData; base
             siteData.safetyItems.map((item, index) => (
               <>
                 <h3 id={index.toString()}>{item.title}</h3>
-                <p>{item.description}</p>
+                <p dangerouslySetInnerHTML={{ __html: remark().use(html).processSync(item.description).toString() }} />
               </>
             ))}
         </section>
