@@ -212,8 +212,8 @@ collections:
       - { label: "Featured Image", name: "thumbnail", widget: "image", required: false }
       - { label: "Body", name: "body", widget: "markdown" }
       - {
-          label: "Safety Item",
-          name: "safetyItem",
+          label: "Safety Items",
+          name: "safetyItems",
           widget: "list",
           required: false,
           fields:
