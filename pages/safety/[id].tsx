@@ -33,7 +33,12 @@ export default function Site({ siteData, baseProps }: { siteData: siteData; base
             siteData.safetyItems.map((item, index) => (
               <div key={index}>
                 <h3 id={index.toString()}>{item.title}</h3>
-                <p dangerouslySetInnerHTML={{ __html: remark().use(html).processSync(item.description).toString() }} />
+                <div
+                  dangerouslySetInnerHTML={{ __html: remark().use(html).processSync(item.description).toString() }}
+                />
+                <p>{remark().use(html).processSync(item.description).toString()}</p>
+                <p dangerouslySetInnerHTML={{ __html: "<strong>dangerous!!</strong>" }} />
+                <p>{item.description}</p>
               </div>
             ))}
         </section>
