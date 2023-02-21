@@ -21,16 +21,16 @@ export default function Site({ siteData, baseProps }: { siteData: siteData; base
         </div>
         <div dangerouslySetInnerHTML={{ __html: siteData.contentHtml }} />
         <section className="quickLinks">
-          {siteData.safetyItems &&
-            siteData.safetyItems.map((item, index) => (
+          {siteData.learnItems &&
+            siteData.learnItems.map((item, index) => (
               <a className={""} key={index} href={"#" + index}>
                 <h3>{item.title}</h3>
               </a>
             ))}
         </section>
         <section>
-          {siteData.safetyItems &&
-            siteData.safetyItems.map((item, index) => (
+          {siteData.learnItems &&
+            siteData.learnItems.map((item, index) => (
               <>
                 <h3 id={index.toString()}>{item.title}</h3>
                 <p dangerouslySetInnerHTML={{ __html: remark().use(html).processSync(item.description).toString() }} />
@@ -50,7 +50,7 @@ export const getStaticPaths: GetStaticPaths = async () => {
   };
 };
 
-interface safetyItem {
+interface learnItem {
   title: string;
   description: string;
 }
@@ -60,11 +60,11 @@ interface siteData {
   date: date;
   title: string;
   contentHtml: string;
-  safetyItems: safetyItem[];
+  learnItems: learnItem[];
 }
 
 const pageProps = async ({ params }) => {
-  const siteData = (await getCollectionData(params.id as string, "content/safety")) as siteData;
+  const siteData = (await getCollectionData(params.id as string, "content/learn")) as siteData;
   return {
     siteData,
   };

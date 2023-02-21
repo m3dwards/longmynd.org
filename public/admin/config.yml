@@ -191,7 +191,6 @@ collections:
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Publish Date", name: "date", widget: "datetime" }
-      - { label: "Featured Image", name: "thumbnail", widget: "image", required: false }
       - { label: "Body", name: "body", widget: "markdown" }
   - label: "Weather"
     name: "weather"
@@ -200,7 +199,6 @@ collections:
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Publish Date", name: "date", widget: "datetime" }
-      - { label: "Featured Image", name: "thumbnail", widget: "image", required: false }
       - { label: "Body", name: "body", widget: "markdown" }
   - label: "Safety"
     name: "safety"
@@ -209,7 +207,25 @@ collections:
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Publish Date", name: "date", widget: "datetime" }
-      - { label: "Featured Image", name: "thumbnail", widget: "image", required: false }
+      - { label: "Body", name: "body", widget: "markdown" }
+      - {
+          label: "Safety Items",
+          name: "safetyItems",
+          widget: "list",
+          required: false,
+          fields:
+            [
+              { label: "Title", name: "title", widget: "text" },
+              { label: "Description", name: "description", widget: "markdown" },
+            ],
+        }
+  - label: "Learn"
+    name: "learn"
+    folder: "content/learn"
+    create: true
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Publish Date", name: "date", widget: "datetime" }
       - { label: "Body", name: "body", widget: "markdown" }
       - {
           label: "Safety Items",
