@@ -23,7 +23,7 @@ otherClubsSites:
     from: NE
     to: ESE
   - clubName: Malvern HGC
-    siteName: Bluith Wells
+    siteName: Builth Wells
     link: http://www.malvern-hang.org.uk/index.php?option=com_content&view=article&id=97&catid=11&Itemid=105
     from: NNW
     to: NNE
