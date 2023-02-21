@@ -57,7 +57,7 @@ interface safetyItem {
 
 interface siteData {
   id: string;
-  date: date;
+  date: Date;
   title: string;
   contentHtml: string;
   safetyItems: safetyItem[];

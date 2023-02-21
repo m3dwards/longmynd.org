@@ -61,7 +61,7 @@ export async function getCollectionData(id: string, collectionPath: string) {
   const returnObject = {
     id,
     contentHtml,
-    ...(matterResult.data as { date: string; title: string }),
+    ...(matterResult.data as { date: Date; title: string }),
   };
 
   // Combine the data with the id and contentHtml

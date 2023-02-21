@@ -57,7 +57,7 @@ interface learnItem {
 
 interface siteData {
   id: string;
-  date: date;
+  date: Date;
   title: string;
   contentHtml: string;
   learnItems: learnItem[];
