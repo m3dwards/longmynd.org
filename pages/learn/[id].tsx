@@ -31,10 +31,10 @@ export default function Site({ siteData, baseProps }: { siteData: siteData; base
         <section>
           {siteData.learnItems &&
             siteData.learnItems.map((item, index) => (
-              <>
+              <div key={index}>
                 <h3 id={index.toString()}>{item.title}</h3>
                 <p dangerouslySetInnerHTML={{ __html: remark().use(html).processSync(item.description).toString() }} />
-              </>
+              </div>
             ))}
         </section>
       </article>
