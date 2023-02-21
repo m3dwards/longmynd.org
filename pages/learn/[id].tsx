@@ -43,7 +43,7 @@ export default function Site({ siteData, baseProps }: { siteData: siteData; base
 }
 
 export const getStaticPaths: GetStaticPaths = async () => {
-  const paths = getAllCollectionIds("content/safety");
+  const paths = getAllCollectionIds("content/learn");
   return {
     paths,
     fallback: false,
