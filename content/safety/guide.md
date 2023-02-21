@@ -1,7 +1,7 @@
 ---
 title: Safety Guide
 date: 2022-08-17T19:31:20.000Z
-safetyItem:
+safetyItems:
   - description: >-
       This is especially important advice for new or low airtime pilots.
       Launching can be a very high mental workload, so many things to
