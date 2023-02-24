@@ -21,16 +21,16 @@ export default function Site({ siteData, baseProps }: { siteData: siteData; base
         </div>
         <div dangerouslySetInnerHTML={{ __html: siteData.contentHtml }} />
         <section className="quickLinks">
-          {siteData.learnItems &&
-            siteData.learnItems.map((item, index) => (
+          {siteData.pageItems &&
+            siteData.pageItems.map((item, index) => (
               <a className={""} key={index} href={"#" + index}>
                 <h3>{item.title}</h3>
               </a>
             ))}
         </section>
         <section>
-          {siteData.learnItems &&
-            siteData.learnItems.map((item, index) => (
+          {siteData.pageItems &&
+            siteData.pageItems.map((item, index) => (
               <div key={index}>
                 <h3 id={index.toString()}>{item.title}</h3>
                 <div
@@ -52,7 +52,7 @@ export const getStaticPaths: GetStaticPaths = async () => {
   };
 };
 
-interface learnItem {
+interface pageItem {
   title: string;
   description: string;
 }
@@ -62,7 +62,7 @@ interface siteData {
   date: Date;
   title: string;
   contentHtml: string;
-  learnItems: learnItem[];
+  pageItems: pageItem[];
 }
 
 const pageProps = async ({ params }) => {
