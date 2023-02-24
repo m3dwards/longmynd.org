@@ -36,9 +36,6 @@ export default function Site({ siteData, baseProps }: { siteData: siteData; base
                 <div
                   dangerouslySetInnerHTML={{ __html: remark().use(html).processSync(item.description).toString() }}
                 />
-                <p>{remark().use(html).processSync(item.description).toString()}</p>
-                <p dangerouslySetInnerHTML={{ __html: "<strong>dangerous!!</strong>" }} />
-                <p>{item.description}</p>
               </div>
             ))}
         </section>
