@@ -33,7 +33,7 @@ export default function Layout({
 
       <div>
         <header className={styles.header}>
-          <Nav data={navData as { sites: []; safety: [] }} />
+          <Nav data={navData as { sites: []; safety: []; learn: [] }} />
         </header>
       </div>
       <main className={styles.mainContainer}>
