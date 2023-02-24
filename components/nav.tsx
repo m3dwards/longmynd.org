@@ -72,7 +72,7 @@ export default function Nav({ data }: { data: { sites: []; safety: []; learn: []
     { title: "Safety", subItems: [...safetyPages] },
     { title: "Learn", subItems: [...learnPages] },
     /* { title: "Learn", subItems: [{ title: "Schools & Tandems" }, { title: "Coaching" }, { title: "Resources" }] }, */
-    { title: "Social" },
+    { title: "Social", link: "/social" },
     {
       title: "About Us",
       subItems: [{ title: "Commitee" }, { title: "Meetings" }, { title: "Competitions" }, { title: "Gallery" }],

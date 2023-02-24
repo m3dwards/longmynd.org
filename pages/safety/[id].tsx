@@ -8,7 +8,7 @@ import { getBaseProps } from "lib/baseProps";
 import { remark } from "remark";
 import html from "remark-html";
 
-export default function Site({ siteData, baseProps }: { siteData: siteData; baseProps: object }) {
+export default function Safety({ siteData, baseProps }: { siteData: siteData; baseProps: object }) {
   return (
     <Layout navData={baseProps}>
       <Head>

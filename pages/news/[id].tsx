@@ -6,7 +6,7 @@ import utilStyles from "../../styles/utils.module.css";
 import { GetStaticPaths } from "next";
 import { getBaseProps } from "lib/baseProps";
 
-export default function Site({
+export default function NewsItem({
   siteData,
   baseProps,
 }: {

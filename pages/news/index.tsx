@@ -1,6 +1,6 @@
 import Head from "next/head";
 import Layout, { siteTitle } from "components/layout";
-import { attributes, react as NewsContent } from "content/news.md";
+import { attributes, react as NewsContent } from "content/news/index.md";
 import { getBaseProps } from "lib/baseProps";
 import { getAllCollectionData } from "lib/collection";
 import { stripHtml } from "string-strip-html";
@@ -14,7 +14,7 @@ const pageProps = async (_: any) => {
 };
 export const getStaticProps = getBaseProps(pageProps);
 
-export default function Home({ baseProps, newsPages, weatherPages }) {
+export default function News({ baseProps, newsPages, weatherPages }) {
   return (
     <Layout home navData={baseProps}>
       <Head>
