@@ -18,15 +18,15 @@ export default function Social({ baseProps }: { baseProps: object }) {
   return (
     <Layout navData={baseProps}>
       <Head>
-        <title>{siteData.title as string}</title>
+        <title>{siteData.title}</title>
       </Head>
       <article>
-        <h1 className={utilStyles.headingXl}>{attributes.title as string}</h1>
+        <h1 className={utilStyles.headingXl}>{siteData.title}</h1>
         <div className={utilStyles.lightText}>{/* <Date date={attributes.date} /> */}</div>
         <SocialContent />
         <section className="quickLinks">
           {siteData.pageItems &&
-            (siteData.pageItems as []).map((item, index) => (
+            siteData.pageItems.map((item, index) => (
               <a className={""} key={index} href={"#" + index}>
                 <h3>{item.title}</h3>
               </a>
@@ -34,7 +34,7 @@ export default function Social({ baseProps }: { baseProps: object }) {
         </section>
         <section>
           {siteData.pageItems &&
-            (siteData.pageItems as []).map((item, index) => (
+            siteData.pageItems.map((item, index) => (
               <div key={index}>
                 <h3 id={index.toString()}>{item.title}</h3>
                 <div
