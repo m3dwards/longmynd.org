@@ -7,6 +7,7 @@ export const getBaseProps: (pageDataFn: (passedContext: any) => Promise<object>)
     const allSitesData = getSortedCollectionData("content/sites");
     const allSafetyData = getSortedCollectionData("content/safety");
     const allLearnData = getSortedCollectionData("content/learn");
+    const allAboutData = getSortedCollectionData("content/about");
     const pageData = await pageDataFn(context);
     return {
       props: {
@@ -14,6 +15,7 @@ export const getBaseProps: (pageDataFn: (passedContext: any) => Promise<object>)
           sites: allSitesData,
           safety: allSafetyData,
           learn: allLearnData,
+          about: allAboutData,
         },
         ...pageData,
       },

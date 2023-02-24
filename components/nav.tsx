@@ -34,7 +34,7 @@ function useOutsideAlerter(ref, onClick: Function) {
   }, [ref]);
 }
 
-export default function Nav({ data }: { data: { sites: []; safety: []; learn: [] } }) {
+export default function Nav({ data }: { data: { sites: []; safety: []; learn: []; about: [] } }) {
   const wrapperRef = React.useRef(null);
   const handleClickOutside = () => {
     setSubMenuActiveState("");
@@ -67,20 +67,23 @@ export default function Nav({ data }: { data: { sites: []; safety: []; learn: []
     learnPages.push({ title: learnPage.title, link: "/learn/" + learnPage.id });
   }
 
+  const aboutPages = [];
+  for (const aboutPage of data.about as Array<{ title: string; id: string }>) {
+    aboutPages.push({ title: aboutPage.title, link: "/about/" + aboutPage.id });
+  }
+
   const menuData: menuItem[] = [
     { title: "News & Weather", link: "/news" },
     { title: "Safety", subItems: [...safetyPages] },
     { title: "Learn", subItems: [...learnPages] },
-    /* { title: "Learn", subItems: [{ title: "Schools & Tandems" }, { title: "Coaching" }, { title: "Resources" }] }, */
     { title: "Social", link: "/social" },
     {
       title: "About Us",
-      subItems: [{ title: "Commitee" }, { title: "Meetings" }, { title: "Competitions" }, { title: "Gallery" }],
+      subItems: [...aboutPages],
     },
     {
       title: "Sites",
       link: "/sites",
-      /* subItems: [{ title: "Sites Guide", link: "/sites" }, ...sites], */
     },
 
     { title: "Join the club", isButton: true },
