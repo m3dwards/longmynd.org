@@ -228,8 +228,8 @@ collections:
       - { label: "Publish Date", name: "date", widget: "datetime" }
       - { label: "Body", name: "body", widget: "markdown" }
       - {
-          label: "Safety Items",
-          name: "safetyItems",
+          label: "Page Items",
+          name: "pageItems",
           widget: "list",
           required: false,
           fields:
