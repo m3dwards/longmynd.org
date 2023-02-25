@@ -35,6 +35,4 @@ safetyItems:
     title: AustrialAlpin Cobra harness buckle
 ---
 
-# Safety Guide
-
-Always fly with gloves on
+The following are a bunch of safety tips for your perusal.

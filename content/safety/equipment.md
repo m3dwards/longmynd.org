@@ -13,4 +13,4 @@ safetyItems:
     title: Ozone speed wings
 ---
 
-# Equipment safety recalls
+Here are some things you should watch out for on your equipment
