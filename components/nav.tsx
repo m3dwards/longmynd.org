@@ -86,8 +86,8 @@ export default function Nav({ data }: { data: { sites: []; safety: []; learn: []
       link: "/sites",
     },
 
-    { title: "Join the club", isButton: true },
-    { title: "Contact Us", isButton: true, secondary: true },
+    { title: "Join the club", isButton: true, link: "/join" },
+    { title: "Contact Us", isButton: true, secondary: true, link: "/contact" },
   ];
 
   const handleNavToggle = () => {
