@@ -121,7 +121,7 @@ export default function Nav({ data }: { data: { sites: []; safety: []; learn: []
                 { [styles.menuActive]: pathname === item.link },
                 { [styles.hasSubmenu]: !!item.subItems },
                 {
-                  [styles.submenuActive]: subMenuActiveState === item.title,
+                  [styles.submenuActive]: !!item.subItems && subMenuActiveState === item.title,
                 },
                 { [styles.button]: item.isButton },
                 { [styles.secondary]: item.secondary }

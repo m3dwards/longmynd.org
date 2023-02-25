@@ -215,15 +215,17 @@
   .submenuActive {
     background-color: #f5f5f5;
   }
-  .submenuActive > a,
-  .submenuActive > a::after,
-  .submenuActive > a:hover,
-  .submenuActive > a:hover::after,
-  .menuActive > a,
-  .menuActive > a::after,
-  .menuActive > a:hover,
-  .menuActive > a:hover::after {
-    color: var(--primary-color-dark);
-    background-color: #f5f5f5 !important;
+  li:not(.secondary) {
+    &.submenuActive > a,
+    &.submenuActive > a::after,
+    &.submenuActive > a:hover,
+    &.submenuActive > a:hover::after,
+    &.menuActive > a,
+    &.menuActive > a::after,
+    &.menuActive > a:hover,
+    &.menuActive > a:hover::after {
+      color: var(--primary-color-dark);
+      background-color: #f5f5f5 !important;
+    }
   }
 }
