@@ -1,7 +1,6 @@
 import Layout from "../../components/layout";
 import { getAllCollectionIds, getCollectionData } from "../../lib/collection";
 import Head from "next/head";
-import Date from "../../components/date";
 import utilStyles from "../../styles/utils.module.css";
 import { GetStaticPaths } from "next";
 import { getBaseProps } from "lib/baseProps";
@@ -16,9 +15,6 @@ export default function Learn({ siteData, baseProps }: { siteData: siteData; bas
       </Head>
       <article>
         <h1 className={utilStyles.headingXl}>{siteData.title}</h1>
-        <div className={utilStyles.lightText}>
-          <Date date={siteData.date} />
-        </div>
         <div dangerouslySetInnerHTML={{ __html: siteData.contentHtml }} />
         <section className="quickLinks">
           {siteData.pageItems &&
