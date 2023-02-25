@@ -36,17 +36,6 @@ collections:
           - { label: "Title", name: "title", widget: "string" }
           - { label: "Publish Date", name: "date", widget: "datetime" }
           - { label: "Body", name: "body", widget: "markdown" }
-          - {
-              label: "Page Items",
-              name: "pageItems",
-              widget: "list",
-              required: false,
-              fields:
-                [
-                  { label: "Title", name: "title", widget: "text" },
-                  { label: "Description", name: "description", widget: "markdown" },
-                ],
-            }
       - label: "Join"
         name: "join"
         file: "content/join.md"
