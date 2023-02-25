@@ -2,8 +2,8 @@
   display: grid;
   background-color: #fff !important;
   grid-template-columns: [first-col] 100%;
-  grid-template-rows: [first-row] 500px;
-  height: 500px;
+  grid-template-rows: [first-row] 400px;
+  height: 400px;
   div {
     grid-column-start: first-col;
     grid-row-start: first-row;
@@ -34,7 +34,7 @@
   justify-content: center;
   div {
     position: relative;
-    top: 20%;
+    top: 25%;
   }
 
   h1 {
