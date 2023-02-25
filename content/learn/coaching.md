@@ -7,6 +7,4 @@ pageItems:
       coaching at the LMSC
 ---
 
-# Coaching
-
 Get some coaching at the Long Mynd Soaring Club!
