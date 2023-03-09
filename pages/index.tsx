@@ -70,7 +70,7 @@ export default function Home({ baseProps }) {
               </a>
             </div>
             <div>
-              <a href="/sites/webcams" className={styles.featureBox}>
+              <a href="/webcams" className={styles.featureBox}>
                 <Image priority src={Hill3} layout="fill" width="100%" height="100%" />
                 <div className={styles.textContainer}>
                   <span>Webcams</span>
