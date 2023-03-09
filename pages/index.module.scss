@@ -69,6 +69,10 @@
   img {
     border-radius: 15px;
   }
+  &:visited,
+  &:active {
+    color: #fff;
+  }
 }
 
 .homeSections {
