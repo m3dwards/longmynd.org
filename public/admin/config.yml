@@ -62,6 +62,8 @@ collections:
             widget: "list"
             required: false
             fields:
+              - { label: "Name", name: "name", widget: "string" }
+              - { label: "Description", name: "description", widget: "markdown" }
               - {
                   label: "Weather Stations",
                   name: "weatherStations",
