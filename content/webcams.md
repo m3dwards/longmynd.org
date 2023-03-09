@@ -5,9 +5,9 @@ locations:
   - name: Long Mynd
     description: Here are the webcams for the Long Mynd
     weatherStations:
-      - station: '<iframe frameborder="0" marginheight="1" marginwidth="1"
-          scrolling="no"  src="https://widget.holfuy.com/?station=1175&su=mph&t=C&lang=en&mode=vertical&responsive"
-          style="height: 550px; width: auto;"></iframe>'
+      - station: <iframe frameborder="0" marginheight="1" marginwidth="1"
+          scrolling="no"  src="https://widget.holfuy.com/?station=1175&su=mph&t=C&lang=en&mode=vertical"
+          style="width:200px; height:550px;"></iframe>
       - station: '<iframe style="width: 100%; height: 170px;"
           src="https://widget.holfuy.com/?station=1175&amp;su=mph&amp;t=C&amp;lang=en&amp;mode=average&amp;avgrows=32"
           width="300" height="150" frameborder="0" marginwidth="1"
