@@ -3,6 +3,8 @@ import Head from "next/head";
 import utilStyles from "styles/utils.module.css";
 import { getBaseProps } from "lib/baseProps";
 import { attributes, react as WebcamContent } from "content/webcams.md";
+import { remark } from "remark";
+import html from "remark-html";
 
 export default function Webcams({ baseProps }: { baseProps: object }) {
   const siteData: siteData = {
@@ -40,7 +42,7 @@ export default function Webcams({ baseProps }: { baseProps: object }) {
               {l.webcams && (
                 <section>
                   <h3 id="webcams">Webcams</h3>
-                  <div dangerouslySetInnerHTML={{ __html: "some html" }} />
+                  <div dangerouslySetInnerHTML={{ __html: remark().use(html).processSync(l.webcams).toString() }} />
                 </section>
               )}
             </section>
