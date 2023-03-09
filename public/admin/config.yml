@@ -57,6 +57,20 @@ collections:
           - { label: "Title", name: "title", widget: "string" }
           - { label: "Publish Date", name: "date", widget: "datetime" }
           - { label: "Body", name: "body", widget: "markdown" }
+          - label: "Locations"
+            name: "locations"
+            widget: "list"
+            required: false
+            fields:
+              - {
+                  label: "Weather Stations",
+                  name: "weatherStations",
+                  widget: "list",
+                  required: false,
+                  fields: [{ label: "Station", name: "station", widget: "text" }],
+                }
+              - { label: "Webcams", name: "webcams", widget: "markdown", required: false }
+
       - label: "Sites"
         name: "sites"
         file: "content/sites/index.md"
