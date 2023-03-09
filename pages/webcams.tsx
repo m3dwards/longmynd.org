@@ -26,16 +26,24 @@ export default function Webcams({ baseProps }: { baseProps: object }) {
       <article>
         <h1 className={utilStyles.headingXl}>{siteData.title}</h1>
         <WebcamContent />
+        <section className="quickLinks">
+          {siteData.locations &&
+            siteData.locations.map((item, index) => (
+              <a className={""} key={index} href={"#" + index}>
+                <h3>{item.name}</h3>
+              </a>
+            ))}
+        </section>
         {siteData.locations &&
-          siteData.locations.map((l) => (
-            <section>
-              <h2>{l.name}</h2>
+          siteData.locations.map((l, index) => (
+            <section key={index}>
+              <h2 id={index.toString()}>{l.name}</h2>
               <p>{l.description}</p>
               {l.weatherStations && (
                 <section>
                   <h3 id="weather">Weather Stations</h3>
-                  {l.weatherStations.map((ws) => (
-                    <div dangerouslySetInnerHTML={{ __html: ws.station }} />
+                  {l.weatherStations.map((ws, wsindex) => (
+                    <div key={wsindex} dangerouslySetInnerHTML={{ __html: ws.station }} />
                   ))}
                 </section>
               )}
