@@ -11,13 +11,26 @@ import { attributes, react as HomeContent } from "content/index.md";
 import { remark } from "remark";
 import html from "remark-html";
 import { getBaseProps } from "lib/baseProps";
+import { getAllCollectionData } from "lib/collection";
+import { stripHtml } from "string-strip-html";
+import FormatDate from "components/date";
 
 const pageProps = async (_: any) => {
-  return {};
+  let newsPages = await getAllCollectionData("content/news");
+  newsPages.sort((npa, npb) => {
+    return new Date(npb.date).valueOf() - new Date(npa.date).valueOf();
+  });
+  newsPages = newsPages.slice(0, 2);
+  let weatherPages = await getAllCollectionData("content/weather");
+  weatherPages.sort((wa, wb) => {
+    return new Date(wb.date).valueOf() - new Date(wa.date).valueOf();
+  });
+  weatherPages.slice(0, 2);
+  return { newsPages: newsPages, weatherPages: weatherPages };
 };
 export const getStaticProps = getBaseProps(pageProps);
 
-export default function Home({ baseProps }) {
+export default function Home({ baseProps, newsPages, weatherPages }) {
   const [topBodyState, setTopBodyState] = React.useState("");
 
   const getTopBody = async () => {
@@ -79,26 +92,19 @@ export default function Home({ baseProps }) {
             </div>
             <div className={styles.newsSection}>
               <h2>Recent News</h2>
-              <div className={styles.shortNewsItem}>
-                <strong>News item 1</strong>
-                <small>
-                  <em>29/8/2022</em>
-                </small>
-                <p>
-                  A news story covering important developments within the LMSC community. Webcams are now back online...
-                </p>
-                <button>Read more</button>
-              </div>
-              <div className={styles.shortNewsItem}>
-                <strong>News item 1</strong>
-                <small>
-                  <em>29/8/2022</em>
-                </small>
-                <p>
-                  A news story covering important developments within the LMSC community. Webcams are now back online...
-                </p>
-                <button>Read more</button>
-              </div>
+              {newsPages &&
+                newsPages.map((item, index) => (
+                  <div className={styles.shortNewsItem}>
+                    <strong>{item.title}</strong>
+                    <small>
+                      <FormatDate date={item.date} />
+                    </small>
+                    <div className={styles.summary}>{stripHtml(item.contentHtml).result}</div>
+                    <a className={styles.newsItem} key={index} href={"/news/" + item.id}>
+                      <button>Read more</button>
+                    </a>
+                  </div>
+                ))}
             </div>
           </section>
           <HomeContent />
