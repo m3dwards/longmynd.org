@@ -50,6 +50,20 @@ collections:
           - { label: "Title", name: "title", widget: "string" }
           - { label: "Publish Date", name: "date", widget: "datetime" }
           - { label: "Body", name: "body", widget: "markdown" }
+      - label: "CANP"
+        name: "canp"
+        file: "content/canp.md"
+        fields:
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Publish Date", name: "date", widget: "datetime" }
+          - { label: "Body", name: "body", widget: "markdown" }
+      - label: "Report Incident"
+        name: "reportIncident"
+        file: "content/report-incident.md"
+        fields:
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Publish Date", name: "date", widget: "datetime" }
+          - { label: "Body", name: "body", widget: "markdown" }
       - label: "Webcams"
         name: "webcams"
         file: "content/webcams.md"
