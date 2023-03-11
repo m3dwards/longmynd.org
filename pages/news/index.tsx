@@ -4,12 +4,19 @@ import { attributes, react as NewsContent } from "content/news/index.md";
 import { getBaseProps } from "lib/baseProps";
 import { getAllCollectionData } from "lib/collection";
 import { stripHtml } from "string-strip-html";
-import Date from "components/date";
+import FormatDate from "components/date";
 import styles from "./news.module.scss";
 
 const pageProps = async (_: any) => {
-  const newsPages = await getAllCollectionData("content/news");
-  const weatherPages = await getAllCollectionData("content/weather");
+  let newsPages = await getAllCollectionData("content/news");
+  newsPages.sort((npa, npb) => {
+    return new Date(npb.date).valueOf() - new Date(npa.date).valueOf();
+  });
+  let weatherPages = await getAllCollectionData("content/weather");
+  weatherPages.sort((wa, wb) => {
+    return new Date(wb.date).valueOf() - new Date(wa.date).valueOf();
+  });
+  weatherPages = weatherPages.slice(0, 3);
   return { newsPages: newsPages, weatherPages: weatherPages };
 };
 export const getStaticProps = getBaseProps(pageProps);
@@ -33,7 +40,7 @@ export default function News({ baseProps, newsPages, weatherPages }) {
                     <div>
                       <h3>{item.title}</h3>
                       <small>
-                        <Date date={item.date} />
+                        <FormatDate date={item.date} />
                       </small>
                       <div className={styles.summary}>{stripHtml(item.contentHtml).result}</div>
                     </div>
@@ -42,7 +49,7 @@ export default function News({ baseProps, newsPages, weatherPages }) {
             </div>
           </section>
           <section>
-            <h2>Recent News</h2>
+            <h2>Latest News</h2>
             <div className={styles.container}>
               {newsPages &&
                 newsPages.map((item, index) => (
@@ -50,7 +57,7 @@ export default function News({ baseProps, newsPages, weatherPages }) {
                     <div>
                       <h3>{item.title}</h3>
                       <small>
-                        <Date date={item.date} />
+                        <FormatDate date={item.date} />
                       </small>
                       <div className={styles.summary}>{stripHtml(item.contentHtml).result}</div>
                     </div>
