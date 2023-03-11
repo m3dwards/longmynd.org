@@ -7,6 +7,8 @@ import CoverImage from "img/cover.jpg";
 import CoverLogo from "img/home-circle-logo-black-white.png";
 import Hill2 from "img/hill2.jpg";
 import Hill3 from "img/hill3.jpg";
+import CANP from "img/canp.jpg";
+import Incident from "img/incident.jpg";
 import { attributes, react as HomeContent } from "content/index.md";
 import { remark } from "remark";
 import html from "remark-html";
@@ -25,12 +27,12 @@ const pageProps = async (_: any) => {
   weatherPages.sort((wa, wb) => {
     return new Date(wb.date).valueOf() - new Date(wa.date).valueOf();
   });
-  weatherPages = weatherPages.slice(0, 2);
-  return { newsPages: newsPages, weatherPages: weatherPages };
+  newsPages.unshift(weatherPages.shift());
+  return { newsPages: newsPages };
 };
 export const getStaticProps = getBaseProps(pageProps);
 
-export default function Home({ baseProps, newsPages, weatherPages }) {
+export default function Home({ baseProps, newsPages }) {
   const [topBodyState, setTopBodyState] = React.useState("");
 
   const getTopBody = async () => {
@@ -73,34 +75,49 @@ export default function Home({ baseProps, newsPages, weatherPages }) {
       <section>
         <>
           <div dangerouslySetInnerHTML={{ __html: topBodyState }}></div>
+          <a target="_blank" href="https://webcollect.org.uk/lmsc/subscription">
+            <button>Pay £3 Long Mynd day fee</button>
+          </a>
           <section className={styles.homeSections}>
-            <div>
+            <div className={styles.homeQuickLinks}>
               <a href="/sites" className={styles.featureBox}>
                 <Image priority src={Hill2} layout="fill" width="100%" height="100%" />
                 <div className={styles.textContainer}>
                   <span>Site Guide</span>
                 </div>
               </a>
-            </div>
-            <div>
               <a href="/webcams" className={styles.featureBox}>
                 <Image priority src={Hill3} layout="fill" width="100%" height="100%" />
                 <div className={styles.textContainer}>
                   <span>Webcams</span>
                 </div>
               </a>
+              <a href="/sites" className={styles.featureBox}>
+                <Image priority src={Incident} layout="fill" width="100%" height="100%" />
+                <div className={styles.textContainer}>
+                  <span>Report an incident</span>
+                </div>
+              </a>
+              <a href="/webcams" className={styles.featureBox}>
+                <Image priority src={CANP} layout="fill" width="100%" height="100%" />
+                <div className={styles.textContainer}>
+                  <span>CANP</span>
+                </div>
+              </a>
             </div>
             <div className={styles.newsSection}>
-              <h2>Recent News</h2>
+              <h2>Latest Weather & News</h2>
               {newsPages &&
                 newsPages.map((item, index) => (
                   <a className={styles.shortNewsItem} key={index} href={"/news/" + item.id}>
-                    <h3>{item.title}</h3>
-                    <small>
-                      <FormatDate date={item.date} />
-                    </small>
-                    <div className={styles.summary}>{stripHtml(item.contentHtml).result}</div>
-                    <button>Read more</button>
+                    <div>
+                      <h3>{item.title}</h3>
+                      <small>
+                        <FormatDate date={item.date} />
+                      </small>
+                      <div className={styles.summary}>{stripHtml(item.contentHtml).result}</div>
+                      <button>Read more</button>
+                    </div>
                   </a>
                 ))}
             </div>
