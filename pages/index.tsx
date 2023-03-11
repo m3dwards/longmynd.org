@@ -92,13 +92,13 @@ export default function Home({ baseProps, newsPages }) {
                   <span>Webcams</span>
                 </div>
               </a>
-              <a href="/sites" className={styles.featureBox}>
+              <a href="/report-incident" className={styles.featureBox}>
                 <Image priority src={Incident} layout="fill" width="100%" height="100%" />
                 <div className={styles.textContainer}>
                   <span>Report an incident</span>
                 </div>
               </a>
-              <a href="/webcams" className={styles.featureBox}>
+              <a href="/canp" className={styles.featureBox}>
                 <Image priority src={CANP} layout="fill" width="100%" height="100%" />
                 <div className={styles.textContainer}>
                   <span>CANP</span>

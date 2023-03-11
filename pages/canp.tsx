@@ -2,9 +2,9 @@ import Layout from "components/layout";
 import Head from "next/head";
 import utilStyles from "styles/utils.module.css";
 import { getBaseProps } from "lib/baseProps";
-import { attributes, react as JoinContent } from "content/join.md";
+import { attributes, react as CANPContent } from "content/canp.md";
 
-export default function Join({ baseProps }: { baseProps: object }) {
+export default function CANP({ baseProps }: { baseProps: object }) {
   const siteData: siteData = {
     id: attributes.id as string,
     date: attributes.date as Date,
@@ -17,7 +17,7 @@ export default function Join({ baseProps }: { baseProps: object }) {
       </Head>
       <article>
         <h1 className={utilStyles.headingXl}>{siteData.title}</h1>
-        <JoinContent />
+        <CANPContent />
       </article>
     </Layout>
   );
