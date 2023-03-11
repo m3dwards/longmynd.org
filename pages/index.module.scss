@@ -91,9 +91,35 @@
 }
 
 .shortNewsItem {
-  margin-bottom: 20px;
-  small {
-    margin-left: 20px;
+  display: inline-block;
+  margin-bottom: 40px;
+  &:link,
+  &:visited,
+  &:active {
+    color: var(--primary-color-dark);
+  }
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    margin: 0;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+  .summary {
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    margin-top: 20px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+  button {
+    cursor: pointer;
+    margin-top: 10px;
   }
 }
 

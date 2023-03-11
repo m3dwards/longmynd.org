@@ -25,7 +25,7 @@ const pageProps = async (_: any) => {
   weatherPages.sort((wa, wb) => {
     return new Date(wb.date).valueOf() - new Date(wa.date).valueOf();
   });
-  weatherPages.slice(0, 2);
+  weatherPages = weatherPages.slice(0, 2);
   return { newsPages: newsPages, weatherPages: weatherPages };
 };
 export const getStaticProps = getBaseProps(pageProps);
@@ -94,16 +94,14 @@ export default function Home({ baseProps, newsPages, weatherPages }) {
               <h2>Recent News</h2>
               {newsPages &&
                 newsPages.map((item, index) => (
-                  <div className={styles.shortNewsItem}>
-                    <strong>{item.title}</strong>
+                  <a className={styles.shortNewsItem} key={index} href={"/news/" + item.id}>
+                    <h3>{item.title}</h3>
                     <small>
                       <FormatDate date={item.date} />
                     </small>
                     <div className={styles.summary}>{stripHtml(item.contentHtml).result}</div>
-                    <a className={styles.newsItem} key={index} href={"/news/" + item.id}>
-                      <button>Read more</button>
-                    </a>
-                  </div>
+                    <button>Read more</button>
+                  </a>
                 ))}
             </div>
           </section>
