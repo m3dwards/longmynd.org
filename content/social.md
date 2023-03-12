@@ -1,5 +1,5 @@
 ---
-title: Supervised Parachute Repack - Saturday 18 March 2023
+title: Social
 date: 2022-08-17T19:31:20.000Z
 ---
 Supervised Parachute Repack - Saturday 18 March 2023
