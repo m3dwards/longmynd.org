@@ -2,8 +2,6 @@
 title: Contact
 date: 2022-08-17T19:31:20.000Z
 ---
-<!--StartFragment-->
-
 ### Reaching the Clubs Committee
 
 ### Email: club \[at] longmynd.org
@@ -11,8 +9,6 @@ date: 2022-08-17T19:31:20.000Z
 or club members may prefer to use the Committee contact page to reach a specific person:
 
 [http://www.longmynd.org/?page_id=4](http://www.longmynd.org/?page_id=4 "Committee Members")
-
- 
 
 ### **Club Coaches**
 
@@ -54,8 +50,6 @@ The Long Mynd Soaring Club is a member of the British Hang Gliding & Paragliding
 
 [https://www.bhpa.co.uk/](https://www.bhpa.co.uk/ "BHPA")
 
- 
-
 ### **Social Media & Messaging Groups**
 
 **Telegram group: LMSC Chat** (general chat and Q&A)\
@@ -67,5 +61,3 @@ The Long Mynd Soaring Club is a member of the British Hang Gliding & Paragliding
 **Telegram group: Wales & Welsh Borders Retrieve** (not Club run, but the cross country retrieve group that covers our sites; see <https://flyaszent.com/xc-retrieve/> )
 
 **Facebook**: <https://www.facebook.com/groups/www.longmynd.org> (advertises club events, for sharing interesting flying news and ideal for showing your pics and videos of flying on or near LMSC sites)
-
-<!--EndFragment-->
