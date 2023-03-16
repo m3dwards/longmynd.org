@@ -1,7 +1,5 @@
 import Head from "next/head";
 import styles from "./layout.module.scss";
-/* import utilStyles from "../styles/utils.module.css"; */
-import Link from "next/link";
 import Nav from "components/nav";
 export const siteTitle = "LMSC Website";
 
@@ -44,9 +42,7 @@ export default function Layout({
 
             {!home && (
               <div className={styles.backToHome}>
-                <Link href="/">
-                  <a>← Back to home</a>
-                </Link>
+                <a onClick={() => history.back()}>← Back</a>
               </div>
             )}
           </div>

@@ -136,7 +136,14 @@ export default function Site({
                     <td>
                       <strong>What3words:</strong>
                     </td>
-                    <td>{siteData.location.what3words}</td>
+                    <td>
+                      <a
+                        href={"https://what3words.com/" + siteData.location.what3words.replace(/\//g, "")}
+                        target="_blank"
+                      >
+                        {siteData.location.what3words}
+                      </a>
+                    </td>
                   </tr>
                   {siteData.location.latlong && (
                     <>
@@ -162,15 +169,6 @@ export default function Site({
                           </a>
                           <br />
                           <a
-                            href={`https://www.openstreetmap.org/?mlat=${siteData.location.latlong
-                              .split(",")[0]
-                              .trim()}&mlon=${siteData.location.latlong.split(",")[1].trim()}`}
-                            target="_blank"
-                          >
-                            Open Street Map
-                          </a>
-                          <br />
-                          <a
                             href={`https://explore.osmaps.com/pin?lat=${siteData.location.latlong
                               .split(",")[0]
                               .trim()}&lon=${siteData.location.latlong.split(",")[1].trim()}&zoom=14.0000`}
@@ -178,22 +176,6 @@ export default function Site({
                           >
                             OS Maps
                           </a>
-                          <br />
-                          <a
-                            href={`https://www.bing.com/maps?cp=${siteData.location.latlong
-                              .split(",")[0]
-                              .trim()}~${siteData.location.latlong
-                              .split(",")[1]
-                              .trim()}&lvl=14&style=r&sp=point.${siteData.location.latlong
-                              .split(",")[0]
-                              .trim()}_${siteData.location.latlong.split(",")[1].trim()}_${encodeURIComponent(
-                              siteData.location.latlong
-                            )}`}
-                            target="_blank"
-                          >
-                            Bing Maps
-                          </a>
-                          <br />
                         </td>
                       </tr>
                     </>
