@@ -42,7 +42,7 @@ export const getStaticPaths: GetStaticPaths = async () => {
 };
 
 const pageProps = async ({ params }) => {
-  const siteData = await getCollectionData(params.id as string, "content/news");
+  const siteData = getCollectionData(params.id as string, "content/news");
   return {
     siteData,
   };

@@ -42,7 +42,7 @@ export const getStaticPaths: GetStaticPaths = async () => {
 };
 
 const pageProps = async ({ params }) => {
-  const siteData = await getCollectionData(params.id as string, "content/weather");
+  const siteData = getCollectionData(params.id as string, "content/weather");
   return {
     siteData,
   };

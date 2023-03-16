@@ -62,7 +62,7 @@ interface siteData {
 }
 
 const pageProps = async ({ params }) => {
-  const siteData = (await getCollectionData(params.id as string, "content/safety")) as siteData;
+  const siteData = getCollectionData(params.id as string, "content/safety") as siteData;
   return {
     siteData,
   };

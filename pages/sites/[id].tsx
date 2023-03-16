@@ -347,7 +347,7 @@ export const getStaticPaths: GetStaticPaths = async () => {
 };
 
 const pageProps = async ({ params }) => {
-  const siteData = await getCollectionData(params.id as string, "content/sites");
+  const siteData = getCollectionData(params.id as string, "content/sites");
   return {
     siteData,
   };

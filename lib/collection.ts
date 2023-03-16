@@ -47,7 +47,7 @@ export function getAllCollectionIds(collectionPath: string) {
   });
 }
 
-export async function getCollectionData(id: string, collectionPath: string) {
+export function getCollectionData(id: string, collectionPath: string) {
   const collectionDirectory = path.join(process.cwd(), collectionPath);
   const fullPath = path.join(collectionDirectory, `${id}.md`);
   const fileContents = fs.readFileSync(fullPath, "utf8");
@@ -56,7 +56,7 @@ export async function getCollectionData(id: string, collectionPath: string) {
   const matterResult = matter(fileContents);
 
   // Use remark to convert markdown into HTML string
-  const processedContent = await remark().use(html, { sanitize: true }).process(matterResult.content);
+  const processedContent = remark().use(html, { sanitize: true }).processSync(matterResult.content);
   const contentHtml = processedContent.toString();
   const returnObject = {
     id,

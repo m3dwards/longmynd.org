@@ -28,3 +28,10 @@ export interface additionalSite {
   to: string;
   link: string;
 }
+
+export interface basicPage {
+  id: string;
+  date: Date;
+  title: string;
+  contentHtml: string;
+}
