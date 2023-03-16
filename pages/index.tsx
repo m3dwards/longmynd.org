@@ -27,12 +27,12 @@ const pageProps = async (_: any) => {
   weatherPages.sort((wa, wb) => {
     return new Date(wb.date).valueOf() - new Date(wa.date).valueOf();
   });
-  newsPages.unshift(weatherPages.shift());
-  return { newsPages: newsPages };
+  weatherPages = weatherPages.slice(0, 1);
+  return { newsPages: newsPages, weatherPages: weatherPages };
 };
 export const getStaticProps = getBaseProps(pageProps);
 
-export default function Home({ baseProps, newsPages }) {
+export default function Home({ baseProps, newsPages, weatherPages }) {
   const [topBodyState, setTopBodyState] = React.useState("");
 
   const getTopBody = async () => {
@@ -107,6 +107,19 @@ export default function Home({ baseProps, newsPages }) {
             </div>
             <div className={styles.newsSection}>
               <h2>Latest Weather & News</h2>
+              {weatherPages &&
+                weatherPages.map((item, index) => (
+                  <a className={styles.shortNewsItem} key={index} href={"/weather/" + item.id}>
+                    <div>
+                      <h3>{item.title}</h3>
+                      <small>
+                        <FormatDate date={item.date} />
+                      </small>
+                      <div className={styles.summary}>{stripHtml(item.contentHtml).result}</div>
+                      <button>Read more</button>
+                    </div>
+                  </a>
+                ))}
               {newsPages &&
                 newsPages.map((item, index) => (
                   <a className={styles.shortNewsItem} key={index} href={"/news/" + item.id}>
