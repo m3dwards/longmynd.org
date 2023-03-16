@@ -4,8 +4,6 @@ import { getCollectionData } from "lib/collection";
 import { basicPage } from "types";
 
 export default function PayFee({ baseProps, siteData }: { baseProps: object; siteData: basicPage }) {
-  console.log(baseProps);
-  console.log(siteData);
   return <BasicPage baseProps={baseProps} siteData={siteData} />;
 }
 
