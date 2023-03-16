@@ -75,7 +75,7 @@ export default function Home({ baseProps, newsPages, weatherPages }) {
       <section>
         <>
           <div dangerouslySetInnerHTML={{ __html: topBodyState }}></div>
-          <a target="_blank" href="https://webcollect.org.uk/lmsc/subscription">
+          <a href="/pay-fee">
             <button>Pay £3 Long Mynd day fee</button>
           </a>
           <section className={styles.homeSections}>

@@ -95,7 +95,9 @@ export default function Site({
                   <td>
                     <strong>Site Fee</strong>
                   </td>
-                  <td>{siteData.fee}</td>
+                  <td>
+                    {siteData.fee} - <a href="/pay-fee">pay online</a>
+                  </td>
                 </tr>
               )}
               <tr>
