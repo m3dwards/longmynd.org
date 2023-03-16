@@ -50,7 +50,7 @@ collections:
           - { label: "Title", name: "title", widget: "string" }
           - { label: "Publish Date", name: "date", widget: "datetime" }
           - { label: "Body", name: "body", widget: "markdown" }
-      - label: "PayFee"
+      - label: "Pay Fee"
         name: "payFee"
         file: "content/pay-fee.md"
         fields:
