@@ -57,14 +57,6 @@ collections:
           - { label: "Title", name: "title", widget: "string" }
           - { label: "Publish Date", name: "date", widget: "datetime" }
           - { label: "Body", name: "body", widget: "markdown" }
-      - label: "Committee Meetings"
-        name: "committeeMeetings"
-        file: "content/meetings/index.md"
-        create: true
-        fields:
-          - { label: "Title", name: "title", widget: "string" }
-          - { label: "Publish Date", name: "date", widget: "datetime" }
-          - { label: "Body", name: "body", widget: "markdown" }
       - label: "CANP"
         name: "canp"
         file: "content/canp.md"
@@ -339,3 +331,12 @@ collections:
               { label: "Minutes", name: "minutes", widget: "file", required: false },
             ],
         }
+    files:
+      - label: "Committee Meetings"
+        name: "committeeMeetings"
+        file: "content/meetings/index.md"
+        create: true
+        fields:
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Publish Date", name: "date", widget: "datetime" }
+          - { label: "Body", name: "body", widget: "markdown" }
