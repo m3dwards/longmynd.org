@@ -69,13 +69,17 @@ Gate & access explanation:
 
 \- the 1st gate: after turning off the tarmac road onto the dirt track, pilots can park well to the right side of this track before the 1st gate. \
 
-- the 2nd gate: this is a enlarged turning area with Lan Fawr gate to the right and Corndon to the left. A few cars can park here but tractors with long trailers use the area as a turning circle to get into the gates so be very sure you are well out of the way. If it already has cars, please go back down to park on the lower track. DO NOT GO THROUGH THESE 2ND GATES WITH A VEHICLE.\
-- the 3rd gate: this is at the very top of Corndon. No vehicles must drive up to this gate – it really could jeopodise our use of the site.
+* the 2nd gate: this is a enlarged turning area with Lan Fawr gate to the right and Corndon to the left. A few cars can park here but tractors with long trailers use the area as a turning circle to get into the gates so be very sure you are well out of the way. If it already has cars, please go back down to park on the lower track. DO NOT GO THROUGH THESE 2ND GATES WITH A VEHICLE.\
+* the 3rd gate: this is at the very top of Corndon. No vehicles must drive up to this gate – it really could jeopodise our use of the site.
 
 Vehicles to be parked in the lane such that farm vehicles can pass at all times. Park well over and not close to gates!\
 Pilots should assume farm vehicles are towing large & wide loads and must be able to both pass & to “turn in” to gated accesses, which must not be obstructed.
 
 Always close & chain all gates – even if you find them open. The chain is important otherwise sheep will work a closed gate till they get through!
+
+### Farm with horses to be avoided
+
+![](/img/corndon_horses.jpeg)
 
 #### CAUTION
 
