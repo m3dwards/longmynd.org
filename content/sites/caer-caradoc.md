@@ -1,7 +1,7 @@
 ---
 name: Caer Caradoc
 published: true
-status: Open to all
+status: Open to club members
 hgRating: CP
 pgRating: CP
 windDirection:
@@ -28,6 +28,7 @@ flying: >-
   * No paramotors allowed.
 
   * No dogs allowed.
+poiImage: /img/caer-caradoc-poi.jpeg
 date: 2022-08-21T14:19:54.068Z
 ---
 Caer Caradoc
