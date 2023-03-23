@@ -46,6 +46,8 @@ flying: >-
   * No paramotors allowed.
 
   * No dogs allowed.
+mainImage: /img/black-knoll-main.jpeg
+poiImage: /img/black-knoll-poi.jpeg
 date: 2022-08-21T14:19:24.804Z
 ---
 This site is used by our registered schools, for instruction. Please respect their needs.\
