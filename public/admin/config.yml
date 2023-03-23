@@ -59,7 +59,7 @@ collections:
           - { label: "Body", name: "body", widget: "markdown" }
       - label: "Committee Meetings"
         name: "committeeMeetings"
-        folder: "content/meetings/index.md"
+        file: "content/meetings/index.md"
         create: true
         fields:
           - { label: "Title", name: "title", widget: "string" }
