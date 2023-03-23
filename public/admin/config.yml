@@ -253,7 +253,7 @@ collections:
           name: "mainImage",
           widget: "image",
           required: false,
-          media_library: { config: { max_file_size: 512 } },
+          media_library: { config: { max_file_size: 1000000 } },
         }
       - { label: "POI Image", name: "poiImage", widget: "image", required: false }
       - { label: "Publish Date", name: "date", widget: "datetime" }
