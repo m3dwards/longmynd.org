@@ -3,8 +3,8 @@ name: Red Hopton Farm
 published: true
 status: Open to club members
 sensitive: true
-hgRating: CP +100 hours
-pgRating: CP +100 hours
+hgRating: P +100 hours
+pgRating: P +100 hours
 windDirection:
   - from: NNW
     to: NNE
