@@ -48,9 +48,17 @@ mainImage: /img/longmyndmap.jpg
 poiImage: /img/mynd2-map.jpeg
 date: 2022-10-15T18:09:30.682Z
 ---
+#### SITE FEES
 
-Long Mynd
+***Please note:* if you are not an LMSC member, there is a £3 per day site fee for flying the Mynd.** Please put the money in the collection post by the gate, or [pay online](/pay-fee). Site fees are used to maintain the site (which is not cheap) and when possible (or appropriate), for donations to air ambulance.
 
-Long Mynd is a lovely site
+#### INTRODUCTION
 
-<https://what3words.com/windmill.grounded.student>
+* This is an extremely popular site in a Westerly, and can get extremely busy. If you have not flown the site before, take a few minutes to read the all the information on these pages.
+* Additional information will often be posted in the notice boards at the entrance.
+* T/O altitude 1400 ft AMSL, hill is 700ft above the valley floor.
+* No paramotors allowed.
+* No dogs allowed.
+* Please note that the only area where our two local schools teach ab-initio and early post CP pilots is Black Knoll at the south end of the Mynd.  Please bear that in mind when flying the whole ridge and give those pilots plenty of space and don’t hog their launch area if you can see people preparing to launch.  They have more than enough to concern themselves with than avoiding or being intimidated by other traffic.
+* The site is very popular with both hang gliders & paragliders. Please note the field layout below for respective launch and landing details and be aware of the different behavior of the aircraft when mixing. For everyone’s safety, please read the following:  [DHV Flying Together Hang gliders and paragliders](http://www.longmynd.org/wp-content/uploads/2021/12/DHV-Flying-Together-Hang-gliders-and-paragliders.pdf)
+* Please remember this is an airfield, not a play nor picnic site. Please keep it clear of anything that could be a risk or at risk – including no picnics, no BBQ’s, no kites, no drones, no camping chairs, no prams/pushchairs etc.
