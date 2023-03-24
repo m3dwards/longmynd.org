@@ -47,9 +47,7 @@ launchesAndLanding: >-
   **Spectators are NOT allowed on the field. However, friends and family are allowed, but are the responsibility of the pilot who must brief them accordingly, particularly with respect to keeping the landing areas clear. Ordinary tourists, with no links to the club, should be asked politely to leave the field. It is the responsibility of all pilots to police this, not just the committee!**
 
 
-  Skywings Article Feb 2021 by Steve Young – Definitive guide to top landing on the Long Mynd\
-
-  Click to view/download article: [here](http://www.longmynd.org/wp-content/uploads/2022/09/Long-Mynd-Top-landing-guide-Skywings-Article-Steve-Young.pdf)
+  Skywings Article Feb 2021 by Steve Young – [Definitive guide to top landing on the Long Mynd](/img/long-mynd-top-landing-guide-skywings-article-steve-young.pdf)
 
 
   **Take-offs and top landing**
@@ -106,7 +104,29 @@ launchesAndLanding: >-
   4. **Try to land in the topmost part of the field, immediately pick up your wing causing as little damage to any meadow as possible and exit the field walking along a boundary fence and through the top (only) gate.**\
      **Do not linger in the field and never pack up your wing in the field – immediately in front of the gate is OK. The less we are seen, with no meadow damage and few  footprints, the less restrictive any future agreement is likely to be.**\
      **Always close the gate behind you – if its open, close it anyway.**
-flying: F﻿lying this site is very easy and fun!
+
+  **Hang glider overshoots**
+
+
+  The comments below are from a Hang Glider pilot and should give an idea as to why this is so important.
+
+
+  “My main concern is for overshooting HG pilots. It has been increasingly the case that PG pilots who slope land in front of the HG take off and overshoot area, either wait where they land and take off again from there or inflate their canopy and walk it back to the PG take off area. When the conditions are marginal (hence the slope landing), it is much more likely that a HG pilot will overshoot his top landing and a canopy that pops up in front of him leaves him no where to go -> fatal accident (it has happened elsewhere). These PG pilots have no view of the top of the field, so have no idea if a hang glider is about to come over when they inflate. Other issues I have are that PG pilots have the habit of turning left after take off and staying in front of the HG take off area (and overshoot area), rather than simply transiting through. This either means that the HG pilot does not aviate at all, or takes off anyway and causes the PG pilot to take sudden avoiding action. Talking to many low time HG pilots, I know that they frequently don’t fly when it is like this for fear of collision on take off or if they overshoot their top landing. As an experienced pilot, I am happy to take my chance but still dislike the potential conflict. The ridge is 4 miles long after all, why not use it? Finally, the packing up of PG wings in the middle of the LZ creates a much bigger obstacle for a HG pilot landing than a PG. This is true, not only the less experienced, but for any pilot on approach.”
+flying: >-
+  #### HOW TO FLY THE WHOLE RIDGE
+
+
+  You can download a guide (in Word) on how to soar the entire ridge, rather than just staying in front of launch: [Ridge Soaring the Long Mynd](http://www.longmynd.org/wp-content/uploads/2013/02/Ridge-Soaring-the-Long-Mynd_18122013.docx)\
+
+  Please be aware that the far southern end of the Long Mynd ridge known as the Black Knoll is regularly used by local flying schools to train their students.\
+
+  Pilots where possible should try to avoid flying close to students or low over school takeoffs at the Black Knoll end and provide a very wide berth at all times to students displaying a trailing red streamer.
+
+
+  #### ACRO
+
+
+  The incidence of pilots flying acro moves in front of take off has caused a number of issues to many pilots. Specifically it often causes less experienced pilots to stand on take off and not launch at all. They are unaware of the capabilities of the acro pilots, the space they need, their own abilities to avoid or be avoided, so lose good airtime and get frustrated. If you want to do acro, please go along the ridge to the north (but not within the Modelers’ Bowl – see below), or well in front of the ridge in the valley.
 weatherStations:
   - station: <iframe frameborder="0" marginheight="1" marginwidth="1"
       scrolling="no"  src="https://widget.holfuy.com/?station=1175&su=mph&t=C&lang=en&mode=vertical"
@@ -142,3 +162,67 @@ date: 2022-10-15T18:09:30.682Z
 * Please note that the only area where our two local schools teach ab-initio and early post CP pilots is Black Knoll at the south end of the Mynd.  Please bear that in mind when flying the whole ridge and give those pilots plenty of space and don’t hog their launch area if you can see people preparing to launch.  They have more than enough to concern themselves with than avoiding or being intimidated by other traffic.
 * The site is very popular with both hang gliders & paragliders. Please note the field layout below for respective launch and landing details and be aware of the different behavior of the aircraft when mixing. For everyone’s safety, please read the following:  [DHV Flying Together Hang gliders and paragliders](/img/hg-pg-flying-together.pdf)
 * Please remember this is an airfield, not a play nor picnic site. Please keep it clear of anything that could be a risk or at risk – including no picnics, no BBQ’s, no kites, no drones, no camping chairs, no prams/pushchairs etc.
+
+#### MIDLAND GLIDING CLUB
+
+These notes and diagrams are intended to give pilots an appreciation of the circuits used by the MGC which affect us.
+
+If you are forced to slope land in front of the MGC, walk either north or south away from their field. Do not take off from there as you will not be visible to a glider on take off or on weak-link break practise.
+
+LAUNCH TO THE SOUTH
+
+In this case, the main winch is towards the south end of the ridge. This is the winch which drags the glider up. The glider will be at the northern end of the MGC field. The winch there is the retrieve winch, which pulls the cable back after the glider has been towed up and the cable released. Release heights vary but typically are around 1100′ at the field. It can be significantly higher than this in certain conditions. It is most important that pilots keep a watchful eye on activity in the launch area. The AMBER FLASHING LAMP will operate during each launch. A glider ready to launch will have its wings held level by a tip while no-one will be standing near the cockpit.
+
+Cable breaks often occur, either real breaks, or simulated ones. Normally, the pilots would land straight ahead, or turn left off the launch, away from the front of the ridge, and land back on their field. However, if they are confident the ridge is working, they may turn straight on to the ridge, at low height.
+
+Do NOT thermal back over the MGC field at less than 1500′. This will interfere with their launches, at best; and at worst, could result in an accident. If you do find yourself drifting back, clear the area as fast as possible.
+
+LAUNCH TO THE NORTH
+
+The positions of the main and retrieve winch are reversed. Otherwise, as above.
+
+LAUNCH TO THE WEST
+
+Occasionally, in a strong westerly, they will do what is known as a Short West launch, i.e. directly on to the ridge. If conditions are strong enough for this, then PGs will not  be flying, but HGs could be. At present, this launch goes close to the MGC windsock, by the club house, with gliders releasing at about 250′. If you see them doing a launch in this direction, be extra observant when flying past the MGC.
+
+AEROTOW LAUNCHES
+
+The MGC no longer has its own tug. However, it does still have a motor glider, and also occasionally a tug does visit the MGC. So please note that aerotow launches are particularly vulnerable to inconsiderate actions on our part, especially in a westerly launch. They cross the edge of the hill typically below 100ft and are obviously unable to take evasive action at this critical moment. In addition, the tug pilot has poor visibility down and forward. Keep a special note of towing activity and in particular DO NOT CROSS IN FRONT OF THE WINDSOCK BELOW RIDGE HEIGHT when towing is active. If you hit strong lift you could rise up in front of a tug pilot.
+
+LANDING CIRCUIT
+
+![](/img/mgc_west_circuit.jpeg "Typical MGC landing circuit in a westerly")
+
+Typical MGC landing circuit in a westerly
+
+The most common landing circuit is shown in the diagram here. Typically, the sailplane will be at 800′ QFE at Wentnor, and do a circuit in the indicated direction. To a PG or HG, it will seem as if the sail plane is flying directly towards them, probably doing 60 knots or so airspeed – so more in ground speed. This is not the only circuit, but is the typical one on days when we will be flying. The MGC enforces a circuit direction for its pilots, so on any given day, all sailplanes should be following roughly the same circuit direction, though the actual path will vary with height.
+
+#### AERO MODELLERS
+
+Aero modellers have an agreement to use the northern bowl, by the clump of trees on the ridge. Whilst they have a particular duty to avoid conflict in flight, it is unwise to fly in this area when models are flying. It is easier to spot operators on the ground than models in the air.
+
+#### HORSES
+
+A riding school operates at the farm below take off. The stables are tucked-in under take-off and a new, light coloured, schooling area is located about 100m west of the house. We should take great care not to fly low over any horses, especially while being ridden, or land in a field with horses. The few permanently resident horses generally get used to us but several will typically be temporary visitors receiving special training so will be unused to flying activities.
+
+#### AIR HORNS
+
+**What are they for?**
+
+Use it when we need to clear the air and ground quickly, e.g. if an air ambulance is called. Two are located in the Midland Gliding Club office and are also available for use by their members.
+
+**What to do if you hear it?**
+
+Either immediately choose a safe landing at the top of the hill, or fly away from the LMSC launch and stay far away (e.g. Black Knoll area) until it is 100% clear that it is safe for you to return. If in doubt, land a long way out and walk back!
+
+#### DOGS
+
+DOGS are not allowed on the field.
+
+#### WARNING
+
+This area is used by low flying military aircraft on weekdays – see notes.
+
+#### CONTROLLED AIRSPACE
+
+Birmingham CTA at 30 miles, Halfpenny Green at 24m, RAF Cosford at 23 miles.
