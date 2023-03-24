@@ -6,8 +6,8 @@ sensitive: true
 hgRating: CP +100 hours
 pgRating: CP +100 hours
 windDirection:
-  - from: NNE
-    to: NNW
+  - from: NNW
+    to: NNE
 location:
   latlong: 52.505989, -3.1310153
   what3words: socket.mirroring.incisions
