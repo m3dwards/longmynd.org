@@ -79,6 +79,7 @@ flying: >-
   * No dogs allowed.
 siteRecords:
   - record: Neil Roberts, 30.08.2003, 168.1km to Vernham Dean. PG.
+mainImage: /img/wrekin.jpeg
 poiImage: /img/wrekin-nw-poi.jpeg
 date: 2022-08-21T14:23:27.074Z
 ---
