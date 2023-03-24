@@ -53,10 +53,10 @@ launchesAndLanding: >-
   There are two official options; it is strongly advised that you familiarize yourself with these fields before flying for your own safety:
 
 
-  1) \[The field further to the right of the Firing Range (i.e. not adjacent) as indicated on the map can be used, but ONLY if there are no horses in it. Please check before flying. This field has a power line within it.] UPDATE -  29 July 2022 – The Wrekin landing field on the NW side, marked C on the site guide, is being developed into a car park and café. Work has now started & although it will likely drag on, we do not know what will be done when so **for safety reasons we are removing it as an official landing field. Please do not land here** - apart from the safety risk, the landowner additionally kindly grants us access to the Wrekin and to the Rifle Range landing field.
+  1) The field further to the right of the Firing Range (i.e. not adjacent) as indicated on the map can be used, but ONLY if there are no horses in it. Please check before flying. This field has a power line within it.] UPDATE -  29 July 2022 – The Wrekin landing field on the NW side, marked C on the site guide, is being developed into a car park and café. Work has now started & although it will likely drag on, we do not know what will be done when so **for safety reasons we are removing it as an official landing field. Please do not land here** - apart from the safety risk, the landowner additionally kindly grants us access to the Wrekin and to the Rifle Range landing field.
 
 
-  2)  The Firing Range which is currently inactive. This field is small, narrow and has one metre high banks across it which can be obscured if the grass is long. NB: the banks have deep holes at regular intervals into which the riflemen would lower themselves, take care to avoid these holes (and banks) when landing and when walking over the field. NB This is a small and technical field to land in, do look at it from below before considering whether to fly the hill or not! We may land in the fields either side of the Firing Range when they are not in crop.
+  2) The Firing Range which is currently inactive. This field is small, narrow and has one metre high banks across it which can be obscured if the grass is long. NB: the banks have deep holes at regular intervals into which the riflemen would lower themselves, take care to avoid these holes (and banks) when landing and when walking over the field. NB This is a small and technical field to land in, do look at it from below before considering whether to fly the hill or not! We may land in the fields either side of the Firing Range when they are not in crop.
 
 
   HG
@@ -79,7 +79,29 @@ flying: >-
   * No dogs allowed.
 siteRecords:
   - record: Neil Roberts, 30.08.2003, 168.1km to Vernham Dean. PG.
+poiImage: /img/wrekin-nw-poi.jpeg
 date: 2022-08-21T14:23:27.074Z
 ---
+#### SPECTATORS AND THE PUBLIC
 
-The Wrekin NW
+The Wrekin is a popular walking spot for the public and can be busy, please respect this and launch and fly sensibly. Take care not to be dragged back into the path of spectators and do not attempt to top land if people are in the way.
+
+**NB**
+
+It is recommended your first visit, at least, is with someone suitably experienced in flying the site in different conditions. Also look at the bottom landing options before heading up to launch.
+
+#### WARNING
+
+Fields not marked ‘HG’ slope steeply. An up-slope/down wind landing is the only practical method for HG in an emergency.
+
+#### SITE RULES
+
+* Pilots must be current LMSC members or have requested (with your BHPA number) and received confirmation of a days temporary pass
+* Pilots must be suitably rated & licensed members of the BHPA.
+* All members shall observe the Countryside Code, in particular in relation to property and livestock. No livestock are to be frightened or stampeded by fliers.
+* No dogs
+* Any damage to be reported to the Estate Office (Tel 01743 232477) immediately. Farmers will be compensated for damage to crops or livestock, plus costs, if appropriate.
+
+#### AIRSPACE
+
+There is significant nearby airspace (MATZs/ATZs/Drop Zone) north of the Wrekin. Check your airspace map carefully before going XC.
