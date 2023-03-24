@@ -7,11 +7,6 @@ otherClubsSites:
     link: https://www.flysouthwales.co.uk/site-guides/hay-bluff/
     from: WNW
     to: NE
-  - clubName: South East Wales HGPC
-    siteName: Blorenge
-    link: https://www.flysouthwales.co.uk/site-guides/blorenge/
-    from: WNW
-    to: SE
   - siteName: Blaenavon
     clubName: South East Wales HGPC
     link: https://www.flysouthwales.co.uk/site-guides/blaenavon/
