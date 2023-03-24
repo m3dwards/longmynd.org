@@ -17,7 +17,45 @@ sensitivities:
       block larger farm vehicles or access to gates etc.! Be especially careful
       not to frighten horses in fields below and being ridden. Due to the public
       footpath along the top, take care when launching and top landing!
+accessAndParking: >-
+  From Shrewsbury, follow the A49, turn left for Longnor and drive through
+  Longnor. Go straight on at the crossroads, follow the road round,  and over
+  the saddle. Just before the saddle, there is limited public parking on the
+  right for a small number of cars. This is just a dirt pull-in, rather than
+  paved parking. If you use this, walk straight up the ridge from there.
+
+
+  Otherwise, take the first farm entrance to the right as you descend the saddle. Park in the first field on the right.  Do not park in the field if it contains sheep. There is normally someone around who can direct you to alternative parking.
+
+
+  Walk up the back of the ridge via the gate provided. In good conditions, it is possible to take off here and work your way up the ridge to the left. A walk up the ridge gives a better chance of soaring. Most PGs take this option, most HGs do not.
+flying: >-
+  * T/O altitude: lower – 850 ft AMSL, upper – 1240 ft AMSL
+
+  * Top to bottom: lower – 350 ft, upper – 740 ft
+
+  * Take-off is straightforward
+
+  * Top landing is virtually impossible for HG
+
+  * Bottom landing (see map) is technically straightforward but there are many POWER LINES and some trees. Check the field out and its condition before flying – this is particularly important for hang gliders. Do NOT LAND in any other field except in real emergency. The ridge is low at T/O end – leave sufficient height for the glide into wind. CLOSE ALL GATES. Note that there is a convenient gate at the top of the landing field.
+
+  * No paramotors allowed.
+
+  * No dogs allowed.
+
+  * Please be aware of the mobile network mast. It is set back and should not be an issue however do not launch nor land directly in front in case you are dragged back into it.
+siteRecords:
+  - record: Karoly Megyesi, 16.05.16. 243.1 km to Bignor. PG
+  - record: Robin Hamilton, 1995, 260.8km to Brighton. HG.
+mainImage: /img/lawley-power-lines.jpeg
+poiImage: /img/lawley-poi.jpeg
 date: 2022-08-21T14:21:34.996Z
 ---
+#### WARNING
 
-The Lawley
+This area is used by low flying military aircraft on weekdays.
+
+#### CONTROLLED AIRSPACE
+
+Halfpenny Green 19m downwind.
