@@ -56,7 +56,7 @@ export function getCollectionData(id: string, collectionPath: string) {
   const matterResult = matter(fileContents);
 
   // Use remark to convert markdown into HTML string
-  const processedContent = remark().use(html, { sanitize: true }).processSync(matterResult.content);
+  const processedContent = remark().use(html, { sanitize: false }).processSync(matterResult.content);
   const contentHtml = processedContent.toString();
   const returnObject = {
     id,
