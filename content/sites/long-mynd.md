@@ -146,8 +146,8 @@ siteRecords:
       were informed of these flights, we had said that the record was held by
       Darren Brown,  202.85 km, on 15.08.17, to near St Neots."
   - record: "PG: Kai Coleman, 25.06.2004. To Eltisley. 201.6 km."
-mainImage: /img/longmyndmap.jpg
-poiImage: /img/mynd2-map.jpeg
+mainImage: /img/mynd2-map.jpeg
+poiImage: /img/longmyndmap.jpg
 date: 2022-10-15T18:09:30.682Z
 ---
 #### SITE FEES
