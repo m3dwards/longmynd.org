@@ -137,7 +137,7 @@ weatherStations:
       scrolling="no"></iframe>'
 webcams: "![Long Mynd looking
   north](https://www.mysolarcam.com/LongMyndNorth/last_big.jpg)"
-localAttractions: H﻿ere are some local attractions
+localAttractions: ""
 siteRecords:
   - record: "HG: Gordon Rigg, 30.05.15 Cambridge, 222.72 km. See
       http://www.uknxcl.co.uk/flight_info/10023. The previous record was Rich
