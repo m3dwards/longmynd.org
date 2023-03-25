@@ -133,61 +133,56 @@ pageItems:
 
 
       For information about the Pilot and AP exams, please email coaching@longmynd.org. Theory topics include Meteorology, Navigation, Flight theory & Instruments, air law, etc.
+  - title: Preparing for your first XC
+    description: >-
+      Going cross country for the first time can be very intimidating, and many
+      pilots never bother going XC, preferring to stay on the ridge and develop
+      their skills there – which is a perfectly reasonable thing to do, of
+      course, and there is no obligation to go XC.
 
 
-      ### Information
+      However, going XC can be very rewarding, and challenging, and does mean you need to perfect your skills like thermalling, landing out, etc. However, before you go XC, there are certain other things you need to do:
 
 
-      * [Welcome](http://www.longmynd.org/)
+      * **Buy** **some** **airmaps** and learn how to read them. There is a lot of restricted airspace around our sites, and it is essential that pilots intending to go XC do not infringe that airspace. Landing in the middle of an RAF airfield is not a good idea!.
 
-      * [Contact Us](http://www.longmynd.org/?page_id=3488)
+      * It is definitely worth **buying** **a** **GPS** **with** **MapSource**, i.e. a GPS on which you can load the airspace, so that you know exactly when you are approaching somewhere you should not be! This does not replace buying and understanding airmaps, but it does make navigation when you are flying a lot easier.
 
-      * [Sites guide](<>)
-
-      * [Webcams and weather stations](http://www.longmynd.org/?page_id=27)
-
-      * [Resources](http://www.longmynd.org/?page_id=3521)
-
-      * [Socials & Events](http://www.longmynd.org/?page_id=21)
-
-      * [Competitions](<>)
-
-      * [Safety pages](<>)
-
-      * [Coaching pages](<>)
-
-        * [Coaching](http://www.longmynd.org/?page_id=15)
-        * [What is coaching about?](http://www.longmynd.org/?page_id=60)
-        * [LMSC coaches](http://www.longmynd.org/?page_id=54)
-        * [Be a club coach!](http://www.longmynd.org/?page_id=62)
-        * [Improving your skills](http://www.longmynd.org/?page_id=56)
-        * [Preparing for your first XC](http://www.longmynd.org/?page_id=58)
-      * [Schools and tandems](http://www.longmynd.org/?page_id=13)
-
-      * [Committee pages](<>)
-
-      * [Join/rejoin](<>)
-
-      * [Privacy and cookies](http://www.longmynd.org/?page_id=962)
+      * **Get** **your** **Pilot** **P** **qualification**. This involves study and an exam, covering airlaw, meteorology and principles of flight.  It’s very important to get this because, without it, you have no third party insurance when you go XC. Hopefully you will never need this – but each year, there are claims on it, and imagine the cost if, for example, you take out a power line (as has happened). Once you are ready to take the exam, contact coaching@longmynd.org and we will arrange a time and place for you to do it. You can also download a [list of tasks for the pilot rating](http://www.bhpa.co.uk/pdf/pilot_tasks.pdf) and the [Pilot exam syllabus](http://www.bhpa.co.uk/pdf/Pilot_Exam_Syllabus.pdf).
 
 
-      ### Login/logout
+      **Other** **sources** **of** **information** **are**
 
 
-      * **[Click to login](http://www.longmynd.org/wp-login.php?redirect_to=http%3A%2F%2Fwww.longmynd.org%2F%3Fpage_id%3D56)**
+      * [pilotnotes.me.uk](http://www.pilotnotes.me.uk/) – courtesy of Graham Taylor – loads of information – really good.
+
+      * [wessexhgpg.org.uk/](http://wessexhgpg.org.uk/Info/pilot_test.htm) – a good test with an on-line multiple choice exam, courtesy of the Wessex club
+
+      * [flyingfever.net](http://www.flyingfever.net/pilot_theory.html) – what to learn – courtesy of Flying Fever
+
+      * [southdownshanggliding.co.uk](http://www.southdownshanggliding.co.uk/theory.htm) – theory of flight, courtesy of suth downs hang gliding school
 
 
-      ### Forums
+      ### Helping you go XC
 
 
-      * [Go to discussions](http://www.longmynd.org/phpBB3/viewforum.php?f=17)
+      From time to time, club members will run XC courses and guiding on our sites. There are also various other sources of information:
 
 
-      |                                                                |     |                                                                               |
+      * Some podcasts on going XC can be found on [Judith and Geoff’s podcast pages](http://www.judithmole.net/blog/?page_id=123)
 
-      | -------------------------------------------------------------- | --- | ----------------------------------------------------------------------------- |
+      * Those pages also include some [XC tips](http://www.judithmole.net/blog/?page_id=99)
 
-      | © 2013 [The Long Mynd Soaring Club](http://test.longmynd.org/) |     | [Suffusion theme by Sayontan Sinha](http://aquoid.com/news/themes/suffusion/) |
+      * XC training syllabus. This has been produced by Roy Dade, and was written by him to help him progress to flying XC – so new XC pilots please note, it’s not a qualification, it’s a series of guidelines and resources, which you might find useful. [Download it here](http://www.longmynd.org/wp-content/uploads/2013/02/CROSS-COUNTRY-SYLLABUS-version-5.doc).
+
+
+      ### Downloading your tracklogs
+
+
+      GpsDump is the free program many people use for downloading tracklogs from their GPS to their computer – either just for personal use, or so you can upload them to the XC league. It can be a bit fiddly, and unintuitive to use for the first time, so Luke Evans has written a very useful tutorial on how to use it.
+
+
+      [Right click to download the tutorial.](http://www.longmynd.org/wp-content/uploads/2013/02/gpsdump_tutorial.pdf)
 ---
 ### For pilots needing coaching
 
