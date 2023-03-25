@@ -10,7 +10,66 @@ pageItems:
 
 
 
-      its all down to Crawford
+      its all down to Crawford 
+
+
+
+
+      Coaching done by an LMSC coach under the BHPA coaching scheme is always free. Some coaches also offer additional commercial services, such as guiding. **This page is for guidance only. When you contact a coach listed below, it is important to confirm that they are current (paid up) BHPA members and that they are registered as a coach with the BHPA.**
+
+
+      Coaches may be contacted directly below, or there is a club Telegram group for CP pilots to interact directly with LMSC club coaches – **Telegram Group: LMSC Coaching Group** (for pilots looking for coaching and site advice, must be minimum BHPA CP rated). To join the group, either ask someone to add you or email club \[at] longmynd.org asking to join.
+
+
+
+
+      * \[LMSC Chief Coach]\
+        Dave Roberts\
+        coaching\[at]longmynd.org
+
+
+
+      * Malcolm Davies\
+        07710738846 Mainly weekends
+
+
+
+      * Sian Leavesley\
+        sianleavesley\[at]yahoo.com
+
+
+
+      * Tony Flint\
+        01952 257123\
+        07967 789829
+
+
+
+      * Mark Leavesley\
+        mark\[at]leavesleyaviation.com 07774 856056
+
+
+
+      * Crawford Coulson\
+        chairman\[at]longmynd.org\
+        07891 630798
+
+
+
+      * Ben Henson\
+        sites\[at]longmynd.org\
+        07890 909542
+
+
+
+      * Chris de Pinna\
+        comms\[at]longmynd.org\
+        07939 527639
+
+
+
+      * Tim Dunn\
+        timair46\[at]yahoo.com
   - description: >-
       There is a common misconception that only high achieving pilots with 100s
       or 1000s of hours airtime are capable of coaching low airtime pilots. Not
