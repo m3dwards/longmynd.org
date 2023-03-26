@@ -67,17 +67,54 @@ pageItems:
 
 
       No coaching scheme is going to be successful without a level of trust between the new pilot and the coach, between coaches themselves, and between the club and the club coaching system. Our successful LMSC coaching scheme runs against the background of substantial achievements by our club coaches, both for theory and exams, but very importantly in the less publicised practical coaching on the hill.
-    title: What is coaching about?
-  - title: Be a club coach!
+    title: What is coaching about
+  - title: Be a club coach
     description: >-
       \
 
       We always need new club coaches. You can do as much or as little as you want. If you’re interested in being a club coach, please contact coaching \[at] longmynd.org for further details.
+  - title: Why be a coach
+    description: If you feel you would like to put something back into the sport, to
+      help others through situations you may have found yourself in, or if you
+      find yourself helping others but are unsure of what you should be saying
+      or doing, then become a coach. Helping somebody off the hill can create a
+      daunting feeling of responsibility and the coaching course will give you
+      the confidence to do this safely. Attending a course will also help with
+      your own flying and your understanding of the sport.
+  - title: How to become a club coach
+    description: You don’t have to be an experienced or skilled pilot to be a good
+      coach. Often the most effective coaches are those who have just gone
+      through the early flying experiences that are still fresh in the mind. So
+      after flying for several months and with about 20 hours or more airtime,
+      lack of experience need not be a barrier to becoming a coach. Approach one
+      of the existing coaches, and talk through what is involved. Course dates
+      and venues are listed in Skywings.
+  - title: What do you learn on the coaching course
+    description: The principles of free flying coaching and mentoring are common
+      with many sports and also within work environments. Topics include skills
+      assessment, personal abilities, appropriateness of sites and met
+      conditions, identifying next steps, task planning, and take off, flying
+      and landing skills. The course is largely classroom based, but is
+      practical and allows for interaction between all our flying disciplines.
+  - title: Becoming an LMSC club coach
+    description: >-
+      Once you have been on the course, you will become a member of the LMSC
+      coaching team, and will find out about how we go about coaching in the
+      club. The main coaching concerns center around newly qualified pilots who
+      are suddenly faced with a busy site, lots of new and unknown faces, and a
+      list of several tasks and skills to develop. The function of the coach is
+      to help these pilots through an challenging few months, and to reach a
+      good level of club flying competence quickly and safely.
+
+
+      Existing club (and senior) coaches are encouraged to redo the course at least once every five years to remain current as a club coach.
+
+
+      [](https://longmynd.netlify.app/learn/coaching#0)
   - title: Improving your skills
     description: >-
-      
-
-      On this page is a collection of useful articles, resources and links to help you improve your skills as a pilot.
+      On this page is a collection of useful articles, resources and links to
+      help you improve your skills as a pilot.
 
 
       ### Articles
@@ -101,9 +138,6 @@ pageItems:
       * [Making waypoint files](http://www.longmynd.org/wp-content/uploads/2013/02/making_waypoint_files.pdf)
 
 
-       
-
-
       ### Podcasts
 
 
@@ -111,15 +145,6 @@ pageItems:
 
 
       [Go to podcast page](http://www.judithmole.net/blog/?page_id=123)
-
-
-      ### Webcasts
-
-
-      Similar to the podcasts, except they also use visuals.
-
-
-      [Go to webcast page](http://www.judithmole.net/blog/?page_id=3206)
 
 
       ### Pilot and AP Exam – reading list
@@ -152,9 +177,6 @@ pageItems:
       * Understanding the Sky – Dennis Pagen – good Meteorology book.
 
 
-       
-
-
       ### Pilot and Advanced Pilot exams
 
 
@@ -174,19 +196,13 @@ pageItems:
 
       * It is definitely worth **buying** **a** **GPS** **with** **MapSource**, i.e. a GPS on which you can load the airspace, so that you know exactly when you are approaching somewhere you should not be! This does not replace buying and understanding airmaps, but it does make navigation when you are flying a lot easier.
 
-      * **Get** **your** **Pilot** **P** **qualification**. This involves study and an exam, covering airlaw, meteorology and principles of flight.  It’s very important to get this because, without it, you have no third party insurance when you go XC. Hopefully you will never need this – but each year, there are claims on it, and imagine the cost if, for example, you take out a power line (as has happened). Once you are ready to take the exam, contact coaching@longmynd.org and we will arrange a time and place for you to do it. You can also download a [list of tasks for the pilot rating](http://www.bhpa.co.uk/pdf/pilot_tasks.pdf) and the [Pilot exam syllabus](http://www.bhpa.co.uk/pdf/Pilot_Exam_Syllabus.pdf).
+      * **Get** **your** **Pilot** **P** **qualification**. This involves study and an exam, covering airlaw, meteorology and principles of flight.  It’s very important to get this because, without it, you have no third party insurance when you go XC. Hopefully you will never need this – but each year, there are claims on it, and imagine the cost if, for example, you take out a power line (as has happened). Once you are ready to take the exam, contact coaching@longmynd.org and we will arrange a time and place for you to do it. You can also download a [list of tasks for the pilot rating](https://www.bhpa.co.uk/documents/members/index.php?doc=Pilot_Tasks.pdf) and the [Pilot exam syllabus](https://www.bhpa.co.uk/documents/members/index.php?doc=Pilot_Syllabus.pdf).
 
 
       **Other** **sources** **of** **information** **are**
 
 
-      * [pilotnotes.me.uk](http://www.pilotnotes.me.uk/) – courtesy of Graham Taylor – loads of information – really good.
-
-      * [wessexhgpg.org.uk/](http://wessexhgpg.org.uk/Info/pilot_test.htm) – a good test with an on-line multiple choice exam, courtesy of the Wessex club
-
-      * [flyingfever.net](http://www.flyingfever.net/pilot_theory.html) – what to learn – courtesy of Flying Fever
-
-      * [southdownshanggliding.co.uk](http://www.southdownshanggliding.co.uk/theory.htm) – theory of flight, courtesy of suth downs hang gliding school
+      * [wessexhgpg.org.uk](http://wessexhgpg.org.uk/Coaching/pilot_test.html) – a good test with an on-line multiple choice exam, courtesy of the Wessex club
 
 
       ### Helping you go XC
@@ -200,53 +216,6 @@ pageItems:
       * Those pages also include some [XC tips](http://www.judithmole.net/blog/?page_id=99)
 
       * XC training syllabus. This has been produced by Roy Dade, and was written by him to help him progress to flying XC – so new XC pilots please note, it’s not a qualification, it’s a series of guidelines and resources, which you might find useful. [Download it here](http://www.longmynd.org/wp-content/uploads/2013/02/CROSS-COUNTRY-SYLLABUS-version-5.doc).
-
-
-      ### Downloading your tracklogs
-
-
-      GpsDump is the free program many people use for downloading tracklogs from their GPS to their computer – either just for personal use, or so you can upload them to the XC league. It can be a bit fiddly, and unintuitive to use for the first time, so Luke Evans has written a very useful tutorial on how to use it.
-
-
-      [Right click to download the tutorial.](http://www.longmynd.org/wp-content/uploads/2013/02/gpsdump_tutorial.pdf)
-  - title: Why be a coach?
-    description: If you feel you would like to put something back into the sport, to
-      help others through situations you may have found yourself in, or if you
-      find yourself helping others but are unsure of what you should be saying
-      or doing, then become a coach. Helping somebody off the hill can create a
-      daunting feeling of responsibility and the coaching course will give you
-      the confidence to do this safely. Attending a course will also help with
-      your own flying and your understanding of the sport.
-  - title: How to become a club coach
-    description: You don’t have to be an experienced or skilled pilot to be a good
-      coach. Often the most effective coaches are those who have just gone
-      through the early flying experiences that are still fresh in the mind. So
-      after flying for several months and with about 20 hours or more airtime,
-      lack of experience need not be a barrier to becoming a coach. Approach one
-      of the existing coaches, and talk through what is involved. Course dates
-      and venues are listed in Skywings.
-  - title: What do you learn on the coaching course?
-    description: The principles of free flying coaching and mentoring are common
-      with many sports and also within work environments. Topics include skills
-      assessment, personal abilities, appropriateness of sites and met
-      conditions, identifying next steps, task planning, and take off, flying
-      and landing skills. The course is largely classroom based, but is
-      practical and allows for interaction between all our flying disciplines.
-  - title: Becoming an LMSC club coach
-    description: >-
-      Once you have been on the course, you will become a member of the LMSC
-      coaching team, and will find out about how we go about coaching in the
-      club. The main coaching concerns center around newly qualified pilots who
-      are suddenly faced with a busy site, lots of new and unknown faces, and a
-      list of several tasks and skills to develop. The function of the coach is
-      to help these pilots through an challenging few months, and to reach a
-      good level of club flying competence quickly and safely.
-
-
-      Existing club (and senior) coaches are encouraged to redo the course at least once every five years to remain current as a club coach.
-
-
-      [](https://longmynd.netlify.app/learn/coaching#0)
 ---
 ### For pilots needing coaching
 
