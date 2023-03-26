@@ -8,66 +8,33 @@ pageItems:
       the LMSC
 
 
-
-
-      its all down to Crawford 
-
-
-
-
       Coaching done by an LMSC coach under the BHPA coaching scheme is always free. Some coaches also offer additional commercial services, such as guiding. **This page is for guidance only. When you contact a coach listed below, it is important to confirm that they are current (paid up) BHPA members and that they are registered as a coach with the BHPA.**
 
 
       Coaches may be contacted directly below, or there is a club Telegram group for CP pilots to interact directly with LMSC club coaches – **Telegram Group: LMSC Coaching Group** (for pilots looking for coaching and site advice, must be minimum BHPA CP rated). To join the group, either ask someone to add you or email club \[at] longmynd.org asking to join.
 
 
-
-
       * \[LMSC Chief Coach]\
         Dave Roberts\
         coaching\[at]longmynd.org
-
-
-
       * Malcolm Davies\
         07710738846 Mainly weekends
-
-
-
       * Sian Leavesley\
         sianleavesley\[at]yahoo.com
-
-
-
       * Tony Flint\
         01952 257123\
         07967 789829
-
-
-
       * Mark Leavesley\
         mark\[at]leavesleyaviation.com 07774 856056
-
-
-
       * Crawford Coulson\
         chairman\[at]longmynd.org\
         07891 630798
-
-
-
       * Ben Henson\
         sites\[at]longmynd.org\
         07890 909542
-
-
-
       * Chris de Pinna\
         comms\[at]longmynd.org\
         07939 527639
-
-
-
       * Tim Dunn\
         timair46\[at]yahoo.com
   - description: >-
@@ -242,29 +209,49 @@ pageItems:
 
 
       [Right click to download the tutorial.](http://www.longmynd.org/wp-content/uploads/2013/02/gpsdump_tutorial.pdf)
+  - title: Why be a coach?
+    description: If you feel you would like to put something back into the sport, to
+      help others through situations you may have found yourself in, or if you
+      find yourself helping others but are unsure of what you should be saying
+      or doing, then become a coach. Helping somebody off the hill can create a
+      daunting feeling of responsibility and the coaching course will give you
+      the confidence to do this safely. Attending a course will also help with
+      your own flying and your understanding of the sport.
+  - title: How to become a club coach
+    description: You don’t have to be an experienced or skilled pilot to be a good
+      coach. Often the most effective coaches are those who have just gone
+      through the early flying experiences that are still fresh in the mind. So
+      after flying for several months and with about 20 hours or more airtime,
+      lack of experience need not be a barrier to becoming a coach. Approach one
+      of the existing coaches, and talk through what is involved. Course dates
+      and venues are listed in Skywings.
+  - title: What do you learn on the coaching course?
+    description: The principles of free flying coaching and mentoring are common
+      with many sports and also within work environments. Topics include skills
+      assessment, personal abilities, appropriateness of sites and met
+      conditions, identifying next steps, task planning, and take off, flying
+      and landing skills. The course is largely classroom based, but is
+      practical and allows for interaction between all our flying disciplines.
+  - title: Becoming an LMSC club coach
+    description: >-
+      Once you have been on the course, you will become a member of the LMSC
+      coaching team, and will find out about how we go about coaching in the
+      club. The main coaching concerns center around newly qualified pilots who
+      are suddenly faced with a busy site, lots of new and unknown faces, and a
+      list of several tasks and skills to develop. The function of the coach is
+      to help these pilots through an challenging few months, and to reach a
+      good level of club flying competence quickly and safely.
+
+
+      Existing club (and senior) coaches are encouraged to redo the course at least once every five years to remain current as a club coach.
+
+
+      [](https://longmynd.netlify.app/learn/coaching#0)
 ---
 ### For pilots needing coaching
 
 The Long Mynd soaring club has a large number of club coaches, who will be happy to offer experienced advice and help to newly qualified hang-glider and paraglider pilots, enabling them to safely bridge the gap from school to club. For more experienced visiting pilots, they can also provide site briefings to help you make the most of unfamiliar flying sites. The club is currently working towards a more focussed coaching approach, which will enable anyone who wants help and advice to direct their request at those coaches who are most experienced and with the right availability to be able to work to to everyones best advantage.
 
-Please note the up to date list of accredited LMSC coaches is on the [coaching page](http://www.longmynd.org/?page_id=54 "LMSC coaches").
+Please note the up to date list of accredited LMSC coaches 
 
 Coaching done by an LMSC coach under the BHPA coaching scheme is always free. Some coaches also offer additional commercial services, such as guiding.
-
-### Why be a coach?
-
-If you feel you would like to put something back into the sport, to help others through situations you may have found yourself in, or if you find yourself helping others but are unsure of what you should be saying or doing, then become a coach. Helping somebody off the hill can create a daunting feeling of responsibility and the coaching course will give you the confidence to do this safely. Attending a course will also help with your own flying and your understanding of the sport.
-
-### How to become a club coach
-
-You don’t have to be an experienced or skilled pilot to be a good coach. Often the most effective coaches are those who have just gone through the early flying experiences that are still fresh in the mind. So after flying for several months and with about 20 hours or more airtime, lack of experience need not be a barrier to becoming a coach. Approach one of the existing coaches, and talk through what is involved. Course dates and venues are listed in Skywings.
-
-### What do you learn on the coaching course?
-
-The principles of free flying coaching and mentoring are common with many sports and also within work environments. Topics include skills assessment, personal abilities, appropriateness of sites and met conditions, identifying next steps, task planning, and take off, flying and landing skills. The course is largely classroom based, but is practical and allows for interaction between all our flying disciplines.
-
-### Becoming an LMSC club coach
-
-Once you have been on the course, you will become a member of the LMSC coaching team, and will find out about how we go about coaching in the club. The main coaching concerns center around newly qualified pilots who are suddenly faced with a busy site, lots of new and unknown faces, and a list of several tasks and skills to develop. The function of the coach is to help these pilots through an challenging few months, and to reach a good level of club flying competence quickly and safely.
-
-Existing club (and senior) coaches are encouraged to redo the course at least once every five years to remain current as a club coach.
