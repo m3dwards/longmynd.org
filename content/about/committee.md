@@ -10,11 +10,10 @@ Treasurer:                                                 [Jason Smith](mailto:
 Communications:                                     [Chris de Pinna](mailto:comms@longmynd.org)\
 Website:                                                    [Max Edwards](mailto:web@longmynd.org)\
 Safety:                                                       [Dave Thomas](mailto:safety@longmynd.org)\
-Membership:                                             [Luke Evans](mailto:membership@longmynd.org)\
-Competitions:                                            [Vacant (stand in Crawford Coulson) ](mailto:comps@longmynd.org)
-
+Membership:                                             [Luke Evans](mailto:membership@longmynd.org)
 Social:                                                          [David Bibby](mailto:social@longmynd.org)\
 Sites Coordinator:                                       [Ben Henson](mailto:sites@longmynd.org)\
+Competitions:                                            [Vacant (stand in Crawford Coulson) ](mailto:comps@longmynd.org)\
 **Appointed Posts**\
 Chief Coach:                                              [Dave Roberts](mailto:coaching@longmynd.org)\
 **Sites officers**\
