@@ -15,4 +15,4 @@ If you fly the sites often, please join to support the club and for all the bene
 
 The general club email address is: [club](mailto:club@longmynd.org) 
 
- Further and emergency contacts are on the ‘Contact Us’ page.
+ Further and emergency contacts are on the ‘[Contact Us](https://longmynd.netlify.app/contact)’ page.
