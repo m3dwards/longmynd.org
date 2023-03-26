@@ -48,7 +48,7 @@ flying: >-
 siteRecords:
   - record: Karoly Megyesi, 16.05.16. 243.1 km to Bignor. PG
   - record: Robin Hamilton, 1995, 260.8km to Brighton. HG.
-mainImage: /img/lawley-power-lines.jpeg
+mainImage: /img/lawley.jpeg
 poiImage: /img/lawley-poi.jpeg
 date: 2022-08-21T14:21:34.996Z
 ---
