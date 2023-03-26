@@ -2,8 +2,7 @@
 title: Home
 date: 2022-08-17T19:31:20.000Z
 topBody: >-
-  # Welcomes to the Long Mynd Soaring Club (LMSC) – supporting pilots since
-  1975!
+  # Welcome to the Long Mynd Soaring Club (LMSC) – supporting pilots since 1975!
 
 
   The LMSC has 13 soaring sites located in the Shropshire Hills Area of Outstanding Natural Beauty (AONB) and mid-Wales. Most are ‘open’ sites except for Clatter and The Wrekin for which we ask non-members to contact a committee member for a day’s temporary pass before going to the site.
