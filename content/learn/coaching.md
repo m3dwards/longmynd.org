@@ -133,10 +133,6 @@ pageItems:
 
       * [Setting goals for yourself](http://www.longmynd.org/wp-content/uploads/2013/02/skills_settinggoals.pdf)
 
-      * [Guide to downloading tracklogs in GPSDump](http://www.longmynd.org/wp-content/uploads/2013/02/gpsdump_tutorial.pdf)
-
-      * [Making waypoint files](http://www.longmynd.org/wp-content/uploads/2013/02/making_waypoint_files.pdf)
-
 
       ### Podcasts
 
