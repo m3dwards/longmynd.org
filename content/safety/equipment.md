@@ -20,7 +20,7 @@ safetyItems:
       buckles on their harnesses at the first opportunity. If these are of the
       of the AustrialAlpin Cobra type please download the safety notice issued
       by AustriAlpin for further
-      information. <http://downloads.austrialpin.at/Safety_notice_2016_EN.pdf>
+      information. [](http://downloads.austrialpin.at/Safety_notice_2016_EN.pdf)
     title: AustrialAlpin Cobra harness buckle
 ---
 
