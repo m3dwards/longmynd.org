@@ -13,4 +13,6 @@ topBody: >-
 ---
 If you fly the sites often, please join to support the club and for all the benefits of membership: <https://webcollect.org.uk/lmsc/subscription>
 
-The general club email address is: club \[at] longmynd.org. Further and emergency contacts are on the ‘Contact Us’ page.
+The general club email address is: [club](mailto:club@longmynd.org) 
+
+ Further and emergency contacts are on the ‘Contact Us’ page.
