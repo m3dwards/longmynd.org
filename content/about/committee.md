@@ -6,9 +6,8 @@ H﻿ere are our beautiful faces.
 
 Chairman:  [Crawford Coulson](chairman@longmynd.org)
 
-|                                                                |                                                                 |
-| -------------------------------------------------------------- | --------------------------------------------------------------- |
-| Chairman:                                                      | [Crawford Coulson](mailto:chairman@longmynd.org)                |
+Chairman:                                                     [Crawford Coulson](mailto:chairman@longmynd.org)
+(mailto:chairman@longmynd.org)                |
 | Secretary:                                                     | [Jon Tatton](mailto:secretary@longmynd.org)                     |
 | Treasurer:                                                     | [Jason Smith](mailto:treasurer@longmynd.org)                    |
 | Communications:                                                | [Chris de Pinna](mailto:comms@longmynd.org)                     |
