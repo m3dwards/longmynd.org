@@ -16,11 +16,11 @@ or club members may prefer to use the Committee contact page to reach a specif
 
 ### Main Club Email contacts
 
-For general correspondence: secretary \[at] longmynd.org
+For general correspondence: [secretary](mailto:secretary@longmynd.org)
 
-For a sites issue: sites \[at] longmynd.org
+For a sites issue: [sites](mailto:sites@longmynd.org) 
 
-For anything else: chairman \[at] longmynd.org
+For anything else: [chairman](mailto:chairman@longmynd.org)
 
 ### **For Urgent Issues**
 
@@ -52,9 +52,9 @@ The Long Mynd Soaring Club is a member of the British Hang Gliding & Paragliding
 
 ### **Social Media & Messaging Groups**
 
-**Telegram group: LMSC Chat** (general chat and Q&A)\
-**Telegram group: LMSC Sites Reports** (Site updates & reporting conditions on launch) **\*\*PLEASE JOIN AT LEAST THIS GROUP FOR IMPORTANT SITE UPDATES\*\***\
-**Telegram Group: LMSC XC Plan & Fly** (to share & discuss XC weather, sites & plans; to help lower airtime pilots; to encourage car sharing, meeting & flying together; to improve pilot & club cross country achievements and to increase safety of XC pilots)
+**Telegram group: [LMSC Chat](https://t.me/+VWSR8lq_Gaaq_RXz)** (general chat and Q&A)\
+**Telegram group: [LMSC Sites Reports](https://t.me/+UxXylcAaBJE83pBw)** (Site updates & reporting conditions on launch) **\*\*PLEASE JOIN AT LEAST THIS GROUP FOR IMPORTANT SITE UPDATES\*\***\
+**Telegram Group:** [**LMSC XC Plan & Fly** ](https://t.me/+cj0RAhlj2mo0MzQ0)(to share & discuss XC weather, sites & plans; to help lower airtime pilots; to encourage car sharing, meeting & flying together; to improve pilot & club cross country achievements and to increase safety of XC pilots)
 
 (To join a Telegram group ask an existing member to add you or contact a committee member)
 
