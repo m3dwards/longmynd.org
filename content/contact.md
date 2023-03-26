@@ -4,15 +4,15 @@ date: 2022-08-17T19:31:20.000Z
 ---
 ### Reaching the Clubs Committee
 
-### Email: club \[at] longmynd.org
+### Email: [club](mailto:club@longmynd.org)
 
 or club members may prefer to use the Committee contact page to reach a specific person:
 
-[http://www.longmynd.org/?page_id=4](http://www.longmynd.org/?page_id=4 "Committee Members")
+[Committee](https://longmynd.netlify.app/about/committee)
 
 ### **Club Coaches**
 
- [http://www.longmynd.org/?page_id=54](http://www.longmynd.org/?page_id=54 "Coaches")
+[Coaches](https://longmynd.netlify.app/learn/coaching#0)
 
 ### Main Club Email contacts
 
