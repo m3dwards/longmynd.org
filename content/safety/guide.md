@@ -129,8 +129,8 @@ safetyItems:
       are in any doubt at all about the suitability of any glider, consult an
       instructor or a highly-experienced coach. Read and download the entire
       document
-      at [www.bhpa.co.uk/pdf/En966_summary.pdf](http://www.bhpa.co.uk/pdf/En966\
-      _summary.pdf)."
+      at https://www.bhpa.co.uk/pdf/En_PG_Classes.pdf[](http://www.bhpa.co.uk/p\
+      df/En966_summary.pdf)"
   - title: |
       BHPA news about Testing and certification of the new EN D wings
     description: As previously reported, testing of EN D gliders was briefly
