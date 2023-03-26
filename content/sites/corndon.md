@@ -78,6 +78,7 @@ siteRecords:
   - record: For hang gliders, a confirmed distance is Ken Wilkinson, 122km to
       Bristol, in 1985. Possibly others may have gone further, including Judy
       Leden who may have done around 130km to Barry.
+mainImage: /img/cordon-top.jpeg
 poiImage: /img/corndon-poi.jpeg
 date: 2022-08-21T14:21:00.308Z
 ---
