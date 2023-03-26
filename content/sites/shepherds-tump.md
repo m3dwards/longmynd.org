@@ -34,7 +34,7 @@ flying: >-
 siteRecords:
   - record: Dave Thomas Declared Goal flight 15.07.18 To Uttoxeter, 116km
       http://xcleague.com/xc/flights/20183183.html
-poiImage: /img/shepherds-tump-poi.jpeg
+poiImage: /img/sheppards-tump.png
 date: 2022-08-21T14:23:16.231Z
 ---
 The SSW / SW face is very steep but has a nice rounded top with no trees, bushes, bracken to worry about, and only one fence a long way back, so looks ideal for ground handling as well as the less experienced to practice launching – slope landing would be very technical though. The bottom landing fields often have cows and calves in them – best to go and check them out before you launch as the nearest field is partly hidden by trees and the further one is a long way out. Please don’t use cow fields for yours and the animals sake.
