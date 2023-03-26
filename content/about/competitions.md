@@ -4,8 +4,6 @@ date: 2023-02-24T16:48:14.398Z
 ---
 W﻿e not only host competitions but we also have quite fun local comps for progressing pilots
 
-
-
 or any competition queries, please email [comps@longmynd.org](mailto:comps@longmynd.org). The form to book a competition is at the bottom of this page. PLEASE READ THIS CAREFULLY, as it lays out the various rules we have for competitions wishing to be based here.
 
 ### **LMSC members entering National or International competitions**
@@ -29,14 +27,14 @@ The Long Mynd also hosts externally organised competitions, such as the British 
 
 Any queries regarding holding competitions at Long Mynd sites should be addressed to:  [comps@longmynd.org](mailto:comps@longmynd.org). Please check first that the proposed dates are suitable. Once you have agreed the dates , complete the booking form below, and send off the form together with the payment to the address on the form.
 
-The dates of competitions already agreed can be found on the events calendar, at <http://www.longmynd.org/?page_id=11>
+The dates of competitions already agreed can be found on the events calendar, at [](http://www.longmynd.org/?page_id=11)
 
 [Download a competitions booking form.](http://www.longmynd.org/wp-content/uploads/2013/02/Comp_booking.doc)
 
 **How to pay the fee:** the address for paying by cheque is given in the booking form above. You can also pay online. However, please note that you still MUST download, complete and send off the booking form above.
 
-[Pay full fee (£100) online](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=9FDX829PQB8MN).
+[Pay full fee (£100) online](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=9FDX829PQB8MN).  *`need to check`*
 
 In exceptional circumstances (e.g. where a competition is based elsewhere, and only uses our sites once) we may, at our discretion, reduce that fee. To pay a reduced fee, use the link below, entering the amount which MUST have been previously agreed with the competitions committee member.
 
-[Pay reduced fee online](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=9XS9YGMMZ88GU).
+[Pay reduced fee online](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=9XS9YGMMZ88GU). *`need to check`*
