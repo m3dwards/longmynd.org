@@ -16,9 +16,6 @@ safetyItems:
 
 
       If anything becomes apparent that a safety notice needs to warn pilots, then this will provide a rapid way of collating information and a route to getting LMSC pilots and if necessary all BHPA pilots warned through Skywings.
-
-
-      Please see the [general issues about safety](http://www.longmynd.org/?page_id=96 "General issues")  page for further details.
     title: Incident log
   - title: |
       LMSC incident reporting
@@ -56,7 +53,7 @@ safetyItems:
       equipment, discovered or witnessed.
 
 
-      https://ehpu-safetynetwork.org/plugins/form/235/en
+      <https://ehpu-safetynetwork.org/plugins/form/235/en>
   - description: >-
       This is especially important advice for new or low airtime pilots.
       Launching can be a very high mental workload, so many things to
@@ -93,14 +90,10 @@ safetyItems:
       With thanks to the DHV, a useful article on active flying of paragliders,
       contains some useful guidance on practicing on the ground. Especially
       useful to low airtime pilots or those used to only flying when conditions
-      are smooth and
-      easy: [](http://www.dhv.de/typo/fileadmin/user_upload/monatsordner/2004-06/Ausbildung/activ_flying_english_text.pdf)
+      are smooth and easy: 
 
 
-      https://www.dhv.de/fileadmin/user_upload/monatsordner/2004-06/Ausbildung/activ_flying_english_text.pdf
-
-
-      - - -
+      <https://www.dhv.de/fileadmin/user_upload/monatsordner/2004-06/Ausbildung/activ_flying_english_text.pdf>[](http://www.dhv.de/typo/fileadmin/user_upload/monatsordner/2004-06/Ausbildung/activ_flying_english_text.pdf)
 
 
       [](<>)
@@ -109,8 +102,9 @@ safetyItems:
       things each pilot needs to consider when buying, installing and using a
       reserve parachute: <http://www.para-excellence.co.uk/reserves.html>
   - title: BHPA advice and news on Glider certification
-    description: "**EN paraglider classes and pilot skills** The BHPA table relating
-      EN/LTF glider certification classes to the appropriate pilot skill levels
+    description: >-
+      **EN paraglider classes and pilot skills** The BHPA table relating EN/LTF
+      glider certification classes to the appropriate pilot skill levels
       required to fly them safely is now available for ready access on this
       website. The table builds on the EN certification scheme‘s own description
       of the sort of pilot level required for each certification class, and adds
@@ -128,9 +122,10 @@ safetyItems:
       D gliders have almost nothing in common with earlier EN D types. If you
       are in any doubt at all about the suitability of any glider, consult an
       instructor or a highly-experienced coach. Read and download the entire
-      document
-      at https://www.bhpa.co.uk/pdf/En_PG_Classes.pdf[](http://www.bhpa.co.uk/p\
-      df/En966_summary.pdf)"
+      document at 
+
+
+      <https://www.bhpa.co.uk/pdf/En_PG_Classes.pdf>[](http://www.bhpa.co.uk/pdf/En966_summary.pdf)
   - title: |
       BHPA news about Testing and certification of the new EN D wings
     description: As previously reported, testing of EN D gliders was briefly
