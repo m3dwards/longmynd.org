@@ -4,7 +4,7 @@ date: 2023-02-24T15:44:39.295Z
 pageItems:
   - title: Good books to read
     description: Nigel Page's [*50K* or Bust!](http://www.50k-or-bust.com/)
-  - title: "options "
+  - title: A growing collection of hopefully useful information around the internet
     description: >-
       \
 
