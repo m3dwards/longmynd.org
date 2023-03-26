@@ -20,9 +20,8 @@ safetyItems:
   - title: |
       LMSC incident reporting
     description: >-
-      
-
-      Please fill in as many of these as possible and send an email to safety@longmynd.org;
+      Please fill in as many of these as possible and send an email to
+      [safety@longmynd.org](mailto:safety@longmynd.org);
 
 
       * Date
