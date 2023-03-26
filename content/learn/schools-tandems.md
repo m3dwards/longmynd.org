@@ -27,6 +27,11 @@ pageItems:
 
       For more information, see: [www.airways-airsports.com](http://www.airways-airsports.com/)
   - title: "Dave Manning School "
-    description: Daves <https://flyevolution.co.uk/>
+    description: |-
+      Evolution Paramotoring & Paragliding School Ltd is run by Dave Manning  
+
+
+
+      For more information, see: <https://flyevolution.co.uk/>
 ---
 W﻿e are blessed with a few schools at the LMSC
