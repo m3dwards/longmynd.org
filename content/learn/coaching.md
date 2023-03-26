@@ -16,7 +16,7 @@ pageItems:
 
       * \[LMSC Chief Coach]\
         Dave Roberts\
-        coaching\[at]longmynd.org
+        [coaching](mailto:coaching@longmynd.org)
       * Malcolm Davies\
         07710738846 Mainly weekends
       * Sian Leavesley\
@@ -25,15 +25,15 @@ pageItems:
         01952 257123\
         07967 789829
       * Mark Leavesley\
-        mark\[at]leavesleyaviation.com 07774 856056
+        [mark](mailto:mark@leavesleyaviation.com)  07774 856056
       * Crawford Coulson\
-        chairman\[at]longmynd.org\
+        [chairman](mailto:chairman@longmynd.org)\
         07891 630798
       * Ben Henson\
-        sites\[at]longmynd.org\
+        [sites](mailto:sites@longmynd.org)\
         07890 909542
       * Chris de Pinna\
-        comms\[at]longmynd.org\
+        [comms](mailto:comms@longmynd.org)\
         07939 527639
       * Tim Dunn\
         timair46\[at]yahoo.com
@@ -192,7 +192,7 @@ pageItems:
 
       * It is definitely worth **buying** **a** **GPS** **with** **MapSource**, i.e. a GPS on which you can load the airspace, so that you know exactly when you are approaching somewhere you should not be! This does not replace buying and understanding airmaps, but it does make navigation when you are flying a lot easier.
 
-      * **Get** **your** **Pilot** **P** **qualification**. This involves study and an exam, covering airlaw, meteorology and principles of flight.  It’s very important to get this because, without it, you have no third party insurance when you go XC. Hopefully you will never need this – but each year, there are claims on it, and imagine the cost if, for example, you take out a power line (as has happened). Once you are ready to take the exam, contact coaching@longmynd.org and we will arrange a time and place for you to do it. You can also download a [list of tasks for the pilot rating](https://www.bhpa.co.uk/documents/members/index.php?doc=Pilot_Tasks.pdf) and the [Pilot exam syllabus](https://www.bhpa.co.uk/documents/members/index.php?doc=Pilot_Syllabus.pdf).
+      * **Get** **your** **Pilot** **P** **qualification**. This involves study and an exam, covering airlaw, meteorology and principles of flight.  It’s very important to get this because, without it, you have no third party insurance when you go XC. Hopefully you will never need this – but each year, there are claims on it, and imagine the cost if, for example, you take out a power line (as has happened). Once you are ready to take the exam, contact [coaching](mailto:coaching@longmynd.org) and we will arrange a time and place for you to do it. You can also download a [list of tasks for the pilot rating](https://www.bhpa.co.uk/documents/members/index.php?doc=Pilot_Tasks.pdf) and the [Pilot exam syllabus](https://www.bhpa.co.uk/documents/members/index.php?doc=Pilot_Syllabus.pdf).
 
 
       **Other** **sources** **of** **information** **are**
