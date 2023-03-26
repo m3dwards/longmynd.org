@@ -18,14 +18,14 @@ Sites Coordinator:                                       [Ben Henson](mailto:sit
 **Appointed Posts**\
 Chief Coach:                                              [Dave Roberts](mailto:coaching@longmynd.org)\
 **Sites officers**\
-Black Knoll                                                  [Mark Leavesley](mailto:sites@longmynd.org)\
-Camlo & Shepherds Tump                        Vacant\
-Clatter & Llandinam                                   Vacant\
-Clunbury                                                     [Tim Dunn](mailto:sites@longmynd.org)\
-Corndon                                                      [Ben Henson](mailto:sites@longmynd.org)\
-Lawley & Caer Caradoc                             [David Bibby](mailto:sites@longmynd.org)\
-Lan Fawr                                                      [Mark Leavesley](mailto:sites@longmynd.org)\
-Long Mynd                                                  [Tim Dunn](mailto:sites@longmynd.org)\
-Wrekin                                                         [Tony Flint](mailto:wrekin@longmynd.org)\
+Black Knoll:                                                 [Mark Leavesley](mailto:sites@longmynd.org)\
+Camlo & Shepherds Tump:                       ***Vacant***\
+Clatter & Llandinam:                                  ***Vacant***\
+Clunbury:                                                    [Tim Dunn](mailto:sites@longmynd.org)\
+Corndon:                                                     [Ben Henson](mailto:sites@longmynd.org)\
+Lawley & Caer Caradoc:                            [David Bibby](mailto:sites@longmynd.org)\
+Lan Fawr:                                                     [Mark Leavesley](mailto:sites@longmynd.org)\
+Long Mynd:                                                 [Tim Dunn](mailto:sites@longmynd.org)\
+Wrekin:                                                        [Tony Flint](mailto:wrekin@longmynd.org)\
 **Other positions**\
-Our clubs Advance British Clubs Challenge (BCC) Coordinator  [Mark Simpson](mailto:comps@longmynd.org)
+Our clubs Advance British Clubs Challenge (BCC) Coordinator:  [Mark Simpson](mailto:comps@longmynd.org)
