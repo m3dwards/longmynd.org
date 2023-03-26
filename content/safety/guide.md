@@ -94,7 +94,10 @@ safetyItems:
       contains some useful guidance on practicing on the ground. Especially
       useful to low airtime pilots or those used to only flying when conditions
       are smooth and
-      easy: <http://www.dhv.de/typo/fileadmin/user_upload/monatsordner/2004-06/Ausbildung/activ_flying_english_text.pdf>
+      easy: [](http://www.dhv.de/typo/fileadmin/user_upload/monatsordner/2004-06/Ausbildung/activ_flying_english_text.pdf)
+
+
+      https://www.dhv.de/fileadmin/user_upload/monatsordner/2004-06/Ausbildung/activ_flying_english_text.pdf
 
 
       - - -
