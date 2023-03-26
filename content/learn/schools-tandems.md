@@ -27,6 +27,6 @@ pageItems:
 
       For more information, see: [www.airways-airsports.com](http://www.airways-airsports.com/)
   - title: "Dave Manning School "
-    description: Daves new school
+    description: Daves <https://flyevolution.co.uk/>
 ---
 W﻿e are blessed with a few schools at the LMSC
