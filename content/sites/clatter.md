@@ -49,6 +49,7 @@ flying: >-
 siteRecords:
   - record: Malcolm Beard, 2004, 124.5km to Ashbourne. HG
   - record: Martin Knight, 05.08.09, 81km to Wrenbury. PG.
+mainImage: /img/clatter.jpg
 poiImage: /img/clatter-poi.jpeg
 date: 2022-08-17T19:31:20.000Z
 ---
