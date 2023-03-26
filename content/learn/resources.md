@@ -59,9 +59,6 @@ pageItems:
       ### FURTHER TRAINING (POST CP)
 
 
-      [BHPA Pilot Development Structure](https://bhpa-pds.com/login) (PDS)
-
-
       [CAA Skyway Code](https://publicapps.caa.co.uk/modalapplication.aspx?appid=11&mode=detail&id=7919) (for PG/HG there is much in here you don’t need but still a great learning resource e.g. airspace & meteorology)
 
 
@@ -120,12 +117,6 @@ pageItems:
 
 
       [Ayvri ](https://ayvri.com/)(was Doarama – play your flights back over a Google Earth terrain)
-
-
-      ### LINKS – OTHER
-
-
-      [CAA Electronic-Conspicuity Rebate – Ends 31 March 2023 (or when funds are gone!)](https://www.caa.co.uk/General-aviation/Aircraft-ownership-and-maintenance/Electronic-Conspicuity-devices/) \[up to £250 rebate off a Flarm instrument, not to be sniffed at!]
 
 
       ### APPS
