@@ -89,13 +89,11 @@ safetyItems:
       With thanks to the DHV, a useful article on active flying of paragliders,
       contains some useful guidance on practicing on the ground. Especially
       useful to low airtime pilots or those used to only flying when conditions
-      are smooth and easy: 
+      are smooth and
+      easy: [](http://www.dhv.de/typo/fileadmin/user_upload/monatsordner/2004-06/Ausbildung/activ_flying_english_text.pdf)
 
 
-      <https://www.dhv.de/fileadmin/user_upload/monatsordner/2004-06/Ausbildung/activ_flying_english_text.pdf>[](http://www.dhv.de/typo/fileadmin/user_upload/monatsordner/2004-06/Ausbildung/activ_flying_english_text.pdf)
-
-
-      [](<>)
+      [DHV Active Flying Guide](https://www.dhv.de/fileadmin/user_upload/monatsordner/2004-06/Ausbildung/activ_flying_english_text.pdf)[](<>)
   - title: Paraglider Reserve parachute deployment information
     description: This is a really good article (in my opinion), and will highlight
       things each pilot needs to consider when buying, installing and using a
