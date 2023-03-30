@@ -187,8 +187,6 @@ Occasionally, in a strong westerly, they will do what is known as a Short West l
 
 AEROTOW LAUNCHES
 
-![](/img/black-knoll-top.jpeg)
-
 The MGC no longer has its own tug. However, it does still have a motor glider, and also occasionally a tug does visit the MGC. So please note that aerotow launches are particularly vulnerable to inconsiderate actions on our part, especially in a westerly launch. They cross the edge of the hill typically below 100ft and are obviously unable to take evasive action at this critical moment. In addition, the tug pilot has poor visibility down and forward. Keep a special note of towing activity and in particular DO NOT CROSS IN FRONT OF THE WINDSOCK BELOW RIDGE HEIGHT when towing is active. If you hit strong lift you could rise up in front of a tug pilot.
 
 LANDING CIRCUIT
