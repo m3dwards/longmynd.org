@@ -1,5 +1,9 @@
 .container {
   justify-content: flex-start;
+
+  @media all and (max-width: 749px) {
+    justify-content: center;
+  }
   display: flex;
   gap: 20px;
   flex-wrap: wrap;
@@ -8,7 +12,8 @@
   position: relative;
   border-radius: var(--border-radius);
   display: block;
-  width: 350px;
+  width: 100%;
+  max-width: 350px;
   height: 195px;
   background-color: var(--pale-background);
   padding: 15px;
