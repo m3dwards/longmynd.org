@@ -5,9 +5,7 @@
 }
 .keyInfo,
 .picture {
-  // flex-basis: 360px;
   flex: 1 1 auto;
-  min-width: 360px;
 }
 
 .keyInfo {
@@ -34,8 +32,8 @@
   gap: 20px;
 
   .poiImage {
-    width: 360px;
-    height: 360px;
+    width: 330px;
+    height: 330px;
     position: relative;
     box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
   }
@@ -62,6 +60,7 @@
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
+    margin-left: 0;
     li {
       list-style: none;
       padding: 10px;

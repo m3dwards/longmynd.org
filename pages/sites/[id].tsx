@@ -196,7 +196,6 @@ export default function Site({
             <div className={styles.picture}>
               <div>
                 <a href={siteData.mainImage}>
-                  <Image src={siteData.poiImage} priority layout="fill" objectFit="cover" />
                   <Image src={siteData.mainImage} priority layout="fill" objectFit="cover" />
                 </a>
               </div>
