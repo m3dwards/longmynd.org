@@ -1,7 +1,7 @@
 ---
 name: Clunbury
 published: true
-status: Open to club members
+status: Open - club only
 sensitive: true
 hgRating: CP
 pgRating: CP
@@ -65,6 +65,7 @@ mainImage: /img/clunbury.jpeg
 poiImage: /img/clunbury-poi.jpeg
 date: 2022-08-21T14:20:42.201Z
 ---
+
 #### WARNING
 
 This area is used by low flying military aircraft on weekdays.

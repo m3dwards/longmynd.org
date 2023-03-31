@@ -1,7 +1,7 @@
 ---
 name: Clatter
 published: true
-status: Open to club members
+status: Open - club only
 hgRating: CP +25 Hours
 pgRating: CP +15 Hours
 windDirection:
@@ -53,6 +53,7 @@ mainImage: /img/clatter.jpg
 poiImage: /img/clatter-poi.jpeg
 date: 2022-08-17T19:31:20.000Z
 ---
+
 #### WARNING
 
 This area is used by low flying military aircraft on weekdays.

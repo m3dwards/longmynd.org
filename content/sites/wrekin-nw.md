@@ -1,7 +1,7 @@
 ---
 name: Wrekin NW
 published: true
-status: Open to club members
+status: Open - club only
 sensitive: true
 hgRating: CP +25 Hours
 pgRating: CP +25 Hours
@@ -84,6 +84,7 @@ mainImage: /img/wrekin.jpeg
 poiImage: /img/wrekin-nw-poi.jpeg
 date: 2022-08-21T14:23:27.074Z
 ---
+
 #### SPECTATORS AND THE PUBLIC
 
 The Wrekin is a popular walking spot for the public and can be busy, please respect this and launch and fly sensibly. Take care not to be dragged back into the path of spectators and do not attempt to top land if people are in the way.
@@ -98,11 +99,11 @@ Fields not marked ‘HG’ slope steeply. An up-slope/down wind landing is the o
 
 #### SITE RULES
 
-* Pilots must be current LMSC members or have requested (with your BHPA number) and received confirmation of a days temporary pass
-* Pilots must be suitably rated & licensed members of the BHPA.
-* All members shall observe the Countryside Code, in particular in relation to property and livestock. No livestock are to be frightened or stampeded by fliers.
-* No dogs
-* Any damage to be reported to the Estate Office (Tel 01743 232477) immediately. Farmers will be compensated for damage to crops or livestock, plus costs, if appropriate.
+- Pilots must be current LMSC members or have requested (with your BHPA number) and received confirmation of a days temporary pass
+- Pilots must be suitably rated & licensed members of the BHPA.
+- All members shall observe the Countryside Code, in particular in relation to property and livestock. No livestock are to be frightened or stampeded by fliers.
+- No dogs
+- Any damage to be reported to the Estate Office (Tel 01743 232477) immediately. Farmers will be compensated for damage to crops or livestock, plus costs, if appropriate.
 
 #### AIRSPACE
 

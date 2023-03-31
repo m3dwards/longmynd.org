@@ -94,6 +94,8 @@
   display: flex;
   gap: 20px;
   justify-content: center;
+  list-style-type: none;
+  margin-left: 0;
   li {
     flex-basis: 330px;
     a {

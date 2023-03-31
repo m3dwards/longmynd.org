@@ -1,7 +1,7 @@
 ---
 name: Red Hopton Farm
 published: true
-status: Open to club members
+status: Open - club only
 sensitive: true
 hgRating: P +100 hours
 pgRating: P +100 hours
@@ -52,6 +52,7 @@ mainImage: /img/redhopton.png
 poiImage: /img/red_hopton_poi.jpg
 date: 2023-03-24T12:45:13.244Z
 ---
+
 See map\
 A – Paraglider bottom landing and very limited parking – 1 or 2 cars but is right next to the bottom landing field
 
@@ -79,9 +80,9 @@ So far, it has only been launched from in the rather unusual completely perfect 
 
 In the limited experience we have, this site should be considered as suitable to fly when Corndon is very windy or near blown out, and the wind is just a bit too much North or NNE for Long Mountain to be ideal.  As experience of the site is gained and during the thermic season, it may be suitable for ab-initio TTB training and XC flights, but we don’t know yet.
 
- As re-negotiations with the landowner of the old Sarn site are ongoing, please do not launch or land on or near that launch field as we are still hopeful that we can gain access once again and any infringement of the agreement to not fly it will not go down well.
+As re-negotiations with the landowner of the old Sarn site are ongoing, please do not launch or land on or near that launch field as we are still hopeful that we can gain access once again and any infringement of the agreement to not fly it will not go down well.
 
- The actual launch fields are not at the top of the hill, but on a steeper lip of the hill – the fields directly to the south are sloping but much more gently.  There are two launch fields,  The one which is suitable for N to NNE launching is clear grass with few thistles and it is possible to slope land on it and has no obstructions in front.  The field to the west which could take a launch when just West of North does have two large trees lower down the slope which are likely to create launch air turbulence.
+The actual launch fields are not at the top of the hill, but on a steeper lip of the hill – the fields directly to the south are sloping but much more gently.  There are two launch fields,  The one which is suitable for N to NNE launching is clear grass with few thistles and it is possible to slope land on it and has no obstructions in front.  The field to the west which could take a launch when just West of North does have two large trees lower down the slope which are likely to create launch air turbulence.
 
 Please do not climb fences, there are three access points all of which have gates to pass through so there is no need to climb any fence.
 

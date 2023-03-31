@@ -1,7 +1,7 @@
 ---
 name: Wrekin SE
 published: true
-status: Open to club members
+status: Open - club only
 sensitive: true
 hgRating: CP +25 Hours
 pgRating: CP +25 Hours
@@ -60,17 +60,18 @@ mainImage: /img/wrekin.jpeg
 poiImage: /img/wrekin-se-poi.jpeg
 date: 2022-08-21T14:23:39.505Z
 ---
+
 #### SPECTATORS AND THE PUBLIC
 
 The Wrekin is a popular walking spot for the public and can be busy, please respect this and launch and fly sensibly. Take care not to be dragged back into the path of spectators and do not attempt to top land if people are in the way.
 
 It is recommended your first visit, at least, is with someone suitably experienced in flying the site in different conditions. Also look at the accessible bottom landing field by the road before heading up to launch and the bottom landing fields immediately below launch you can view from launch itself.
 
-* Pilots must be current LMSC members or have requested (with your BHPA number) and received confirmation of a temporary day pass
-* Pilots must be suitably rated & licensed and members of the BHPA.
-* All members shall observe the Countryside Code, in particular in relation to property and livestock. No livestock are to be frightened or stampeded by fliers.
-* No dogs
-* Any damage to be reported to the Estate Office (Tel 01743 232477) immediately. Farmers will be compensated for damage to crops or livestock, plus costs, if appropriate.
+- Pilots must be current LMSC members or have requested (with your BHPA number) and received confirmation of a temporary day pass
+- Pilots must be suitably rated & licensed and members of the BHPA.
+- All members shall observe the Countryside Code, in particular in relation to property and livestock. No livestock are to be frightened or stampeded by fliers.
+- No dogs
+- Any damage to be reported to the Estate Office (Tel 01743 232477) immediately. Farmers will be compensated for damage to crops or livestock, plus costs, if appropriate.
 
 #### AIRSPACE
 
@@ -78,8 +79,8 @@ There is significant airspace (MATZs/ATZs/Drop Zone) close to the Wrekin, downwi
 
 #### FIRING RANGE
 
-* The range is currently inactive.
-* Note the one metre high bank running across the middle of the range.
+- The range is currently inactive.
+- Note the one metre high bank running across the middle of the range.
 
 #### WARNING
 
@@ -87,8 +88,8 @@ Fields not marked ‘HG’ slope steeply. An up-slope/down wind landing is the o
 
 #### SITE RULES
 
-* Pilots must be current LMSC members or have requested (with your BHPA number) and received confirmation of a temporary day pass
-* Pilots must be suitably rated & licensed and members of the BHPA.
-* All members shall observe the Countryside Code, in particular in relation to property and livestock. No livestock are to be frightened or stampeded by fliers.
-* No dogs
-* Any damage to be reported to the Estate Office (Tel 01743 232477) immediately. Farmers will be compensated for damage to crops or livestock, plus costs, if appropriate.
+- Pilots must be current LMSC members or have requested (with your BHPA number) and received confirmation of a temporary day pass
+- Pilots must be suitably rated & licensed and members of the BHPA.
+- All members shall observe the Countryside Code, in particular in relation to property and livestock. No livestock are to be frightened or stampeded by fliers.
+- No dogs
+- Any damage to be reported to the Estate Office (Tel 01743 232477) immediately. Farmers will be compensated for damage to crops or livestock, plus costs, if appropriate.

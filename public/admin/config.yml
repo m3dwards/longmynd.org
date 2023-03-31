@@ -182,7 +182,7 @@ collections:
           label: "Status",
           name: "status",
           widget: "select",
-          options: ["Open to all", "Open to club members", "Closed"],
+          options: ["Open to all", "Open - club only", "Closed"],
           default: "Open to all",
         }
       - { label: "Sensitive", name: "sensitive", widget: "boolean", default: false, required: false }
