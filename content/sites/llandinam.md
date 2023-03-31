@@ -62,7 +62,7 @@ When there is very little wind elsewhere, and you want a big hill in a gentle WN
 When not to go?\
 Probably when the Mynd is already windy. Not when it is off south of west. The site guide does not indicate suitability of a NW wind, but looking at the topography, should still work for ridge soaring but better at Little London.
 
-<iframe style="aspect-ratio: 16 / 9; width: 100%;" src="https://www.youtube.com/embed/qywHZBbyURo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe style="aspect-ratio: 16 / 9; width: 100%; max-width: 560px;" src="https://www.youtube.com/embed/qywHZBbyURo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 #### WARNING
 
