@@ -143,8 +143,8 @@ button {
   color: white;
   padding: 5px 10px;
   font-size: 1em;
-  + .pill {
-    margin-left: 10px;
+  &:has(+ .pill) {
+    margin-right: 10px;
   }
   span {
     font-size: 1em;
