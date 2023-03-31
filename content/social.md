@@ -2,6 +2,8 @@
 title: Social
 date: 2022-08-17T19:31:20.000Z
 ---
+This has happened and was very successfully attended by two qualified and registered packers, two trainee packers and mutliple club pilots throughout the day.
+
 Supervised Parachute Repack - Saturday 18 March 2023
 
 £5 per repack. Tea & Coffee provided\
