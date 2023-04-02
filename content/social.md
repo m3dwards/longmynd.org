@@ -2,6 +2,8 @@
 title: Social
 date: 2022-08-17T19:31:20.000Z
 ---
+<iframe id='wcFrame' src='https://webcollect.org.uk/org/index.php?page=home&amp;organisation_id=2728&amp;category_id=8415&amp;embedded=1' width='100%' height='1500px' marginheight='0' frameborder='0' allowTransparency='true'></iframe><script type='text/javascript' src='https://webcollect.org.uk/media/js/resize_iframe.js'></script>
+
 ## This has happened and was very successfully attended by two qualified and registered packers, two trainee packers and mutliple club pilots throughout the day.
 
 Supervised Parachute Repack - Saturday 18 March 2023
@@ -23,7 +25,3 @@ Note your parachute will not be repacked for you but a demonstration repack will
 Initially its 1 repack per person but if spaces remain and you have indicated you would like more than 1 repack, we’ll get back to confirm.\
 Unfortunately due to the extra time needed, Rogallo reserves cannot be repacked at the event (well maybe 1 if time permits!).\
 However Rogallo’s can be left for a ‘take away’ paid repack as can any reserves you prefer to drop off for a full repack by a BHPA qualified repacker (these will be taken away and not done on the Saturday). Subject to availability, 1st come 1st served.
-
-
-
-<iframe id='wcFrame' src='https://webcollect.org.uk/org/index.php?page=home&amp;organisation_id=2728&amp;category_id=8415&amp;embedded=1' width='100%' height='1500px' marginheight='0' frameborder='0' allowTransparency='true'></iframe><script type='text/javascript' src='https://webcollect.org.uk/media/js/resize_iframe.js'></script>
