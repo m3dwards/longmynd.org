@@ -127,7 +127,7 @@ pageItems:
 
       * [Flying after a break](/img/flying_after_break.pdf)
 
-      * [Flying with others ](http://www.longmynd.org/wp-content/uploads/2013/02/skills_flyingwithothers.pdf)
+      * [Flying with others ](/img/skills_flyingwithothers.pdf)
 
       * [Things to practice on the ridge](http://www.longmynd.org/wp-content/uploads/2013/02/skills_ridgesoaring.pdf)
 
