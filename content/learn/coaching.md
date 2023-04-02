@@ -129,11 +129,11 @@ pageItems:
 
       * [Flying with others ](/img/skills_flyingwithothers.pdf)
 
-      * [Things to practice on the ridge](http://www.longmynd.org/wp-content/uploads/2013/02/skills_ridgesoaring.pdf)
+      * [Things to practice on the ridge](/img/skills_ridgesoaring.pdf)
 
-      * [Setting goals for yourself](http://www.longmynd.org/wp-content/uploads/2013/02/skills_settinggoals.pdf)
+      * [Setting goals for yourself](/img/skills_settinggoals.pdf)
 
-      *  [Keeping a logbook](http://test.longmynd.org/wp-content/uploads/2013/02/skills_keepingalogbook.pdf)
+      *  [Keeping a logbook](/img/skills_keepingalogbook.pdf)
 
 
       ### Podcasts
