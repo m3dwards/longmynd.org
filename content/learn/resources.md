@@ -35,10 +35,10 @@ pageItems:
       ### GUIDANCE
 
 
-      [Who to call in an Emergency](public/img/who-to-call-in-an-emergency.pdf)
+      [Who to call in an Emergency](/img/who-to-call-in-an-emergency.pdf)
 
 
-      [BHPA Online Incident Report](https://contact.bhpa.co.uk/)
+      BHPA Online Incident Report
 
 
       [BHPA_Rules for Individual Flying Members 10 2021](public/img/bhpa_rules-for-individual-flying-members-10-2021.pdf)
