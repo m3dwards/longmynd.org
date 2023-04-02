@@ -213,7 +213,7 @@ pageItems:
 
       * Those pages also include some [XC tips](http://www.judithmole.net/blog/?page_id=99)
 
-      * XC training syllabus. This has been produced by Roy Dade, and was written by him to help him progress to flying XC – so new XC pilots please note, it’s not a qualification, it’s a series of guidelines and resources, which you might find useful. [Download it here](http://www.longmynd.org/wp-content/uploads/2013/02/CROSS-COUNTRY-SYLLABUS-version-5.doc).
+      * XC training syllabus. This has been produced by Roy Dade, and was written by him to help him progress to flying XC – so new XC pilots please note, it’s not a qualification, it’s a series of guidelines and resources, which you might find useful. [Download it here](/img/cross-country-syllabus-version-5.pdf).
 ---
 ### For pilots needing coaching
 
