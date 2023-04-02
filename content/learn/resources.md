@@ -38,10 +38,10 @@ pageItems:
       [Who to call in an Emergency](/img/who-to-call-in-an-emergency.pdf)
 
 
-      BHPA Online Incident Report
+      [BHPA Online Incident Report](https://contact.bhpa.co.uk/)
 
 
-      [BHPA_Rules for Individual Flying Members 10 2021](public/img/bhpa_rules-for-individual-flying-members-10-2021.pdf)
+      [BHPA_Rules for Individual Flying Members 10 2021](/img/bhpa_rules-for-individual-flying-members-10-2021.pdf)
 
 
       [Visiting Overseas Pilots](http://www.bhpa.co.uk/sport/bhpa/visiting_pilots.php)
