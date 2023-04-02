@@ -47,7 +47,7 @@ pageItems:
       [Visiting Overseas Pilots](http://www.bhpa.co.uk/sport/bhpa/visiting_pilots.php)
 
 
-      [BHPA Technical Manual](https://www.bhpa.co.uk/documents/clubs/index.php?doc=BHPA_Tech_Manual_20.pdf)
+      [BHPA Technical Manual](https://www.bhpa.co.uk/documents/clubs/index.php?doc=BHPA_Tech_Manual_21.pdf)
 
 
       [British Hang Gliding & Paragliding Association](https://www.bhpa.co.uk/) (BHPA)
