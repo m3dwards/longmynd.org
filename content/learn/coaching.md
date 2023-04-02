@@ -123,15 +123,17 @@ pageItems:
       Right click to download these to your computer.
 
 
-      * [Ground Control in Strong Winds](/img/ground_control_in_strong_winds-1-.pdf)
+      * Ground Control in Strong Winds
 
       * [Flying after a break](http://www.longmynd.org/wp-content/uploads/2013/02/flying_after_break.doc)
 
-      * [Flying with others](http://www.longmynd.org/wp-content/uploads/2013/02/skills_flyingwithothers.pdf) [Keeping a logbook](http://test.longmynd.org/wp-content/uploads/2013/02/skills_keepingalogbook.pdf)
+      * [Flying with others ](http://www.longmynd.org/wp-content/uploads/2013/02/skills_flyingwithothers.pdf)
 
       * [Things to practice on the ridge](http://www.longmynd.org/wp-content/uploads/2013/02/skills_ridgesoaring.pdf)
 
       * [Setting goals for yourself](http://www.longmynd.org/wp-content/uploads/2013/02/skills_settinggoals.pdf)
+
+      *  [Keeping a logbook](http://test.longmynd.org/wp-content/uploads/2013/02/skills_keepingalogbook.pdf)
 
 
       ### Podcasts
