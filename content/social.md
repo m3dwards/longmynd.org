@@ -10,7 +10,7 @@ Supervised Parachute Repack - Saturday 18 March 2023
 Rushbury Village Hall, Wall under Heywood, Church Stretton\
 Start Times spilt into 2 sessions : 1PM & 4PM
 
-**Please email club \[at] longmynd.org to request a form to book to attend.**
+**Please email [club](mailto:club@longmynd.org) to request a form to book to attend.**
 
 We have 20 spaces – reply to reserve a space. Then simply pay the £5 per repack to secure your place. Details for online payment will be sent once you have reserved a space.
 
