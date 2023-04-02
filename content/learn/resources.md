@@ -14,7 +14,7 @@ pageItems:
       ### MAGAZINES, ARTICLES, PODCASTS
 
 
-      [DHV Flying Together Hang gliders and paragliders](http://www.longmynd.org/wp-content/uploads/2021/12/DHV-Flying-Together-Hang-gliders-and-paragliders.pdf) (Especially useful for all pilots who fly the Long Mynd site to read)
+      [DHV Flying Together Hang gliders and paragliders](/img/dhv-flying-together-hang-gliders-and-paragliders.pdf) (Especially useful for all pilots who fly the Long Mynd site to read)
 
 
       [Free.Aero online mag](http://altimedia.net/free.aero/en.free.aero/index.php)
