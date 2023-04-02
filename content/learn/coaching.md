@@ -125,7 +125,7 @@ pageItems:
 
       * [Ground Control in Strong Winds](/img/ground_control_in_strong_winds-1-.pdf)
 
-      * [Flying after a break](http://www.longmynd.org/wp-content/uploads/2013/02/flying_after_break.doc)
+      * [Flying after a break](/img/flying_after_break.pdf)
 
       * [Flying with others ](http://www.longmynd.org/wp-content/uploads/2013/02/skills_flyingwithothers.pdf)
 
