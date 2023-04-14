@@ -5,7 +5,6 @@ import Layout, { siteTitle } from "../../components/layout";
 import Image from "next/image";
 import { getAllCollectionIds, getCollectionData } from "../../lib/collection";
 import Head from "next/head";
-import Date from "../../components/date";
 import utilStyles from "../../styles/utils.module.css";
 import { GetStaticPaths } from "next";
 import styles from "./site.module.scss";
@@ -19,6 +18,7 @@ import WindIndicator from "components/WindIndicator";
 import { site as siteType } from "types";
 import PillStatus from "components/PillStatus";
 import PillSensitive from "components/PillSensitive";
+import parseLinks from "lib/links";
 
 export default function Site({
   siteData,
@@ -39,27 +39,27 @@ export default function Site({
     const accessAndParkingContent = await remark()
       .use(html)
       .process(siteData.accessAndParking as string);
-    setAccessAndParkingState(accessAndParkingContent.toString());
+    setAccessAndParkingState(parseLinks(accessAndParkingContent.toString()));
 
     const launchesAndLandingContent = await remark()
       .use(html)
       .process(siteData.launchesAndLanding as string);
-    setLaunchesAndLandingState(launchesAndLandingContent.toString());
+    setLaunchesAndLandingState(parseLinks(launchesAndLandingContent.toString()));
 
     const flyingContent = await remark()
       .use(html)
       .process(siteData.flying as string);
-    setFlyingState(flyingContent.toString());
+    setFlyingState(parseLinks(flyingContent.toString()));
 
     const webcamsContent = await remark()
       .use(html)
       .process(siteData.webcams as string);
-    setWebcamsState(webcamsContent.toString());
+    setWebcamsState(parseLinks(webcamsContent.toString()));
 
     const localAttractionsContent = await remark()
       .use(html)
       .process(siteData.localAttractions as string);
-    setLocalAttractionsState(localAttractionsContent.toString());
+    setLocalAttractionsState(parseLinks(localAttractionsContent.toString()));
   };
 
   React.useEffect(() => {

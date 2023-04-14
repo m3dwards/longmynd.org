@@ -2,9 +2,10 @@ import Layout from "components/layout";
 import Head from "next/head";
 import utilStyles from "styles/utils.module.css";
 import { getBaseProps } from "lib/baseProps";
-import { attributes, react as WebcamContent } from "content/webcams.md";
+import { attributes, html as webcamContent } from "content/webcams.md";
 import { remark } from "remark";
 import html from "remark-html";
+import parseLinks from "lib/links";
 
 export default function Webcams({ baseProps }: { baseProps: object }) {
   const siteData: siteData = {
@@ -18,6 +19,8 @@ export default function Webcams({ baseProps }: { baseProps: object }) {
       webcams: string;
     }[],
   };
+  const parsedWebcamContent = parseLinks(webcamContent);
+
   return (
     <Layout navData={baseProps}>
       <Head>
@@ -25,7 +28,7 @@ export default function Webcams({ baseProps }: { baseProps: object }) {
       </Head>
       <article>
         <h1 className={utilStyles.headingXl}>{siteData.title}</h1>
-        <WebcamContent />
+        <div dangerouslySetInnerHTML={{ __html: parsedWebcamContent }} />
         <section className="quickLinks">
           {siteData.locations &&
             siteData.locations.map((item, index) => (
@@ -43,14 +46,18 @@ export default function Webcams({ baseProps }: { baseProps: object }) {
                 <section>
                   <h3 id="weather">Weather Stations</h3>
                   {l.weatherStations.map((ws, wsindex) => (
-                    <div key={wsindex} dangerouslySetInnerHTML={{ __html: ws.station }} />
+                    <div key={wsindex} dangerouslySetInnerHTML={{ __html: parseLinks(ws.station) }} />
                   ))}
                 </section>
               )}
               {l.webcams && (
                 <section>
                   <h3 id="webcams">Webcams</h3>
-                  <div dangerouslySetInnerHTML={{ __html: remark().use(html).processSync(l.webcams).toString() }} />
+                  <div
+                    dangerouslySetInnerHTML={{
+                      __html: parseLinks(remark().use(html).processSync(l.webcams).toString()),
+                    }}
+                  />
                 </section>
               )}
             </section>

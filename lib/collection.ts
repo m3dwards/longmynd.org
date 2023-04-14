@@ -3,6 +3,7 @@ import path from "path";
 import matter from "gray-matter";
 import { remark } from "remark";
 import html from "remark-html";
+import parseLinks from "lib/links";
 
 export function getSortedCollectionData(collectionPath: string) {
   const collectionDirectory = path.join(process.cwd(), collectionPath);
@@ -58,9 +59,10 @@ export function getCollectionData(id: string, collectionPath: string) {
   // Use remark to convert markdown into HTML string
   const processedContent = remark().use(html, { sanitize: false }).processSync(matterResult.content);
   const contentHtml = processedContent.toString();
+  const parsedLinkContentHTML = parseLinks(contentHtml);
   const returnObject = {
     id,
-    contentHtml,
+    contentHtml: parsedLinkContentHTML,
     ...(matterResult.data as { date: Date; title: string }),
   };
 
@@ -85,9 +87,10 @@ export async function getAllCollectionData(collectionPath: string) {
     // Use remark to convert markdown into HTML string
     const processedContent = await remark().use(html, { sanitize: true }).process(matterResult.content);
     const contentHtml = processedContent.toString();
+    const parsedLinkContentHTML = parseLinks(contentHtml);
     const pageData = {
       id: file.replace(/\.md$/, ""),
-      contentHtml,
+      contentHtml: parsedLinkContentHTML,
       ...(matterResult.data as { date: string; name: string }),
     };
 

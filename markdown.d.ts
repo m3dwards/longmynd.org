@@ -4,4 +4,6 @@ declare module "*.md" {
   export { react };
   const attributes: Record<string, unknown>;
   export { attributes };
+  const html: string;
+  export { html };
 }

@@ -6,6 +6,7 @@ import { GetStaticPaths } from "next";
 import { getBaseProps } from "lib/baseProps";
 import { remark } from "remark";
 import html from "remark-html";
+import parseLinks from "lib/links";
 
 export default function Learn({ siteData, baseProps }: { siteData: siteData; baseProps: object }) {
   return (
@@ -30,7 +31,9 @@ export default function Learn({ siteData, baseProps }: { siteData: siteData; bas
               <div key={index}>
                 <h3 id={index.toString()}>{item.title}</h3>
                 <div
-                  dangerouslySetInnerHTML={{ __html: remark().use(html).processSync(item.description).toString() }}
+                  dangerouslySetInnerHTML={{
+                    __html: parseLinks(remark().use(html).processSync(item.description).toString()),
+                  }}
                 />
               </div>
             ))}

@@ -1,6 +1,6 @@
 import Layout, { siteTitle } from "components/layout";
 import { getBaseProps } from "lib/baseProps";
-import { attributes, react as SitesContent } from "content/sites/index.md";
+import { attributes, html as sitesContent } from "content/sites/index.md";
 import { getAllCollectionData } from "../../lib/collection";
 import { site as siteType, additionalSite } from "types";
 import WindRose from "components/WindRose";
@@ -10,6 +10,7 @@ import utilStyles from "../../styles/utils.module.css";
 import WindIndicator from "components/WindIndicator";
 import PillStatus from "components/PillStatus";
 import PillSensitive from "components/PillSensitive";
+import parseLinks from "lib/links";
 
 const pageProps = async (_: any) => {
   const collectionData = await getAllCollectionData("content/sites");
@@ -27,13 +28,14 @@ const sites = ({
   additionalSites: Array<additionalSite>;
 }) => {
   sites = sites.filter((s) => s.published);
+  const parsedSitesContent = parseLinks(sitesContent);
   return (
     <Layout navData={baseProps}>
       <Head>
         <title>Site Guide - {siteTitle}</title>
       </Head>
       <h1 className={utilStyles.headingXl}>Site Guide</h1>
-      <SitesContent />
+      <div dangerouslySetInnerHTML={{ __html: parsedSitesContent }} />
       <div className={styles.windRose}>
         <h2>Wind Rose</h2>
         <WindRose sites={sites} additionalSites={additionalSites} width={700} />

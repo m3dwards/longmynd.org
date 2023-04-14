@@ -9,13 +9,14 @@ import Hill2 from "img/hill2.jpg";
 import Hill3 from "img/hill3.jpg";
 import CANP from "img/canp.jpg";
 import Incident from "img/incident.jpg";
-import { attributes, react as HomeContent } from "content/index.md";
+import { attributes, html as mainContent } from "content/index.md";
 import { remark } from "remark";
 import html from "remark-html";
 import { getBaseProps } from "lib/baseProps";
 import { getAllCollectionData } from "lib/collection";
 import { stripHtml } from "string-strip-html";
 import FormatDate from "components/date";
+import parseLinks from "lib/links";
 
 const pageProps = async (_: any) => {
   let newsPages = await getAllCollectionData("content/news");
@@ -39,9 +40,11 @@ export default function Home({ baseProps, newsPages, weatherPages }) {
     const topBodyContent = await remark()
       .use(html)
       .process(attributes.topBody as string);
-    const topBodyHtml = topBodyContent.toString();
+    const topBodyHtml = parseLinks(topBodyContent.toString());
     setTopBodyState(topBodyHtml);
   };
+
+  const parsedHomeContent = parseLinks(mainContent);
 
   React.useEffect(() => {
     getTopBody();
@@ -135,7 +138,7 @@ export default function Home({ baseProps, newsPages, weatherPages }) {
                 ))}
             </div>
           </section>
-          <HomeContent />
+          <div dangerouslySetInnerHTML={{ __html: parsedHomeContent }}></div>
         </>
       </section>
     </Layout>

@@ -1,11 +1,12 @@
 import Head from "next/head";
 import Layout, { siteTitle } from "components/layout";
-import { attributes, react as NewsContent } from "content/news/index.md";
+import { attributes, html as newsContent } from "content/news/index.md";
 import { getBaseProps } from "lib/baseProps";
 import { getAllCollectionData } from "lib/collection";
 import { stripHtml } from "string-strip-html";
 import FormatDate from "components/date";
 import styles from "./news.module.scss";
+import parseLinks from "lib/links";
 
 const pageProps = async (_: any) => {
   let newsPages = await getAllCollectionData("content/news");
@@ -22,6 +23,7 @@ const pageProps = async (_: any) => {
 export const getStaticProps = getBaseProps(pageProps);
 
 export default function News({ baseProps, newsPages, weatherPages }) {
+  const parsedNewsContent = parseLinks(newsContent);
   return (
     <Layout home navData={baseProps}>
       <Head>
@@ -29,8 +31,7 @@ export default function News({ baseProps, newsPages, weatherPages }) {
       </Head>
       <section>
         <>
-          <NewsContent />
-
+          <div dangerouslySetInnerHTML={{ __html: parsedNewsContent }} />
           <section>
             <h2>Recent Weather Updates</h2>
             <div className={styles.container}>

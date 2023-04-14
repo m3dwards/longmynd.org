@@ -2,7 +2,8 @@ import Layout from "components/layout";
 import Head from "next/head";
 import utilStyles from "styles/utils.module.css";
 import { getBaseProps } from "lib/baseProps";
-import { attributes, react as ContactContent } from "content/contact.md";
+import { attributes, html as contactContent } from "content/contact.md";
+import parseLinks from "lib/links";
 
 export default function Contact({ baseProps }: { baseProps: object }) {
   const siteData: siteData = {
@@ -10,6 +11,7 @@ export default function Contact({ baseProps }: { baseProps: object }) {
     date: attributes.date as Date,
     title: attributes.title as string,
   };
+  const parsedContactContent = parseLinks(contactContent);
   return (
     <Layout navData={baseProps}>
       <Head>
@@ -17,7 +19,7 @@ export default function Contact({ baseProps }: { baseProps: object }) {
       </Head>
       <article>
         <h1 className={utilStyles.headingXl}>{siteData.title}</h1>
-        <ContactContent />
+        <div dangerouslySetInnerHTML={{ __html: parsedContactContent }} />
       </article>
     </Layout>
   );
