@@ -76,5 +76,22 @@ locations:
       intermittently unreliable – it’s been fine for years when it was situated
       at Sarn.  Sadly the device only runs on a 2G network, which makes it
       difficult to move to any other data supplier in this location.
+    weatherStations:
+      - station: '<iframe style="width: 580px; height: 250px;"
+          src="https://widget.holfuy.com/?station=295&amp;su=mph&amp;t=C&amp;lang=en&amp;mode=detailed"
+          width="300" height="150" frameborder="0" marginwidth="1"
+          marginheight="1" scrolling="no"></iframe>'
+      - station: '<iframe style="width: 100%; height: 170px;"
+          src="https://widget.holfuy.com/?station=295&amp;su=mph&amp;t=C&amp;lang=en&amp;mode=average&amp;avgrows=32"
+          width="300" height="150" frameborder="0" marginwidth="1"
+          marginheight="1" scrolling="no"></iframe>'
+    webcams: >-
+      Most recent camera image below (updated every 10 minutes) it is pointing
+      out along the ridge in a northern direction from the very top of the
+      highest peak, installed on the weather vane pole which comprises of a
+      Raven which is the landowner’s family emblem.
+
+
+      Camera turned off temporarily to see if the weather station works more reliably
 ---
 Here are some webcams for our sites
