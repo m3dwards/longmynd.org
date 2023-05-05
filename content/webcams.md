@@ -93,5 +93,25 @@ locations:
 
 
       Camera turned off temporarily to see if the weather station works more reliably
+  - name: Clatter
+    description: >-
+      Clatter is currently open to LMSC members only (temporary guest membership
+      can be obtained by contacting any committee member).
+
+
+      Data collected constantly but averaged over 15 minutes, camera every twenty minutes. Wind strengths etc. will be pretty accurate in a SW wind, other directions pretty good as the station is higher up the hill than the launch and with an open aspect in all directions.  Being located on top of a hill in Mid Wales it is expected that the skystate and weather information will be of some use relating to our other sites in the area. Finally, it’s installed on site at Clatter, with the camera looking west across towards launch.
+    weatherStations:
+      - station: '<iframe style="width: 580px; height: 250px;"
+          src="https://widget.holfuy.com/?station=608&amp;su=mph&amp;t=C&amp;lang=en&amp;mode=detailed"
+          width="300" height="150" frameborder="0" marginwidth="1"
+          marginheight="1" scrolling="no"></iframe>'
+      - station: '<iframe style="width: 100%; height: 170px;"
+          src="https://widget.holfuy.com/?station=608&amp;su=mph&amp;t=C&amp;lang=en&amp;mode=average&amp;avgrows=32"
+          width="300" height="150" frameborder="0" marginwidth="1"
+          marginheight="1" scrolling="no"></iframe>'
+    webcams: |+
+      Most recent camera image below (updated every 20 minutes)
+
+      ![](http://holfuy.com/en/takeit/cam/s608.jpg "Clatter webcam")
 ---
-Here are some webcams for our sites
+Webcams for our sites
