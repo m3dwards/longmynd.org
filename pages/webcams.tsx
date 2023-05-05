@@ -55,7 +55,7 @@ export default function Webcams({ baseProps }: { baseProps: object }) {
                   <h3 id="webcams">Webcams</h3>
                   <div
                     dangerouslySetInnerHTML={{
-                      __html: parseLinks(remark().use(html).processSync(l.webcams).toString()),
+                      __html: parseLinks(remark().use(html, { sanitize: false }).processSync(l.webcams).toString()),
                     }}
                   />
                 </section>
