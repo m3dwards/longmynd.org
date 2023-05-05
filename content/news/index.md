@@ -4,8 +4,6 @@ date: 2022-08-17T19:31:20.000Z
 ---
 # News
 
-Some news
+week commencing 1st May
 
-
-
-With the possibility of some weather too
+Friday may be possible from Clatter.  bit windy and gusty at timed and bit showery, but a possibility
