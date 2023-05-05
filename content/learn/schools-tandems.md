@@ -13,9 +13,9 @@ pageItems:
       For more information, see:  [www.leavesleyaviation.com](http://www.leavesleyaviation.com/)
   - title: Evolution Paramotoring & Paragliding
     description: >
-      Evolution Paramotoring & Paragliding School Ltd is run by Dave Manning,
-      offering full beginner courses in paramotoring and paragliding, along with
-      tandem experience flights and pilot development training. 
+      Evolution is run by Dave Manning, offering full beginner courses in
+      paramotoring and paragliding, along with tandem experience flights and
+      pilot development training. 
 
 
       07817 484930
