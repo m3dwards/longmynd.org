@@ -153,9 +153,9 @@ locations:
       - station: <iframe src="https://www.solarcam.fr/Llangollen/demo_simple.php"
           width="960" height="700" scrolling="no"></iframe>
   - name: Other local weather stations and webcams
-    description: >-
-      ## Other weather stations
-
+    description: Other weather stations
+    webcams: >-
+      
 
       * [Shrewbury](http://www.shrewsburyweather.co.uk/index.htm)
 
