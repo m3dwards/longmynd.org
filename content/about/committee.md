@@ -30,4 +30,4 @@ Long Mynd: [Tim Dunn](mailto:sites@longmynd.org)\
 Wrekin: [Tony Flint](mailto:wrekin@longmynd.org)
 
 **Other positions**\
-Our clubs Advance British Clubs Challenge (BCC) Coordinator:  [Mark Simpson](mailto:comps@longmynd.org)
+Our clubs Advance British Clubs Challenge (BCC) Coordinator:  [David McLeod](mailto:comps@longmynd.org)[](mailto:comps@longmynd.org)
