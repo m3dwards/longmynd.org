@@ -26,14 +26,11 @@ pageItems:
         07967 789829
       * Mark Leavesley\
         [mark](mailto:mark@leavesleyaviation.com)  07774 856056
-      * Crawford Coulson\
-        [chairman](mailto:chairman@longmynd.org)\
+      * Crawford Coulso\
         07891 630798
-      * Ben Henson\
-        [sites](mailto:sites@longmynd.org)\
+      * Ben Henso\
         07890 909542
-      * Chris de Pinna\
-        [comms](mailto:comms@longmynd.org)\
+      * Chris de Pinn\
         07939 527639
       * Tim Dunn\
         timair46\[at]yahoo.com
