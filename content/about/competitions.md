@@ -33,8 +33,8 @@ The dates of competitions already agreed can be found on the events calendar, at
 
 **How to pay the fee:** the address for paying by cheque is given in the booking form above. You can also pay online. However, please note that you still MUST download, complete and send off the booking form above.
 
-[Pay full fee (£100) online](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=9FDX829PQB8MN).  *`need to check`*
+[Pay full fee (£100) online](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=9FDX829PQB8MN).  
 
 In exceptional circumstances (e.g. where a competition is based elsewhere, and only uses our sites once) we may, at our discretion, reduce that fee. To pay a reduced fee, use the link below, entering the amount which MUST have been previously agreed with the competitions committee member.
 
-[Pay reduced fee online](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=9XS9YGMMZ88GU). *`need to check`*
+[Pay reduced fee online](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=9XS9YGMMZ88GU).
