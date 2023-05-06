@@ -24,8 +24,8 @@ For anything else: [chairman](mailto:chairman@longmynd.org)
 
 ### **For Urgent Issues**
 
-For urgent sites issues please call: Ben 07890 909542;\
-or for anything else: Crawford 07891 630798\
+For urgent sites issues please call: [Richard McCrohan](mailto:sites@longmynd.org)\
+or for anything else: [Andrew McDonald](mailto:chairman@longmynd.org)\
 If you don’t get straight through, please leave a message or send a text!
 
 Land owners & tenants: you may have been provided with details of a local\
@@ -42,7 +42,7 @@ We cannot always respond immediately but we will as soon as we can.
 
 If you don’t get a timely response, please try a different contact option!
 
-In the event of an accident, call the emergency services first!
+In the event of an incident, call the emergency services first!
 
 Press: Please note that we never discuss accidents with the press.
 
