@@ -28,7 +28,7 @@ pageItems:
         [mark](mailto:mark@leavesleyaviation.com)  07774 856056
       * Crawford Coulso\
         07891 630798
-      * Ben Henso\
+      * Ben Henson\
         07890 909542
       * Chris de Pinn\
         07939 527639
