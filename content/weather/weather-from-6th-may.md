@@ -6,4 +6,4 @@ Sunday looking great for the Long Mynd, W possibly just a bit WSW at times, mode
 
 \-----------------------------
 
-Froday may well be flyable from Clatter or Shepherds Tump, but sometimes very windy and gusty and showery.  Sunday might be flyable too.
+Friday may well be flyable from Clatter or Shepherds Tump, but sometimes very windy and gusty and showery.  Sunday might be flyable too.
