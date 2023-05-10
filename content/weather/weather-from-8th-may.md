@@ -1,10 +1,12 @@
 ---
 title: Weather from 8th May
-date: 2023-05-10T07:37:18.804Z
+date: 2023-05-10T08:25:58.806Z
 ---
 Friday might be ok at Corndon, Saturday looking dry and light winds probably east face of Corndon, Sunday might be the Mynd but rainy.
 
-Some flying was had I could see on the cameras yesterday at the Mynd
+Some flying was had I could see on the cameras yesterday at the Mynd.
+
+looks wet most of today
 
 \---------------------------------------------------------
 
