@@ -4,7 +4,7 @@ date: 2023-05-10T07:12:44.325Z
 ---
 Friday might be ok at Corndon, Saturday looking dry and light winds probably east face of Corndon, Sunday might be the Mynd but rainy.
 
-Some flying was had I could see on the cameras yesteray at the Mynd
+Some flying was had I could see on the cameras yesterday at the Mynd
 
 \---------------------------------------------------------
 
