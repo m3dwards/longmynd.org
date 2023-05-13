@@ -2,6 +2,10 @@
 title: Weather from 8th May
 date: 2023-05-12T07:03:16.594Z
 ---
+Saturday Corndon, but if it's NE is not at all great for soaring.  Sunday might be ion the Mynd, but also currently more wind at Camlo forecast.
+
+\-------------------------------------------------------------
+
 Friday could still be flyable at Corndon, but the direction is not great for soaring as due to be on the NE corner and windy.
 
 Alternatively Red Hopton might work, but could be too far NE  Cloudbase is due to be really low, raising to low, so not great.
