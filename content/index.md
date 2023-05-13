@@ -10,7 +10,28 @@ topBody: >-
 
   The Long Mynd site itself has an honesty box and we ask non-members for a day fee of £3 which goes towards the sites upkeep.
 
-  The day fee can also be paid at [Day Fee](https://webcollect.org.uk/lmsc/event/day-fee)
+  The day fee can also be paid on Webcollect  [Day Fee ](https://webcollect.org.uk/lmsc/event/day-fee)
+
+
+  or on PayPal
+
+
+  <form action=https://www.paypal.com/cgi-bin/webscr method="post" target="_top">
+
+
+  <input type="hidden" name="cmd" value="_s-xclick">
+
+
+  <input type="hidden" name="hosted_button_id" value="TDDMBGAYRVP2N">
+
+
+  <input type="image" src=https://www.paypalobjects.com/en_US/i/btn/btn_buynowCC_LG.gif border="0" name="submit" alt="PayPal – The safer, easier way to pay online!">
+
+
+  <img alt="" border="0" src=https://www.paypalobjects.com/en_GB/i/scr/pixel.gif width="1" height="1">
+
+
+  </form>              
 
 
   <a href='https://webcollect.org.uk/lmsc/event/day-fee' style='padding: 3px 15px 2px 5px;background: url("https://webcollect.org.uk/media/images/org-buttons/btn-bg-6.png") no-repeat right center;color: white;font-weight: bold;cursor: pointer;text-decoration: none;white-space: nowrap;border-radius: 4px;font-size: 12px;font-family: Arial, Helvetica, sans-serif;'>Day Fee</a>
