@@ -1,8 +1,8 @@
 ---
 title: Weather from 8th May
-date: 2023-05-12T07:03:16.594Z
+date: 2023-05-13T08:49:42.143Z
 ---
-Saturday Corndon, but if it's NE is not at all great for soaring.  Sunday might be ion the Mynd, but also currently more wind at Camlo forecast.
+Saturday Corndon, but if it's NE is not at all great for soaring.  Sunday might be on the Mynd, but also currently more wind at Camlo forecast.
 
 \-------------------------------------------------------------
 
