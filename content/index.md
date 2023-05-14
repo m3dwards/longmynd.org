@@ -13,8 +13,7 @@ topBody: >-
   The day fee can also be paid on Webcollect  [Day Fee ](https://webcollect.org.uk/lmsc/event/day-fee)
 
 
-  or on PayPal
-
+  or on Paypal 
 
   <form action=https://www.paypal.com/cgi-bin/webscr method="post" target="_top">
 
@@ -29,7 +28,6 @@ topBody: >-
 
 
   <img alt="" border="0" src=https://www.paypalobjects.com/en_GB/i/scr/pixel.gif width="1" height="1">
-
 
   </form>              
 
