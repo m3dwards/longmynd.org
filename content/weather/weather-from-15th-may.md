@@ -6,7 +6,7 @@ Tuesday was flyable early on in the morning at Long Mountain, but only just then
 
 Wednesday forecasts have changed and is much lighter and tending to be more north.  better for ridge soaring for more people I think.  Wrekin, Lawley, Clunbury all look possible and maybe if it goes north enough Cormdon, but some forecasts suggest it may well be too light to ridge soar anywhere at times, other say it's ideal.  Other than that possibly a lot of cloud even the odd patch of rain but also pretty thermic.
 
-Thusday really light winds
+Thursday really light winds
 
 \==========================================================
 
