@@ -1,7 +1,11 @@
 ---
 title: Weather from 15th May
-date: 2023-05-17T05:10:12.806Z
+date: 2023-05-18T09:55:43.533Z
 ---
+Thursday looks possible this afternoon at the Long Mynd.  Wind veering to the North from current WSW but should be on at some stage and also needs to have the sun properly on the west face, but could be soarable but more probably just thermic with enough to launch but not regularly ridge soar.
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__
+
 Tuesday was flyable early on in the morning at Long Mountain, but only just then, with some very long XC's achieved.  It was also basically blown out for much of the day from lunchtime onwards.  Pity there were no HG's there as would have been ideal for them as the Modellers showed the way.
 
 Wednesday forecasts have changed and is much lighter and tending to be more north, [ update that was last nights forecast, it's now gone windier again, but not in the west where it will be much lighter.  better for ridge soaring for more people I think.  Wrekin (could now be on the windier side of easily launchable on this mornings forecast), Lawley, Clunbury all look possible and maybe if it goes north enough Cormdon, but some forecasts suggest it may well be too light to ridge soar anywhere at times, other say it's ideal.  Other than that possibly a lot of cloud even the odd patch of rain but also pretty thermic.  Llandinam migh tbe in the better air by Rasp but could be very light wind
