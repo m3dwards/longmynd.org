@@ -2,6 +2,10 @@
 title: Weather from 15th May
 date: 2023-05-18T09:55:43.533Z
 ---
+Friday, depending on where the forecast band of N-S rain actually sits, could well be flyable in our area.  Probably going due North later, and reasonably breezy so Corndon or Red Hopton may be ok, or Long mountain.  If it's going to stay more NW then all the usual NW sites could be on.
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__
+
 Thursday looks possible this afternoon at the Long Mynd.  Wind veering to the North from current WSW but should be on at some stage and also needs to have the sun properly on the west face, but could be soarable but more probably just thermic with enough to launch but not regularly ridge soar.
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__
