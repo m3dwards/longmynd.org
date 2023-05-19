@@ -1,6 +1,6 @@
 ---
 title: Weather from 15th May
-date: 2023-05-18T09:55:43.533Z
+date: 2023-05-19T07:35:38.276Z
 ---
 Friday, depending on where the forecast band of N-S rain actually sits, could well be flyable in our area.  Probably going due North later, and reasonably breezy so Corndon or Red Hopton may be ok, or Long mountain.  If it's going to stay more NW then all the usual NW sites could be on.
 
