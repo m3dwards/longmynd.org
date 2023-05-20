@@ -1,7 +1,11 @@
 ---
 title: Weather from 15th May
-date: 2023-05-19T07:35:38.276Z
+date: 2023-05-20T07:01:29.133Z
 ---
+Saturday looks both soarable and thermic cross country at Corndon.  probably more on the NE corner so not perfect soaring conditions, but there's no where else to go.
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
 Friday, depending on where the forecast band of N-S rain actually sits, could well be flyable in our area.  Probably going due North later, and reasonably breezy so Corndon or Red Hopton may be ok, or Long mountain.  If it's going to stay more NW then all the usual NW sites could be on.
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__
