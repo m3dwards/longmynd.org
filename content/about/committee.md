@@ -23,7 +23,7 @@ Black Knoll: [Mark Leavesley](mailto:sites@longmynd.org)\
 Camlo & Shepherds Tump: ***Vacant***\
 Clatter & Llandinam: ***Vacant***\
 Clunbury: [Tim Dunn](mailto:sites@longmynd.org)\
-Corndon: [Ben Henson](mailto:sites@longmynd.org)\
+Corndon: [Richard McCrohan](mailto:sites@longmynd.org)[](mailto:sites@longmynd.org)\
 Lawley & Caer Caradoc: [David Bibby](mailto:sites@longmynd.org)\
 Lan Fawr: [Mark Leavesley](mailto:sites@longmynd.org)\
 Long Mynd: [Tim Dunn](mailto:sites@longmynd.org)\
