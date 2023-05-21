@@ -4,4 +4,4 @@ date: 2023-05-21T13:03:20.502Z
 ---
 please see links to meeting notes 
 
-[AGM ](public/img/bhpa_rules-for-individual-flying-members-10-2021.pdf)
+[AGM ](public/img/agm_minutes_april_2023.pdf)
