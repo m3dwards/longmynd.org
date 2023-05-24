@@ -2,6 +2,14 @@
 title: Weather from 22nd May
 date: 2023-05-22T07:03:39.345Z
 ---
+Wednesday looks to be better than Tuesday turned out.  It's supposed to be northerly but at present has a fair bit of west in it.  Due to get stronger so at present the most likey option is Long Mountain unless it goes really very north then Corndon or Red Hopton may be suitable.  Despite the rasp star rating being zero around here the lapse charts indicate it being thermic with an inversion getting up to near 4000ft later on.  It's a toss up between flying earlier when the inversion is lower but maybe less windy and later when smoother but windier.  My preference would be later, you can always assess the wind on the ground as suitable to launch, but if it's turbulent once in the air it's a bit late to make that decision and low inversions always create turbulence.
+
+Thursday, light northerlies and thermic
+
+Friday light/moderate easterlies and thermic
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__
+
 Tuesday sees light winds increasing to ridge soaring speeds in the late afternoon, with more wind at the Wrekin than other sites.  The wind is due to vary between NW and N or even occasionaly NNE.  The infamous Chechire Basin effect is expected to bring in sea air to significanlty reduce the thermalling but improve the ridge soaring conditions.  Sites protected from this effect are Llandinam, Lan Fawr, Clunbury should have better thermalling conditions for longer but much less wind.  Lawley I'm not sure about, it does get influenced in the same manner as the Wrekin, sometimes more as the air sweeps along the river plains, but its high and long and gives more ridge soaring chances and is a good thermalling place.  Corndon will be ok if it's completely north or NNE wind, but not great for ridge soaring but an ok thermalling launch point.
 
 \------------------------------------------------------------------------------------------------------------
