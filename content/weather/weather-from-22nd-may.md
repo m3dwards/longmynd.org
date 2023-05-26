@@ -1,7 +1,11 @@
 ---
 title: Weather from 22nd May
-date: 2023-05-22T07:03:39.345Z
+date: 2023-05-26T06:50:20.911Z
 ---
+Friday, slightly conflicting information between rasp and lapse charts.  Winds fairly certain to be mostly too light to soar Corndon with winds wandering around between ENE and ESE.  Thermic, but just how thermic seems to vary.  There could be a lot of layer cloud or there might be none!  Cloudbase/inversion rising to 4000ft.  Having said that, late on early evening the winds are due to pick up a bit and much better chance of being able to soar the east face in pleasant conditions.
+
+\--------------------------------------------------------
+
 Thursday is somewhere between a bit light to ridge soar and just right.  Direction is due to be between NNE and NE so site choice is difficult - Corndon ok in a NNE but NE means it's right on the rocky corner and rubbish for soaring.  However it's currently NNW in some places so may stay north, the upper winds at inversion level are due to be North all day, it's just the lower winds that have the easterly component.  Inversion due to rise to 4000ft, so again in these high pressure days, later is better in the day.  I would not recommend it as a good site choice, but I flew Caer Caradoc the other day in a north wind and it was soarable just about, but beware the nice bottom landing fields are all in long crop and the rest nearby are strewn with high tension power cables.  Red Hopton would be a safer option if its basically north, for those with the required experience level (see site guide), 
 
 \---------------------------------------------------------
