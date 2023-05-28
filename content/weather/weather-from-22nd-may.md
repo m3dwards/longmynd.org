@@ -1,7 +1,11 @@
 ---
 title: Weather from 22nd May
-date: 2023-05-26T06:50:20.911Z
+date: 2023-05-28T08:58:25.667Z
 ---
+Sunday looks thermically ok with cloudbase 3000ft, but direction is due to be NE with ok wind speed around here. Can't see it being much good for ridge soaring as it's the worst direction for Corndon, but might be ok for thermalling away from the hill.  Cloud thickening during the afternoon.
+
+\-------------------------------------------
+
 Friday, slightly conflicting information between rasp and lapse charts.  Winds fairly certain to be mostly too light to soar Corndon with winds wandering around between ENE and ESE.  Thermic, but just how thermic seems to vary.  There could be a lot of layer cloud or there might be none!  Cloudbase/inversion rising to 4000ft.  Having said that, late on early evening the winds are due to pick up a bit and much better chance of being able to soar the east face in pleasant conditions.
 
 \--------------------------------------------------------
