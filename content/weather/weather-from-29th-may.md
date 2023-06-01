@@ -1,5 +1,9 @@
 ---
 title: Weather from 29th May
-date: 2023-05-28T21:31:40.820Z
+date: 2023-06-01T06:59:35.157Z
 ---
+From Friday onwards for many days, Corndon might be flyable, though the direction is still wrong - mostly NE.  Inversion rising in the late afternoon and the wind is more likely to be suitably variable to allow lighter wind launching periods.  Could be ok for thermalling away, especially Sunday, but don't bank on anything.
+
+\----------------------------------------------------------
+
 At this moment it looks too windy all week for PG around here, slight chance for HG or speed wings, but the direction is the worst for us, remaining North East all week.  Maybe calming down next weekend.
