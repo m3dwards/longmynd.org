@@ -1,7 +1,11 @@
 ---
 title: Weather from 29th May
-date: 2023-06-01T06:59:35.157Z
+date: 2023-06-02T10:26:30.704Z
 ---
+Today has more east in it than forecast and is due to reduce a little later, so Corndon could well be soarable late this afternoon and especially this evening.  Weekend similar but a lot lighter on Sunday.
+
+\-----------------------------------------------------------------------
+
 From Friday onwards for many days, Corndon might be flyable, though the direction is still wrong - mostly NE.  Inversion rising in the late afternoon and the wind is more likely to be suitably variable to allow lighter wind launching periods.  Could be ok for thermalling away, especially Sunday, but don't bank on anything.
 
 \----------------------------------------------------------
