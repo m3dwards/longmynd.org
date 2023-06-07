@@ -1,6 +1,6 @@
 ---
 title: Weather from 5th June
-date: 2023-06-05T07:59:23.723Z
+date: 2023-06-07T06:31:01.822Z
 ---
 Wednesday looks a nice Corndon day with the wind slightly less than last few days and pretty well east.  Inversion rising to 4000ft late afternoon and it's supposed to be sunny this afternoon - yesterday was too but it never cleared properly.
 
