@@ -44,7 +44,7 @@ siteRecords:
 poiImage: /img/llandinam-poi.jpeg
 date: 2022-08-21T14:21:48.414Z
 ---
-Llandianam used to be considered one of the UK’s prime hang gliding sites in years gone by, but has become irregularly used through no fault of its own. A small number of paraglider flights of over 100km have been achieved more recently.\
+Llandinam used to be considered one of the UK’s prime hang gliding sites in years gone by, but has become irregularly used through no fault of its own. A small number of paraglider flights of over 100km have been achieved more recently.\
 The club consider that the site has advantages that make it suitable in the right conditions for all levels of pilot.
 
 So where is it?\
