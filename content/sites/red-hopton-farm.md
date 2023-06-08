@@ -52,7 +52,6 @@ mainImage: /img/redhopton.png
 poiImage: /img/red_hopton_poi.jpg
 date: 2023-03-24T12:45:13.244Z
 ---
-
 See map\
 A – Paraglider bottom landing and very limited parking – 1 or 2 cars but is right next to the bottom landing field
 
@@ -60,11 +59,13 @@ B – Hang Glider landing field
 
 C – The landowners farm – parking is allowed, please park near the barns but not blocking any access and say hello to the landowners if they are about
 
-D – the easiest least hilly walking route – parking very, very limited – 2 in the winter maybe none in the summer.  There are no other places to park on the road other that to park at the very top of the hill on the Kerry ridgeway drovers road and walk down
+D – The easiest least hilly walking route – parking very, very limited – 2 in the winter maybe none in the summer.  There are no other places to park on the road other that to park at the very top of the hill on the Kerry ridgeway drovers road and walk down
 
-E – this is the launch field that takes N to NNE
+E – This is the launch field that takes N to NNE
 
 F – This is the launch field that takes N to NNW
+
+G - Park on verge along Drovers road and walk down the green lane, longer walk but easy
 
 The blue lines mark the walking routes
 
