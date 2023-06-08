@@ -49,8 +49,8 @@ flying: >-
 
   * No dogs allowed.
 mainImage: /img/redhopton.png
-poiImage: /img/red_hopton_poi.jpg
-date: 2023-03-24T12:45:13.244Z
+poiImage: /img/red_hopton_map2.png
+date: 2023-06-08T09:19:11.404Z
 ---
 See map\
 A – Paraglider bottom landing and very limited parking – 1 or 2 cars but is right next to the bottom landing field
