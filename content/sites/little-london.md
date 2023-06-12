@@ -8,8 +8,8 @@ windDirection:
   - from: NW
     to: NNW
 location:
-  what3words: ///heartened.nearing.chatted
-  latlong: 52.475314, -3.419408
+  what3words: ///reassured.meanings.violin
+  latlong: 52.488333, -3.411312
   physicalMaps: 1:50000 136 or Explorer 214
 accessAndParking: >-
   Via Plasdinam to Caetwp. Park on the field diagionally opposite the farm,
