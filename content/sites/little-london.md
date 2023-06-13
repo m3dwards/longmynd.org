@@ -36,7 +36,7 @@ siteRecords:
   - record: Used to be flown by Hang Gliders.  No information as to HG or PG XC's,
       please let us know if you know of any.
 poiImage: /img/littlelondon.png
-date: 2023-06-13T06:33:46.100Z
+date: 2023-06-13T07:28:53.041Z
 ---
 The map will be replaced with one more suited to Little London once the landing options have been checked out
 
