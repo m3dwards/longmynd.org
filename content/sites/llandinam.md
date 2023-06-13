@@ -27,7 +27,7 @@ siteRecords:
   - record: Jim Mallinson, 29/05/2000, 131.8km to Honington. PG.
   - record: Justin Needham, 2003, 76km. HG.
 poiImage: /img/llandinam-poi.jpeg
-date: 2023-06-13T06:36:53.220Z
+date: 2023-06-13T07:04:49.811Z
 ---
 Llandinam used to be considered one of the UK’s prime hang gliding sites in years gone by, but has become irregularly used through no fault of its own. A small number of paraglider flights of over 100km have been achieved more recently.\
 The club consider that the site has advantages that make it suitable in the right conditions for all levels of pilot.
@@ -56,4 +56,4 @@ This area is used by low flying military aircraft on weekdays.
 
 #### CONTROLLED AIRSPACE
 
-A25 3m downwind at FL65 (min altitude 5500ft amsl).
+Shobdon airfield 40Km SE of launch
