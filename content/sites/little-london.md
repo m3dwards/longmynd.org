@@ -24,7 +24,7 @@ accessAndParking: >-
   Little London site is not accessible by car, park by the bottom landing area only.
 launchesAndLanding: ""
 flying: |-
-  * T/O altitude 1350 ft AMSL
+  * T/O altitude 1250 ft AMSL
   * Top to bottom 450 ft
   * Take off is straightforward.
   * Top landing is good.
@@ -36,7 +36,7 @@ siteRecords:
   - record: Used to be flown by Hang Gliders.  No information as to HG or PG XC's,
       please let us know if you know of any.
 poiImage: /img/llandinam-poi.jpeg
-date: 2023-06-12T08:55:20.159Z
+date: 2023-06-13T06:33:46.100Z
 ---
 Little London has previously always been part of the Llandinam site guide, however has rarely been flown through no particular fault of it's own.  We have now separated the sites as the are some distance apart, are registered with the BHPA as separate sites and also documented on the CANP system as different locations for Notam activation 
 
