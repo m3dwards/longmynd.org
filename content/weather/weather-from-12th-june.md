@@ -1,7 +1,11 @@
 ---
 title: Weather from 12th June
-date: 2023-06-13T06:32:40.834Z
+date: 2023-06-14T08:30:58.972Z
 ---
+Wednesday looks good at Corndon to ridge soar and XC.  from the lapse charts it looks like no chance of Cu Nim development, thought BBC last night did suggest some limited rain downwind into Wales.
+
+\-----------------------------------------------------------
+
 Tuesday still has a decent risk of Cu Nim's to over 30,000ft, but it's a lot better air and much less risk than the last three days.  Wind soarable between NE and SE but looks quite likely to be ok to soar east face of Corndon.  Cloud developing and unless it's a cu nim, cloudbase getting to over 5000ft, if it's a monster it will be much lower.
 
 \----------------------------------------------------------------------------------
