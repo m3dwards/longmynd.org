@@ -1,7 +1,15 @@
 ---
 title: Weather from 12th June
-date: 2023-06-14T08:30:58.972Z
+date: 2023-06-15T10:59:00.340Z
 ---
+I don't think Wednesday was as windy as expected around here.
+
+Thursday is due to actually be lighter wind, but some cumulus clouds this afternoon and a very good thermic day, but less good for ridge soaring - Corndon
+
+Friday looks like being a bit windier but SE, so Wrekin looks a soarable option - again thermic with clouds we can hope.
+
+\------------
+
 Wednesday looks good at Corndon to ridge soar and XC.  from the lapse charts it looks like no chance of Cu Nim development, thought BBC last night did suggest some limited rain downwind into Wales.
 
 \-----------------------------------------------------------
