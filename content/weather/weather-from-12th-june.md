@@ -1,7 +1,11 @@
 ---
 title: Weather from 12th June
-date: 2023-06-15T10:59:00.340Z
+date: 2023-06-16T06:33:58.619Z
 ---
+Friday is a deteriorating picture from the west with a front coming in.  Winds nicely soarable around here but as the day progresses the chance of rain and more particularly I think embedded Cunims above layer cloud to the west.  Better option is to stay as east as you can - Wrekin SE side.  If you do fly Corndon, then it should be good earlier morning and into early afternoon, but beware if the clouds do fill in what might be hiding up there.
+
+\----------------------------------
+
 I don't think Wednesday was as windy as expected around here.
 
 Thursday is due to actually be lighter wind, but some cumulus clouds this afternoon and a very good thermic day, but less good for ridge soaring - Corndon
