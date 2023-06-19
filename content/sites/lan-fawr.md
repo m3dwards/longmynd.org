@@ -1,7 +1,7 @@
 ---
 name: Lan Fawr
 published: true
-status: Closed
+status: Open to all
 sensitive: true
 hgRating: CP +10 Hours
 pgRating: CP
