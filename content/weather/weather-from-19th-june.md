@@ -1,8 +1,8 @@
 ---
 title: Weather from 19th June
-date: 2023-06-21T06:32:22.664Z
+date: 2023-06-21T06:58:12.394Z
 ---
-Wednesday sees winds roughly SW/WSW backing W during the day, soarable speeds but a good chance of some rain caused by towering Cu or Cu Nimbus.  Depending on the cloud development I think there's quite a few sites that could be suitable.  Camlo, Clatter, Shepherds Tump, Long Mynd.  Maybe late evening after the clouds die down if it stays windy enough, the Mynd might be suitable for some scratchy gentle soaring. 
+Wednesday sees winds roughly SW/WSW veering West during the day, soarable speeds but a good chance of some rain caused by towering Cu or Cu Nimbus.  Depending on the cloud development I think there's quite a few sites that could be suitable.  Camlo, Clatter, Shepherds Tump, Long Mynd.  Maybe late evening after the clouds die down if it stays windy enough, the Mynd might be suitable for some scratchy gentle soaring. 
 
 \--------------------------------
 
