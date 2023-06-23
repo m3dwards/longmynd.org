@@ -1,7 +1,15 @@
 ---
 title: Weather from 19th June
-date: 2023-06-22T13:05:57.496Z
+date: 2023-06-23T07:52:13.121Z
 ---
+Thursday turned out better than expected with less showers, Friday on some forecasts have rain coming in from the west reaching the mynd by lunchtime.  Winds somewhere between SW and WSW and fairly brisk - top end for PG later on depending on if it's raining already or not.
+
+Saturday dry and SW, should be soarable from our SW facing sites
+
+Sunday rain or lovely weather depending on which forecast you look at
+
+\--------------------------------------------------------------------
+
 Thursday looked like it was going to be full of showers and thunder, but so far not as bad as expected but light winds but is raining in many isolated locations.  Friday windier with no current expectation of cu-nims and more likely to be ridge soarable, especially in the west, though frontal conditions moving in could spoil that.  Clatter should be soarable as well as Shepherds Tump.  The mynd is a bit lighter and probably too far off the hill to be soarable but is in better air for longer in the day.
 
 \---------------------------------------------
