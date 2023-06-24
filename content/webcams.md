@@ -67,7 +67,7 @@ locations:
       **West cam**: this shows the sky state over the last 40 minutes, updated every minute.
 
 
-      <iframe src="https://www.midlandgliding.club/piwebcam/piwebcam/westcam.html" width="960" height="544" scrolling="no"></iframe>
+      <iframe src="https://www.midlandgliding.club/piwebcam/westcam.html" width="960" height="544" scrolling="no"></iframe>
 
 
       **Hangar cam**: this is the view from the hangar looking east towards the usual MGC launch point, over the last hour. The images are updated each minute from just before/after sunrise/sunset.
