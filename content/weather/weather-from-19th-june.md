@@ -2,6 +2,12 @@
 title: Weather from 19th June
 date: 2023-06-23T07:52:13.121Z
 ---
+Saturday has fairly fresh SW winds gradually backing S during the day.  may be too much for PG's but looks ok soarable for HG's at Clatter.  possibly also ok at Shepherds Tump and Camlo.  Cloudbase in the west not particularly high either, 2000 getting to 3000 but a chance of some big towering cu /cu nim later.  
+
+Sunday SW veering W and getting very windy,  Cu Nims possible, Rain in the far west.
+
+\----------------------------------------------
+
 Thursday turned out better than expected with less showers, Friday on some forecasts have rain coming in from the west reaching the mynd by lunchtime.  Winds somewhere between SW and WSW and fairly brisk - top end for PG later on depending on if it's raining already or not.
 
 Saturday dry and SW, should be soarable from our SW facing sites
