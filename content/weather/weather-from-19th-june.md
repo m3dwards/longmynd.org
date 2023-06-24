@@ -1,6 +1,6 @@
 ---
 title: Weather from 19th June
-date: 2023-06-23T07:52:13.121Z
+date: 2023-06-24T07:52:46.016Z
 ---
 Saturday has fairly fresh SW winds gradually backing S during the day.  may be too much for PG's but looks ok soarable for HG's at Clatter.  possibly also ok at Shepherds Tump and Camlo.  Cloudbase in the west not particularly high either, 2000 getting to 3000 but a chance of some big towering cu /cu nim later.  
 
