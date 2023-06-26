@@ -119,9 +119,11 @@ locations:
 
   - name: Welshpool Airport
     description: >-
-      ![Welshpool Airport looking roughly south across the
-      runway](https://www.welshpoolairport.co.uk/webcam/ "Welshpool Airport
-      looking roughly south across the runway")
+      ```
+
+      https://www.welshpoolairport.co.uk/webcam/
+
+      ```
 
 
       \*\*\*\*\*\*\*\*\*\*\*\*\*\*
