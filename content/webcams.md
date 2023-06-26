@@ -175,17 +175,12 @@ locations:
       - station: <iframe src="https://www.solarcam.fr/Llangollen/demo_simple.php"
           width="960" height="700" scrolling="no"></iframe>
   - name: Other local weather stations and webcams
-    description: Other weather stations
+    description: Other weather stations - the direct links are shown under WEBCAMS,
+      but they are not cameras
     webcams: >-
       * [Shrewbury](http://www.shrewsburyweather.co.uk/index.htm)
 
       * [Lyth Hill, near Shrewsbury](http://www.wunderground.com/personal-weather-station/dashboard?ID=ILYTHBAN2)
-
-      * [Much Wenlock](http://www.wunderground.com/weatherstation/WXDailyHistory.asp?ID=IENGLAND214)
-
-      * [Malverns](http://www.joomla.malvern-hang.org.uk/index.php?option=com_content&view=article&id=108&Itemid=513)
-
-      * [Featherstone, Staffs](http://jalewis.demon.co.uk/)
 
       * [Gyrn](http://wow.metoffice.gov.uk/weather/view?reportId=82090001&siteID=941666001). The station is located on Pentre Farm, which is the farm directly below the main flying ridge.
 
@@ -194,9 +189,6 @@ locations:
 
 
       * A[ll UK](http://ukweathercams.co.uk/) – some of these will no longer be active.
-    weatherStations:
-      - station: http://www.shrewsburyweather.co.uk/index.htm
-      - station: https://www.wunderground.com/dashboard/pws/ILYTHBAN2
-      - station: https://wow.metoffice.gov.uk/weather/view?reportId=82090001&siteID=941666001
+    weatherStations: []
 ---
 Webcams for our sites
