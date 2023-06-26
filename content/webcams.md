@@ -119,15 +119,11 @@ locations:
 
   - name: Welshpool Airport
     description: >-
-      <!--StartFragment-->
+      <iframe src="https://www.welshpoolairport.co.uk/webcam/" width="960"
+      height="544" scrolling="no"></iframe>
 
 
-      <iframe style="width: 100%; height: 170px;"src="https://www.welshpoolairport.co.uk/webcam/" width="300" height="150" frameborder="0" marginwidth="1" marginheight="1" scrolling="no"></iframe>
-
-
-      <!--EndFragment-->
-
-
+      \-----------------
 
 
       https://www.welshpoolairport.co.uk/webcam/  - video looks roughly South across the runway
