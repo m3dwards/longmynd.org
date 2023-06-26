@@ -193,8 +193,10 @@ locations:
       ## Other webcams
 
 
-      * [Barmouth](http://www.barmouthtowncouncil.gov.uk/webcams.html) – multiple cams & weather station, useful for seeing the weather coming in from the coast.
-
-      * [All UK](http://ukweathercams.co.uk/) – some of these will no longer be active.
+      * A[ll UK](http://ukweathercams.co.uk/) – some of these will no longer be active.
+    weatherStations:
+      - station: http://www.shrewsburyweather.co.uk/index.htm
+      - station: https://www.wunderground.com/dashboard/pws/ILYTHBAN2
+      - station: https://wow.metoffice.gov.uk/weather/view?reportId=82090001&siteID=941666001
 ---
 Webcams for our sites
