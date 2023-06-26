@@ -118,8 +118,19 @@ locations:
       ![](http://holfuy.com/en/takeit/cam/s608.jpg "Clatter webcam")
 
   - name: Welshpool Airport
-    description: https://www.welshpoolairport.co.uk/webcam/  - video looks roughly
-      NE along the valley towards Long Mountain
+    description: >-
+      <!--StartFragment-->
+
+
+      <iframe style="width: 100%; height: 170px;"src="https://www.welshpoolairport.co.uk/webcam/" width="300" height="150" frameborder="0" marginwidth="1" marginheight="1" scrolling="no"></iframe>
+
+
+      <!--EndFragment-->
+
+
+
+
+      https://www.welshpoolairport.co.uk/webcam/  - video looks roughly South across the runway
   - name: Carbon Community nr Llandovery
     description: This Photo has kindly been authorised by carboncommunity.org for us
       to show.  It’s of use to mid Wales pilots and also  to show the
