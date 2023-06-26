@@ -118,26 +118,8 @@ locations:
       ![](http://holfuy.com/en/takeit/cam/s608.jpg "Clatter webcam")
 
   - name: Welshpool Airport
-    description: >-
-      ![w]( "w")
-
-
-      +++++++++
-
-
-      \*\*\*\*\*\*\*\*\*\*\*\*\*\*
-
-
-      <https://www.welshpoolairport.co.uk/webcam/>
-
-
-      <iframe src="https://www.welshpoolairport.co.uk/webcam/" width="960" height="544" scrolling="no"></iframe>
-
-
-      \-----------------
-
-
-      https://www.welshpoolairport.co.uk/webcam/  - video looks roughly South across the runway
+    description: https://www.welshpoolairport.co.uk/webcam/  - video looks roughly
+      South across the runway
   - name: Carbon Community nr Llandovery
     description: This Photo has kindly been authorised by carboncommunity.org for us
       to show.  It’s of use to mid Wales pilots and also  to show the
