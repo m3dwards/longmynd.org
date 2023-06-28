@@ -122,14 +122,14 @@ locations:
       South across the runway
   - name: Carbon Community nr Llandovery
     description: This Photo has kindly been authorised by carboncommunity.org for us
-      to show.  It’s of use to mid Wales pilots and also  to show the
-      progression of weather fronts.  It is located down near the Heart of Wales
-      railway line by the Cynghordy viaduct which is north east of
-      Llandovery.  The carbon community is a scientific research led group
-      aiming to identify the most efficient means of retaining carbon for the
-      benefit of the environment, a good opportunity for anyone interested to
-      volunteer and get out in the countryside when not flying. Their idealogy
-      is “A new reforestation approach, rooted in science, to increase carbon
+      to show.  It’s of use to mid Wales pilots and also to show the progression
+      of weather fronts.  It is located down near the Heart of Wales railway
+      line by the Cynghordy viaduct which is north east of Llandovery.  The
+      carbon community is a scientific research led group aiming to identify the
+      most efficient means of retaining carbon for the benefit of the
+      environment, a good opportunity for anyone interested to volunteer and get
+      out in the countryside when not flying. Their idealogy is “A new
+      reforestation approach, rooted in science, to increase carbon
       sequestration in trees & soil.”
     webcams: >-
       The camera points approximately towards a South direction.
