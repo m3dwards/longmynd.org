@@ -1,6 +1,6 @@
 ---
 title: Webcams
-date: 2023-06-24T08:06:54.341Z
+date: 2023-06-28T10:40:20.434Z
 locations:
   - name: Long Mynd
     description: Here are the webcams for the Long Mynd
@@ -160,7 +160,7 @@ locations:
     description: Other weather stations - the direct links are shown under WEBCAMS,
       but they are not cameras
     webcams: >-
-      * [Shrewbury](http://www.shrewsburyweather.co.uk/index.htm)
+      * [Shrewsbury](http://www.shrewsburyweather.co.uk/index.htm)
 
       * [Lyth Hill, near Shrewsbury](http://www.wunderground.com/personal-weather-station/dashboard?ID=ILYTHBAN2)
 
