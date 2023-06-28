@@ -125,9 +125,9 @@ locations:
       to show.  It’s of use to mid Wales pilots and also  to show the
       progression of weather fronts.  It is located down near the Heart of Wales
       railway line by the Cynghordy viaduct which is north east of
-      Llandovery.  The carbon community is a scientific reasearch led group
+      Llandovery.  The carbon community is a scientific research led group
       aiming to identify the most efficient means of retaining carbon for the
-      benefot of the environment, a good opportunity for anyone interested to
+      benefit of the environment, a good opportunity for anyone interested to
       volunteer and get out in the countryside when not flying. Their idealogy
       is “A new reforestation approach, rooted in science, to increase carbon
       sequestration in trees & soil.”
