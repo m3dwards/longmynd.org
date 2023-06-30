@@ -1,6 +1,6 @@
 ---
 title: Weather from 26th June
-date: 2023-06-28T18:59:52.329Z
+date: 2023-06-30T19:38:08.925Z
 ---
 Sunday just might be ok, SW winds and fairly brisk but less than Saturday.  Won't be able to do any more weather watching until end of next week from me.
 
