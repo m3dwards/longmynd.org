@@ -2,6 +2,10 @@
 title: Weather from 26th June
 date: 2023-06-28T18:59:52.329Z
 ---
+Sunday just might be ok, SW winds and fairly brisk but less than Saturday.  Won't be able to do any more weather watching until end of next week from me.
+
+\---------------------------------------------------
+
 Thursday by many forecasts has a short band of rain passing through mid - late morning. as that passes the wind backs more WNW than NW around here, but fairly brisk after a quiet low wind time with the rain.  After that excellent thermic conditions.  whether it will be too windy for the Mynd PG launching I'm not sure, but it does look on the top end side of windy, but should be ok for HG's
 
 \----------------------------
