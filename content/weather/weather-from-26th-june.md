@@ -1,7 +1,11 @@
 ---
 title: Weather from 26th June
-date: 2023-06-30T19:38:08.925Z
+date: 2023-07-01T15:15:29.190Z
 ---
+Sunday now blown out even for HG by the look of things.  Too windy pretty well all next week too.
+
+\----------------------------------------
+
 Sunday just might be ok, SW winds and fairly brisk but less than Saturday.  Won't be able to do any more weather watching until end of next week from me.
 
 \---------------------------------------------------
