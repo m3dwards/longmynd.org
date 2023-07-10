@@ -53,7 +53,7 @@ locations:
       **MGC Webcam: Pointing west to the windsock at the MGC (updated every minute).**
 
 
-      **Please note that as of 25th June 2023, the MGC supplied images are back online for us and them, but they still don't have their weather station working so the west camera image does not show it yet.**
+      **Please note that as of 25th June 2023, the MGC supplied images are back online (most of the time) for us and them, but they still don't have their weather station working so the west camera image does not show it yet.  Please view with caution and check the date and time on their images where shown.**
 
 
       ![](https://www.midlandgliding.club/piwebcam/MGC.jpg "MGC Facing West")
