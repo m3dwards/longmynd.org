@@ -8,5 +8,4 @@ To join (or rejoin) the LMSC you must be a member of the BHPA & you must remain 
 
 Membership runs from 1st May through to April 30th each year. The membership fee is £30 per year. For members who join during March & April they will get extra free months till the renewal next year.
 
-
-<iframe id='wcFrame' src='https://webcollect.org.uk/org/index.php?page=subscription&amp;organisation_id=2728&amp;embedded=1' width='100%' height='1500px' marginheight='0' frameborder='0' allowTransparency='true'></iframe><script type='text/javascript' src='https://webcollect.org.uk/media/js/resize_iframe.js'></script>
+<iframe id='wcFrame' src='https://webcollect.org.uk/org/index.php?page=subscription&amp;organisation_id=2728&amp;embedded=1' width='100%' height='700px' marginheight='0' frameborder='0' allowTransparency='true'></iframe>
