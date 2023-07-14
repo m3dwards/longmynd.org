@@ -4,7 +4,7 @@ date: 2023-07-14T09:46:33.634Z
 ---
 Thursday was flyable at the Mynd from quite early on for PG's and in the afternoon mostly HG as it got pretty strong by 2pm.  Not a great looking sky despite forecast promises of it breaking up to be sunny so I don't think anyone went Cross Country but lots of soaring and thermalling done by many.  Some thought it rather strong and bumpy on HG's others were fine.
 
-No chance for anyone anywhere around here until middle of next week
+No chance for anyone anywhere around here until middle of next week - actually Sunday might and also Monday but many forecasts are rather negative about that.
 
 \===================================
 
