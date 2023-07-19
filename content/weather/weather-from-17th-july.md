@@ -1,7 +1,11 @@
 ---
 title: Weather from 17th July
-date: 2023-07-18T18:45:30.561Z
+date: 2023-07-19T07:30:14.180Z
 ---
+Rain this morning (Wednesday) very likely and a bit blowy, but drying up in the afternoon and getting slightly less wind so looks good for the NW sites around here.
+
+\------------------------------
+
 Current thoughts are Long Mountain, Llandinam (Little London), Lawley, having said that some forecasts indicate winds might be west enough for the Mynd.  CANP raised for Lawley so far - 'Your NOTAMID is H4501/23' for 19th all day.  And yes there are still likely to be showers with clouds developing from 3500ft up to about 9000.
 
 \----------------------
