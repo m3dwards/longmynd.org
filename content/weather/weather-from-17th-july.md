@@ -1,7 +1,13 @@
 ---
 title: Weather from 17th July
-date: 2023-07-19T07:30:14.180Z
+date: 2023-07-20T07:00:06.240Z
 ---
+Thursday has a variation amongst forecasts - hardly any wind from west going NNW to N and towering Cu with rain, or moderate west in the morning with some chance of rain this afternoon.  
+
+Friday looks like a Mynd day but might become blown out for some PG's.
+
+\-------------------------------------------------
+
 Rain this morning (Wednesday) very likely and a bit blowy, but drying up in the afternoon and getting slightly less wind so looks good for the NW sites around here.
 
 \------------------------------
