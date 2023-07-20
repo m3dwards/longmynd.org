@@ -1,6 +1,6 @@
 ---
 title: Webcams
-date: 2023-06-28T10:40:20.434Z
+date: 2023-07-20T08:39:03.244Z
 locations:
   - name: Long Mynd
     description: Here are the webcams for the Long Mynd
@@ -57,6 +57,14 @@ locations:
 
 
       ![](https://www.midlandgliding.club/piwebcam/MGC.jpg "MGC Facing West")
+
+
+      **New MGC weather data link**
+
+
+      https://www.weatherlink.com/embeddablePage/show/4e304485f2614818bf5fa55122183961/summary
+
+
 
 
       **Time lapse webcams**\
