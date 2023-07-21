@@ -1,7 +1,11 @@
 ---
 title: Weather from 17th July
-date: 2023-07-20T07:00:06.240Z
+date: 2023-07-21T07:11:00.494Z
 ---
+Friday now quite windy so ok for HG's at the Long Mynd but pretty well going to be blown out for PG's by the time the air gets more  active.  The less we say about the weekend the better!
+
+\------------------------------------
+
 Thursday has a variation amongst forecasts - hardly any wind from west going NNW to N and towering Cu with rain, or moderate west in the morning with some chance of rain this afternoon.  
 
 Friday looks like a Mynd day but might become blown out for some PG's.
