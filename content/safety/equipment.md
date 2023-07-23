@@ -22,6 +22,22 @@ safetyItems:
       by AustriAlpin for further
       information. [](http://downloads.austrialpin.at/Safety_notice_2016_EN.pdf)
     title: AustrialAlpin Cobra harness buckle
+  - title: Reserve parachute repacking
+    description: >-
+      General advice is to repack parachutes far more frequently than most
+      people do.  6 Months seems to be a general rule of good practice.  The
+      reasons for this are because modern synthetic materials tend to build a
+      'memory', so when you deploy it will take longer to come away from the
+      folds and be slower to open.  This can also be caused by a static build
+      up.  When a reserve is in it's inner container, it is compressed, and that
+      can only get worse as time goes by, even if you don't sit on it whilst
+      waiting on the hill, which is a very big NO for doing that
+      anyway.  Moisture build up needs to be released and the best way to do
+      that which is advised by all manufacturers is to open and leave indoors in
+      dry conditions for a day or so before repacking.
+
+
+      Maybe next time you do a repack at home or go to a club repack, you should test deploy your reserve beforehand and then leave it to air at home  - then put it loose in a spare rucksack or bin bag to carry it to the repacking session along with your harness.
 ---
 
 Here are some things you should watch out for on your equipment
