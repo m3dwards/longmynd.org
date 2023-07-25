@@ -1,7 +1,11 @@
 ---
 title: Weather from 24th July
-date: 2023-07-25T07:04:50.334Z
+date: 2023-07-25T16:32:18.399Z
 ---
+Wednesday starts off great with decent SW winds ideal for Clatter and Shepherds Tump, but quite rapidly a front (in fact it grows to multiple fronts) is due to move in and winds increase, ;ayer cloud filling the sky with the chance of a bit of drizzle.  So if you want to fly go early.  Tuesday - still time for some to get to the Mynd to fly this evening as it's working at present.
+
+\-----------------------------------------
+
 Tuesday starts off w to wnw but due to veer more nw later.  looks good for pg and hg but may get a bit strong for pg's mid afternoon.  some chance of showers but generally dry with base 4000ft or so.  late evening, backing more west and reducing for Mynd soaring.
 
 \---------------------------------
