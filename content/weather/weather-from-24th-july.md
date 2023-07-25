@@ -1,8 +1,8 @@
 ---
 title: Weather from 24th July
-date: 2023-07-25T06:42:58.409Z
+date: 2023-07-25T07:04:50.334Z
 ---
-Tuesday starts off w to wnw but due to veer more nw later.  looks good for pg and hg but may get a bit strong for pg's mid afternoon.  some chance of showers but generally dry with base 4000ft or so
+Tuesday starts off w to wnw but due to veer more nw later.  looks good for pg and hg but may get a bit strong for pg's mid afternoon.  some chance of showers but generally dry with base 4000ft or so.  late evening, backing more west and reducing for Mynd soaring.
 
 \---------------------------------
 
