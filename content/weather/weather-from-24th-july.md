@@ -1,7 +1,15 @@
 ---
 title: Weather from 24th July
-date: 2023-07-25T16:32:18.399Z
+date: 2023-07-27T07:01:25.937Z
 ---
+Thursday west but too much for PG at the Mynd by the lok of things - low cloudbase but might be ok for HG.
+
+Friday SW and same sort of wind speed, better air and might be on at Clatter for HG
+
+Weekend blown out for all
+
+\------------------------
+
 Wednesday starts off great with decent SW winds ideal for Clatter and Shepherds Tump, but quite rapidly a front (in fact it grows to multiple fronts) is due to move in and winds increase, ;ayer cloud filling the sky with the chance of a bit of drizzle.  So if you want to fly go early.  Tuesday - still time for some to get to the Mynd to fly this evening as it's working at present.
 
 \-----------------------------------------
