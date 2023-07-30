@@ -41,7 +41,11 @@ export default function Webcams({ baseProps }: { baseProps: object }) {
           siteData.locations.map((l, index) => (
             <section key={index}>
               <h2 id={index.toString()}>{l.name}</h2>
-              <p>{l.description}</p>
+              <div
+                dangerouslySetInnerHTML={{
+                  __html: parseLinks(remark().use(html, { sanitize: false }).processSync(l.description).toString()),
+                }}
+              />
               {l.weatherStations && (
                 <section>
                   <h3 id="weather">Weather Stations</h3>
