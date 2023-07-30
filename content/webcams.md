@@ -127,7 +127,7 @@ locations:
 
   - name: Welshpool Airport
     description: >-
-    ![](https://www.welshpoolairport.co.uk/webcam/ "Welshpool Airport Webcam") - video looks roughly South across the runway
+    ![](https://www.welshpoolairport.co.uk/webcam "Welshpool Airport Webcam") - video looks roughly South across the runway
   - name: Carbon Community nr Llandovery
     description: This Photo has kindly been authorised by carboncommunity.org for us
       to show.  It’s of use to mid Wales pilots and also to show the progression
