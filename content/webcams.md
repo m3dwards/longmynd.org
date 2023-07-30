@@ -126,10 +126,14 @@ locations:
       ![](http://holfuy.com/en/takeit/cam/s608.jpg "Clatter webcam")
 
   - name: Welshpool Airport
-    description: >-
-      ![](https://www.midlandgliding.club/piwebcam/MGC.jpg "MGC Facing West")
-      ![](https://www.welshpoolairport.co.uk/webcam "Welshpool Airport Webcam")
-      - video looks roughly South across the runway
+    description: |-
+      Video looks roughly South across the runway
+
+      <https://www.welshpoolairport.co.uk/webcam/>
+    webcams: >-
+      
+
+      <iframe allowfullscreen webkitallowfullscreen mozallowfullscreen src="https://video.nest.com/embedded/live/aAlmfvT6b4?autoplay=0" frameborder="0" width="720" height="576"></iframe>
   - name: Carbon Community nr Llandovery
     description: This Photo has kindly been authorised by carboncommunity.org for us
       to show.  It’s of use to mid Wales pilots and also to show the progression
