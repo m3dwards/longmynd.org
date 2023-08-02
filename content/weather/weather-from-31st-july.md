@@ -2,6 +2,10 @@
 title: Weather from 31st July
 date: 2023-08-01T06:26:48.026Z
 ---
+None of the forecasts got today right for around here.  All saying thunderstorms and northerly winds with rain and it's the opposite direction and mostly sunny.
+
+\---------------------------------------------
+
 Tuesday should be a fairly nice day,  HG soarable and thermic at the Mynd, but most likely too windy for PG's or at least most.  However the wind is due to decrease in the evening and back SW which is when it could well be ideal for soaring PG, but not at the Mynd.  It probably won't reduce until it backs SW, so maybe if it isn't launchable at the Mynd, go to Shepherds Tump or Clatter.  Shepherds has the advantage of being able to soar the end of the bowl when it is a bit more west and then on the steepest SW face as the wind changes, whereas clatter does not work until it is properly a SW direction.
 
 \--------------------------------------
