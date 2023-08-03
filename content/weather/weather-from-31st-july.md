@@ -1,7 +1,13 @@
 ---
 title: Weather from 31st July
-date: 2023-08-01T06:26:48.026Z
+date: 2023-08-03T07:18:01.499Z
 ---
+Thursday should be flyable for HG's and just possibly PG.  There is a high chance of some biggish clouds and rain especially around lunchtime and after that it gets progressively drier.  The clouds are due to grow to 10,000 or so and most forecasts indicate thunder but I think it will be bad luck if a site is just where one happens to be as quite isolated.  The wind is due to veer slightly from mostly WNW to NW during the day, so for HG's they will have the choice of either the Mynd or our NW sites or even Long Mountian.  For PG's if it is as windy as forecast and does go NW then later on Long Mountain could be ideal, but it does not work great until the direction is NW at least, NNW is best and is great when it is too windy for other sites to safely launch like Lawley or Wrekin (steep and spine back).
+
+Friday NW and still fairly windy but a lot less chance of rain, so looks reasonable and not as strongly thermic
+
+\------------------------------------------------------------------------
+
 None of the forecasts got today right for around here.  All saying thunderstorms and northerly winds with rain and it's the opposite direction and mostly sunny.
 
 \---------------------------------------------
