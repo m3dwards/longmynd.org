@@ -1,7 +1,13 @@
 ---
 title: Weather from 28th August
-date: 2023-08-29T07:43:38.580Z
+date: 2023-08-30T05:34:51.410Z
 ---
+Tuesday was unlaunchable at the Mynd until nearly 4pm then it got good soaring and briefly nicely thermic but with a low cumulus cloudbase of 2500ft ASL.  The wind had been SW then at 3pm an hour after the rain, it switched well off to the north of NW but then backed WNW and the sky cleared.  Nice to see so many red streamers having proper ridge soaring conditions into the evening.
+
+Wednesday is supposed to be a much nicer day all through, however much more likely to be ideal for HG, I can't make my mind up whether blown out for PG, it's already reasonably breezy and due to get a lot stronger as the thermals mix the air later.  Direction WNW and backing W with cloudbase up to 4500ft.
+
+\-------------------------------------
+
 Tuesday is lighter winds than previously forecast, but as the weak front passes through a bit of drizzle is expected lunchtime or after.  Once the front has passed the wind will quickly veer NW and the sky clear a bit so it might be a bit better around teatime or after.
 
 \----------------------------------
