@@ -5,7 +5,10 @@ topBody: >-
   # Welcome to the Long Mynd Soaring Club (LMSC) – supporting pilots since 1975!
 
 
-  The LMSC has 13 soaring sites located in the Shropshire Hills Area of Outstanding Natural Beauty (AONB) and mid-Wales. Most are ‘open’ sites except for Clatter and The Wrekin for which we ask non-members to contact a committee member for a day’s temporary pass before going to the site.
+  The LMSC has 13 soaring sites located in the Shropshire Hills Area of Outstanding Natural Beauty (AONB) and mid-Wales. Most are ‘open’ sites except for Clatter and The Wrekin for which we ask non-members to contact a committee member for a day’s temporary pass before going to the site. 
+
+
+  Access for al pilots requires BHPA membership.
 
 
   The Long Mynd site itself has an honesty box and we ask non-members for a day fee of £3 which goes towards the sites upkeep.
@@ -30,8 +33,6 @@ topBody: >-
 
 
   </form>
-
-
 
 
   The day fee can also be paid on Webcollect  [Day Fee  ](https://webcollect.org.uk/lmsc/event/day-fee)
