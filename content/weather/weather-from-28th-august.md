@@ -1,7 +1,13 @@
 ---
 title: Weather from 28th August
-date: 2023-08-30T05:34:51.410Z
+date: 2023-09-01T07:13:51.318Z
 ---
+Forecasts have changed a bit, Friday wind could be in any direction but very light, might be thermic enough in the afternoon from somewhere - check all the weather stations as it will locally vary.
+
+Saturday really light winds too but Sunday looks like being a Corndon ridge soaring day if lucky
+
+\----------------------------------------
+
 Friday has really light winds around here, mostly S to SE - maybe even E but too light to soar but it should be thermic but generally overcast, might be ok at Wrekin SE.
 
 Saturday light to moderate easterly but thermic, so Corndon might be good.
