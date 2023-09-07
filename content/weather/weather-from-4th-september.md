@@ -1,7 +1,11 @@
 ---
 title: Weather from 4th September
-date: 2023-09-05T16:03:34.114Z
+date: 2023-09-07T07:16:00.897Z
 ---
+Thursday looks good for Corndon, easterly and reasonable speed,  inversion won't lift early but gets up to over 3000ft so should be ok there.
+
+\---------------------------------------------
+
 Wednesday is due to remain heavily inverted pretty much all day with very light and variable winds.  Maybe Wrekin late on, on either side.  At present the rest of the week doesn't look much better.
 
 \-------------------------------------------
