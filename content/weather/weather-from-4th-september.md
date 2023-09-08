@@ -1,7 +1,11 @@
 ---
 title: Weather from 4th September
-date: 2023-09-07T07:16:00.897Z
+date: 2023-09-08T17:09:32.445Z
 ---
+Saturday light or nil wind but supposedly thermic but on basis of last few days, not likely to be very good here, plus there's the chance of rain and Cunims with thunderstorms.  Sunday anything could happen.
+
+\----------------------------------------
+
 Thursday looks good for Corndon, easterly and reasonable speed,  inversion won't lift early but gets up to over 3000ft so should be ok there.
 
 \---------------------------------------------
