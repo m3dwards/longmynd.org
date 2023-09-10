@@ -28,6 +28,7 @@ sensitivities:
       B!
   - sensitivity: When low on the ridge, take care when members of the public are
       present including horse riders and dog walkers.
+  - sensitivity: BHPA membership is a requirement
 accessAndParking: >-
   From Church Stretton take the Burway and follow signs for the Midland Gliding
   Club. Park diagonally by the fence. Do not obstruct the gateway. Go through
