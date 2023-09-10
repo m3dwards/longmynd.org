@@ -13,23 +13,18 @@ location:
   latlong: 52.5636, -3.0178
   physicalMaps: 1:50000 137 or Explorer 216
 sensitivities:
-  - sensitivity: >-
-      This site is currently very sensitive with regards to parking – see notes
-      below (never drive to the top of the hill).
-
-      Please follow the site rules and common sense.
-
-      Avoid the farm with horses – see note below!
-
-      The hill is  popular with walkers – take care when launching and top landing!
-
-      The site is important for plants and wildlife so please stick to existing tracks whenever possible when walking!
-
-      Any issues please submit a report to your committee and if it involves anyone at the site please remain polite, try to ease any tension and if possible ask for contact details.
-  - sensitivity: >-
-      FARM WITH HORSES – NB TO AVOID
-
-      Click to expand Note the farm indicated with the red oval and cross, in the photograph on the right. DO NOT overfly this farm or the surrounding fields. It is used to breed highly expensive, very nervous, race horses, which are apparently easily scared by things flying above. Causing damage to one of these horses would be very expensive indeed.
+  - sensitivity: PARKING. The local farmers require access to both Corndon and Lan
+      Fawr, with room to turn trailers. This means room for parking is very
+      restricted near the second set of gates up the track, with space for a
+      maximum of 4 cars. Members are asked to park at the bottom of the track
+      where it joins the road.
+  - sensitivity: HORSES. Note the farm indicated with the red oval and cross, in the
+      photograph. DO NOT overfly this farm or the surrounding fields. It is used
+      to breed highly expensive, very nervous, race horses.
+  - sensitivity: SSSI. The majority of the hill is registered as a Site of Special
+      Scientific Interest, this includes the take offs and much of the track
+      leading to the top (see map). As a result NO vehicles are to be taken onto
+      the hill.
 accessAndParking: >-
   Turn off the A488 at a derelict tower signposted White Grit/Priest Weston 2 km
   to a T junction. Take the rough track to the left. After 100m go through a
@@ -79,12 +74,12 @@ siteRecords:
       Bristol, in 1985. Possibly others may have gone further, including Judy
       Leden who may have done around 130km to Barry.
 mainImage: /img/cordon-top.jpeg
-poiImage: /img/corndon-poi.jpeg
+poiImage: /img/corndonpoi2.png
 date: 2022-08-21T14:21:00.308Z
 ---
+Corndon is the Club’s 2nd most popular site, it is also extremely sensitive and could be easily lost. It is incumbent on all members to ensure we keep this amazing site.
+
 Gate & access explanation:
-
-
 
 ### Farm with horses to be avoided
 
