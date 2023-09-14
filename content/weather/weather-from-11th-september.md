@@ -1,7 +1,13 @@
 ---
 title: Weather from 11th September
-date: 2023-09-13T05:00:00.580Z
+date: 2023-09-14T12:12:07.571Z
 ---
+Friday at present looks soarable as well as thermic, direction SSE so good for both Wrekin and Corndon, though Corndon is not a particularly reliable soaring place in that wind direction.
+
+Saturday just might be ok at Corndon winds ENE, but a bit iffy depending on where the front's are by then. Sunday looks blown out and possibly rained off to.
+
+\--------------------------------------------------
+
 Wednesday still looking good but maybe a bit light for regular hill soaring.  Wind veering from NE or E round to S during the day.  Later on in the afternoon thicker cloud limiting thermals is due to come in from NW direction.  Wrekin tends to be a better ridge soaring site than the south side of Corndon but will be restricted to when the wind is at least SE heading towards S, whereas Corndon will always have some kind of launch direction even if not easily soarable. 
 
 \-------------------------------------------------
