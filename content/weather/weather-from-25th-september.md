@@ -2,8 +2,6 @@
 title: weather from 25th September
 date: 2023-09-26T16:46:50.827Z
 ---
-
-
 Friday looks like a hang gliding day on the Mynd.  Saturday might be flyable at the Wrekin or just maybe Corndon.
 
 \---------------------------------------------
