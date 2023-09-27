@@ -1,7 +1,15 @@
 ---
 title: weather from 25th September
-date: 2023-09-26T16:46:50.827Z
+date: 2023-09-27T15:36:41.597Z
 ---
+Thursday could just possibly be flyable, more for HG as the wind increases a great deal with height, and cloudbase is due to be low as well.  
+
+Friday is looking like a Mynd soaring day at this moment, wind speed forecasts have reduced a lot, so looks PG speeds now.  Cloudbase not great but ok for the ridge.  forecasts vary on direction a bit so could be anywhere between WSW and NW.
+
+As an aside, for a long time I have usually discounted Met Office forecasts, an example today - met rain radar says no rain happening within best part of 100 miles from me, yet I could hardly hear myself think for the rain hammering on the conservatory roof.  Another website showed the rain radar accurately.
+
+\----------------------------------------------------
+
 Friday looks like a hang gliding day on the Mynd.  Saturday might be flyable at the Wrekin or just maybe Corndon.
 
 \---------------------------------------------
