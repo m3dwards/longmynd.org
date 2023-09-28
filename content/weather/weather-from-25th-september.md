@@ -1,7 +1,11 @@
 ---
 title: weather from 25th September
-date: 2023-09-27T15:36:41.597Z
+date: 2023-09-28T07:13:37.188Z
 ---
+Today looks HG flyable at Clatter, blown out of PG.  Quite cloudy.  Friday post cold frontal but now looks on the slightly windy side again.  Saturday has big variations in forecasts so could be good for Mynd or might be southerly.
+
+\-----------------------------------------------------
+
 Thursday could just possibly be flyable, more for HG as the wind increases a great deal with height, and cloudbase is due to be low as well.  
 
 Friday is looking like a Mynd soaring day at this moment, wind speed forecasts have reduced a lot, so looks PG speeds now.  Cloudbase not great but ok for the ridge.  forecasts vary on direction a bit so could be anywhere between WSW and NW.
