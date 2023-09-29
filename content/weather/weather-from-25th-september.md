@@ -1,7 +1,11 @@
 ---
 title: weather from 25th September
-date: 2023-09-28T07:13:37.188Z
+date: 2023-09-29T07:04:20.279Z
 ---
+Friday I think may actually be blown out even for HG on the Mynd, otherwise it's due to be a lovely day.  Saturday still unsure but probably southerly and lighter than Friday but most likely raining around here.  Sunday SW and probably raining.
+
+\----------------------------------------------------------------------------------
+
 Today looks HG flyable at Clatter, blown out of PG.  Quite cloudy.  Friday post cold frontal but now looks on the slightly windy side again.  Saturday has big variations in forecasts so could be good for Mynd or might be southerly.
 
 \-----------------------------------------------------
