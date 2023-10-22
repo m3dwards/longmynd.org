@@ -1,7 +1,11 @@
 ---
 title: Weather from 19th October
-date: 2023-10-21T10:51:18.429Z
+date: 2023-10-22T09:41:06.537Z
 ---
+Looks ideal today at Clatter for some scrathcy soaring, not as windy as forecast yesterday, but wind due to drop off in the afternoon.  Did anyone fly Saturday afternoon, looked really nice as the sky cleared with some cumulus about?
+
+\---------------------------------------------------
+
 Looks good for this afternoon - forecasts vary between WSW and NW, but it looks like NW is winning at present, light but soarable speeds though a strong wind gradient with altitude.  cloudbase good on forecasts now.
 
 Sunday sunnier but windier
