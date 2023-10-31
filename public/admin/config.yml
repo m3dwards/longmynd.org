@@ -2,7 +2,7 @@ backend:
   name: git-gateway
   # name: test-repo
   branch: main # Branch to update (optional; defaults to master)
-site_url: https://longmynd.netlify.app
+site_url: https://longmynd.org
 media_folder: public/img
 public_folder: /img
 collections:
