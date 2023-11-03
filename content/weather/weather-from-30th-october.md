@@ -1,7 +1,11 @@
 ---
 title: Weather from 30th October
-date: 2023-11-01T09:54:52.722Z
+date: 2023-11-03T11:00:03.099Z
 ---
+Friday (today) looks nice but probably going to be top end speed even for HG.  Cloudbase getting up to 3000ft.
+
+\----------------------------------------------------
+
 Sunday might be ok for Hang Gliders at the Long Mynd.  Then windy again, but the middle to end of next week looks marginally more promising for PG and HG.
 
 \-------------------------------------------------------------------------
