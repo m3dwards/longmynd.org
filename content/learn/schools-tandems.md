@@ -10,7 +10,16 @@ pageItems:
       Leavesley Aviation is run by Mark Leavesley. As well as paraglider training, Mark also offers tandem paragliding flights, CP Plus and 1 on 1 fly guiding.
 
 
-      For more information see:  [www.leavesleyaviation.com](http://www.leavesleyaviation.com/) and [https://www.youtube.com/@leavesleyaviation](https://www.youtube.com/@leavesleyaviation).
+      For more information see:  [www.leavesleyaviation.com](http://www.leavesleyaviation.com/) and <https://www.youtube.com/@leavesleyaviation>.
+
+
+      Current promotions:
+
+
+      ![](/img/leavesley-promo-1.jpeg)
+
+
+      ![](/img/leavesley-promo-2.jpeg)
   - title: Evolution Paramotoring & Paragliding
     description: >
       Evolution is run by Dave Manning, offering full beginner courses in
