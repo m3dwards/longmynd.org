@@ -1,7 +1,11 @@
 ---
 title: Weather from 13th November
-date: 2023-11-15T19:21:57.563Z
+date: 2023-11-16T08:01:37.874Z
 ---
+Forecasts changed again, with Friday now looking marginally better than today.
+
+\-------------------------------------------------------------------
+
 Thursday has forecasts varying in every possible direction, but most show light Westerly some of the time. Most show no rain, but one at least does say there's a chance.  Friday is now looking less likely to be soarable and varying during the day backing from NW to S.
 
 \--------------------------------------------------------
