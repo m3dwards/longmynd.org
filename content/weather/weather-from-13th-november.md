@@ -1,7 +1,11 @@
 ---
 title: Weather from 13th November
-date: 2023-11-16T08:01:37.874Z
+date: 2023-11-17T08:16:52.529Z
 ---
+Friday now looking even better.  W backing WSW winds and look ideal for the Long Mynd PG launching.  Might go a bit too far off to thte south later on.  Cloudbase getting to 3000ft.
+
+\------------------------------------------------------------------------------
+
 Forecasts changed again, with Friday now looking marginally better than today.
 
 \-------------------------------------------------------------------
