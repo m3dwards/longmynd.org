@@ -1,6 +1,6 @@
 ---
 title: Weather from 20th November
-date: 2023-11-22T08:04:28.561Z
+date: 2023-11-23T10:57:56.095Z
 ---
 Saturday looking possible for the Mynd,  Sunny, reasonable lapse charts but might be too light to ridge soar.  Windier further east, so maybe Wrekin, Lawley or Caer Caraadoc might be better.
 
