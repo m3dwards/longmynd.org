@@ -2,6 +2,10 @@
 title: Weather from 20th November
 date: 2023-11-22T08:04:28.561Z
 ---
+Saturday looking possible for the Mynd,  Sunny, reasonable lapse charts but might be too light to ridge soar.  Windier further east, so maybe Wrekin, Lawley or Caer Caraadoc might be better.
+
+\----------------------------------------------------
+
 Wednesday when looked at ground level winds appears to be potentially flyable at the Mynd, but lapse charts indicate a pretty strong wind at 2000ft at 30mph with strong gusts plus and a lot of low layer cloud so not very inspiring at all.  Yesterday I saw there was flying going on at Llangollen and down in south Wales - anyone did anything on our hills?
 
 \---------------------------------------------------- 
