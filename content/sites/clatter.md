@@ -12,6 +12,12 @@ location:
   what3words: ///conductor.fond.secure
   physicalMaps: 1:50000 136 or Explorer 215
 sensitivities:
+  - sensitivity: >-
+      This is a LMSC members only site.
+
+      Access is via a locked gate. The security code is available on request from
+
+      sites@longmynd.org
   - sensitivity: >+
       The farmer has asked to stress to all pilots to please close all gates
       each time they pass through. Never leave the gates open even if your buddy
