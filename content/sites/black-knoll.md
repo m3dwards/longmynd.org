@@ -12,6 +12,11 @@ location:
   what3words: ///actor.joggers.suave
   latlong: 52.496241, -2.8932007
 sensitivities:
+  - sensitivity: >-
+      This is a LMSC members only site. This site is used by our registered
+      schools for
+
+      training.
   - sensitivity: >
       A bridleway runs along the top – always check it is clear before launching
       or landing. Remember horses and dogs may take fright even just from ground
