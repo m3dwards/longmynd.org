@@ -13,6 +13,7 @@ location:
   what3words: ///objective.papers.noises
   physicalMaps: 1:50000 136 or Explorer 215
 sensitivities:
+  - sensitivity: This is a LMSC members only site.
   - sensitivity: >-
       This site is very popular with the public. Be especially careful not to
       put anyone at
