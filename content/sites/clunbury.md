@@ -13,15 +13,7 @@ location:
   what3words: ///thin.passenger.wanted
   physicalMaps: 1:50000 137 or Explorer 201
 sensitivities:
-  - sensitivity: This site is currently very sensitive in a number of respects
-      including parking, bottom landing, noise and Covid spread worries! Please
-      follow the site rules and common sense and be especially careful not to
-      upset anyone. If you hear continuous dog barking while flying, try (if
-      safe) to move to a different part of the hill. Any issues please pack up
-      and leave immediately and submit a report to your committee – it is
-      critical to remain polite, try to ease any tension and if possible ask for
-      contact details so the LMSC committee can investigate. Any confrontation
-      with locals could be very detrimental.
+  - sensitivity: This is a LMSC members only site.
   - sensitivity: >+
       This is a site for a small number of pilots to go and fly quietly! Ideal
       for XC!
