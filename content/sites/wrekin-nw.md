@@ -13,14 +13,18 @@ location:
   what3words: ///objective.papers.noises
   physicalMaps: 1:50000 136 or Explorer 215
 sensitivities:
-  - sensitivity: It is essential all pilots are BHPA members for the insurance cover
-      this provides, while this is true for all LMSC sites  this site is very
-      popular with the public. Be especially careful not to put anyone at risk
-      e.g. with poor launches, being blown backwards or top landings (do not
-      attempt if there is not ample clear room). Walkers dogs are frequently not
-      on leads, try to ensure none can get caught in your lines. If it is busy
-      wait till it is clear to launch – politely ask people to move if
-      necessary.
+  - sensitivity: This is a LMSC members only site.
+  - sensitivity: >-
+      This site is very popular with the public. Be especially careful not to
+      put anyone at
+
+      risk e.g. with poor launches, being blown backwards or top landings (do not attempt
+
+      if there is not ample clear room). Walkers dogs are frequently not on leads, try to
+
+      ensure none can get caught in your lines. If it is busy wait till it is clear to launch –
+
+      politely ask people to move if necessary.
   - sensitivity: We may not leave vehicles at the top, however a single 4×4 may
       ferry equipment/pilots up and then be returned to the halfway house – see
       notes below.
@@ -84,7 +88,6 @@ mainImage: /img/wrekin.jpeg
 poiImage: /img/wrekin-nw-poi.jpeg
 date: 2022-08-21T14:23:27.074Z
 ---
-
 #### SPECTATORS AND THE PUBLIC
 
 The Wrekin is a popular walking spot for the public and can be busy, please respect this and launch and fly sensibly. Take care not to be dragged back into the path of spectators and do not attempt to top land if people are in the way.
@@ -99,11 +102,11 @@ Fields not marked ‘HG’ slope steeply. An up-slope/down wind landing is the o
 
 #### SITE RULES
 
-- Pilots must be current LMSC members or have requested (with your BHPA number) and received confirmation of a days temporary pass
-- Pilots must be suitably rated & licensed members of the BHPA.
-- All members shall observe the Countryside Code, in particular in relation to property and livestock. No livestock are to be frightened or stampeded by fliers.
-- No dogs
-- Any damage to be reported to the Estate Office (Tel 01743 232477) immediately. Farmers will be compensated for damage to crops or livestock, plus costs, if appropriate.
+* Pilots must be current LMSC members.
+* Pilots must be suitably rated & licensed members of the BHPA.
+* All members shall observe the Countryside Code, in particular in relation to property and livestock. No livestock are to be frightened or stampeded by fliers.
+* No dogs
+* Any damage to be reported to the Estate Office (Tel 01743 232477) immediately. Farmers will be compensated for damage to crops or livestock, plus costs, if appropriate.
 
 #### AIRSPACE
 
