@@ -2,8 +2,6 @@
 title: weather from 11th December
 date: 2023-12-14T09:28:45.258Z
 ---
-
-
 Thursday should be ok at the Mynd later as the front moves east and cloudbase lifts a bit.
 
 Friday has higher cloudbase, and more sun but the lapse chart for our SW facing sites isn't looking great with quite a lot of wind at flying heights.
