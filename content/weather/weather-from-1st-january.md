@@ -1,7 +1,13 @@
 ---
 title: Weather from 1st January
-date: 2024-01-03T10:51:05.230Z
+date: 2024-01-04T13:42:14.722Z
 ---
+As expected, it went south and dropped off pretty quickly today.  Friday is more iffy than forecasts said yesterday, but still might be a slot during the day at the Long Mynd, Lawley or Llandinam, mostly unsure because of the chance of rain early and late on.
+
+Saturday is looking good but too far north for the Mynd, so better soaring chances at any of our NW facing sites.
+
+\------------------------------------------------------------------------ 
+
 Thursday starts off on the high wind side but rapidly backs to the South and drops off really light, so there may be a slot to fly but could be quite limited.  Depending on exactly when you're there, but could be Mynd, Clatter, Shepherds Tump or Camlo.  Friday I think is looking a bit better than before with cloud above the hills and WNW veering NW and generally a more even wind speed than Thursday,  Weekend still looking possible.
 
 \----------------------------------------------------
