@@ -1,6 +1,6 @@
 ---
 title: Weather station and camera update
-date: 2024-01-04T13:46:22.162Z
+date: 2024-01-04T13:52:10.962Z
 ---
 Update - The Mynd North camera is totally dead from 19th December - flat battery and has auto-powered off until it is manually recharged and rebooted.  Lenses will be cleaned on North and South too, hopefully to get the picture quality back again.
 
