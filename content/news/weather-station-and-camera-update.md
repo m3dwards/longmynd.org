@@ -1,7 +1,11 @@
 ---
 title: Weather station and camera update
-date: 2023-12-13T10:20:14.291Z
+date: 2024-01-04T13:46:22.162Z
 ---
+Update - The Mynd North camera is totally dead from 19th December - flat battery and has auto-powered off until it is manually recharged and rebooted.  Lenses will be cleaned on North and South too, hopefully to get the picture quality back again.
+
+\---------------------------------------------------------------------------
+
 The Mynd cameras both north and south are working intermittently as the solar panels are not getting enough energy at present for the next month or two.  May have to turn video off to allow the batteries to build up a bit more.  A visit is required to try to clean the camera lens as the picture quality is now very poor, so batteries can be remotely charged then.
 
 The Mynd weather station is working fine.
