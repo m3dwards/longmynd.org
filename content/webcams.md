@@ -56,6 +56,12 @@ locations:
       **Please note that as of 25th June 2023, the MGC supplied images are back online (most of the time) for us and them, but they still don't have their weather station working so the west camera image does not show it yet.  Please view with caution and check the date and time on their images where shown.**
 
 
+      **If Image doesn't look current try this.**
+
+
+      www.midlandgliding.club/Weather-cams/
+
+
       ![](https://www.midlandgliding.club/piwebcam/MGC.jpg "MGC Facing West")
 
 
@@ -63,8 +69,6 @@ locations:
 
 
       https://www.weatherlink.com/embeddablePage/show/4e304485f2614818bf5fa55122183961/summary
-
-
 
 
       **Time lapse webcams**\
