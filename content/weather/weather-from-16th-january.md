@@ -1,7 +1,13 @@
 ---
 title: Weather from 15th January
-date: 2024-01-19T10:14:04.139Z
+date: 2024-01-19T11:39:33.831Z
 ---
+Camera's both back up, but not showing on website yet - but if you click on the link to previou images, they are there.  Hopefully this issue will be fixed soon.  Despite being thoroughly cleaned the North image is still poor.
+
+It's windy now as expected.
+
+\----------------------------------------------------------
+
 It is just about ok at the Mynd at present but due to get a lot stronger.  I'm about to take the weather station pole and cameras down, so don't believe the weather data until it's all back up and cameras working again.  It is just about passable up the Burway despite the road closed sign, but I don't fancy trying to go down it again.
 
 \------------------------------------------
