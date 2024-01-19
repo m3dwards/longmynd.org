@@ -2,7 +2,7 @@
 title: Weather from 15th January
 date: 2024-01-19T11:39:33.831Z
 ---
-Camera's both back up, but not showing on website yet - but if you click on the link to previou images, they are there.  Hopefully this issue will be fixed soon.  Despite being thoroughly cleaned the North image is still poor.
+Camera's both back up, but not showing on website yet - but if you click on the link to previous images, they are there.  Hopefully this issue will be fixed soon.  Despite being thoroughly cleaned the North image is still poor.
 
 It's windy now as expected.
 
