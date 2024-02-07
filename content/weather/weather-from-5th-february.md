@@ -1,7 +1,11 @@
 ---
 title: Weather from 5th February
-date: 2024-02-06T19:51:43.096Z
+date: 2024-02-07T08:11:28.261Z
 ---
+Big change overnight, totally opposite wind direction now and much lighter.  anywhere between E and S and unlikely to be soarable.  Maybe Gyrn Moelfre might as it's hight and marginally more thermic?
+
+\--------------------------------------
+
 Wednesday still looking ok, best air in N Wales though.  However forecasts still vary between no wind, nice soarable NW or easterly.  Only time will tell, but the general Synoptic view is the upper air is due to be NW in N Wales but by the time it gets to S Wales, it's N to NE.
 
 \------------------------------------
