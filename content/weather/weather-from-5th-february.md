@@ -1,7 +1,11 @@
 ---
 title: Weather from 5th February
-date: 2024-02-07T08:11:28.261Z
+date: 2024-02-08T16:24:53.750Z
 ---
+Not exactly great, but a chance Saturday morning might be on at The Wrekin.  SE and could be too strong as a strong wind gradient.  Rain in the afternoon is the current forecast
+
+\---------------------------------------
+
 Big change overnight, totally opposite wind direction now and much lighter.  anywhere between E and S and unlikely to be soarable.  Maybe Gyrn Moelfre might as it's hight and marginally more thermic?
 
 \--------------------------------------
