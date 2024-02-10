@@ -24,7 +24,8 @@ topBody: >-
   box on site.
 
 
-  Paypal 
+  [Paypal ](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=85LQLTU4R3LKY)
+
 
   <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
     <input type="hidden" name="cmd" value="_s-xclick" />
@@ -32,7 +33,6 @@ topBody: >-
     <input type="hidden" name="currency_code" value="GBP" />
     <input type="image" src="https://www.paypalobjects.com/en_GB/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Buy Now" />
   </form>
-
 
 
   The day fee can also be paid on Webcollect  [Day Fee  ](https://webcollect.org.uk/lmsc/event/day-fee)
