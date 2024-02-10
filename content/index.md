@@ -12,9 +12,7 @@ topBody: >-
   the rest are open to BHPA members. Please see our site guide for details.
 
 
-
   All pilots must be BHPA members.
-
 
 
   The Long Mynd site is owned and maintained by the club. Non-members are
@@ -29,19 +27,19 @@ topBody: >-
   Paypal 
 
 
-  <form action=https://www.paypal.com/cgi-bin/webscr method="post" target="_top">
+  <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 
 
-  <input type="hidden" name="cmd" value="_s-xclick">
+    <input type="hidden" name="cmd" value="_s-xclick" />
 
 
-  <input type="hidden" name="hosted_button_id" value="TDDMBGAYRVP2N">
+    <input type="hidden" name="hosted_button_id" value="85LQLTU4R3LKY" />
 
 
-  <input type="image" src=https://www.paypalobjects.com/en_US/i/btn/btn_buynowCC_LG.gif border="0" name="submit" alt="PayPal – The safer, easier way to pay online!">
+    <input type="hidden" name="currency_code" value="GBP" />
 
 
-  <img alt="" border="0" src=https://www.paypalobjects.com/en_GB/i/scr/pixel.gif width="1" height="1">
+    <input type="image" src="https://www.paypalobjects.com/en_GB/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Buy Now" />
 
 
   </form>
