@@ -2,6 +2,10 @@
 title: Weather from 5th February
 date: 2024-02-08T16:24:53.750Z
 ---
+Today has changed a lot, yesterday it looked like being ok but blown out on the Wrekin, today it's light variable direction winds but clagged in around here all day.  Sunday might be on for HG at the Mynd, but blown out for PG, better air though.
+
+\-------------------------------------------
+
 Not exactly great, but a chance Saturday morning might be on at The Wrekin.  SE and could be too strong as a strong wind gradient.  Rain in the afternoon is the current forecast
 
 \---------------------------------------
