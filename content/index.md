@@ -24,7 +24,10 @@ topBody: >-
   box on site.
 
 
-  [Paypal ](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=85LQLTU4R3LKY)
+  [<a class="button" href="#">Pay Button</a>](https://webcollect.org.uk/lmsc/event/day-fee)
+
+
+  **[Paypal ](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=85LQLTU4R3LKY)**
 
 
   <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
@@ -45,7 +48,7 @@ topBody: >-
   </form>
 
 
-  The day fee can also be paid on Webcollect  [Day Fee  ](https://webcollect.org.uk/lmsc/event/day-fee)
+  The day fee can also be paid on Webcollect  Day Fee  
 
 
   <a href='https://webcollect.org.uk/lmsc/event/day-fee' style='padding: 3px 15px 2px 5px;background: url("https://webcollect.org.uk/media/images/org-buttons/btn-bg-6.png") no-repeat right center;color: white;font-weight: bold;cursor: pointer;text-decoration: none;white-space: nowrap;border-radius: 4px;font-size: 12px;font-family: Arial, Helvetica, sans-serif;'>Day Fee</a>
