@@ -24,7 +24,7 @@ topBody: >-
   box on site.
 
 
-  [<a class="button" href="#">Pay Button</a>](https://webcollect.org.uk/lmsc/event/day-fee)
+  [<a class="button" href="#">Pay Button</a>](https://longmynd.org/pay-fee)
 
 
   **[Paypal ](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=85LQLTU4R3LKY)**
