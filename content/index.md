@@ -48,13 +48,15 @@ topBody: >-
   </form>
 
 
-  The day fee can also be paid on Webcollect  Day Fee  
+  The day fee can also be paid on Webcollect  Day Fee
 
 
   <a href='https://webcollect.org.uk/lmsc/event/day-fee' style='padding: 3px 15px 2px 5px;background: url("https://webcollect.org.uk/media/images/org-buttons/btn-bg-6.png") no-repeat right center;color: white;font-weight: bold;cursor: pointer;text-decoration: none;white-space: nowrap;border-radius: 4px;font-size: 12px;font-family: Arial, Helvetica, sans-serif;'>Day Fee</a>
+
+  <a href="/pay-fee"><button>Pay £3 Long Mynd day fee</button></a>
 ---
 If you fly the sites often, please join to support the club and for all the benefits of membership: <https://webcollect.org.uk/lmsc/subscription>
 
-The general club email address is: [club](mailto:club@longmynd.org) 
+The general club email address is: [club](mailto:club@longmynd.org)
 
  Further and emergency contacts are on the ‘[Contact Us](https://longmynd.netlify.app/contact)’ page.

@@ -78,9 +78,7 @@ export default function Home({ baseProps, newsPages, weatherPages }) {
       <section>
         <>
           <div dangerouslySetInnerHTML={{ __html: topBodyState }}></div>
-          <a href="/pay-fee">
-            <button>Pay £3 Long Mynd day fee</button>
-          </a>
+
           <section className={styles.homeSections}>
             <div className={styles.homeQuickLinks}>
               <a href="/sites" className={styles.featureBox}>
