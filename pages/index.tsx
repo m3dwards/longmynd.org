@@ -38,7 +38,7 @@ export default function Home({ baseProps, newsPages, weatherPages }) {
 
   const getTopBody = async () => {
     const topBodyContent = await remark()
-      .use(html)
+      .use(html, { sanitize: false })
       .process(attributes.topBody as string);
     const topBodyHtml = parseLinks(topBodyContent.toString());
     setTopBodyState(topBodyHtml);
