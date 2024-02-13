@@ -19,15 +19,14 @@ topBody: >-
 
   welcome on payment of a day fee of £3 which goes towards the sites upkeep.
 
-  The day fee can be paid online by clicking the button below, or in cash in the honesty
+  The day fee can be paid online by clicking a button below, or in cash in the honesty
 
   box on site.
 
 
-  [<a class="button" href="#">Pay Button</a>](https://longmynd.org/pay-fee)
 
 
-  **[Paypal ](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=85LQLTU4R3LKY)**
+  **Via Paypal** 
 
 
   <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
@@ -48,10 +47,12 @@ topBody: >-
   </form>
 
 
-  The day fee can also be paid on Webcollect  Day Fee
+  **Via** **Webcollect**  
 
 
   <a href='https://webcollect.org.uk/lmsc/event/day-fee' style='padding: 3px 15px 2px 5px;background: url("https://webcollect.org.uk/media/images/org-buttons/btn-bg-6.png") no-repeat right center;color: white;font-weight: bold;cursor: pointer;text-decoration: none;white-space: nowrap;border-radius: 4px;font-size: 12px;font-family: Arial, Helvetica, sans-serif;'>Day Fee</a>
+
+
 
   <a href="/pay-fee"><button>Pay £3 Long Mynd day fee</button></a>
 ---
