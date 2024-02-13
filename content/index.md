@@ -54,6 +54,8 @@ topBody: >-
 
 
 
+
+
   <a href="/pay-fee"><button>Pay £3 Long Mynd day fee</button></a>
 ---
 If you fly the sites often, please join to support the club and for all the benefits of membership: <https://webcollect.org.uk/lmsc/subscription>
