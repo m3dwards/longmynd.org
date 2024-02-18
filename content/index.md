@@ -24,9 +24,12 @@ topBody: >-
   box on site.
 
 
-
-
   **Via Paypal** 
+
+
+
+
+  Day fee
 
 
   <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
@@ -47,16 +50,50 @@ topBody: >-
   </form>
 
 
+
+
+  10 Day fee
+
+
+  <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+
+
+   
+
+
+  <input type="hidden" name="cmd" value="_s-xclick" />
+
+
+   
+
+
+  <input type="hidden" name="hosted_button_id" value="PVFQX2LK6CZ3N" />
+
+
+   
+
+
+  <input type="hidden" name="currency_code" value="GBP" />
+
+
+   
+
+
+  <input type="image" src="https://www.paypalobjects.com/en_GB/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Buy Now" />
+
+
+
+
+  </form>
+
+
   **Via** **Webcollect**  
 
 
   <a href='https://webcollect.org.uk/lmsc/event/day-fee' style='padding: 3px 15px 2px 5px;background: url("https://webcollect.org.uk/media/images/org-buttons/btn-bg-6.png") no-repeat right center;color: white;font-weight: bold;cursor: pointer;text-decoration: none;white-space: nowrap;border-radius: 4px;font-size: 12px;font-family: Arial, Helvetica, sans-serif;'>Day Fee</a>
 
 
-
-
-
-  <a href="/pay-fee"><button>Pay £3 Long Mynd day fee</button></a>
+  <a href="/pay-fee"><button>Pay Long Mynd day fee</button></a>
 ---
 If you fly the sites often, please join to support the club and for all the benefits of membership: <https://webcollect.org.uk/lmsc/subscription>
 
