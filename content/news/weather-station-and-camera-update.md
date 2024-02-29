@@ -1,7 +1,11 @@
 ---
 title: Weather station and camera update
-date: 2024-01-22T08:09:21.469Z
+date: 2024-02-29T16:57:33.716Z
 ---
+North camera cleaned again 29th Feb,  I think there is a very marginal improvement,  but at least its better than all the cameras that are not working!
+
+\-----------------------------------
+
 Cameras at the Long Mynd now back up, picture quality has not improved much though.
 
 \-----------------------------------------------------------------------------------
