@@ -1,7 +1,11 @@
 ---
 title: Week from 26th February
-date: 2024-03-01T10:55:59.270Z
+date: 2024-03-02T09:58:27.214Z
 ---
+Yesterday, Saturday looked dry and ok here, but today it's now wet all day, however sunday looks good speed, thermic with decent cloudbase.  Based on the rapidity of the forecasts changing,  I wouldn't camp out ready for a great day.
+
+\-----------------------------
+
 Thursday was ok for some on the Mynd though windy at times but completely dry all day including the grass on launch.
 
 Despite the fact that it's Friday, the forecasts do not agree on the weekend at all, not even remotely agree.  Either Saturday or Sunday or both might be flyable, or even neither.
