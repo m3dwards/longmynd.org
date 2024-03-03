@@ -1,7 +1,11 @@
 ---
 title: Week from 26th February
-date: 2024-03-02T09:58:27.214Z
+date: 2024-03-03T09:07:15.971Z
 ---
+Sunday has the wind anywhere between South and WSW, but most likely to be SW veering during the day to some extent.  Light and probably not generally ridge soarable, but thermic once the air clears.  Options, Mynd just maybe for the lazy ones not willing to walk, or Clatter if it's actually SW, Shepherds Tump with more wind direction choice on that hill.
+
+\------------------------------------------------------
+
 Yesterday, Saturday looked dry and ok here, but today it's now wet all day, however sunday looks good speed, thermic with decent cloudbase.  Based on the rapidity of the forecasts changing,  I wouldn't camp out ready for a great day.
 
 \-----------------------------
