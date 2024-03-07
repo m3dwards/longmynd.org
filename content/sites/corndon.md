@@ -1,7 +1,7 @@
 ---
 name: Corndon
 published: true
-status: Open to all
+status: Open - club only
 sensitive: true
 hgRating: CP +25 hours or accompanied by coach
 pgRating: CP +25 hours or accompanied by coach
