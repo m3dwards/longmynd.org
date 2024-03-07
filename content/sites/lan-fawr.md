@@ -1,7 +1,7 @@
 ---
 name: Lan Fawr
 published: true
-status: Open to all
+status: Open - club only
 sensitive: true
 hgRating: CP +10 Hours
 pgRating: CP
