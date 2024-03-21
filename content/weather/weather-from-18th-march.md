@@ -1,7 +1,11 @@
 ---
 title: Weather from 18th March
-date: 2024-03-20T16:29:40.662Z
+date: 2024-03-21T18:36:42.126Z
 ---
+Friday, cracking post frontal XC conditions forecast and the various forecasts agree but they also say blown out around here - ideal for sailplanes at MGC and probably HG's from our launch, but not for PG by the look of things.  Direction between WNW and NW.  Just maybe if it does go NW enough Long Mountain might be launchable.
+
+\--------------------------------------------
+
 Thursday looks like HG winds from Clatter and Friday HG winds on the Mynd, but at present looks too much for PG's.  If it goes much more NW than WNW then Long Mountain might be on.  Saturday U/S but Sunday just might be a possibility.
 
 If anything next week looks even wetter.
