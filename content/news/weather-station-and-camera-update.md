@@ -1,7 +1,13 @@
 ---
 title: Weather station and camera update
-date: 2024-02-29T16:57:33.716Z
+date: 2024-03-27T09:12:30.790Z
 ---
+
+
+![](/img/longmyndnorth_06032020.jpg)
+
+\-------------------------------------------------------------------
+
 North camera cleaned again 29th Feb,  I think there is a very marginal improvement,  but at least its better than all the cameras that are not working!
 
 \-----------------------------------
