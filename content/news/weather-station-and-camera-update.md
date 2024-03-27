@@ -1,8 +1,8 @@
 ---
 title: Weather station and camera update
-date: 2024-03-27T09:12:30.790Z
+date: 2024-03-27T09:21:51.485Z
 ---
-
+I have looked back at images taken exactly two years ago and I could not believe how much the image quality has deteriorated,  I suppose it's like eyesight, you don't realise how good it used to be as it's a gradual deterioration. Anyway, I'm waiting for advice from the manufacturer, but my guess is will be for a new device as there's nothing I can do regarding cleaning and I've tried the highest level of quality image which create huge files but no better.
 
 ![](/img/longmyndnorth_06032020.jpg)
 
