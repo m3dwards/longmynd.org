@@ -1,7 +1,13 @@
 ---
 title: Weather from 8th April
-date: 2024-04-11T06:24:14.669Z
+date: 2024-04-13T15:27:57.436Z
 ---
+Sunday is looking ok for HG at the Long Mynd, with W backing WSW winds and increasing during the day.  For PG's it looks at present to be blown out, though not all lapse charts indicate to be that windy, but most ground level forecasts suggest it will be.  Some chance late afternoon for a bit of rain, but much brighter first thing.
+
+\---------------------------------------------------------
+
+
+
 Today (Thursday), not quite as promising now, but still might be ok - winds pretty well SW and stronger than previously forecast.  Cloudbase only getting to about 2500ft and over near Clatter there might be the odd bit of drizzle.  Forecasts vary slightly on how windy, seems ok for HG, but could be top end PG.  If not blown out it could provide some nice ridge soaring.  I think Shepherds Tump more likely to be blown out.
 
 Sunday at present is blown out for the Mynd
