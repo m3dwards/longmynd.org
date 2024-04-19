@@ -1,7 +1,13 @@
 ---
 title: Weather from 15th April
-date: 2024-04-18T05:24:30.773Z
+date: 2024-04-19T12:25:16.854Z
 ---
+Thursday deteriorated even quicker than anticipated btu was flyable at the Mynd for those that got there early enough, even too windy later for HG's I hear.
+
+Saturday is due to be nice cold unstable air, but very light winds around here from N or NE direction, so it looks unsuitable for ridge soaring or low airtime pilots here.  For XC pilots not expecting to stay near the hill, Corndon or Wrekin might be ok (Wrekin can work in a N ok)  If really light winds Caer Caradoc or Lawley might work later on once the sun has warned the valley and hillsides properly.
+
+\--------------------------------------------------------
+
 It's light NE wind at present, but it will back and switch west relatively quickly and increase in speed.  Thermic from early on but mid level cloud will come over and increase during the day.  However the thermal strengths will not reduce straight away, what will be more of a problem is the increasing wind speed, so HG's will be able to continue flying a lot longer.   Cloudbase high, 5000ft plus by mid morning but actually reducing as the poor air comes in, even though the thermal strengths will continue to increase for a while.
 
 \---------------------------------------------
