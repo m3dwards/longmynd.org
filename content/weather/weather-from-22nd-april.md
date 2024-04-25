@@ -1,7 +1,13 @@
 ---
 title: Weather from 22nd April
-date: 2024-04-23T06:21:15.370Z
+date: 2024-04-25T13:43:13.755Z
 ---
+Friday looks a nice soaring day, cloudy but thermic up to 5000ft late afternoon on Corndon - wind direction ENE - NE but should be about the right speed and direction for ridge soaring as long as not too far NE.
+
+Weekend predominantly wet, but Sunday has a narrow band of rain with northerly winds, so there is some chance somewhere might be flyable if it's dry there.
+
+\-------------------------------------------------------
+
 Tuesday, today the forecasts still vary between too light to soar and top end for PG's so I'm not sure.  Wind direction between N and NE, so Corndon looks a possibility as long as mostly North.  The weather and air improves this afternoon.
 
 Wednesday, either the same or slightly less wind and from a NNW to N direction and drier air than today,  So more possibilities as some of our NW facing sites do ridge soar reasonably ok when well off to the North, but don't work when it's too West due to hill profiles.
