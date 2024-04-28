@@ -1,7 +1,11 @@
 ---
 title: Weather from 22nd April
-date: 2024-04-25T13:43:13.755Z
+date: 2024-04-28T09:00:20.499Z
 ---
+Sunday, it's due to clear up nicely, but quite windy.  It has already backed from NNW to WNW, so it is already clearing.  Might be ok for HG's but I think  too much for PG's this afternoon to be ridge soaring the Mynd, though there is a chance very late on at dusk.
+
+\--------------------------------------------------
+
 Friday looks a nice soaring day, cloudy but thermic up to 5000ft late afternoon on Corndon - wind direction ENE - NE but should be about the right speed and direction for ridge soaring as long as not too far NE.
 
 Weekend predominantly wet, but Sunday has a narrow band of rain with northerly winds, so there is some chance somewhere might be flyable if it's dry there.
