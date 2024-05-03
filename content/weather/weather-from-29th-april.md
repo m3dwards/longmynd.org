@@ -1,7 +1,11 @@
 ---
 title: Weather from 29th April
-date: 2024-05-02T10:13:07.845Z
+date: 2024-05-03T07:54:46.036Z
 ---
+Saturday still looking good, SW winds, though our most western sites do have a good chance of the sea breeze penetrating that far inland in the late afternoon, possibly creating enough convergence to create rain.  So Clatter or Shepherds Tump during the day time from fairly early on.  There is no indication at present that the wind will have enough west in it to make the Mynd suitable for ridge soaring.  Rest of the bank holiday weekend looks rather iffy, SE winds and reasonable speeds on Sunday and NW winds Monday but a good chance of some rain, so I think there will be moments when it might be ok for ridge soaring, but not whole days.
+
+\----------------------------------------------------------------------------
+
 Saturday at this moment looks like good ridge and thermal flying on our SW sites, though forecasts do vary on whether there will be any rain.  So Clatter or Shepherds Tump.
 
 \----------------------------------
