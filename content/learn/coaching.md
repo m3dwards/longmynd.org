@@ -34,6 +34,8 @@ pageItems:
         07939 527639
       * Tim Dunn\
         timair46\[at]yahoo.com
+      * James Allcock
+        07894 406224
   - description: >-
       There is a common misconception that only high achieving pilots with 100s
       or 1000s of hours airtime are capable of coaching low airtime pilots. Not
