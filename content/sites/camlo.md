@@ -13,11 +13,7 @@ location:
   latlong: 52.323959, -3.4276022
   physicalMaps: 1:50000 136 or Explorer 200
   what3words: ///quest.hindering.seriously
-sensitivities:
-  - sensitivity: Please be aware that a Falconry centre is situated at the bottom of
-      the hill. The owner, Mr Eddie Churchill has asked that pilots call / text
-      him on 07463892639 to let him know they are planning to fly from the hill
-      and he will not release his falcons.
+sensitivities: []
 accessAndParking: >-
   From Crossgates on the A44, just beyond Nantmel, turn right at the T junction
   and right again following the signposts towards Abbeycwmhir. At the top of the
