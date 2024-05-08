@@ -1,7 +1,11 @@
 ---
 title: Weather from 6th May
-date: 2024-05-08T07:04:15.901Z
+date: 2024-05-08T15:03:25.041Z
 ---
+Got that wrong, I never saw that it was going to come on the Mynd enough today - though the upper winds are still a long way off West.
+
+\---------------------
+
 Wednesday has SW winds at moderate speed and a decent cloudbase height, however towards the midlands the air become too unstable with growing clouds, so the further west you go looks better.  Fortunately our SW sites are well west - whether west enough is not clear, but should still be largely ok for ridge soaring.
 
 Thursday might be too light for ridge soaring but there is a chance that it will be west enough for the long Mynd to work, another thermic day
