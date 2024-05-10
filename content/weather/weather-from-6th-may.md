@@ -1,8 +1,8 @@
 ---
 title: Weather from 6th May
-date: 2024-05-10T11:37:24.097Z
+date: 2024-05-10T11:38:35.745Z
 ---
-Thursday was occasionally soarable at the Mynd in the afternoon, thermic for some.
+Thursday was occasionally soarable at the Mynd in the afternoon, thermic for some, inversion was at just under 4000ft ASL so only the strongest lift getting through that.
 
 Friday has decent soarable winds on Wrekin, not ideal for ridge soaring Corndon but could be ok for thermalling.  The wind further west has more South/Southwest in it, so our sites over there might be just about ok, especially for thermalling.
 
