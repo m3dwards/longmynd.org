@@ -1,7 +1,11 @@
 ---
 title: Weather from 13th May
-date: 2024-05-15T15:07:36.972Z
+date: 2024-05-16T07:49:09.006Z
 ---
+Thursday is now nice for possibly scratchy soarable Corndon this morning and Thermic for those heading into Wales, but by early afternoon heavy rain is forecast coming in from NE direction.
+
+\-------------------------------------------------------------
+
 Thursday has more light to moderate winds and direction at Corndon anywhere between N and E.  thermic with a base heading to 4000ft.  Some fairly large towering clouds are possible but nothing too massive.  Possibly sun reduced by Mid level clouds at times.  So, depending on exactly what wind direction there is and the strength, Corndon could give some nice soaring or purely a wait and launch into a thermal for the most experienced pilots.  with that site, if the wind is NE, statistically it's only the first couple of pilots to launch on a cycle that get up, anyone else ends up missing it.
 
 Friday, might be ok, forecasts vary massively on where the low is and whether it's wet or not, but probably southerly winds.  Weekend not sure about at all.
