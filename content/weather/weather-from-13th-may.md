@@ -1,7 +1,13 @@
 ---
 title: Weather from 13th May
-date: 2024-05-16T07:49:09.006Z
+date: 2024-05-18T07:50:05.673Z
 ---
+Saturday has winds between N and NE around Corndon, there is a variation and it just depends where the bend in the direction lies.  If it's reasonably N then Corndon should be soarable, but bear in mind the forecast for thunderstorms from mid afternoon.
+
+Sunday is dry but winds from NE which is not good for soaring the hill.
+
+\------------------------------------------------------------------------------
+
 Thursday is now nice for possibly scratchy soarable Corndon this morning and Thermic for those heading into Wales, but by early afternoon heavy rain is forecast coming in from NE direction.
 
 \-------------------------------------------------------------
