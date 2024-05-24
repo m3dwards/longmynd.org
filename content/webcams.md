@@ -107,7 +107,9 @@ locations:
       Raven which is the landowner’s family emblem.
 
 
-      Camera turned off temporarily to see if the weather station works more reliably
+
+
+      ![](https://holfuy.com/en/takeit/cam/s295.jpg "Lawley webcam")
   - name: Clatter
     description: >-
       Clatter is currently open to LMSC members only (temporary guest membership
