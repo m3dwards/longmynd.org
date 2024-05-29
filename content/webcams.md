@@ -12,6 +12,10 @@ locations:
           src="https://widget.holfuy.com/?station=1175&amp;su=mph&amp;t=C&amp;lang=en&amp;mode=average&amp;avgrows=32"
           width="300" height="150" frameborder="0" marginwidth="1"
           marginheight="1" scrolling="no"></iframe>'
+      - station: '<iframe style="width: 100%; height: 170px;"
+          src="https://www.midlandgliding.club/piwebcam/hangar2/hangar2.html"
+          width="300" height="150" frameborder="0" marginwidth="1"
+          marginheight="1" scrolling="no"></iframe>'
     webcams: >-
       **LMSC Webcam: pointing north to the LMSC launch site.**
 
