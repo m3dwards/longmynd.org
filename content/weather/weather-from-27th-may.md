@@ -1,7 +1,11 @@
 ---
 title: Weather from 27th May
-date: 2024-05-31T16:58:35.523Z
+date: 2024-06-02T07:50:33.781Z
 ---
+Today looks really nice, but wind is forecast to generally wander between west and NNW/N, but more likely west in Wales.  Probably on for most of the day at the Mynd, but Llandinam or Lawley are both sites that take a good range of directions and wind speeds.  Probably blue and thermic with inversion about 4500ft.
+
+\----------------------------------------------------------
+
 Friday evening looks like providing some nice soaring, direction roughly North and lighter winds in the west,  Corndon or Long Mountain - or Red Hopton for suitably experienced pilot ratings.
 
 Saturday the weather has deteriorated a bit around here for thermalling, but still looks on for Corndon being soarable
