@@ -1,7 +1,11 @@
 ---
 title: Weather from 10th June
-date: 2024-06-11T15:35:50.025Z
+date: 2024-06-16T08:23:59.236Z
 ---
+Sunday looks nice, but a bit top end wind wise for PG's on the Mynd during the middle part of the day.  Ok for HG's and nicely thermic with just a small chance of showers.  Drier further west I think, so Llandinam might be good too.  Stays fairly windy in the evening but with smoother less gusty conditions could be good for some ridge soaring late on.
+
+\-------------------------------------------
+
 Wednesday looks on for the Mynd or maybe Llandinam, though forecast wind speeds have increased during today and further west is due to be windier than the Mynd.  Cloudbase 4000ft or a bit above and between W and WNW pretty well all day with a lot of cloud cover reducing thermal strengths.  After Wednesday it looks naff for at least the next week.
 
 \--------------------------------------------------------------
