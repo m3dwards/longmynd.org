@@ -1,7 +1,13 @@
 ---
 title: Weather from 17th June
-date: 2024-06-20T08:29:19.014Z
+date: 2024-06-21T13:06:48.980Z
 ---
+Saturday is looking great for Long Mynd, maybe even other NW sites like Lawley or Wrekin, as there's a bit of a wriggle in wind directions so may at times be more NW than WNW.  Looks good for ridge soaring as well as thermic.
+
+Sunday at present looks far too little wind to ridge soar anywhere, with directions variable but more likely from the south and an inversion at maybe 2500-3000ft.
+
+\------------------------------------------
+
 Thursday is forecast to be very thermic but also very light winds roughly from the south, so unlikely to be ridge soarable at Corndon or Wrekin.
 
 Friday much windier from SW and possibly too much for PG's on our Shepherds Tump or Clatter sites - Clatter is better if windy as not such a sharp lip to launch from which can often make the Tump difficult to actually launch a PG.
