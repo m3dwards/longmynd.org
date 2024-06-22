@@ -1,7 +1,11 @@
 ---
 title: Weather from 17th June
-date: 2024-06-21T13:06:48.980Z
+date: 2024-06-22T07:28:15.760Z
 ---
+Forecast windspeeds now looking a lot higher, so the Mynd may well be considered a bit too windy for some PG's today.
+
+\--------------------------------------------------------------------------
+
 Saturday is looking great for Long Mynd, maybe even other NW sites like Lawley or Wrekin, as there's a bit of a wriggle in wind directions so may at times be more NW than WNW.  Looks good for ridge soaring as well as thermic.
 
 Sunday at present looks far too little wind to ridge soar anywhere, with directions variable but more likely from the south and an inversion at maybe 2500-3000ft.
