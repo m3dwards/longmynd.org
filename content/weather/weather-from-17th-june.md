@@ -1,7 +1,11 @@
 ---
 title: Weather from 17th June
-date: 2024-06-22T07:28:15.760Z
+date: 2024-06-23T05:58:07.473Z
 ---
+Sunday has much lighter winds than yesterday, with the direction varying between W and WSW/SW.  Probably going to be a lot of local variations in wind speed and direction.  Thermic but with a low cloudbase, maybe getting to 3000ft.  Probably soarable at the Long Mynd but maybe only sporadically.  Our sites further west may have more wind but unsure if the direction will be suitable,  Shepherds Tump does have a bowl that takes WSW and so does Camlo but that part of Camlo is very shallow slope.  Clatter does not tend to work unless it's pretty well SW fully.
+
+\-----------------
+
 Forecast windspeeds now looking a lot higher, so the Mynd may well be considered a bit too windy for some PG's today.
 
 \--------------------------------------------------------------------------
