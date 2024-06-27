@@ -6,7 +6,7 @@ hgRating: CP
 pgRating: CP
 windDirection:
   - from: SSW
-    to: SW
+    to: WNW
 location:
   latlong: 52.279062, -3.239131
   physicalMaps: 1:50000 148 or Explorer 200
