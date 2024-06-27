@@ -1,10 +1,10 @@
 ---
 title: Weather from 24th June
-date: 2024-06-27T15:22:07.274Z
+date: 2024-06-27T15:55:36.720Z
 ---
 Saturday looks like being a decent soaring day on the Mynd,  WSW to W, so might be a bit off to the south for easy soaring.  Light but supposdly soarable speeds.  Cloudy and not massively rough thermals so good for the less experienced hopefully.  Possibly later on some rain coming in from Wales.
 
-Sunday windier and forecasts vary between being a bit windy and just right, but depends on direction, some say WNW and others NW, if NW then Long Mountain, but only if a good breeze and not WNW.  otherwise try any of our NW or WNW facing sites.
+Sunday windier and forecasts vary between being a bit windy and just right, but depends on direction, some say WNW and others NW, if NW then Long Mountain, but only if a good breeze and not WNW.  Otherwise try any of our NW or WNW facing sites.
 
 \---------------------------------------------------
 
