@@ -5,8 +5,8 @@ status: Open - club only
 hgRating: CP +25 Hours
 pgRating: CP +15 Hours
 windDirection:
-  - from: SW
-    to: SSW
+  - from: SSW
+    to: SW
 location:
   latlong: 52.557289, -3.470164
   what3words: ///conductor.fond.secure
