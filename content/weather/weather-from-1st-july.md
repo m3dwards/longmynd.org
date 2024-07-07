@@ -1,7 +1,11 @@
 ---
 title: Weather from 1st July
-date: 2024-07-04T08:05:39.049Z
+date: 2024-07-07T08:12:32.404Z
 ---
+Sunday has improved and looks drier (well at least on some forecasts).  WSW to W and mostly reasonable to high wind speeds, ok for HG and probably also PG most of the time.  Mynd or Camlo, maybe even Shepherds Tump as the bowl takes west.
+
+\-
+
 Friday is looking positive on most forecasts now, the rain forecast has receded.  West backing SW or possibly veering back again and moderate speeds.  Weather is better the further north-east you are.  Looks on for the Long Mynd and maybe Camlo, Shepherds Tump.  Unfortunately at this moment the weekend looks wet and windy.
 
 \-------------------------------------
