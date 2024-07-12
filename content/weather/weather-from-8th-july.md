@@ -1,14 +1,16 @@
 ---
 title: Weather from 8th July
-date: 2024-07-12T07:30:01.276Z
+date: 2024-07-12T15:50:06.797Z
 ---
+Saturday and Sunday now looking too light for any ridge soaring around our sites.
+
+\------------------------------
+
 Friday see ok winds but an increasing chance of a thunderstorm later on, but only a relatively low risk.  Winds may change due to risk of big clouds affecting things but wind is due to be NE backing NW during the day.
 
 Saturday has a much higher Cape index which means the chance of thunderstorms is higher still.  Winds light NW. Sunday looks nice, dry with moderate SW - WSW winds.
 
 \---------------------------------
-
-
 
 Wednesday probably too windy even for HG - wind WSW though it is due to be dry.
 
