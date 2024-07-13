@@ -1,7 +1,13 @@
 ---
 title: Weather from 8th July
-date: 2024-07-12T15:50:06.797Z
+date: 2024-07-13T05:47:52.181Z
 ---
+Saturday has many variations on the theme of wind strength and to some extent direction.  Somewhere between W and N, but mostly forecasts say NW and light maybe just about soarable.  Thermic from early on with very unstable air.  Fortunately early on high level cloud is likely to limit the heating, as later on the cloud development with towering cu to 15000ft or so will majorly impact flying conditions.  Rain forecasts vary but there is a chance some of those big clouds will dump and a chance of lightening.  Possibly windier at Wrekin making ridge soaring easier.
+
+Sunday drier but still showing as light winds
+
+\=================================
+
 Saturday and Sunday now looking too light for any ridge soaring around our sites.
 
 \------------------------------
