@@ -1,7 +1,11 @@
 ---
 title: Weather from 8th July
-date: 2024-07-13T05:47:52.181Z
+date: 2024-07-13T19:20:39.660Z
 ---
+Sunday has winds forecast to be either from West or could be North, depends which forecast you believe.  What does get agreed on is lack of decent thermals and soarable wind strength, as does look rather on the light side.  limited chance of some drizzle mid day or after.  Not great but not awful either.
+
+\----------------------------------------------------------------
+
 Saturday has many variations on the theme of wind strength and to some extent direction.  Somewhere between W and N, but mostly forecasts say NW and light maybe just about soarable.  Thermic from early on with very unstable air.  Fortunately early on high level cloud is likely to limit the heating, as later on the cloud development with towering cu to 15000ft or so will majorly impact flying conditions.  Rain forecasts vary but there is a chance some of those big clouds will dump and a chance of lightening.  Possibly windier at Wrekin making ridge soaring easier.
 
 Sunday drier but still showing as light winds
