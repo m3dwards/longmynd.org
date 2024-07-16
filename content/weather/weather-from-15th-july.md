@@ -1,6 +1,6 @@
 ---
 title: Weather from 15th July
-date: 2024-07-16T08:04:51.580Z
+date: 2024-07-16T08:05:37.267Z
 ---
 Long run of south westerly winds coming up from Wednesday, but conditions look like slowly deteriorating towards the weekend with wind getting possibly too strong on Saturday and Sunday and the air not as good.  Any of our SW sites could well be ok, though Clatter looks favourite at this moment for direction and strength.
 
