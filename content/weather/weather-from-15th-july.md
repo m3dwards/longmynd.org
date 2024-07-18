@@ -1,7 +1,11 @@
 ---
 title: Weather from 15th July
-date: 2024-07-16T08:05:37.267Z
+date: 2024-07-18T09:24:07.084Z
 ---
+Today Thursday, looks fairly windy, but due to calm down a bit later on.  The forecasts all say SW, but it's more S to SSE at present, but hopefully change as the day progresses.  Some areas will be pretty well blue whilst other adjacent areas of sky quite heavy cloud.  For ridge soaring teatime and after looks ideal, possibly Camlo if it stays mostly south, either there or Shepherds Tump/ Clatter.  There is no indication that it will come on the Mynd at all.
+
+\--------------------------------------
+
 Long run of south westerly winds coming up from Wednesday, but conditions look like slowly deteriorating towards the weekend with wind getting possibly too strong on Saturday and Sunday and the air not as good.  Any of our SW sites could well be ok, though Clatter looks favourite at this moment for direction and strength.
 
 \---------------------------------------------------------------------------------
