@@ -1,7 +1,13 @@
 ---
 title: Weather from 15th July
-date: 2024-07-18T09:24:07.084Z
+date: 2024-07-19T06:26:05.303Z
 ---
+Friday, the winds don't seem forecast quite as strong, so more likely to be PG soarable, Clatter most likely and easier to launch if it is windy.  Inversion not massively high 3000- 4000ft.  winds less gusty much later in the day.
+
+Saturday wet, Sunday looks promising for the Mynd.
+
+\--------------
+
 Today Thursday, looks fairly windy, but due to calm down a bit later on.  The forecasts all say SW, but it's more S to SSE at present, but hopefully change as the day progresses.  Some areas will be pretty well blue whilst other adjacent areas of sky quite heavy cloud.  For ridge soaring teatime and after looks ideal, possibly Camlo if it stays mostly south, either there or Shepherds Tump/ Clatter.  There is no indication that it will come on the Mynd at all.
 
 \--------------------------------------
