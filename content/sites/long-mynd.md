@@ -116,7 +116,7 @@ This is a westerly site.
 
 T/O altitude is **1420ft AMSL**, hill is 700ft above valley floor.
 
-**BEWARE rabbit holes** and unevensurfaces
+**BEWARE rabbit holes** and uneven surfaces.
 
 After take off, clear the front of the launch area. 
 
@@ -160,7 +160,7 @@ Pilots new to the site must seek advice before flying. Field availability may ch
 
 #   
 
-#### **Top Landing Approaches**
+### **Top Landing Approaches**
 
 There is plenty of room to top land at the site, but after landing **ALL** pilots must clear the landing area immediately(PG & HG)
 
@@ -168,7 +168,7 @@ There is plenty of room to top land at the site, but after landing **ALL** pilot
 
 #   
 
-#### **Side Landings**
+### **Side Landings**
 
 **PGs** – if slope landing, move promptly to the PG take off area. 
 
@@ -178,7 +178,7 @@ Do **NOT** kite back up the slope below the HG launch area
 
 Beware rabbit holes, rocks and trees.
 
-#### **Bottom Landings - Check the map.**
+### **Bottom Landings - Check the map.**
 
 **PG1** bottom landing fieldis owned by the National Trust and **should not be used from May to July** except for 'unplanned/emergency landings' only. No deliberate top to bottom flights allowed to this field.\
 **Land in the topmost part of the field, carry to the top gate to pack.\
@@ -192,7 +192,7 @@ Always close the gate behind you** – if it’s open, close it anyway.
 
 #   
 
-**CONTROLLED AIRSPACE**
+### **CONTROLLED AIRSPACE**
 
 Birmingham CTA at 30 mls, Halfpenny Green at 24mls, RAF Cosford at 23 mls.
 
@@ -200,7 +200,7 @@ Birmingham CTA at 30 mls, Halfpenny Green at 24mls, RAF Cosford at 23 mls.
 
 
 
-**AIR HORNS**
+### **AIR HORNS**
 
 **What are they for?** Use it when we need to clear the air and ground quickly.
 
