@@ -49,9 +49,11 @@ siteRecords:
       https://www.xcontest.org/united-kingdom/flights/detail:RichardMeek/22.06.2024/10:23
 
       The previous record was Kai Coleman, 25.06.2004. Eltisley. 201.6 km.
-  - record: "HG: Gordon Rigg, 30.05.15 Cambridge, 222.72 km. See
-      http://www.uknxcl.co.uk/flight_info/10023. The previous record was Rich
-      Lovelace, 21.08.04. See http://www.uknxcl.co.uk/flight_info/5961. "
+  - record: >-
+      HG: Gordon Rigg, 30.05.15 Cambridge, 222.72 km. See
+      http://www.uknxcl.co.uk/flight_info/10023 
+
+      The previous record was Rich Lovelace, 21.08.04. See http://www.uknxcl.co.uk/flight_info/5961. 
 mainImage: /img/mynd-pointer.jpeg
 poiImage: /img/long-mynd-map.jpeg
 date: 2024-07-24T13:05:43.058Z
