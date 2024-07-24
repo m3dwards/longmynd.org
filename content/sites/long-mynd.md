@@ -50,12 +50,11 @@ siteRecords:
       See https://www.xcontest.org/united-kingdom/flights/detail:RichardMeek/22.06.2024/10:23
 
       The previous record was Kai Coleman, 25.06.2004. Eltisley. 201.6 km.
-  - record: >-
-      HG: Gordon Rigg, 30.05.15 Cambridge, 222.72 km. See 
-
-      http://www.uknxcl.co.uk/flight_info/10023 
-
-      The previous record was Rich Lovelace, 21.08.04. See http://www.uknxcl.co.uk/flight_info/5961. 
+  - record: |-
+      HG: Gordon Rigg, 30.05.15 Cambridge, 222.72 km. 
+      See http://www.uknxcl.co.uk/flight_info/10023 
+      The previous record was Rich Lovelace, 21.08.04. 
+      See http://www.uknxcl.co.uk/flight_info/5961. 
 mainImage: /img/mynd-pointer.jpeg
 poiImage: /img/long-mynd-map.jpeg
 date: 2024-07-24T13:05:43.058Z
@@ -98,9 +97,9 @@ The Club also offers temporary 10 day, 1 month and annual memberships pay online
 
 Essential that **ALL** pilots keep clear of HGs on overshoot.
 
+ 
 
-
-
+ 
 
 #### **RIGGING AREAS**
 
@@ -108,9 +107,9 @@ Essential that **ALL** pilots keep clear of HGs on overshoot.
 
 HGs use the 11 tie-down loops where possible.
 
+ 
 
-
-
+ 
 
 #### **TAKING OFF** 
 
@@ -122,9 +121,9 @@ T/O altitude is **1420ft AMSL**, hill is 700ft above valley floor.
 
 After take off, clear the front of the launch area. 
 
+ 
 
-
-
+ 
 
 #### **FLYING THE RIDGE**
 
@@ -152,17 +151,17 @@ Used occasionally for model flying.
 
 Beware, some are **big**. Clear it by at least **1000ft ATO** above it.
 
- 
+  
 
-
+ 
 
 #### **LANDING AREAS - Check the map.**
 
 Pilots new to the site must seek advice before flying. Field availability may change with the seasons.
 
+ 
 
-
-
+ 
 
 #### **Top Landing Approaches**
 
@@ -170,9 +169,9 @@ There is plenty of room to top land at the site, but after landing **ALL** pilot
 
 ![](/img/lm-approaches.jpeg)
 
+ 
 
-
-
+ 
 
 #### **Side Landings**
 
@@ -196,11 +195,15 @@ Always close the gate behind you** – if it’s open, close it anyway.
 
 **HG1** (pan handle) and **HG2** bottom landing fields can be used all year, take care with livestock. 
 
- 
+ 
+
+  
 
 **CONTROLLED AIRSPACE**
 
 Birmingham CTA at 30 mls, Halfpenny Green at 24mls, RAF Cosford at 23 mls.
+
+
 
 
 
