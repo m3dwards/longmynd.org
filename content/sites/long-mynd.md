@@ -158,9 +158,9 @@ Beware, some are **big**. Clear it by at least **1000ft ATO** above it.
 
 Pilots new to the site must seek advice before flying. Field availability may change with the seasons.
 
- 
+  
 
- 
+  
 
 #### **Top Landing Approaches**
 
