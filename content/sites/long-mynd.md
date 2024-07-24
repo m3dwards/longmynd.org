@@ -58,7 +58,7 @@ mainImage: /img/mynd-pointer.jpeg
 poiImage: /img/long-mynd-map.jpeg
 date: 2024-07-24T13:05:43.058Z
 ---
-### **SITE RULES**
+## **SITE RULES**
 
 * **This is an airfield – no dogs, chairs, prams/pushchairs, drones, etc.**
 * **Do not obstruct the entrance gate –** access required for emergencies.
@@ -70,17 +70,17 @@ date: 2024-07-24T13:05:43.058Z
 
 
 
-### SITE FEES
+## SITE FEES
 
 ***Please note:* if you are not an LMSC member, there is a £3 per day site fee for flying the Mynd.** Please put the money in the collection post by the gate, or **[pay online](/pay-fee)**. 
 
 The Club also offers temporary 10 day, 1 month and annual memberships pay online at **[www.longmynd.org/join](http://www.longmynd.org/join)**
 
-### **FLYING RULES**
+## **FLYING RULES**
 
 
 
-#### **GENERAL**
+### **GENERAL**
 
 **All pilots must be current BHPA members (see helmet badge) or be able to present on demand an equivalent insurance (in English).** 
 
@@ -100,7 +100,7 @@ Essential that **ALL** pilots keep clear of HGs on overshoot.
 
  
 
-#### **RIGGING AREAS**
+### **RIGGING AREAS**
 
 **Check the site maps.** PGs to the north, HGs to the south. 
 
@@ -110,7 +110,7 @@ HGs use the 11 tie-down loops where possible.
 
  
 
-#### **TAKING OFF** 
+### **TAKING OFF** 
 
 This is a westerly site.
 
@@ -124,7 +124,7 @@ After take off, clear the front of the launch area. 
 
  
 
-#### **FLYING THE RIDGE**
+### **FLYING THE RIDGE**
 
 The ridge is 4 miles long so there is plenty of room after clearing the launch area. Please note the following:
 
@@ -154,7 +154,7 @@ Beware, some are **big**. Clear it by at least **1000ft ATO** above it.
 
  
 
-#### **LANDING AREAS - Check the map.**
+### **LANDING AREAS - Check the map.**
 
 Pilots new to the site must seek advice before flying. Field availability may change with the seasons.
 
@@ -166,7 +166,7 @@ There is plenty of room to top land at the site, but after landing **ALL** pilot
 
 ![](/img/lm-approaches.jpeg)
 
-#  
+#   
 
 #### **Side Landings**
 
@@ -190,9 +190,7 @@ Always close the gate behind you** – if it’s open, close it anyway.
 
 **HG1** (pan handle) and **HG2** bottom landing fields can be used all year, take care with livestock. 
 
- 
-
-  
+#   
 
 **CONTROLLED AIRSPACE**
 
