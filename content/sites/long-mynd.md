@@ -18,11 +18,10 @@ sensitivities:
       map. PG1, the landing field which is the field immediately below the PG
       launch area, can only be used for ‘unplanned or emergency landings' only,
       no deliberate top to bottoms! "
-  - sensitivity: Black Knoll at the south end of the ridge – usually from October to
-      end January shooting may take place on and below the hill during which
-      there must be no flying on Black Knoll – do not take off from nor fly to
-      it. Shooting dates will be posted to the Black Knoll site guide and to the
-      forum when known!
+  - sensitivity: Black Knoll at the south end of the ridge – Shooting may take place
+      between  October and January, on and below the hill. Shooting dates will
+      be posted to the Black Knoll site guide and to Telegram when known! Flying
+      is not permitted on these dates.
   - sensitivity: Do not overfly farms and horse paddocks/arena’s when low including
       the one just below launch! Plan your landing to avoid this and have a Plan
       B!
@@ -143,7 +142,7 @@ Be aware of glider landing circuits – see diagram.
 
 Used for PG training. 
 
-October to January – beware, can be used for shooting, clear it by at least **300ft ATO** above it.
+October to January – beware, can be used for shooting. Check Telegram for notices on shooting dates, when flying is **NOT** permitted
 
 **Model flying bowl** (1 mile north)
 
