@@ -140,15 +140,16 @@ webcams: "![Long Mynd looking
   north](https://www.mysolarcam.com/LongMyndNorth/last_big.jpg)"
 localAttractions: ""
 siteRecords:
+  - record: >
+      PG: Richard Meek, 22.06.24 Cambridge, 227.29km. See
+      https://www.xcontest.org/united-kingdom/flights/detail:RichardMeek/22.06.2024/10:23
+
+      The previous record was Kai Coleman, 25.06.2004. Eltisley. 201.6 km.
   - record: "HG: Gordon Rigg, 30.05.15 Cambridge, 222.72 km. See
       http://www.uknxcl.co.uk/flight_info/10023. The previous record was Rich
-      Lovelace, 21.08.04, who held it for 11 years. 221.12 km – so only just
-      beaten by Gordon. See http://www.uknxcl.co.uk/flight_info/5961. Until we
-      were informed of these flights, we had said that the record was held by
-      Darren Brown,  202.85 km, on 15.08.17, to near St Neots."
-  - record: "PG: Kai Coleman, 25.06.2004. To Eltisley. 201.6 km."
+      Lovelace, 21.08.04. See http://www.uknxcl.co.uk/flight_info/5961. "
 mainImage: /img/mynd-pointer.jpeg
-poiImage: /img/longmyndmap.jpg
+poiImage: /img/long-mynd-map.jpeg
 date: 2022-10-15T18:09:30.682Z
 ---
 #### SITE FEES
