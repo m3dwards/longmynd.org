@@ -16,7 +16,7 @@ location:
 sensitivities:
   - sensitivity: "There is a new main PG bottom landing field, marked as PG2 on the
       map. PG1, the landing field which is the field immediately below the PG
-      launch area, can only be used for ‘unplanned or emergency landings only,
+      launch area, can only be used for ‘unplanned or emergency landings' only,
       no deliberate top to bottoms! "
   - sensitivity: Black Knoll at the south end of the ridge – usually from October to
       end January shooting may take place on and below the hill during which
@@ -76,6 +76,8 @@ The Club also offers temporary 10 day, 1 month and annual memberships pay online
 
 ### **FLYING RULES**
 
+
+
 #### **GENERAL**
 
 **All pilots must be current BHPA members (see helmet badge) or be able to present on demand an equivalent insurance (in English).** 
@@ -86,11 +88,13 @@ The Club also offers temporary 10 day, 1 month and annual memberships pay online
 
 **No Paramotors** on this site
 
-Do **NOT** fly/land close to: horse and riders, or livestock.
+**No** flying/landing close to: horses and riders, or livestock.
 
-Do **NOT** overfly farms and horse paddocks/areas when low.
+**No** overflying farms and horse paddocks/areas when low.
 
 Essential that **ALL** pilots keep clear of HGs on overshoot.
+
+
 
 
 
@@ -102,21 +106,25 @@ HGs use the 11 tie-down loops where possible.
 
 
 
-#### **TAKE OFF** 
+
+
+#### **TAKING OFF** 
 
 This is a westerly site.
 
 T/O altitude is **1420ft AMSL**, hill is 700ft above valley floor.
 
-**BEWARE rabbit holes** and unevensurface
+**BEWARE rabbit holes** and unevensurfaces
 
 After take off, clear the front of the launch area. 
 
 
 
+
+
 #### **FLYING THE RIDGE**
 
-The ridge is 4 miles long so there is plenty of room after clearling the launch area. Please not the following:
+The ridge is 4 miles long so there is plenty of room after clearling the launch area. Please note the following:
 
 **Midland Gliding Club**
 
@@ -142,9 +150,13 @@ Beware, some are **big**. Clear it by at least **1000ft ATO above** it.
 
  
 
+
+
 #### **LANDING AREAS - Check the map.**
 
 Pilots new to the site must seek advice before flying. Field availability may change with the seasons.
+
+
 
 
 
@@ -153,6 +165,8 @@ Pilots new to the site must seek advice before flying. Field availability may ch
 There is plenty of room to top land at the site, but after landing **ALL** pilots must clear the landing area immediately(PG & HG)
 
 ![](/img/lm-approaches.jpeg)
+
+
 
 
 
@@ -170,7 +184,7 @@ Beware rabbit holes, rocks and trees.
 
 **Paragliders**
 
-**PG1** bottom landing fieldis owned by the National Trust and **should not be used from May to July** except for unplanned landings/emergency landings only. No deliberate top to bottom flights allowed to this field.\
+**PG1** bottom landing fieldis owned by the National Trust and **should not be used from May to July** except for 'unplanned/emergency landings' only. No deliberate top to bottom flights allowed to this field.\
 **Land in the topmost part of the field, carry to the top gate to derig\
 Always close the gate behind you** – if it’s open, close it anyway.
 
@@ -195,17 +209,3 @@ Birmingham CTA at 30 mls, Halfpenny Green at 24mls, RAF Cosford at 23 mls.
 **What are they for?** Use it when we need to clear the air and ground quickly.
 
 **What to do if you hear one?** Either immediately choose a safe landing at the top of the hill, or fly away from the LMSC launch and stay away until safe.
-
- 
-
-
-
-
-
-
-
-
-
-
-
-![]( "Typical MGC landing circuit in a westerly")
