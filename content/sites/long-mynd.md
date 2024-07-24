@@ -45,12 +45,14 @@ webcams: "![Long Mynd looking
 localAttractions: ""
 siteRecords:
   - record: >
-      PG: Richard Meek, 22.06.24 Cambridge, 227.29km. See
-      https://www.xcontest.org/united-kingdom/flights/detail:RichardMeek/22.06.2024/10:23
+      PG: Richard Meek, 22.06.24 Cambridge, 227.29km. 
+
+      See https://www.xcontest.org/united-kingdom/flights/detail:RichardMeek/22.06.2024/10:23
 
       The previous record was Kai Coleman, 25.06.2004. Eltisley. 201.6 km.
   - record: >-
-      HG: Gordon Rigg, 30.05.15 Cambridge, 222.72 km. See
+      HG: Gordon Rigg, 30.05.15 Cambridge, 222.72 km. See 
+
       http://www.uknxcl.co.uk/flight_info/10023 
 
       The previous record was Rich Lovelace, 21.08.04. See http://www.uknxcl.co.uk/flight_info/5961. 
@@ -126,11 +128,11 @@ After take off, clear the front of the launch area. 
 
 #### **FLYING THE RIDGE**
 
-The ridge is 4 miles long so there is plenty of room after clearling the launch area. Please note the following:
+The ridge is 4 miles long so there is plenty of room after clearing the launch area. Please note the following:
 
 **Midland Gliding Club**
 
-Do **NOT** overfly launch area less than 1500 ATO.
+Do **NOT** overfly launch area less than **1500 ATO**.
 
 Do **NOT** cross in front of the windsock below ridge height when towing is active. If you hit strong lift you could rise up in front of a tug or powered glider.
 
@@ -142,13 +144,13 @@ Be aware of glider landing circuits – see diagram.
 
 Used for PG training. 
 
-October to January – beware, can be used for shooting, clear it by at least 300ft ATO above it.
+October to January – beware, can be used for shooting, clear it by at least **300ft ATO** above it.
 
 **Model flying bowl** (1 mile north)
 
 Used occasionally for model flying.
 
-Beware, some are **big**. Clear it by at least **1000ft ATO above** it.
+Beware, some are **big**. Clear it by at least **1000ft ATO** above it.
 
  
 
@@ -184,17 +186,13 @@ Beware rabbit holes, rocks and trees.
 
 #### **Bottom Landings - Check the map.**
 
-**Paragliders**
-
 **PG1** bottom landing fieldis owned by the National Trust and **should not be used from May to July** except for 'unplanned/emergency landings' only. No deliberate top to bottom flights allowed to this field.\
-**Land in the topmost part of the field, carry to the top gate to derig\
+**Land in the topmost part of the field, carry to the top gate to pack.\
 Always close the gate behind you** – if it’s open, close it anyway.
 
 **PG2** bottom landing field can be used all year. This field can be identified by the large green shed in the NE corner. **Ensure you have enough height to cross the road. Avoid all horses on approach.**
 
 **HG1** can be use for PG landings if there are no HGs landing there
-
-**Hang gliders**
 
 **HG1** (pan handle) and **HG2** bottom landing fields can be used all year, take care with livestock. 
 
