@@ -14,10 +14,10 @@ location:
   physicalMaps: 1:50000 137 or Explorer 216
   latlong: 52.5211, -2.8786
 sensitivities:
-  - sensitivity: There is now only 1 ‘PG only’ bottom landing field which is the
-      field immediately below the PG launch area – this can be used for
-      ‘unplanned’ bottom landings only, no deliberate top to bottoms! Please see
-      full important details further below!
+  - sensitivity: "There is a new main PG bottom landing field, marked as PG2 on the
+      map. PG1, the landing field which is the field immediately below the PG
+      launch area, can only be used for ‘unplanned or emergency landings only,
+      no deliberate top to bottoms! "
   - sensitivity: Black Knoll at the south end of the ridge – usually from October to
       end January shooting may take place on and below the hill during which
       there must be no flying on Black Knoll – do not take off from nor fly to
