@@ -43,11 +43,9 @@ webcams: "![Long Mynd looking
   north](https://www.mysolarcam.com/LongMyndNorth/last_big.jpg)"
 localAttractions: ""
 siteRecords:
-  - record: >
+  - record: |
       PG: Richard Meek, 22.06.24 Cambridge, 227.29km. 
-
-      See https://www.xcontest.org/united-kingdom/flights/detail:RichardMeek/22.06.2024/10:23
-
+      See https://www.xcleague.com/xc/flights/20242456.html
       The previous record was Kai Coleman, 25.06.2004. Eltisley. 201.6 km.
   - record: |-
       HG: Gordon Rigg, 30.05.15 Cambridge, 222.72 km. 
@@ -68,8 +66,6 @@ date: 2024-07-24T13:05:43.058Z
 * **Park diagonally** by the fence to keep the road clear.
 * **Check** the on site notice board on arrival for any temporary restictions
 
-
-
 ## SITE FEES
 
 ***Please note:* if you are not an LMSC member, there is a £3 per day site fee for flying the Mynd.** Please put the money in the collection post by the gate, or **[pay online](/pay-fee)**. 
@@ -77,8 +73,6 @@ date: 2024-07-24T13:05:43.058Z
 The Club also offers temporary 10 day, 1 month and annual memberships pay online at **[www.longmynd.org/join](http://www.longmynd.org/join)**
 
 ## **FLYING RULES**
-
-
 
 ### **GENERAL**
 
@@ -96,41 +90,29 @@ The Club also offers temporary 10 day, 1 month and annual memberships pay online
 
 Essential that **ALL** pilots keep clear of HGs on overshoot.
 
- 
-
- 
-
 ### **RIGGING AREAS**
 
 **Check the site maps.** PGs to the north, HGs to the south. 
 
 HGs use the 11 tie-down loops where possible.
 
- 
-
- 
-
-### **TAKING OFF** 
+### **TAKING OFF**
 
 This is a westerly site.
 
-T/O altitude is **1420ft AMSL**, hill is 700ft above valley floor.
+T/O altitude is **1420ft/432m AMSL**, hill is 700ft/213m above valley floor.
 
 **BEWARE rabbit holes** and uneven surfaces.
 
 After take off, clear the front of the launch area. 
 
- 
-
- 
-
 ### **FLYING THE RIDGE**
 
-The ridge is 4 miles long so there is plenty of room after clearing the launch area. Please note the following:
+The ridge is 4 miles/6.5km long so there is plenty of room after clearing the launch area. Please note the following:
 
 **Midland Gliding Club**
 
-Do **NOT** overfly launch area less than **1500 ATO**.
+Do **NOT** overfly launch area less than **1500ft/460m ATO**.
 
 Do **NOT** cross in front of the windsock below ridge height when towing is active. If you hit strong lift you could rise up in front of a tug or powered glider.
 
@@ -148,25 +130,17 @@ October to January – beware, can be used for shooting. Check Telegram for noti
 
 Used occasionally for model flying.
 
-Beware, some are **big**. Clear it by at least **1000ft ATO** above it.
-
-  
-
- 
+Beware, some are **big**. Clear it by at least **1000ft/300m ATO** above it.
 
 ### **LANDING AREAS - Check the map.**
 
 Pilots new to the site must seek advice before flying. Field availability may change with the seasons.
-
-#   
 
 ### **Top Landing Approaches**
 
 There is plenty of room to top land at the site, but after landing **ALL** pilots must clear the landing area immediately(PG & HG)
 
 ![](/img/lm-approaches.jpeg)
-
-#   
 
 ### **Side Landings**
 
@@ -180,8 +154,8 @@ Beware rabbit holes, rocks and trees.
 
 ### **Bottom Landings - Check the map.**
 
-**PG1** bottom landing fieldis owned by the National Trust and **should not be used from May to July** except for 'unplanned/emergency landings' only. No deliberate top to bottom flights allowed to this field.\
-**Land in the topmost part of the field, carry to the top gate to pack.\
+**PG1** bottom landing field is owned by the National Trust and **should not be used from May to July** except for 'unplanned/emergency landings' only. No deliberate top to bottom flights allowed to this field.\
+**Land in the topmost part of the field.** Note field slopes away from the hill.  **\    Carry to the top gate to pack. \
 Always close the gate behind you** – if it’s open, close it anyway.
 
 **PG2** bottom landing field can be used all year. This field can be identified by the large green shed in the NE corner. **Ensure you have enough height to cross the road. Avoid all horses on approach.**
@@ -190,15 +164,9 @@ Always close the gate behind you** – if it’s open, close it anyway.
 
 **HG1** (pan handle) and **HG2** bottom landing fields can be used all year, take care with livestock. 
 
-#   
-
 ### **CONTROLLED AIRSPACE**
 
-Birmingham CTA at 30 mls, Halfpenny Green at 24mls, RAF Cosford at 23 mls.
-
-
-
-
+Birmingham CTA at 30mls/48km, Halfpenny Green at 24mls/39km, RAF Cosford at 23mls/37km.
 
 ### **AIR HORNS**
 
