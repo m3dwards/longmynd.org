@@ -1,7 +1,11 @@
 ---
 title: Weather from 22nd July
-date: 2024-07-26T06:37:29.721Z
+date: 2024-07-27T07:25:35.812Z
 ---
+Saturday is due to be WSW to W so Mynd and reasonable speeds.  Mid day to early afternoon a good chance of towering cu and showers but clears later.  Sunday too light for ridge soaring with a S to SSE wind, but nicely thermic and dry.  Wrekin or just maybe Corndon for thermalling pilots.
+
+\-----------------------------------------
+
 Friday has a variation on forecasts but only a little, basically W to WSW and windier in the far west, but still likely to be quite windy at the Long Mynd.  Looks ideal for HG and quite possibly top end or beyond for PG's some/much of the time.  Cloudbase fairly high 4000ft plus and thermic with only a low chance of showers.
 
 Saturday at this moment looks better in wind speeds but much more likely to have some showers during the day, similar wind direction.
