@@ -1,7 +1,15 @@
 ---
 title: Weather from 29th July
-date: 2024-07-31T07:18:49.773Z
+date: 2024-08-01T07:12:20.680Z
 ---
+Thursday, despite the risk of thunderstorms in the midlands and south Wales, maybe Llandinam will be nicely soarable as the wind forecast there is reasonable and the right direction.
+
+Friday might be a bit windy but better air and could be good for HG at Clatter
+
+Saturday at present looks like a Mynd day for all.
+
+\--------------------------------------------
+
 Wednesday looks very thermic but late in the day, however wind speeds for ridge soaring look rather on the low side, maybe Wrekin is a better option than Corndon for both any ridge work or getting away in thermals as the wind is due to be less in the west.
 
 Thursday might be flyable early on but a growing chance of thunderstorms in the afternoon.
