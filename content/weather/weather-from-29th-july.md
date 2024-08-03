@@ -1,7 +1,11 @@
 ---
 title: Weather from 29th July
-date: 2024-08-01T07:12:20.680Z
+date: 2024-08-03T08:07:28.783Z
 ---
+Saturday has the cold front passing through much later than forecast so likely to be a late start, but will become turbulent as the sun comes out.  Likely to be top end wind wise for some PG's during the day.  Evening looks good for some ridge soaring.
+
+\-------------------------------------------
+
 Thursday, despite the risk of thunderstorms in the midlands and south Wales, maybe Llandinam will be nicely soarable as the wind forecast there is reasonable and the right direction.
 
 Friday might be a bit windy but better air and could be good for HG at Clatter
