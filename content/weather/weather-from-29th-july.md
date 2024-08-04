@@ -1,7 +1,11 @@
 ---
 title: Weather from 29th July
-date: 2024-08-03T08:07:28.783Z
+date: 2024-08-04T08:46:45.091Z
 ---
+Sunday has Clatter as a good place for HG's and is due be become thermic as the low cloud breaks up.  Quite possibly too much for most PG's during the day there.  I don't suggest Shepherds Tump as it has a very sharp edge to it in a SW direction which makes launching PG's in a strong wind very difficult.
+
+\----------------------
+
 Saturday has the cold front passing through much later than forecast so likely to be a late start, but will become turbulent as the sun comes out.  Likely to be top end wind wise for some PG's during the day.  Evening looks good for some ridge soaring.
 
 \-------------------------------------------
