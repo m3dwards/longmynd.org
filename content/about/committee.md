@@ -1,11 +1,11 @@
 ---
 title: Committee
-date: 2023-02-24T16:45:48.028Z
+date: 2024-08-08T16:43:00.132Z
 ---
 H﻿ere are our contacts
 
 Chairman: [Andrew McDonald](mailto:chairman@longmynd.org)\
-Secretary: [Alasdair Mitchell](mailto:secretary@longmynd.org)\
+Secretary: [James Allcock](mailto:secretary@longmynd.org)\
 Treasurer: [Jason Smith](mailto:treasurer@longmynd.org)\
 Communications:  [Roy Dade](mailto:comms@longmynd.org)\
 Website: [Max Edwards](mailto:web@longmynd.org)\
