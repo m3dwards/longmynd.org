@@ -1,6 +1,6 @@
 ---
 title: Weather from 15th July
-date: 2024-07-19T06:26:05.303Z
+date: 2024-08-09T10:04:20.946Z
 ---
 Friday, the winds don't seem forecast quite as strong, so more likely to be PG soarable, Clatter most likely and easier to launch if it is windy.  Inversion not massively high 3000- 4000ft.  winds less gusty much later in the day.
 
