@@ -1,7 +1,13 @@
 ---
 title: Weather from 9th September
-date: 2024-09-12T19:06:58.518Z
+date: 2024-09-13T19:05:25.797Z
 ---
+Saturday has moderate to fresh SW winds and not a great thermic day., but if the wind isn't too much then good ridge soaring at Clatter.  Sunday is similar but with a fairly reasonable chance of rain though not all forecasts show it around Clatter.  I haven't suggested Shepherds Tump as it has a very sharp lip and difficult to launch PG's when the wind is SW,
+
+\----------------------------------
+
+
+
 Friday has light NW winds backing W during the day and probably increasing a bit around the Long Mynd, supposedly very thermic but it's getting late in the year, but with very cold arctic air it might be so.  It might be too light to ridge soar though, certainly at times by the look of current forecasts.
 
 \--------------------------------------------
