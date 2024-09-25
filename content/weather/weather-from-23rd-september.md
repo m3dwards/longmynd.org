@@ -1,6 +1,6 @@
 ---
 title: Weather from 23rd September
-date: 2024-09-23T08:05:13.668Z
+date: 2024-09-25T06:18:42.631Z
 ---
 Yesterday was a great day at the Mynd for many HG's, flyable also for a few PG's but was top end windy.  Nice and good to get some airtime in for those there, a long winter awaits.
 
