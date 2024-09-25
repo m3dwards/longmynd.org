@@ -1,10 +1,14 @@
 ---
 title: Weather from 23rd September
-date: 2024-09-25T06:18:42.631Z
+date: 2024-09-25T10:21:58.110Z
 ---
 Yesterday was a great day at the Mynd for many HG's, flyable also for a few PG's but was top end windy.  Nice and good to get some airtime in for those there, a long winter awaits.
 
 Saturday is still looking promising, fingers crossed.
+
+Forecasts were slightly wrong for today - it was supposed to be raining by now but Wrekin looks nice right now this morning.
+
+
 
 \----------------------------------------------
 
