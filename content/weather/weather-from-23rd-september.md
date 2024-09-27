@@ -1,14 +1,16 @@
 ---
 title: Weather from 23rd September
-date: 2024-09-25T10:21:58.110Z
+date: 2024-09-27T16:34:26.621Z
 ---
+Saturday looks good for Long Mynd, it's borderline between ideal PG speeds and ideal for HG, so during the day at times I think it will be ok for both.  Cloudbase 3000ft plus with a reasonable amount of thermic activity but good for ridge soaring too. Windier slightly further into Wales, so HG's could try Llandinam maybe?
+
+\-----------------------------------------------------
+
 Yesterday was a great day at the Mynd for many HG's, flyable also for a few PG's but was top end windy.  Nice and good to get some airtime in for those there, a long winter awaits.
 
 Saturday is still looking promising, fingers crossed.
 
 Forecasts were slightly wrong for today - it was supposed to be raining by now but Wrekin looks nice right now this morning.
-
-
 
 \----------------------------------------------
 
