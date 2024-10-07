@@ -147,28 +147,6 @@ locations:
       
 
       <iframe allowfullscreen webkitallowfullscreen mozallowfullscreen src="https://video.nest.com/embedded/live/aAlmfvT6b4?autoplay=0" frameborder="0" width="720" height="576"></iframe>
-  - name: Carbon Community nr Llandovery
-    description: This Photo has kindly been authorised by carboncommunity.org for us
-      to show.  It’s of use to mid Wales pilots and also to show the progression
-      of weather fronts.  It is located down near the Heart of Wales railway
-      line by the Cynghordy viaduct which is north east of Llandovery.  The
-      carbon community is a scientific research led group aiming to identify the
-      most efficient means of retaining carbon for the benefit of the
-      environment, a good opportunity for anyone interested to volunteer and get
-      out in the countryside when not flying. Their idealogy is “A new
-      reforestation approach, rooted in science, to increase carbon
-      sequestration in trees & soil.”
-    webcams: >-
-      The camera points approximately towards a South direction.
-
-
-      ![](https://www.mysolarcam.com/TCC1/last_big.jpg "CarbonCommunity Cynghordy")
-
-
-      Last 10 images cycle around or click on arrows at either side of image (if your browser shows them)
-
-
-      <iframe src="https://www.mysolarcam.com/TCC1/demo_simple.php" width="950" height="755"></iframe>
   - name: Llangollen
     description: Courtesy of North Wales Hang Gliding and Paragliding club –
       Llangollen site weather station and separate camera
