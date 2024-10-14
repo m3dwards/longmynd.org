@@ -23,7 +23,7 @@ locations:
       Updated at 10 minute intervals. (See here for previous images*: <https://www.mysolarcam.com/LongMyndNorth/>)*
 
 
-      Note: currently removed and to be sent away for replacement lens (as of 24/09/2024)
+      Note: Now fixed but awaiting a suitable bone dry Long Mynd day to re-install it
 
 
       ![Looking North](https://www.mysolarcam.com/LongMyndNorth/last_big.jpg)
