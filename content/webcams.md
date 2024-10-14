@@ -1,6 +1,6 @@
 ---
 title: Webcams
-date: 2023-07-20T08:39:03.244Z
+date: 2024-10-14T12:32:18.702Z
 locations:
   - name: Long Mynd
     description: Here are the webcams for the Long Mynd
