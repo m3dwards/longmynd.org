@@ -1,6 +1,6 @@
 ---
 title: Weather from 14th October
-date: 2024-10-15T06:19:58.441Z
+date: 2024-10-17T05:44:19.489Z
 ---
 Thursday might be on, SW winds and quite brisk in Wales though.  Worth watching out for I think.
 
