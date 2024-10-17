@@ -1,7 +1,11 @@
 ---
 title: Weather from 14th October
-date: 2024-10-17T05:44:19.489Z
+date: 2024-10-17T06:14:43.162Z
 ---
+Today I think is now going to be too windy, as well as everywhere being seriously wet.
+
+\-----------------------------------------------
+
 Thursday might be on, SW winds and quite brisk in Wales though.  Worth watching out for I think.
 
 \---------------------------
