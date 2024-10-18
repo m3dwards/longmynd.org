@@ -1,7 +1,11 @@
 ---
 title: Weather from 14th October
-date: 2024-10-17T22:03:58.048Z
+date: 2024-10-18T11:36:07.350Z
 ---
+Big change - Saturday looks on for the Long Mynd - somewhere between W and NW and soarable speeds for PG and HG.  Cloudbase not massive 2500 to 3000ft maybe, but also some weak thermals to take you there.
+
+\--------------------------------------------
+
 Foggy Friday and hideous weekend coming up.
 
 Today I think is now going to be too windy, as well as everywhere being seriously wet.
