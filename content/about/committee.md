@@ -16,7 +16,8 @@ Sites Coordinator: [Richard McCrohan](mailto:sites@longmynd.org)\
 Competitions: [David McLeod](mailto:comps@longmynd.org)
 
 **Appointed Posts**\
-Chief Coach: [Dave Roberts](mailto:coaching@longmynd.org)
+Chief Coach: [Dave Roberts](mailto:coaching@longmynd.org)\
+Club President: Geoff Minshull
 
 **Sites officers**\
 Black Knoll: [Mark Leavesley](mailto:sites@longmynd.org)\
