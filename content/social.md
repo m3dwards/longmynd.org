@@ -1,33 +1,31 @@
 ---
-title: "LMSC Summer BBQ and Social Friday 12 Jul 24 "
+title: "LMSC Christmas Dinner Thursday 5 Dec 24 "
 date: 2024-06-17T10:27:47.263Z
 ---
+
+
+<!--StartFragment-->
+
 Dear Members and Friends
 
-**LMSC Summer BBQ Friday 12th July 2024**.  The BBQ venue will again be the Red Lion, Longden Common Shrewsbury SY5 8AE, start time about 7pm onwards. For those travelling from further afield why not make a flying weekend of it, camping is available nearby, please read on. 
+**LMSC CHRISTMAS DINNER**
 
-**Venue**. The Red Lion at Longden Common is country pub and a proven venue with great reviews. The marquee will be available for use in case of inclement weather as well as for the evening entertainment which is family friendly so please bring partners and children along?
+LMSC presents the Xmas Function along with Special Guest paragliding guru Jocky Sanderson on Thursday 5th December 2024 at the Kings Arms Church Stretton.
 
-The pub lies on the road between Shrewsbury and Wentnor, just a few miles the Long Mynd. Location here: <https://maps.app.goo.gl/j9qw34WX9Eq9AwMG7>
+Arrive for a 7pm talk by Jocky in the Hayloft (upstairs). Sit down for your festive feast 8pm.
 
-**Menu.** On the menu we have Hough’s Prime Beefburgers, Cajun Chicken Skewers, Pork and Blackpepper Cumberland Sausages, Chick Pea Falafel Burgers with salads and condiments.
+Other halves are welcome
 
-The cost of a meal is £10 for full members, £15 for non-members, children under 10 eat free but please book them in when you buy your tickets so we have the numbers for food.
+Attached is the three course menu with a choice of two or three courses at a value for money cost. Payment will be by Web Collect on an email link you will all receive shortly from LMSC. Thirty attendees last year. Let's try and make it fourty and celebrate Christmas at LMSC
 
-The ticket link is here:
+Book your tickets and pay using this link please [LMSC Christmas Dinner Thursday 5 Dec 24](https://webcollect.org.uk/lmsc/event/lmsc-christmas-dinner-thursday-5-dec-24)
 
-<https://webcollect.org.uk/lmsc/event/lmsc-summer-bbq-12-jul-24>
+Please submit meal choices to me by the 1st December on Telegram Social portal or via [davidbibby21@gmail.com](mailto:davidbibby21@gmail.com), the menu is attached.
 
-**Entertainment.** This year we are bringing back the Battlefield Bird of Prey Centre to give us a display and presentation on our friends in the air including Buzzards, Kites, Falcons, Hawks and Owls. Steve will give his presentation taking questions and answers about their capabilities and habits including the loan of a thick leather glove if you fancy getting more up close and personal. We are still working on a guest speaker to follow the meal.
+N.B. The Co Op car park in the village offers free overnight campervan parking.
 
-**Camping**. For those more far flung members we have touched base with the local campsite which is half a mile from the Red Lion but this will need booking individually in advance. Please mention that you are with the LMSC. Tents and campervans welcome, camping and glamping -
+### **Contact: *[David Bibby](mailto:David%20Bibby%20)***
 
-By the Wood Campsite <https://bythewoodcampsite.co.uk/>
+<!--EndFragment-->
 
-**More to follow on the weekend of 13/14 Jul 24?** We are lining up a few flying related events over the weekend including a couple of rounds of the BCC (Sat -Sun 13/14 Jul 24), some First Aid and Incident Management Training (Sat 13 Jul 24) and some Coaching. Please watch this space for more detail, in the meantime please get your BBQ tickets booked. If you live further away think about making a weekend of it? 
-
-Dave Bibby 
-
-Social Officer LMSC 
-
-![](/img/dsc_0016.jpg)
+![](/img/xmas-dinner-menu.jpg)
