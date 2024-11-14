@@ -1,7 +1,11 @@
 ---
 title: Weather from 11th November
-date: 2024-11-12T07:56:51.444Z
+date: 2024-11-14T20:51:54.952Z
 ---
+Don't bank on it, but Long Mynd could possibly be scratchy soarable on Friday afternoon.  Weekend now looks generally wet and blown out for PG's.
+
+\------------------------------------------------------------
+
 Tuesday looks like being a difficult wind direction,  somewhere between NNE and NE, probably too far off to the east for Red Hopton and less than ideal for Corndon which is the only option really.  Dry and the actual inversion is at a reasonable height so might be ok to ridge soar.  Wednesday badly inverted so not great and could be foggy.
 
 \----------------------------
