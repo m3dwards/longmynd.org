@@ -1,7 +1,11 @@
 ---
 title: Weather from 11th November
-date: 2024-11-14T20:51:54.952Z
+date: 2024-11-15T08:16:58.122Z
 ---
+Mynd is clear of fog and a reasonable wind, so looking positive for today.
+
+\----------------------------------------------------
+
 Don't bank on it, but Long Mynd could possibly be scratchy soarable on Friday afternoon.  Weekend now looks generally wet and blown out for PG's.
 
 \------------------------------------------------------------
