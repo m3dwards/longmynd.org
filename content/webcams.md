@@ -1,6 +1,6 @@
 ---
 title: Webcams
-date: 2024-11-16T16:05:21.212Z
+date: 2024-11-16T16:07:57.494Z
 locations:
   - name: Long Mynd
     description: Here are the webcams for the Long Mynd
@@ -140,13 +140,10 @@ locations:
 
   - name: Welshpool Airport
     description: |-
-      Video looks roughly South across the runway
+      Live stream video looks roughly South across the runway
 
       <https://www.welshpoolairport.co.uk/webcam/>
-    webcams: >-
-      
-
-      <iframe allowfullscreen webkitallowfullscreen mozallowfullscreen src="https://video.nest.com/embedded/live/aAlmfvT6b4?autoplay=0" frameborder="0" width="720" height="576"></iframe>
+    webcams: ""
   - name: Llangollen
     description: Courtesy of North Wales Hang Gliding and Paragliding club –
       Llangollen site weather station.  Note that it's reported that the camera
