@@ -1,7 +1,13 @@
 ---
 title: Weather from 11th November
-date: 2024-11-15T08:16:58.122Z
+date: 2024-11-16T16:03:32.785Z
 ---
+Friday was Mynd flyable for quite a few on Friday but did get pretty top end for PG's despite all the forecasts indicating it was not going to be windy, no HG's there which was a great shame for them.
+
+Sunday might be ok for HG as west and a good breeze, but too much for PG's.  Rain could spoil play but forecasts vary on that.
+
+\--------------------------------------------------
+
 Mynd is clear of fog and a reasonable wind, so looking positive for today.
 
 \----------------------------------------------------
