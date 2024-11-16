@@ -1,6 +1,6 @@
 ---
 title: Webcams
-date: 2024-11-16T16:07:57.494Z
+date: 2024-11-16T16:15:18.362Z
 locations:
   - name: Long Mynd
     description: Here are the webcams for the Long Mynd
@@ -23,7 +23,7 @@ locations:
       Updated at 10 minute intervals. (See here for previous images*: <https://www.mysolarcam.com/LongMyndNorth/>)*
 
 
-      Note: Now fixed but awaiting a suitable bone dry Long Mynd day to re-install it
+      Replacement camera lens, it's image quality is back to how it was when new with the addition of a UV filter which might prevent solar damage in the future.
 
 
       ![Looking North](https://www.mysolarcam.com/LongMyndNorth/last_big.jpg)
