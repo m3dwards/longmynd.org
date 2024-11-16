@@ -1,6 +1,6 @@
 ---
 title: Webcams
-date: 2024-10-14T12:32:18.702Z
+date: 2024-11-16T16:05:21.212Z
 locations:
   - name: Long Mynd
     description: Here are the webcams for the Long Mynd
@@ -149,7 +149,8 @@ locations:
       <iframe allowfullscreen webkitallowfullscreen mozallowfullscreen src="https://video.nest.com/embedded/live/aAlmfvT6b4?autoplay=0" frameborder="0" width="720" height="576"></iframe>
   - name: Llangollen
     description: Courtesy of North Wales Hang Gliding and Paragliding club –
-      Llangollen site weather station and separate camera
+      Llangollen site weather station.  Note that it's reported that the camera
+      is permanently dead due to water ingress, so image now removed from here.
     weatherStations:
       - station: '<iframe style="width: 580px; height: 250px;"
           src="https://widget.holfuy.com/?station=1493&amp;su=mph&amp;t=C&amp;lang=en&amp;mode=detailed"
@@ -159,8 +160,6 @@ locations:
           src="https://widget.holfuy.com/?station=1493&amp;su=mph&amp;t=C&amp;lang=en&amp;mode=average&amp;avgrows=32"
           width="300" height="150" frameborder="0" marginwidth="1"
           marginheight="1" scrolling="no"></iframe>'
-      - station: <iframe src="https://www.solarcam.fr/Llangollen/demo_simple.php"
-          width="960" height="700" scrolling="no"></iframe>
   - name: Other local weather stations and webcams
     description: Other weather stations - the direct links are shown under WEBCAMS,
       but they are not cameras
