@@ -1,8 +1,8 @@
 ---
 title: weather from 18th November
-date: 2024-11-21T08:01:32.408Z
+date: 2024-11-21T08:04:02.614Z
 ---
-Thursday, all weather forecasts say it's going to be light /moderate west, but everywhere around here is currently East and have been for a couple of hours, and it's not because the weather vanes are all stuck in the frost.  who knows how the rest of the day will turn out.
+Thursday, all weather forecasts say it's going to be light /moderate west, but everywhere around here is currently East and have been for a couple of hours, and it's not because the weather vanes are all stuck in the frost.  who knows how the rest of the day will turn out, however more likely it's going to switch back west or north if Rasp can be believed.
 
 \--------------------
 
