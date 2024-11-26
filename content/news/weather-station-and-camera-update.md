@@ -1,7 +1,13 @@
 ---
 title: Weather station and camera update
-date: 2024-04-06T13:00:06.296Z
+date: 2024-11-26T18:20:08.293Z
 ---
+The Solarcam North has had a new camera lens fitted and is just great again, also with a UV filter added which may make the image stay good for longer.  The South camera will also be updated in due course.
+
+The two Holfuy weather cameras also have the same problem but replacement cameras are not available so an alternative is going to be tried which may or may not be compatible.
+
+\-----------------------------------------------------------------
+
 Update - Solarcam say that UV has caused permanent damage - A common issue recently discovered.
 
 \--------------------------------------------------------------------------------
