@@ -1,7 +1,11 @@
 ---
 title: Weather from 25th November
-date: 2024-11-26T18:08:04.429Z
+date: 2024-11-27T13:41:14.487Z
 ---
+At present Thursday is forecast to have a very low level inversion and then above that be pretty windy, so I think Wrekin will be above the inversion and blown out on launch unfortunately.
+
+\------------------------------------------------------
+
 Thursday just might be possible at Wrekin SE, but the charts indicate that by about 1500 ASL it's going to be blown out, as there is such a strong wind gradient.  Nice and sunny though.
 
 \---------------------------------------------------
