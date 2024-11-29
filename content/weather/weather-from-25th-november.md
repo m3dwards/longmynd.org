@@ -1,7 +1,13 @@
 ---
 title: Weather from 25th November
-date: 2024-11-27T13:41:14.487Z
+date: 2024-11-29T07:35:28.371Z
 ---
+I completely missed Wednesday,  it had been forecast to be wet and windy from the edge of the storm, but ended up being totally nice for those that flew.
+
+Rest of this week looks to be blown out on all 3 days and with a very low cloudbase on Sunday too.
+
+\---------------------
+
 At present Thursday is forecast to have a very low level inversion and then above that be pretty windy, so I think Wrekin will be above the inversion and blown out on launch unfortunately.
 
 \------------------------------------------------------
