@@ -1,8 +1,8 @@
 ---
 title: Weather from 25th November
-date: 2024-11-29T07:35:28.371Z
+date: 2024-11-29T07:36:59.235Z
 ---
-I completely missed Wednesday,  it had been forecast to be wet and windy from the edge of the storm, but ended up being totally nice for those that flew.
+I completely missed Wednesday, it had been forecast to be wet and windy from the edge of the storm, so I never even looked at the forecasts on the day but ended up being totally nice for those that flew.
 
 Rest of this week looks to be blown out on all 3 days and with a very low cloudbase on Sunday too.
 
