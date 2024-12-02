@@ -1,7 +1,11 @@
 ---
-title: Long Mynd Videos back on
-date: 2024-02-01T07:52:39.433Z
+title: Long Mynd Videos back off again
+date: 2024-12-02T10:25:36.689Z
 ---
+It's officially winter so the video has been turned off from 2nd December on both cameras to reduce the chance of batteries getting too low to run the still camera images.  Will go back on when we start getting longer daytimes in 2025.
+
+\------------
+
 Well that didn't last long, now turned back off as the batteries had got low really quickly.
 
 \-------------------------------------
