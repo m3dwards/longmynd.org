@@ -1,7 +1,11 @@
 ---
 title: Weather from 2nd December
-date: 2024-12-03T07:22:55.198Z
+date: 2024-12-06T07:21:36.071Z
 ---
+If you are local and can get there quick,  today looks nice air until mid afternoon - WSW backing S, so Clatter, Shepherds Tump or Camlo.  All could be on for a short while, but take car as by mid afternoon it's due to get very windy and that might happen quickly.
+
+\-----------------
+
 Today looks marginally better forecast - with light winds that just might be soarable on the Wrekin, less so on Corndon as due to be slightly lighter winds still and S to SSW there.  no increase with height of airspeed to if it's on the hill should not be blown out once in the air.  Wednesday less good, more wind but a ground level inversion and high cloud.  It's as good as it gets - Thursday onwards very very windy.
 
 \---------
