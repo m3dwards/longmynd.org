@@ -94,10 +94,10 @@ locations:
 
       <iframe src="https://www.midlandgliding.club/piwebcam/hangarcam/hangarcam.html" width="960" height="544" scrolling="no"></iframe>
   - name: The Lawley
-    description: Now active and live – however due to the poor O2 signal the unit is
-      intermittently unreliable – it’s been fine for years when it was situated
-      at Sarn.  Sadly the device only runs on a 2G network, which makes it
-      difficult to move to any other data supplier in this location.
+    description: Now active and live for weather data, however the camera has
+      stopped connecting to the main unit at the start of December 2024,  Holfuy
+      believe it is likely to be a permanent failure with no spare parts
+      available.  Yet to be confirmed but for now it's gone.
     weatherStations:
       - station: '<iframe style="width: 580px; height: 250px;"
           src="https://widget.holfuy.com/?station=295&amp;su=mph&amp;t=C&amp;lang=en&amp;mode=detailed"
@@ -108,12 +108,10 @@ locations:
           width="300" height="150" frameborder="0" marginwidth="1"
           marginheight="1" scrolling="no"></iframe>'
     webcams: >-
-      Most recent camera image below (updated every 10 minutes) it is pointing
-      out along the ridge in a northern direction from the very top of the
-      highest peak, installed on the weather vane pole which comprises of a
-      Raven which is the landowner’s family emblem.
-
-
+      Camera not currently available but if it was - it is pointing out along
+      the ridge in a northern direction from the very top of the highest peak,
+      installed on the weather vane pole which comprises of a Raven which is the
+      landowner’s family emblem.
 
 
       ![](https://holfuy.com/en/takeit/cam/s295.jpg "Lawley webcam")
