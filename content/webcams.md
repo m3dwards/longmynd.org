@@ -94,10 +94,11 @@ locations:
 
       <iframe src="https://www.midlandgliding.club/piwebcam/hangarcam/hangarcam.html" width="960" height="544" scrolling="no"></iframe>
   - name: The Lawley
-    description: Now active and live for weather data, however the camera has
-      stopped connecting to the main unit at the start of December 2024,  Holfuy
-      believe it is likely to be a permanent failure with no spare parts
-      available.  Yet to be confirmed but for now it's gone.
+    description: Now active and live for weather data, however the camera stopped
+      connecting to the main unit at the start of December 2024,  Holfuy
+      believed it to be likely as a permanent failure with no spare parts
+      available.  However after a big storm with 100mph winds it's started
+      working again, albeit intermittently.
     weatherStations:
       - station: '<iframe style="width: 580px; height: 250px;"
           src="https://widget.holfuy.com/?station=295&amp;su=mph&amp;t=C&amp;lang=en&amp;mode=detailed"
