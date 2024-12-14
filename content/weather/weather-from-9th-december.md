@@ -1,8 +1,12 @@
 ---
 title: Weather from 9th December
-date: 2024-12-11T07:26:36.903Z
+date: 2024-12-14T09:53:49.412Z
 ---
-Still promising for today at Corndon,  forecasts look ok, but current winds are a bit high, but should moderate a little.
+Today, Saturday, it's light at present, but all forecasts have it pretty strong later with a marked wind gradient, so I think fairly soon it may be hang gliding only speeds at the Mynd.  Other than that it's the best weather for the whole rest of next week.
+
+\----------------------------------------------
+
+Still promising for today at Corndon, forecasts look ok, but current winds are a bit high, but should moderate a little.
 
 \----------------------------------------
 
