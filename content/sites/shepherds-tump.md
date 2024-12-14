@@ -48,7 +48,7 @@ Generally I would say not the nicest hill to scratch low on as there are big tre
 
 Downwind is very nice as the hill drops away as you run in a NE direction along the valley – with train stations along it
 
-The farm at the bottom landing fields has opened a cafe. Visit farmgate2kitchenplate for open hours.
+The farm at the bottom landing fields has opened a cafe. Visit farmgate2kitchenplate.com for open hours.
 
 #### WARNING
 
