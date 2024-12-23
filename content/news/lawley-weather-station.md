@@ -2,6 +2,10 @@
 title: Lawley Weather station
 date: 2024-12-03T13:26:44.433Z
 ---
+The camera is working again, no idea why, but it restarted working in the middle of a big storm. 
+
+\--------------------------------------------------------------
+
 Sadly the camera has disconnected from the main unit.  It is a major undertaking to investigate due to it's location and the failure my be permanent with no replacement parts available due to the age of the machine.  The weather station continues to function as usual.
 
 \---------------------------------------
