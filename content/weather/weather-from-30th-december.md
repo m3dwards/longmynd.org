@@ -1,7 +1,11 @@
 ---
 title: Weather from 30th December
-date: 2025-01-02T08:18:56.598Z
+date: 2025-01-03T08:00:15.136Z
 ---
+Friday now looks blown out for PG on the Mynd, maybe ok for HG, but there is a strong wind gradient so could be quite blowy in the air - assuming HG's can get up the icy roads that is.  Yesterday was good as predicted on the Lawley
+
+\---------------------------
+
 Today (Thursday), still looking nice but cold so the Long Mynd may be difficult to drive to due to the Ice on the wet roads up.  However, the Mynd may not be the right place anyway, as forecasts vary between N and NW but not very strong.  I think Lawley stands the best chance of accommodating variation in wind direction and speed with launches from multiple heights.  Alternatives, Wrekin, Clunbury, Caer Caradoc.
 
 Friday, more West but ice still a possible issue for access.  Also there is due to be a noticeable inversion just above Mynd height, so the flying may not be reliable or great with a large variation in direction above the inversion.
