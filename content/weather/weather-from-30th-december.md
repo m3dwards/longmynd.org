@@ -1,7 +1,13 @@
 ---
 title: Weather from 30th December
-date: 2025-01-03T08:00:15.136Z
+date: 2025-01-03T17:57:41.621Z
 ---
+Lots of HG flying at the Mynd for those that got up there today by the look of the webcams.
+
+Saturday has heavy upper cloud and nominally light SE winds low down, but with a strong wind gradient, so Wrekin or Corndon just might be ok to soar.
+
+\-----------------------------------------------
+
 Friday now looks blown out for PG on the Mynd, maybe ok for HG, but there is a strong wind gradient so could be quite blowy in the air - assuming HG's can get up the icy roads that is.  Yesterday was good as predicted on the Lawley
 
 \---------------------------
