@@ -38,5 +38,4 @@ otherClubsSites:
     from: SE
     to: S
 ---
-
-Here are all our sites and some important information that all pilots should read before flying one of our sites.
+Here are all our sites and some important information that all pilots should read before flying one of our sites. All pilots flying Long Mynd Soaring Club sites should take care to ensure that they hold appropriate insurance and ratings to protect themselves and others.
