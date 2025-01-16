@@ -1,7 +1,11 @@
 ---
 title: Weather from 13th January
-date: 2025-01-15T08:06:51.047Z
+date: 2025-01-16T07:58:52.143Z
 ---
+Wrekin is on the north edge of forecast fog, but might be in bright sunshine, if so the SE side might be soarable today Thursday.
+
+\---------------------------------------
+
 Wednesday may well be on at the Mynd, ground level winds due to be very low and SW but rapidly rising in temperature and speed above ground level and veering West.  From 2000ft the wind speeds are forecast to be lower again.  There could be a chance especially early on that the valley fog blows up the hill.
 
 \---------------------------------------
