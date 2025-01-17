@@ -1,7 +1,11 @@
 ---
 title: Weather from 13th January
-date: 2025-01-16T07:58:52.143Z
+date: 2025-01-17T08:31:57.943Z
 ---
+Friday has a chance it stays clear in the west and might be ok on Clatter - could be top end for some PG's a it is at this moment, right direction though.  Sunday by some forecasts might be on the Mynd and light, but others say completely south.
+
+\-------------------------------------------------
+
 Wrekin is on the north edge of forecast fog, but might be in bright sunshine, if so the SE side might be soarable today Thursday.
 
 \---------------------------------------
