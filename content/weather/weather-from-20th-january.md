@@ -1,7 +1,13 @@
 ---
 title: weather from 20th January
-date: 2025-01-21T08:32:24.967Z
+date: 2025-01-22T15:09:50.830Z
 ---
+
+
+Saturday looks promising and has done for a couple of days now, clear and light/moderate winds probably SW direction.
+
+\---------------------------------------
+
 Tuesday now looks murky all day despite a gentle southerly breeze, marginally better air tomorrow but forecasts vary on wind, anywhere between nothing at all and light NW, maybe Lawley or Caer Caradoc might be scratchy soarable in that?
 
 \----------------------------------
