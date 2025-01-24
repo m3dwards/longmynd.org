@@ -1,7 +1,11 @@
 ---
 title: weather from 20th January
-date: 2025-01-24T08:15:45.295Z
+date: 2025-01-24T16:24:37.811Z
 ---
+Saturday has it W backing S during the day and wind dropping right off mid afternoon (by some forecasts), so an early start looks more reliable.
+
+\-----------------------------------------------
+
 Saturday still looking good, wind forecasts vary a bit in direction, either W-WSW or completely SW.   Inversion level about 4000ft and should actually be thermic in the middle of the day.  probably on at the Long Mynd, but Camlo, Shepherds tump could be a good alternative unless totally SW then Clatter.
 
 \---------------------------------------------------------------------------
