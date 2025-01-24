@@ -109,10 +109,9 @@ locations:
           width="300" height="150" frameborder="0" marginwidth="1"
           marginheight="1" scrolling="no"></iframe>'
     webcams: >-
-      Camera not currently available but if it was - it is pointing out along
-      the ridge in a northern direction from the very top of the highest peak,
-      installed on the weather vane pole which comprises of a Raven which is the
-      landowner’s family emblem.
+      Camera is pointing out along the ridge in a northern direction from the
+      very top of the highest peak, installed on the weather vane pole which
+      comprises of a Raven which is the landowner’s family emblem.
 
 
       ![](https://holfuy.com/en/takeit/cam/s295.jpg "Lawley webcam")
