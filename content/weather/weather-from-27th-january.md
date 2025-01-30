@@ -1,7 +1,11 @@
 ---
 title: weather from 27th January
-date: 2025-01-29T08:13:48.916Z
+date: 2025-01-30T08:25:29.655Z
 ---
+Thursday,  despite it looking ok at present, forecasts suggest Mynd will be a bit on the windy side for PG's today but ideal for HG.  A good chance of wave affecting conditions, so could be quite variable in the air.
+
+\-----------------
+
 Today Wednesday could be ok, Wrekin, Corndon Long Mountain, with it more like NW in the east o four are and more like N to NNE in the far west.
 
 \-------------------------
