@@ -1,7 +1,11 @@
 ---
 title: weather from 27th January
-date: 2025-01-30T08:25:29.655Z
+date: 2025-01-31T08:25:27.899Z
 ---
+Friday looks not too bad, could be a bit windy for some PG's, so maybe Long Mountain is a good bet, however the forecasts and actuals indicate it's more Long Mynd but veering NW so check the weather stations as Long Mountain is not great when anything more west than fully NW.  Other than them,  Lawley lower launch maybe.
+
+\-------------------
+
 Thursday,  despite it looking ok at present, forecasts suggest Mynd will be a bit on the windy side for PG's today but ideal for HG.  A good chance of wave affecting conditions, so could be quite variable in the air.
 
 \-----------------
