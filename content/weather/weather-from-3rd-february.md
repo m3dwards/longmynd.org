@@ -1,7 +1,11 @@
 ---
 title: Weather from 3rd February
-date: 2025-02-04T17:58:27.006Z
+date: 2025-02-05T09:32:09.373Z
 ---
+Still as before, wind at mynd veering to wnw, but expected to be HG rather than PG speeds most of the day.
+
+\---------------------------------------
+
 Wednesday a Mynd day but could be top end for PG's, better for HG.  right direction with high cloud clearing in the afternoon to allo more sunshine and a better chance of thermals.  An alternative may be Llandinam where the wind is forecast to be less, though the hill is much bigger.  Maybe Camlo as well and that is much smaller.
 
 \---------------------------------------------------
