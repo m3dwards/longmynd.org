@@ -1,7 +1,11 @@
 ---
 title: Weather from 3rd February
-date: 2025-02-05T09:32:09.373Z
+date: 2025-02-06T08:37:03.680Z
 ---
+I was wrong about it being windy on Wednesday, sadly as I went to virtually the only place that didn't have any wind.  Thursday is due to be ENE-E and lighter around here than elsewhere and Corndon likes a decent bit of wind, but it might be ok, though much lighter than yesterdays forecast for around here.  Low inversion so just above Corndon might be above inversion so could be better.
+
+\---------------------------------------
+
 Still as before, wind at mynd veering to wnw, but expected to be HG rather than PG speeds most of the day.
 
 \---------------------------------------
