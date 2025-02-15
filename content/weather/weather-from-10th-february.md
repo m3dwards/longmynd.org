@@ -1,7 +1,11 @@
 ---
 title: Weather from 10th February
-date: 2025-02-13T09:19:23.874Z
+date: 2025-02-15T10:46:53.631Z
 ---
+Slight chance on Sunday for Corndon, at present too much east in it for Wrekin.  Inversion due to be above the top.  right sort of speed and supposedly dry.
+
+\--------------------------------------------
+
 Today (Thursday) looks on for Corndon, with the murk lifting this afternoon to well above the top, quite breezy but should be soarable.
 
 \-------------------------------------------------------------
