@@ -1,8 +1,8 @@
 ---
 title: Weather from 24th February
-date: 2025-02-25T07:24:15.730Z
+date: 2025-02-25T09:17:39.681Z
 ---
-Tuesday looks like being a Mynd day for hang gliding,  sunny but with some fairly big clouds but dry.
+Tuesday looks like being a Mynd day for hang gliding,  sunny but with some fairly big clouds but dry.  Not as strong at present as forecast, but could be wave influenced, just maybe some periods suitable for PG's but not if the forecasts are trusted.
 
 Friday/Saturday looking more likely for PG on the Mynd.  Thursday just might be ok for Long Mountain due to the wind speed.
 
