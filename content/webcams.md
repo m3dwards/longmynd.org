@@ -1,6 +1,6 @@
 ---
 title: Webcams
-date: 2025-03-03T11:59:32.197Z
+date: 2025-03-03T12:10:29.388Z
 locations:
   - name: Long Mynd
     description: Here are the webcams for the Long Mynd
@@ -16,10 +16,6 @@ locations:
           src="https://www.midlandgliding.club/piwebcam/hangar2/hangar2.html"
           width="350" height="600" frameborder="0" marginwidth="1"
           marginheight="1" scrolling="no"></iframe>'
-      - station: '<iframe style="width: 100%; height: 600px;"
-          src="https://www.wunderground.com/dashboard/pws/IBISHO60" width="350"
-          height="600" frameborder="0" marginwidth="1" marginheight="1"
-          scrolling="no"></iframe>'
     webcams: >-
       **LMSC Webcam: pointing north to the LMSC launch site.**
 
@@ -97,6 +93,12 @@ locations:
 
 
       <iframe src="https://www.midlandgliding.club/piwebcam/hangarcam/hangarcam.html" width="960" height="544" scrolling="no"></iframe>
+
+
+      **Adstone:**  This is a weather station on the ridge north of Wentnor, not ours though
+
+
+      <iframe style="width: 100%; height: 600px;" src="https://www.wunderground.com/dashboard/pws/IBISHO60" width="350" height="600" frameborder="0" marginwidth="1" marginheight="1" scrolling="no"></iframe>
   - name: The Lawley
     description: Now active and live for weather data, however the camera stopped
       connecting to the main unit at the start of December 2024,  Holfuy
