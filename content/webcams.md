@@ -1,6 +1,6 @@
 ---
 title: Webcams
-date: 2024-12-19T08:04:48.449Z
+date: 2025-03-03T11:26:06.570Z
 locations:
   - name: Long Mynd
     description: Here are the webcams for the Long Mynd
@@ -16,6 +16,11 @@ locations:
           src="https://www.midlandgliding.club/piwebcam/hangar2/hangar2.html"
           width="350" height="600" frameborder="0" marginwidth="1"
           marginheight="1" scrolling="no"></iframe>'
+      - station: >-
+          Adstone - it is not ours, but is located on the ridge in front of the
+          Long Mynd.
+
+          https://www.wunderground.com/dashboard/pws/IBISHO60
     webcams: >-
       **LMSC Webcam: pointing north to the LMSC launch site.**
 
