@@ -1,7 +1,14 @@
 ---
 title: Weather from 10th March
-date: 2025-03-13T07:26:52.398Z
+date: 2025-03-15T09:51:31.717Z
 ---
+\
+Saturday quite windy, but actuals don't tie in with forecasts at present, could be anywhere between N and E, either of those might be soarable on Corndon if not blow out, but NE is worst of all.
+
+Sunday similar but light winds so probably more suited to soaring.
+
+\-------------------------------
+
 Thursday maybe a bit windy,  Long Mountain, but maybe Corndon as it takes a lot more wind than many sites, Friday looks better wind but worse NE direction.  Weekend may be promising
 
 \---------------------------
