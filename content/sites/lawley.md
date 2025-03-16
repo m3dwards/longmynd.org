@@ -38,7 +38,9 @@ flying: >-
 
   * Top landing is virtually impossible for HG
 
-  * Bottom landing (see map) is technically straightforward but there are many POWER LINES and some trees. Check the field out and its condition before flying – this is particularly important for hang gliders. Do NOT LAND in any other field except in real emergency. The ridge is low at T/O end – leave sufficient height for the glide into wind. CLOSE ALL GATES. Note that there is a convenient gate at the top of the landing field.
+  * Bottom landing (see map) is technically straightforward but there are many POWER LINES and some trees. Check the field out and its condition before flying – this is particularly important for hang gliders. Do NOT LAND in any other field except in real emergency. The ridge is low at T/O end – leave sufficient height for the glide into wind. CLOSE ALL GATES. Note that there is a convenient gate at the side of the landing field, walk up the side of the field to the green lane where there is a 5 bar gate.
+
+  * Pilots are requested not to drive along the green lane to the landing field.
 
   * No paramotors allowed.
 
@@ -49,7 +51,7 @@ siteRecords:
   - record: Karoly Megyesi, 16.05.16. 243.1 km to Bignor. PG
   - record: Robin Hamilton, 1995, 260.8km to Brighton. HG.
 mainImage: /img/lawley.jpeg
-poiImage: /img/lawley-poi.jpeg
+poiImage: /img/the-lawley-new-field.jpeg
 date: 2022-08-21T14:21:34.996Z
 ---
 #### WARNING
