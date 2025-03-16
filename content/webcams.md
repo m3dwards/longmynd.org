@@ -1,6 +1,6 @@
 ---
 title: Webcams
-date: 2025-03-16T08:56:42.405Z
+date: 2025-03-16T09:08:35.528Z
 locations:
   - name: Long Mynd
     description: Here are the webcams for the Long Mynd
@@ -125,6 +125,9 @@ locations:
     description: >-
       Clatter is currently open to LMSC members only (temporary guest membership
       can be obtained by contacting any committee member).
+
+
+      **Please note, currently removed for major maintenance work,  back on line as soon as fixed.**
 
 
       Data collected constantly but averaged over 15 minutes, camera every twenty minutes. Wind strengths etc. will be pretty accurate in a SW wind, other directions pretty good as the station is higher up the hill than the launch and with an open aspect in all directions.  Being located on top of a hill in Mid Wales it is expected that the skystate and weather information will be of some use relating to our other sites in the area. Finally, it’s installed on site at Clatter, with the camera looking west across towards launch.
