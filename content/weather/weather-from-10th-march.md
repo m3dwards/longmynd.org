@@ -1,8 +1,10 @@
 ---
 title: Weather from 10th March
-date: 2025-03-15T09:51:31.717Z
+date: 2025-03-16T08:38:01.996Z
 ---
-\
+Sunday has lighter winds, hardly any at present but increasing through the dy.  generally NE but I think fairly likely to have enough east in it to be soarable on Corndon.  it is misty but won't be for long.
+
+\----------------------------------------------------\
 Saturday quite windy, but actuals don't tie in with forecasts at present, could be anywhere between N and E, either of those might be soarable on Corndon if not blow out, but NE is worst of all.
 
 Sunday similar but light winds so probably more suited to soaring.
