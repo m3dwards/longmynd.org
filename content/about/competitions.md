@@ -30,7 +30,7 @@ Any queries regarding holding competitions at Long Mynd sites should be addresse
 
 Dates of any competitions already agreed may be found on the events calendar or please get in touch to get further up-to-date details.[](http://www.longmynd.org/?page_id=11)
 
-Download a [competitions booking form](/img/comp_booking-rev.27032023.doc).
+Download a [competitions booking form](img/comp_booking-rev.17032025.doc).
 
 **How to pay any fee:** the address for paying by cheque is given in the booking form above. You can also pay online. However, please note that you still MUST download, complete and send off the booking form above.
 
