@@ -4,7 +4,7 @@ published: true
 status: Open - club only
 sensitive: true
 hgRating: P +100 hours
-pgRating: P +100 hours
+pgRating: P +25 hours
 windDirection:
   - from: NNW
     to: NNE
