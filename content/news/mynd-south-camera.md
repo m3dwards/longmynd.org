@@ -2,7 +2,7 @@
 title: Mynd South camera
 date: 2025-03-26T11:04:20.116Z
 ---
-South Camera now replaced 26th March and video turned on aswell.
+South Camera lens now replaced 26th March and video turned on as well.
 
 \---------------------------------------------------------------
 
