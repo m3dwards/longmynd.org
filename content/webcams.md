@@ -1,6 +1,6 @@
 ---
 title: Webcams
-date: 2025-03-16T09:08:35.528Z
+date: 2025-03-26T11:10:39.348Z
 locations:
   - name: Long Mynd
     description: Here are the webcams for the Long Mynd
@@ -20,7 +20,7 @@ locations:
       **LMSC Webcam: pointing north to the LMSC launch site.**
 
 
-      Currently 20 minutes updated. (See here for previous images*: <https://www.mysolarcam.com/LongMyndNorth/>)*
+      Currently 20 minutes updated and also video turned on. (See here for previous images*: <https://www.mysolarcam.com/LongMyndNorth/>)*
 
 
       Replacement camera lens, it's image quality is back to how it was when new with the addition of a UV filter which might prevent solar damage in the future.
@@ -41,7 +41,7 @@ locations:
       **LMSC Webcam: pointing south.**
 
 
-      Currently awaiting replacement camera lens, usually 20 minutes intervals. (See here for previous images*: <https://www.mysolarcam.com/LongMyndSouth/>)*
+      Camera replaced 26th March 2025, now set to 20 minutes intervals and als video turned on. (See here for previous images*: <https://www.mysolarcam.com/LongMyndSouth/>)*
 
 
       ![](https://www.mysolarcam.com/LongMyndSouth/last_big.jpg "Looking South")
