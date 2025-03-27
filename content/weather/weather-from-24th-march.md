@@ -1,7 +1,11 @@
 ---
 title: Weather from 24th March
-date: 2025-03-24T11:42:21.265Z
+date: 2025-03-27T07:54:12.726Z
 ---
+Saturday and Sunday - forecasts vary between very thermic and HG only speeds to being ok for PG.  For low airtime pilots caution is warranted in the middle of the day due to thermic turbulence.  Somewhere between our SW sites and the Mynd for launching.
+
+\-------------------
+
 Wednesday, there are already red kites soaring Mynd, it is due to go properly west much later and be a PG and HG soarable speed from afternoon up to dusk
 
 \--------------------------------------------------------
