@@ -127,13 +127,7 @@ locations:
       can be obtained by contacting any committee member).
 
 
-      **Please note, currently removed for major maintenance work,  back on line as soon as fixed.**
-
-
       Data collected constantly but averaged over 15 minutes, camera every twenty minutes. Wind strengths etc. will be pretty accurate in a SW wind, other directions pretty good as the station is higher up the hill than the launch and with an open aspect in all directions.  Being located on top of a hill in Mid Wales it is expected that the skystate and weather information will be of some use relating to our other sites in the area. Finally, it’s installed on site at Clatter, with the camera looking west across towards launch.
-
-
-      The camera has been affected by UV light, an attempt is planned to replace the lens, but no direct replacements are available as it's so old, a potential fix has been procured but it may be a struggle to get it to work.
     weatherStations:
       - station: '<iframe style="width: 580px; height: 250px;"
           src="https://widget.holfuy.com/?station=608&amp;su=mph&amp;t=C&amp;lang=en&amp;mode=detailed"
