@@ -1,12 +1,14 @@
 ---
 title: Weather station and camera update
-date: 2025-03-13T14:54:31.088Z
+date: 2025-04-02T17:07:57.355Z
 ---
+Clatter camera replaced and weather station re-installed and all working great so far (02/04/2025).
+
+\--------------------------
+
 Mynd north camera is back working. Mynd south removed for maintenance.  Clatter weather station and camera removed for maintenance.  All as of 13th March,  replacement date not yet known, depends if the new components install and work ok.
 
 \---------------------------------------------------------------------------------
-
-
 
 The Solarcam North has had a new camera lens fitted and is just great again, also with a UV filter added which may make the image stay good for longer.  The South camera will also be updated in due course.
 
