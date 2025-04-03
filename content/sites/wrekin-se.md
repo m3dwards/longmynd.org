@@ -14,6 +14,7 @@ location:
   physicalMaps: 1:50000 136 or Explorer 215
 sensitivities:
   - sensitivity: This is a LMSC members only site.
+  - sensitivity: Commercial activity is NOT permitted
   - sensitivity: >-
       This site is very popular with the public. Be especially careful not to
       put anyone at
@@ -71,6 +72,7 @@ The Wrekin is a popular walking spot for the public and can be busy, please resp
 It is recommended your first visit, at least, is with someone suitably experienced in flying the site in different conditions. Also look at the accessible bottom landing field by the road before heading up to launch and the bottom landing fields immediately below launch you can view from launch itself.
 
 * Pilots must be current LMSC members.
+* Commercial activity is not permitted.
 * Pilots must be suitably rated & licensed and members of the BHPA.
 * All members shall observe the Countryside Code, in particular in relation to property and livestock. No livestock are to be frightened or stampeded by fliers.
 * No dogs
