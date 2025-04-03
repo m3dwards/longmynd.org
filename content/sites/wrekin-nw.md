@@ -14,6 +14,7 @@ location:
   physicalMaps: 1:50000 136 or Explorer 215
 sensitivities:
   - sensitivity: This is a LMSC members only site.
+  - sensitivity: Commercial activity is NOT permitted.
   - sensitivity: >-
       This site is very popular with the public. Be especially careful not to
       put anyone at
@@ -104,6 +105,7 @@ Fields not marked ‘HG’ slope steeply. An up-slope/down wind landing is the o
 
 * Pilots must be current LMSC members.
 * Pilots must be suitably rated & licensed members of the BHPA.
+* Commercial activity is NOT permitted.
 * All members shall observe the Countryside Code, in particular in relation to property and livestock. No livestock are to be frightened or stampeded by fliers.
 * No dogs
 * Any damage to be reported to the Estate Office (Tel 01743 232477) immediately. Farmers will be compensated for damage to crops or livestock, plus costs, if appropriate.
