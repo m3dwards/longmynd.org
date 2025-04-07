@@ -22,7 +22,7 @@ Club President: Geoff Minshull
 **Sites officers**\
 Black Knoll: [Mark Leavesley](mailto:sites@longmynd.org)\
 Camlo & Shepherds Tump: ***Vacant***\
-Clatter & Llandinam: ***Vacant***\
+Clatter & Llandinam: [Mike Cluer](mailto:sites@longmynd.org)\
 Clunbury: [Tim Dunn](mailto:sites@longmynd.org)\
 Corndon: [Richard McCrohan](mailto:sites@longmynd.org)[](mailto:sites@longmynd.org)\
 Lawley & Caer Caradoc: [David Bibby](mailto:sites@longmynd.org)\
