@@ -7,7 +7,7 @@ H﻿ere are our contacts
 Chairman: [Andrew McDonald](mailto:chairman@longmynd.org)\
 Secretary: [James Allcock](mailto:secretary@longmynd.org)\
 Treasurer: [Jason Smith](mailto:treasurer@longmynd.org)\
-Communications:  [Roy Dade](mailto:comms@longmynd.org)\
+Communications:  [Chris Baird](mailto:comms@longmynd.org)\
 Website: [Max Edwards](mailto:web@longmynd.org)\
 Safety: [Dave Thomas](mailto:safety@longmynd.org)\
 Membership: [Luke Evans](mailto:membership@longmynd.org)\
