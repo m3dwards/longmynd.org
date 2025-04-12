@@ -1,7 +1,11 @@
 ---
 title: Weather from 7th April
-date: 2025-04-09T07:08:42.121Z
+date: 2025-04-12T08:15:34.627Z
 ---
+Saturday looks to be more like SE in the east of our area so Wrekin could be ok to soar.  Further west it is due to be much more like South, especially later during the afternoon, so Camlo south face could work well and more thermic over there.
+
+\-----------------------
+
 Wednesday has decent wind but worst direction for Corndon, NE which makes it difficult to ridge soar either the North or East face and it will be too far off to the east for Red Hopton to be soarable.  Next chance for Ridge soaring is Saturday which might be good for Wrekin SE.
 
 \-----------------------------
