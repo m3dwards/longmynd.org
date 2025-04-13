@@ -1,8 +1,14 @@
 ---
 title: Weather from 7th April
-date: 2025-04-12T08:15:34.627Z
+date: 2025-04-13T08:40:02.487Z
 ---
-Saturday looks to be more like SE in the east of our area so Wrekin could be ok to soar.  Further west it is due to be much more like South, especially later during the afternoon, so Camlo south face could work well and more thermic over there.
+Sunday is a Long Mynd day, but by most forecasts mostly a HG day as on the windy side.  Thermic but intermittently heavy cloud, and just maybe the odd shower.
+
+\---------------------------------
+
+
+
+ Saturday looks to be more like SE in the east of our area so Wrekin could be ok to soar.  Further west it is due to be much more like South, especially later during the afternoon, so Camlo south face could work well and more thermic over there.
 
 \-----------------------
 
