@@ -1,7 +1,13 @@
 ---
 title: Weather from 21st April
-date: 2025-04-21T11:53:06.043Z
+date: 2025-04-24T06:59:33.071Z
 ---
+Thursday has winds around here between east and ESE, so not ideal for Wrekin and probably too light for Corndon to ridge soar, but will be ideal for thermalling, apart from Corndon being such a lottery to get away from in light winds.
+
+Friday might be ok Wrekin if it's not too strong wind.
+
+\-----------------------------------------------------------------------
+
 Wednesday look soarable at Corndon with a brisk East wind in the afternoon after the rain has passed, grey and overcast but suitable for soaring I think.  Whereas Thursday looks a nicer sunny day but less wind and not staying east and a lot lighter in strength and less suited to ridge soaring.
 
 \----------------------------------------------------------------------------------------------------
