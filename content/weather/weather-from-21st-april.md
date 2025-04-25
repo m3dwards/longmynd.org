@@ -1,6 +1,6 @@
 ---
 title: Weather from 21st April
-date: 2025-04-25T06:33:12.035Z
+date: 2025-04-25T06:33:30.290Z
 ---
 Now I think Wrekin could well be blown out for safe launching and the wind might be a bit too far to the east for part of the day, though is due to back further south.  Corndon might be a better bet for soaring as it is windier in the west of our area and Corndon can take a lot of wind with safe launching (not a spine back).
 
