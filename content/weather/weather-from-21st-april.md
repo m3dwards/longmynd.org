@@ -1,7 +1,11 @@
 ---
 title: Weather from 21st April
-date: 2025-04-25T06:33:30.290Z
+date: 2025-04-26T16:56:24.023Z
 ---
+Sunday,  forecasts vary a bit between ideal speed and a bit high for PG's in the afternoon.  SW veering WSW during the day, very good air.  Shepherds Tump could be good as the bowl will take WSW if it goes that far round whereas Clatter tends to be poor soaring in that direction.
+
+\--------
+
 Now I think Wrekin could well be blown out for safe launching and the wind might be a bit too far to the east for part of the day, though is due to back further south.  Corndon might be a better bet for soaring as it is windier in the west of our area and Corndon can take a lot of wind with safe launching (not a spine back).
 
 \----------------------------------
