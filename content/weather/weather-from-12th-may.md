@@ -2,7 +2,7 @@
 title: Weather from 12th May
 date: 2025-05-14T10:08:30.348Z
 ---
-Wednesday afternoon late on looks possible for Corndon, too windy to start with though, evening has winds reducing and the inverison nice and high.
+Wednesday afternoon late on looks possible for Corndon, too windy to start with though, evening has winds reducing and the inversion nice and high.
 
 Gets windier again so rest of the week and weekend looking iffy.
 
