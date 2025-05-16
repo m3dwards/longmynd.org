@@ -1,8 +1,12 @@
 ---
 title: Weather from 12th May
-date: 2025-05-15T08:59:34.945Z
+date: 2025-05-16T11:00:15.731Z
 ---
+Friday, this afternoon the wind is due to be N later on so Corndon or Redhopton look good for soaring, until dusk even.  If slightly west of North though, then best options rather than Corndon will be Red Hopton, Long Mountain or Lawley, possibly Wrekin if the wind is light enough.
 
+Saturday and Sunday, very thermic and turbulent but the direction looks like being smack on NE making our sites no good for ridge soaring.
+
+\------------------------------------------------
 
 Thursday has quite high upper winds but much lower near surface, so weather stations are showing quite light winds.  The North Wales area is due to have varying wind directions, but at Corndon it is due to be NNE, so Corndon may be ok.  Red Hopton too as long as there is a lot of north in it.
 
