@@ -8,14 +8,8 @@ Dear Members and Friends
 
 <!--EndFragment-->
 
+The LMSC have a regular last Thursday of the month social gathering.
 
-
-The LMSC have a regular last Thursday of the month meeting
-
-this is held at Kings Arms Church Stretton 53 High St, Church Stretton SY6 6BY
-
-
-
-
+This is held at Kings Arms, Church Stretton from 7pm. 53 High St, Church Stretton SY6 6BY
 
 ![](/img/kings-arms-stretton.png)
