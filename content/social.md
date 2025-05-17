@@ -16,4 +16,6 @@ this is held at Kings Arms Church Stretton 53 High St, Church Stretton SY6 6BY
 
 
 
-![]()
+
+
+![](/img/kings-arms-stretton.png)
