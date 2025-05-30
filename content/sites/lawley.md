@@ -29,6 +29,21 @@ accessAndParking: >-
 
 
   Walk up the back of the ridge via the gate provided. In good conditions, it is possible to take off here and work your way up the ridge to the left. A walk up the ridge gives a better chance of soaring. Most PGs take this option, most HGs do not.
+launchesAndLanding: >-
+  The new landing field is out front of the lower take off. It is the green
+  field with the power line disecting it in this photo.
+
+
+  ![](/img/lawley-field.jpg)
+
+
+  ![Access is via a metal five bar gate, next to a house](/img/lawley-gate.jpg)
+
+
+  ![The path to the  landing field](/img/lawley-looking-from-entry-to-field.jpg)
+
+
+  ![Access to the large landing field.](/img/lawley-field-entry.jpg)
 flying: >-
   * T/O altitude: lower – 850 ft AMSL, upper – 1240 ft AMSL
 
