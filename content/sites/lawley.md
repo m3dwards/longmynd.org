@@ -31,7 +31,8 @@ accessAndParking: >-
   Walk up the back of the ridge via the gate provided. In good conditions, it is possible to take off here and work your way up the ridge to the left. A walk up the ridge gives a better chance of soaring. Most PGs take this option, most HGs do not.
 launchesAndLanding: >-
   The new landing field is out front of the lower take off. It is the green
-  field with the power line disecting it in this photo.
+  field with the power line disecting it in this photo. Also shown in photos are
+  the five bar gate, path to landing field and field access point.
 
 
   ![](/img/lawley-field.jpg)
