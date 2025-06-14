@@ -60,9 +60,6 @@ locations:
       **MGC Webcam: Pointing west to the windsock at the MGC (updated every minute).**
 
 
-      **Please note that MGC owened cameras have water ingress issues at present.**
-
-
       **If Image doesn't look current try this.**
 
 
