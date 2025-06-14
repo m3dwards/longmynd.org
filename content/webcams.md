@@ -147,8 +147,9 @@ locations:
     webcams: ""
   - name: Llangollen
     description: Courtesy of North Wales Hang Gliding and Paragliding club –
-      Llangollen site weather station.  Note that it's reported that the camera
-      is permanently dead due to water ingress, so image now removed from here.
+      Llangollen site weather station.  Note that the North Wales club have
+      replaced their Holfuy camera, but their new device is available to club
+      members only.
     weatherStations:
       - station: '<iframe style="width: 580px; height: 250px;"
           src="https://widget.holfuy.com/?station=1493&amp;su=mph&amp;t=C&amp;lang=en&amp;mode=detailed"
