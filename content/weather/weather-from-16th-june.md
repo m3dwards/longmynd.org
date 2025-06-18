@@ -1,7 +1,11 @@
 ---
 title: Weather from 16th June
-date: 2025-06-17T07:01:26.768Z
+date: 2025-06-18T06:31:25.327Z
 ---
+Wednesday I think has improved in the forecast overnight for the Mynd.  Mostly Westerly, thermic and increasing wind strength in the afternoon.  It does appear as if the sea breeze will penetrate as far as the Mynd today which is unusual, so there may be a change in the airmass sometime in the late afternoon.
+
+\-------------------------------------------------------
+
 Tuesday looks to be a HG day only, probably at the Mynd as it is not due to be as SW as Monday turned out to be.  There is an occluded front coming in from the NW, but not expected to really get to our area until late on, it's possible that it might bring some top cover late on and bring the wind more WNW.
 
 Forecasts for Wednesday have improved with the wind light and very thermic turbulent during the day and mostly on at the Long Mynd  and possibly ridge soarable - best by the look of things in the late afternoon when winds are due to get to nice soarable speeds.
