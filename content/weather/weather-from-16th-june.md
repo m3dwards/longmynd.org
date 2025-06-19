@@ -1,7 +1,13 @@
 ---
 title: Weather from 16th June
-date: 2025-06-18T06:31:25.327Z
+date: 2025-06-19T06:36:40.802Z
 ---
+Going on yesterdays weather it may not be soarable at Wrekin or Corndon on Thursday.  The lower winds may veer East enough for Corndon to work especially late on.  Don't even bother until late on anywhere though.  Friday looks better for soaring, SE direction.
+
+Saturday might be blown out
+
+\----------------
+
 Wednesday I think has improved in the forecast overnight for the Mynd.  Mostly Westerly, thermic and increasing wind strength in the afternoon.  It does appear as if the sea breeze will penetrate as far as the Mynd today which is unusual, so there may be a change in the airmass sometime in the late afternoon.
 
 \-------------------------------------------------------
