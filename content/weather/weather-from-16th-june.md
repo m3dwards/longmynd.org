@@ -1,8 +1,8 @@
 ---
 title: Weather from 16th June
-date: 2025-06-20T08:59:35.885Z
+date: 2025-06-20T09:00:33.417Z
 ---
-Current forecasts have it too windy for most PG flying for the next week or so, best chance if at all might be today Friday or Saturday before Cu-Nims are forecast to develop in the afternoon.
+Current forecasts have it too windy for most PG flying for the next week or so, best chance if at all might be today Friday or Saturday before Cu-Nims are forecast to develop in the afternoon.  Corndon much safer than Wrekin due to being blown back risk on the Spine back.
 
 \------------------------------------------------------
 
