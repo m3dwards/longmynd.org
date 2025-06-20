@@ -1,7 +1,11 @@
 ---
 title: Weather from 16th June
-date: 2025-06-19T06:36:40.802Z
+date: 2025-06-20T08:59:35.885Z
 ---
+Current forecasts have it too windy for most PG flying for the next week or so, best chance if at all might be today Friday or Saturday before Cu-Nims are forecast to develop in the afternoon.
+
+\------------------------------------------------------
+
 Going on yesterdays weather it may not be soarable at Wrekin or Corndon on Thursday.  The lower winds may veer East enough for Corndon to work especially late on.  Don't even bother until late on anywhere though.  Friday looks better for soaring, SE direction.
 
 Saturday might be blown out
