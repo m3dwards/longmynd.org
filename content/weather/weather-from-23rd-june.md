@@ -2,6 +2,10 @@
 title: Weather from 23rd June
 date: 2025-06-24T19:41:15.781Z
 ---
+Could be an awkward direction on Sunday, wind speed seems ok for ridge soaring but probably too far off the Long Mynd if it is properly WSW.  Maybe Camlo could work?
+
+\----------------------------------------
+
 Wednesday still hopeful but quite windy and definitely SW for Clatter.
 
 \-------------------
