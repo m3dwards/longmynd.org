@@ -2,7 +2,7 @@
 title: Weather from 30th June
 date: 2025-07-01T06:39:11.446Z
 ---
-Tuesday has forecasts all over the place so no idea what, if any site will be soarable. Wednesday probably NW but maybe blown out for PG.  Thursday loks a good Mynd day and very thermic but cooler than of late.
+Tuesday has forecasts all over the place so no idea what, if any site will be soarable. Wednesday probably NW but maybe blown out for PG.  Thursday looks a good Mynd day and very thermic but cooler than of late.
 
 \--------------------------
 
