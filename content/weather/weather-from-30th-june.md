@@ -1,7 +1,11 @@
 ---
 title: Weather from 30th June
-date: 2025-07-01T06:39:11.446Z
+date: 2025-07-02T22:24:58.570Z
 ---
+Thursday is due to be pretty well westerly but a bit windy at the Mynd.  I could be wrong as the forecasts don't all agree on wind speed but it might be pretty close to blown our for ridge soaring paragliders.  Ideal for HG.  Late on in the evening may be better for soaring PG's and much smoother as due to be very unstable conditions.  Another option for those over that way will be Camlo which at least does allow launching from lower down a shallower slope, but is not suitable for getting blown back due to the forest behind.
+
+\---
+
 Tuesday has forecasts all over the place so no idea what, if any site will be soarable. Wednesday probably NW but maybe blown out for PG.  Thursday looks a good Mynd day and very thermic but cooler than of late.
 
 \--------------------------
