@@ -1,7 +1,13 @@
 ---
 title: Weather from 7th July
-date: 2025-07-07T06:40:53.852Z
+date: 2025-07-08T07:01:48.957Z
 ---
+Tuesday, forecasts vary a little regarding direction, some say ideal for Long Mynd, others our NW sites.  Wind speed also to some extent might be on the strong side middle of the day, or maybe just right.  Large areas of cloud with spreadout expected in sporadic places, so that will impact wind direction and speed locally.
+
+Wednesday  probably lighter winds maybe not even risge soarable but more likely on at the Mynd.  Thursday no wind.
+
+\------------------------
+
 Quite a promising week for some soaring though thermic and turbulent all week, so late afternoon and evening will be best for low airtimers or those just wanting to ridge soar.
 
 Quite windy Monday, the only decent safe option for PG's will be Long Mountain, and even there might be too much.  
