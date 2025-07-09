@@ -41,7 +41,10 @@ locations:
       **LMSC Webcam: pointing south.**
 
 
-      Camera replaced 26th March 2025, now set to 20 minutes intervals and als video turned on. (See here for previous images*: <https://www.mysolarcam.com/LongMyndSouth/>)*
+      Temporarily removed for maintenance.
+
+
+      Camera replaced 26th March 2025, now set to 20 minutes intervals and also video turned on. (See here for previous images*: <https://www.mysolarcam.com/LongMyndSouth/>)*
 
 
       ![](https://www.mysolarcam.com/LongMyndSouth/last_big.jpg "Looking South")
