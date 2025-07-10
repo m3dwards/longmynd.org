@@ -1,7 +1,11 @@
 ---
 title: Weather from 7th July
-date: 2025-07-08T07:01:48.957Z
+date: 2025-07-10T07:26:06.277Z
 ---
+Light winds for the next few days so little chance of ridge soaring, however the sea breeze could possibly get as far as Llandinam so could come on west there - the Clatter weather station will show it.  The Long Mynd in the late afternoon sometimes works after the whole hill area gets hot enough to create a local wind.
+
+\----------------------
+
 Tuesday, forecasts vary a little regarding direction, some say ideal for Long Mynd, others our NW sites.  Wind speed also to some extent might be on the strong side middle of the day, or maybe just right.  Large areas of cloud with spreadout expected in sporadic places, so that will impact wind direction and speed locally.
 
 Wednesday  probably lighter winds maybe not even risge soarable but more likely on at the Mynd.  Thursday no wind.
