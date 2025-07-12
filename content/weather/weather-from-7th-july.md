@@ -1,7 +1,13 @@
 ---
 title: Weather from 7th July
-date: 2025-07-10T09:26:29.659Z
+date: 2025-07-12T09:37:14.192Z
 ---
+Saturday and Sunday both have good conditions in the late afternoon and right into the evening for soaring Corndon.  Earlier in the day is likely to be inverted at a low-ish level causing turbulence, a venturi effect on the hill increasing the wind speed but reducing the lift, so later is almost certainly much better.
+
+\--------------------------------------
+
+
+
 Update thursday - some forecasts have it on the Mynd later this afternoon/evening.
 
 Light winds for the next few days so little chance of ridge soaring, however the sea breeze could possibly get as far as Llandinam so could come on west there - the Clatter weather station will show it.  The Long Mynd in the late afternoon sometimes works after the whole hill area gets hot enough to create a local wind.
