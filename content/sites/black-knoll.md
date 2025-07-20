@@ -55,6 +55,7 @@ mainImage: /img/black-knoll-top.jpeg
 poiImage: /img/black-knoll-poi.jpeg
 date: 2022-08-21T14:19:24.804Z
 ---
+**Update - temporary (hopefully) - you must contact committee before flying due to external landowner issues**
 
 This site is used by our registered schools, for instruction. Please respect their needs.\
 Pilots where possible should try to avoid flying close to students or low over school takeoffs and provide a very wide berth at all times to students displaying a trailing red streamer. Be aware some pre-CP pilots under instruction may not even have a red streamer !!
