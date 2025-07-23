@@ -1,7 +1,15 @@
 ---
 title: Weather from 21st July
-date: 2025-07-22T06:59:59.123Z
+date: 2025-07-23T06:32:09.760Z
 ---
+Wednesday looks likely blown out, just maybe for a while it could be launchable on Long Mountain.
+
+Thursday has forecasts varying from virtually no wind to light but soarable anywhere between NW, N or NE.
+
+Friday looks more promising for the long mynd for HG and PG.
+
+\--------------------------------------------------
+
 Tuesday looks ok this afternoon on the Mynd but could be top end speed for PG's ok for HG though.  Quite thermic after the front has passed through.
 
 Wednesday appears to be slightly less wind but could be more NW direction so our other sites may be better..
