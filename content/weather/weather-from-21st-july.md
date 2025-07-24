@@ -1,7 +1,13 @@
 ---
 title: Weather from 21st July
-date: 2025-07-23T06:32:09.760Z
+date: 2025-07-24T07:35:41.747Z
 ---
+Thursday much better air in west and Wales but lower winds than further east.  Mostly around North direction but will vary a bit.  Too light for Long Mountain but our sites look ok.  Wrekin if not too windy, Corndon, Lawley, Clunbury, Lanfawr.  Too light wind for Red Hopton.
+
+Friday still possible for Mynd but might be off to the south for easy soaring.  Saturday could be a bit windy.
+
+\---------------------------
+
 Wednesday looks likely blown out, just maybe for a while it could be launchable on Long Mountain.
 
 Thursday has forecasts varying from virtually no wind to light but soarable anywhere between NW, N or NE.
