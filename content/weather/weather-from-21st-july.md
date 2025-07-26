@@ -2,6 +2,10 @@
 title: Weather from 21st July
 date: 2025-07-24T07:35:41.747Z
 ---
+As expected rather on the windy side Saturday and Sunday, ok for HG though on the long Mynd.  Too much west in it for Long Mountain.  just a thought, maybe Little London might be ok to soar as it is lower than Llandinam and in an area tat is forecast to be marginally less wind.
+
+\-----------------
+
 Thursday much better air in west and Wales but lower winds than further east.  Mostly around North direction but will vary a bit.  Too light for Long Mountain but our sites look ok.  as long as it's west of North, then Wrekin if not too windy, Lawley, Clunbury, Lanfawr.  Too light wind for Red Hopton. Corndon as long as North or east of north
 
 Friday still possible for Mynd but might be off to the south for easy soaring.  Saturday could be a bit windy.
