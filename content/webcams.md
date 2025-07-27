@@ -41,7 +41,7 @@ locations:
       **LMSC Webcam: pointing south.**
 
 
-      Temporarily removed for maintenance.
+      Temporarily removed for maintenance.  Data provider changed, new larger solar panel being tested and awaiting replacement waterproof enclosure (this image is provided looking through cellotape window in an icecream box!), so not the final version.
 
 
       Camera replaced 26th March 2025, now set to 20 minutes intervals and also video turned on. (See here for previous images*: <https://www.mysolarcam.com/LongMyndSouth/>)*
