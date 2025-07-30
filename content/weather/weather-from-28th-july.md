@@ -2,6 +2,12 @@
 title: weather from 28th July
 date: 2025-07-29T06:27:58.992Z
 ---
+Wednesday is varying between WNW and NW during the day but quite windy.  Mynd will be on at times, but maybe middle of the day Long Mountain for PG's to launch and soar.
+
+Thursday and Friday not looking any good at this moment.
+
+\---------------------------------
+
 Tuesday sees a sudden and dramatic change from light SW and damp to fairly brisk NW wind.  Probably on/off rainy too.
 
 Wednesday westerly and good for HG, but may get too strong for PG's to soar in the afternoon at the Mynd.
