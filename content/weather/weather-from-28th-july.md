@@ -2,6 +2,14 @@
 title: weather from 28th July
 date: 2025-07-29T06:27:58.992Z
 ---
+Thursday has weather clearing at present,  Long Mountain I think looks best as will clear soonest and likes plenty of wind.
+
+Friday blown out 
+
+Saturday looks good, probably long Mynd or maybe earlier in the day our NW sites.
+
+\--------------------
+
 Wednesday is varying between WNW and NW during the day but quite windy.  Mynd will be on at times, but maybe middle of the day Long Mountain for PG's to launch and soar.
 
 Thursday and Friday not looking any good at this moment.
