@@ -20,10 +20,10 @@ locations:
       **LMSC Webcam: pointing north to the LMSC launch site.**
 
 
+      Awaiting repair to run correctly during each day rather than just the very occasional image.
+
+
       Currently 20 minutes updated and also video turned on. (See here for previous images*: <https://www.mysolarcam.com/LongMyndNorth/>)*
-
-
-      Replacement camera lens, it's image quality is back to how it was when new with the addition of a UV filter which might prevent solar damage in the future.
 
 
       ![Looking North](https://www.mysolarcam.com/LongMyndNorth/last_big.jpg)
@@ -41,10 +41,7 @@ locations:
       **LMSC Webcam: pointing south.**
 
 
-      Temporarily removed for maintenance.  Data provider changed, new larger solar panel being tested and awaiting replacement waterproof enclosure (this image is provided looking through cellotape window in an icecream box!), so not the final version.
-
-
-      Camera replaced 26th March 2025, now set to 20 minutes intervals and also video turned on. (See here for previous images*: <https://www.mysolarcam.com/LongMyndSouth/>)*
+      Camera set to 20 minutes intervals and also video turned on. (See here for previous images*: <https://www.mysolarcam.com/LongMyndSouth/>)*
 
 
       ![](https://www.mysolarcam.com/LongMyndSouth/last_big.jpg "Looking South")
