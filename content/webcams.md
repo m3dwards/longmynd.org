@@ -1,6 +1,6 @@
 ---
 title: Webcams
-date: 2025-03-26T11:10:39.348Z
+date: 2025-08-18T11:37:47.705Z
 locations:
   - name: Long Mynd
     description: Here are the webcams for the Long Mynd
@@ -20,7 +20,7 @@ locations:
       **LMSC Webcam: pointing north to the LMSC launch site.**
 
 
-      Awaiting repair to run correctly during each day rather than just the very occasional image.
+      Shortly due a replacement larger Solar panel and camera mounting box, primarily to allow it to run over the winter when light levels are low.
 
 
       Currently 20 minutes updated and also video turned on. (See here for previous images*: <https://www.mysolarcam.com/LongMyndNorth/>)*
@@ -41,7 +41,7 @@ locations:
       **LMSC Webcam: pointing south.**
 
 
-      Camera set to 20 minutes intervals and also video turned on. (See here for previous images*: <https://www.mysolarcam.com/LongMyndSouth/>)*
+      Now with replacement larger solar panel and camera mounting box.  Camera set to 20 minutes intervals and also video turned on. (See here for previous images)*: <https://www.mysolarcam.com/LongMyndSouth/>)*
 
 
       ![](https://www.mysolarcam.com/LongMyndSouth/last_big.jpg "Looking South")
@@ -97,11 +97,9 @@ locations:
 
       Please see "https://www.wunderground.com/dashboard/pws/IBISHO60"
   - name: The Lawley
-    description: Now active and live for weather data, however the camera stopped
-      connecting to the main unit at the start of December 2024,  Holfuy
-      believed it to be likely as a permanent failure with no spare parts
-      available.  However after a big storm with 100mph winds it's started
-      working again, albeit intermittently.
+    description: Possibly may require replacement camera lens in the future, in a
+      similar manner to that already carried out at Clatter, but this one is
+      massively more difficult to access.
     weatherStations:
       - station: '<iframe style="width: 580px; height: 250px;"
           src="https://widget.holfuy.com/?station=295&amp;su=mph&amp;t=C&amp;lang=en&amp;mode=detailed"
@@ -124,7 +122,7 @@ locations:
       can be obtained by contacting any committee member).
 
 
-      Data collected constantly but averaged over 15 minutes, camera every twenty minutes. Wind strengths etc. will be pretty accurate in a SW wind, other directions pretty good as the station is higher up the hill than the launch and with an open aspect in all directions.  Being located on top of a hill in Mid Wales it is expected that the skystate and weather information will be of some use relating to our other sites in the area. Finally, it’s installed on site at Clatter, with the camera looking west across towards launch.
+      Data collected constantly but averaged over 15 minutes, camera every twenty minutes. Wind strengths etc. will be pretty accurate in a SW wind, other directions pretty good as the station is higher up the hill than the launch and with an open aspect in all directions.  Being located on top of a hill in Mid Wales it is expected that the skystate and weather information will be of some use relating to our other sites in the area. Finally, it’s installed on site at Clatter, with the camera looking west across towards launch.  Camera Lens replaced in 2025.
     weatherStations:
       - station: '<iframe style="width: 580px; height: 250px;"
           src="https://widget.holfuy.com/?station=608&amp;su=mph&amp;t=C&amp;lang=en&amp;mode=detailed"
