@@ -1,7 +1,11 @@
 ---
 title: Weather from 18th August
-date: 2025-08-21T06:30:15.035Z
+date: 2025-08-21T14:08:33.888Z
 ---
+Friday has light to moderate winds. Mostly NW in our area but could go west enough for the Long Mynd instead of our NW sites. On forecasts they vary so not sure just how ridge soarable any site will be.  Llandinam I think may be affected by sea breeze later on.
+
+\--------------
+
 Today (Thursday) still looking wrong direction, though it may come just about north enough for Corndon to be ridge soarable on N face later on, right wind speed though.
 
 \----------------------------------------------------
