@@ -1,7 +1,11 @@
 ---
 title: Weather from 18th August
-date: 2025-08-19T05:57:20.500Z
+date: 2025-08-21T06:30:15.035Z
 ---
+Today (Thursday) still looking wrong direction, though it may come just about north enough for Corndon to be ridge soarable on N face later on, right wind speed though.
+
+\----------------------------------------------------
+
 Tuesday now looks blown out, Wednesday even worse and Thursday wrong direction NE.  Friday looks good with light/moderate NW winds.   
 
 \-----------------------
