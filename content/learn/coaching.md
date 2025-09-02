@@ -26,8 +26,6 @@ pageItems:
         07967 789829
       * Mark Leavesley\
         [mark](mailto:mark@leavesleyaviation.com)  07774 856056
-      * Crawford Coulson\
-        07891 630798
       * Ben Henson\
         07890 909542
       * Chris de Pinna\
