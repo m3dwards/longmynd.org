@@ -17,6 +17,7 @@ Competitions: [David McLeod](mailto:comps@longmynd.org)
 
 **Appointed Posts**\
 Chief Coach: [Dave Roberts](mailto:coaching@longmynd.org)\
+Senior Coach: [James Allcock](mailto:secretary@longmynd.org)\
 Club President: Geoff Minshull
 
 **Sites officers**\
