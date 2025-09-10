@@ -52,7 +52,7 @@ flying: >-
 
   * No dogs allowed.
 mainImage: /img/black-knoll-top.jpeg
-poiImage: /img/black_knoll_map.jpeg
+poiImage: /img/black_knoll_map.png
 date: 2025-09-10T17:19:56.387Z
 ---
 **The farmer requires prior notification of pilots intending to park and fly at Black Knoll. This is being coordinated by Leavesley Aviation, who can be contacted on 07774856056.** This is not required for pilots flying from the Club End of the Long Mynd, who may be forced to transition via Black Knoll, top landing and taking off again.
