@@ -28,32 +28,32 @@ sensitivities:
       place on and below the hill during which there must be no flying on Black
       Knoll – do not take off from nor fly to it. Shooting dates will be pasted
       above and to the forum when known!
-accessAndParking: There are two approaches. The first is from the Long Mynd
-  itself – walk along the ridge to the south. This path skirts the Midland
-  Gliding Club to the south, and is a long – but flat – walk. Alternatively walk
-  up from the road at the bottom of Black Knoll, having parked in the small
-  quarry. **DO NOT DRIVE UP THE TRACK.** Park right at the back close up to the
-  hill, allowing the farmer to turn right from his track onto the road. Blocking
-  this right turn will cause him a huge amount of trouble, so car sharing is
-  essential.
+  - sensitivity: "The club has NO agreed landing field at the bottom of the hill. "
+accessAndParking: >-
+  ![]()
+
+
+  There are two approaches. The first is from the Long Mynd itself – walk along the ridge to the south. This path skirts the Midland Gliding Club to the south, and is a long – but flat – walk. Alternatively walk up from the road at the bottom of Black Knoll, having parked in the small quarry. **DO NOT DRIVE UP THE TRACK.** Park right at the back close up to the hill, allowing the farmer to turn right from his track onto the road. Blocking this right turn will cause him a huge amount of trouble, so car sharing is essential.
 flying: >-
   * This site is at the extreme south end of the Mynd, and should be considered
   as an adjunct to the main Long Mynd site. Wind direction is the same
   (WSW-WNW), however, it is 3-4mph stronger here and so is an option if it is
   too light on the Long Mynd normal take off.
 
-  * **Take-off: t**here are two options marked **A** and **B**. Both are straightforward but keep watch for traffic coming from the right. Also be aware of pilots under instruction by the two schools.
+  * **Notification:** If pilots want to use the Black Knoll, parking at the bottom and walking up to take off, the farmer requires prior notification. This is to be done via Leavesley Aviation, who can be contacted on 07774856056
 
-  * **Top landing:** the best option is at **B**. But again be aware of those under instruction.
+  * **Take-off: t**here are two options marked on the map with blue arrows. Both are straightforward but keep watch for traffic coming from the right. Also be aware of pilots under instruction by the two schools.
 
-  * **Bottom landing:** this has now changed, and is the lighter field shown in the image below. Though this looks like two fields, it is, in fact, one, with some trees in the centre.
+  * **Landing:** pilots should top land where posible, but again be aware of those under instruction. Landing is also possible on the step half way down the hill, marked on the map with a green triangle.
+
+  * **There is NO bottom landing field.**
 
   * No paramotors allowed.
 
   * No dogs allowed.
 mainImage: /img/black-knoll-top.jpeg
-poiImage: /img/black-knoll-poi.jpeg
-date: 2022-08-21T14:19:24.804Z
+poiImage: /img/black_knoll_map.jpeg
+date: 2025-09-10T17:19:56.387Z
 ---
 **Update - temporary (hopefully) - you must contact committee before flying due to external landowner issues**
 
