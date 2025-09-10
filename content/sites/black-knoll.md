@@ -30,10 +30,10 @@ sensitivities:
       above and to the forum when known!
   - sensitivity: "The club has NO agreed landing field at the bottom of the hill. "
 accessAndParking: >-
-  ![]()
+  ![](/img/black_knoll_parking.jpeg)
 
 
-  There are two approaches. The first is from the Long Mynd itself – walk along the ridge to the south. This path skirts the Midland Gliding Club to the south, and is a long – but flat – walk. Alternatively walk up from the road at the bottom of Black Knoll, having parked in the small quarry. **DO NOT DRIVE UP THE TRACK.** Park right at the back close up to the hill, allowing the farmer to turn right from his track onto the road. Blocking this right turn will cause him a huge amount of trouble, so car sharing is essential.
+  There is limited parking off the road by the track leading up to the take off, marked 'P' on the map. This can be busy if the school is active.  If it is full, there is also a small quarry a little further along the road. **DO NOT DRIVE UP THE TRACK.** Park right at the back close up to the hill, allowing the farmer to turn right from his track onto the road. Blocking this right turn will cause him a huge amount of trouble, so car sharing is essential.
 flying: >-
   * This site is at the extreme south end of the Mynd, and should be considered
   as an adjunct to the main Long Mynd site. Wind direction is the same
@@ -55,12 +55,12 @@ mainImage: /img/black-knoll-top.jpeg
 poiImage: /img/black_knoll_map.jpeg
 date: 2025-09-10T17:19:56.387Z
 ---
-**Update - temporary (hopefully) - you must contact committee before flying due to external landowner issues**
+**The farmer requires prior notification of pilots intending to park and fly at Black Knoll. This is being coordinated by Leavesley Aviation, who can be contacted on 07774856056.** This is not required for pilots flying from the Club End of the Long Mynd, who may be forced to transition via Black Knoll, top landing and taking off again. 
 
-This site is used by our registered schools, for instruction. Please respect their needs.\
+**This site is used by our registered schools, for instruction.** Please respect their needs.\
 Pilots where possible should try to avoid flying close to students or low over school takeoffs and provide a very wide berth at all times to students displaying a trailing red streamer. Be aware some pre-CP pilots under instruction may not even have a red streamer !!
 
-**June 2022 – Bottom landing field note** – this may now have cattle in it. While we have not been asked to stop using it, land there at your own risk and only if there is a clear safety margin between your landing area and any cattle. If cattle have been in it, paraglider wings are very likely to get covered in plenty of brown smelly stuff! Its probably best to top or slope land early and avoid the field unless you can determine its state!
+**The Club does no have any arrangements for bottom landing in front of the hill.**
 
 During the period from 1st September to 1st February, there is shooting on the hill and woodland below take-off. There are notices put up along the road below take-off warning of the dates and times. **UNDER NO CIRCUMSTANCES** should you fly during the shooting.
 
