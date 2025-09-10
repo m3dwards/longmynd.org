@@ -55,7 +55,7 @@ mainImage: /img/black-knoll-top.jpeg
 poiImage: /img/black_knoll_map.jpeg
 date: 2025-09-10T17:19:56.387Z
 ---
-**The farmer requires prior notification of pilots intending to park and fly at Black Knoll. This is being coordinated by Leavesley Aviation, who can be contacted on 07774856056.** This is not required for pilots flying from the Club End of the Long Mynd, who may be forced to transition via Black Knoll, top landing and taking off again. 
+**The farmer requires prior notification of pilots intending to park and fly at Black Knoll. This is being coordinated by Leavesley Aviation, who can be contacted on 07774856056.** This is not required for pilots flying from the Club End of the Long Mynd, who may be forced to transition via Black Knoll, top landing and taking off again.
 
 **This site is used by our registered schools, for instruction.** Please respect their needs.\
 Pilots where possible should try to avoid flying close to students or low over school takeoffs and provide a very wide berth at all times to students displaying a trailing red streamer. Be aware some pre-CP pilots under instruction may not even have a red streamer !!
