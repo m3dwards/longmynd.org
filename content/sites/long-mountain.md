@@ -3,7 +3,7 @@ name: Long Mountain
 published: false
 status: Open to all
 sensitive: false
-fee: "All pilots are required to pay fee of £5 per day. "
+fee: All pilots are required to pay fee of £5 per day.**[pay online](/pay-fee)**
 hgRating: CP
 pgRating: CP
 windDirection:
