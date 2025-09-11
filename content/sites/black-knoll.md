@@ -13,8 +13,8 @@ location:
   latlong: 52.496241, -2.8932007
 sensitivities:
   - sensitivity: >-
-      This is a LMSC members only site. This site is used by our registered
-      schools for
+      This is a LMSC members only site. This site is used by a registered school
+      for
 
       training.
   - sensitivity: >
