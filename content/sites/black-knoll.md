@@ -42,7 +42,7 @@ flying: >-
 
   * **Notification:** If pilots want to use the Black Knoll, parking at the bottom and walking up to take off, the farmer requires prior notification. This is to be done via Leavesley Aviation, who can be contacted on 07774856056
 
-  * **Take-off: t**here are two options marked on the map with blue arrows. Both are straightforward but keep watch for traffic coming from the right. Also be aware of pilots under instruction by the two schools.
+  * **Take-off: t**here are two options marked on the map with blue arrows. Both are straightforward but keep watch for traffic coming from the right. Also be aware of pilots under instruction by the school.
 
   * **Landing:** pilots should top land where posible, but again be aware of those under instruction. Landing is also possible on the step half way down the hill, marked on the map with a green triangle.
 
@@ -57,7 +57,7 @@ date: 2025-09-10T17:19:56.387Z
 ---
 **The farmer requires prior notification of pilots intending to park and fly at Black Knoll. This is being coordinated by Leavesley Aviation, who can be contacted on 07774856056.** This is not required for pilots flying from the Club End of the Long Mynd, who may be forced to transition via Black Knoll, top landing and taking off again.
 
-**This site is used by our registered schools, for instruction.** Please respect their needs.\
+**This site is used by one of our registered schools, for instruction.** Please respect their needs.\
 Pilots where possible should try to avoid flying close to students or low over school takeoffs and provide a very wide berth at all times to students displaying a trailing red streamer. Be aware some pre-CP pilots under instruction may not even have a red streamer !!
 
 **The Club does no have any arrangements for bottom landing in front of the hill.**
