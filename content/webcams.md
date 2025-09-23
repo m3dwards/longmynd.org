@@ -20,7 +20,7 @@ locations:
       **LMSC Webcam: pointing north to the LMSC launch site.**
 
 
-      Shortly due a replacement larger Solar panel and camera mounting box, primarily to allow it to run over the winter when light levels are low.
+      Due to a mistake by Lebara - they had turned off the North camera.  It has been resolved but not yet replaced as due a replacement larger Solar panel and camera mounting box, primarily to allow it to run over the winter when light levels are low.  **PLEASE JUST LOOK AT THE SOUTH CAMERA BELOW WHICH IS CURRENTLY POINTING NORTH AT OUR LAUNCH**
 
 
       Currently 20 minutes updated and also video turned on. (See here for previous images*: <https://www.mysolarcam.com/LongMyndNorth/>)*
