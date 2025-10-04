@@ -111,6 +111,8 @@ T/O altitude is **1420ft/432m AMSL**, hill is 700ft/213m above valley floor.
 
 After take off, clear the front of the launch area. 
 
+![](/img/long-mynd-annotated-jpg.jpg)
+
 ### **FLYING THE RIDGE**
 
 The ridge is 4 miles/6.5km long so there is plenty of room after clearing the launch area. Please note the following:
@@ -125,7 +127,7 @@ Be aware of glider landing circuits – see diagram.
 
 ![](/img/mgc-circuits-jpg.jpg)
 
-**Black Knoll** (southernmost part of the Mynd)
+**Black Knoll** (southernmost part of the Mynd) See separate site guide.
 
 Used for PG training. 
 
@@ -168,6 +170,8 @@ Always close the gate behind you** – if it’s open, close it anyway.
 **HG1** can be use for PG landings if there are no HGs landing there
 
 **HG1** (pan handle) and **HG2** bottom landing fields can be used all year, take care with livestock. 
+
+![](/img/mynd-field-map-annotated.jpg)
 
 ### **CONTROLLED AIRSPACE**
 
