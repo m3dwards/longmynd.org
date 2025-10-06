@@ -2,7 +2,7 @@
 name: Long Mountain
 published: false
 status: Open to all
-sensitive: false
+sensitive: true
 fee: All pilots are required to pay fee of £5 per day.**[pay online](/pay-fee)**
 hgRating: CP
 pgRating: CP
@@ -13,6 +13,12 @@ location:
   latlong: 52.671158, -3.058169
   physicalMaps: 1:50000 126 or Explorer 240 or Explorer 216
   what3words: ///refrained.lushly.cubic
+sensitivities:
+  - sensitivity: >-
+      This is a privately owned site requiring all pilots to pay the £5 day fee,
+      including LMSC members.
+
+      See payment link below.
 accessAndParking: >-
   ## Parking
 
@@ -97,3 +103,5 @@ This is a 'Private' flying site and can only be flown under the following con
 * All pilots must pay a day fee of £5 per person. This includes all LMSC members.
 
 **[pay online](/pay-fee)**
+
+**NOTE the above link needs to be replace with one for this site, before going live**
