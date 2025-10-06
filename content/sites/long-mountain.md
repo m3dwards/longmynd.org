@@ -1,6 +1,6 @@
 ---
 name: Long Mountain
-published: false
+published: true
 status: Open to all
 sensitive: false
 fee: All pilots are required to pay fee of £5 per day.**[pay online](/pay-fee)**
