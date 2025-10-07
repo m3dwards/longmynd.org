@@ -28,13 +28,13 @@ launchesAndLanding: >-
   ## The Site
 
 
-  Long Mountain is a gentle NNW facing shallow slope site and needs a good 15mph plus wind to stay up. The site works well in stronger winds so a good strong lamch technique as recommended. As a general rule, if Llangollen is blown out then this site usually works, a forecast of 10mph+ is what you are looking for.
+  Long Mountain is a gentle NNW facing shallow slope site and needs a good 15mph plus wind to stay up. The site works well in stronger winds so a good strong launch technique as recommended. As a general rule, if Llangollen is blown out then this site usually works, a forecast of 10mph+ is what you are looking for.
 
 
-  The most important factor about this site is there is NO official 4.ittom leading options. You must either slope or top land at all times. There are no formal agreements with any land owners to use the fields below take off.
+  The most important factor about this site is there is NO official botttom leading options. You must either slope or top land at all times. There are no formal agreements with any land owners to use the fields below take off.
 
 
-  Should you find yourself in an emergency situation and need to bottom laid then try to choose a field without crops or animals in please? If approached by the land owier olease be as courteous as possible, make your excuses and leave. There are no obvious gates or paths at the bottom of the site so getting back up top is going to be very difficult in deed.
+  Should you find yourself in an emergency situation and need to bottom laid then try to choose a field without crops or animals in please? If approached by the land owner please be as courteous as possible, make your excuses and leave. There are no obvious gates or paths at the bottom of the site so getting back up top is going to be very difficult indeed.
 
 
   **If you are unsure whether you can stay up or slope land, please do not launch.**
@@ -52,13 +52,13 @@ launchesAndLanding: >-
   ## Top and Slope Landing.
 
 
-  Long Mountain has a large slope and top landing area. Landing is reasonably easy even for low airtime pilots. This is an ideal site to practice your slope landings. When it gets stro g you can drift back a long way and land quite safely.
+  Long Mountain has a large slope and top landing area. Landing is reasonably easy even for low airtime pilots. This is an ideal site to practice your slope landings. When it gets strong you can drift back a long way and land quite safely.
 
 
   A word of warning, there does seem to be a sink hole close to the gates where the cars are parked. If landing here please be careful.
 
 
-  There are two natural gulleys just below take off which help channel the wind and thermals up the face. Depending where you launch from it is not easy to see these gulley's before you are airborne. This is where the 'house' lift can usually be found. It is also a good idea to use the tops of the gulleys as a reference point to decide to slope land if the lift, has dropped. If you fly lower than the tops of the gialley there is a very good chance you will run out of landing options. The walk back up from this point is not an easy one so be warned. It is best to get on the slope before this happens.
+  There are two natural gulleys, just below take off which help channel the wind and thermals up the face. Depending where you launch from it is not easy to see these gulley's before you are airborne. This is where the 'house' lift can usually be found. It is also a good idea to use the tops of the gulley's as a reference point to decide to slope land if the lift, has dropped. If you fly lower than the tops of the gulley there is a very good chance you will run out of landing options. The walk back up from this point is not an easy one so be warned. It is best to get on the slope before this happens.
 
 
   ![](/img/screenshot-2025-10-06-at-20.54.29.jpeg)
@@ -66,7 +66,7 @@ flying: >-
   ## XC Potential
 
 
-  There is great XC potential from Long Mountain. 100K plus attainable. Corndon Hill and the Long Mynd are possibilities to aim for. Out in front are Moel Golfra and Rodney's Pillar. Another challenge is to gain enough height to fly to Rodney's and back. Height gains of as high as 4000' ato have been made. Bear in mind that just down the road is Welshpool Airfield where light aircraft and helicopters fly from. Please be very observant at all times. 
+  There is great XC potential from Long Mountain. 100K plus attainable. Corndon Hill and the Long Mynd are possibilities to aim for. Out in front are Moel Golfre and Rodney's Pillar. Another challenge is to gain enough height to fly to Rodney's and back. Height gains of as high as 4000' ato have been made. Bear in mind that just down the road is Welshpool Airfield where light aircraft and helicopters fly from. Please be very observant at all times. 
 
 
   ## Site Fees Payable
@@ -78,7 +78,7 @@ flying: >-
   **The fee is payable by everyone, including LMSC members.**
 
 
-  Our permission to continue to use this site rests on the land owner recieving payments from every pilot that flys.
+  Our permission to continue to use this site rests on the land owner receiving payments from every pilot that flies.
 localAttractions: |-
   #### Long Mountain Car Park coordinates
 
