@@ -94,10 +94,12 @@ localAttractions: |-
 
   SJ285086
 siteRecords:
-  - record: >-
-      In a north wind, 124Km to Caerleon 26th April 2017 dave thomas
+  - record: |
+      In a North West wind,
+      12th May 2012 243Km to Tolpuddle Kai Coleman
+      123km Goal to Minchinhampton  31st May 2013 Martin Knight 
 
-      In a North West wind, 123km Goal to Minchinhampton  31st May 2013 Martin Knight
+      In a north wind, 124Km to Caerleon 26th April 2017 dave thomas
 mainImage: /img/long_mountain_sat.jpeg
 poiImage: /img/long_mountain_map.jpeg
 date: 2025-09-11T15:46:49.678Z
