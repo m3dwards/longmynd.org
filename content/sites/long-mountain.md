@@ -93,6 +93,11 @@ localAttractions: |-
   #### OS Grid Reference
 
   SJ285086
+siteRecords:
+  - record: >-
+      In a north wind, 124Km to Caerleon 26th April 2017 dave thomas
+
+      In a North West wind, 123km Goal to Minchinhampton  31st May 2013 Martin Knight
 mainImage: /img/long_mountain_sat.jpeg
 poiImage: /img/long_mountain_map.jpeg
 date: 2025-09-11T15:46:49.678Z
