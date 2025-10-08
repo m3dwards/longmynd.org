@@ -1,7 +1,11 @@
 ---
 title: Weather from 6th October
-date: 2025-10-07T06:06:41.026Z
+date: 2025-10-08T07:20:03.724Z
 ---
+Wednesday still has RASP at odds with other forecasts, but at this moment I think more likely to be right seeing as it's clagged in and north.  The other forecasts have it as a nice NW to WNW wind with cloudbase 2500ft or so.
+
+\----------------
+
 Tuesday still windy - maybe ok for HG - wind WSW.
 
 Wednesday, RASP is still at complete odds with other forecasts - the rest say on and PG flyable at the Mynd, Rasp says virtually nothing and North.
