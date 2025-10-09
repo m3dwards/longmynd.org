@@ -1,7 +1,11 @@
 ---
 title: Weather from 6th October
-date: 2025-10-08T07:20:03.724Z
+date: 2025-10-09T07:51:44.860Z
 ---
+Well, RASP was totally wrong for Wednesday with some nice afternoon flying visible on webcams and Puretrack at the Mynd.  Today is more of a Hang Gliding day at the Mynd with westerly moderate to fresh winds.  Probably ok for PG's too but not as nice clear air as yesterdays post-frontal.   Friday could also be on but much lighter winds from the west so may only be scratchy soarable - not sure yet.
+
+\---------------------
+
 Wednesday still has RASP at odds with other forecasts, but at this moment I think more likely to be right seeing as it's clagged in and north.  The other forecasts have it as a nice NW to WNW wind with cloudbase 2500ft or so.
 
 \----------------
