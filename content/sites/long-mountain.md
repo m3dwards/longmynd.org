@@ -62,6 +62,15 @@ launchesAndLanding: >-
 
 
   ![](/img/screenshot-2025-10-06-at-20.54.29.jpeg)
+
+
+  ## Video
+
+
+  Dave Thomas has produced a comprehensive video about this site. 
+
+
+  <https://youtu.be/x2Uz8D0CAxo?si=oZKza-75wRlWIqYy>
 flying: >-
   ## XC Potential
 
