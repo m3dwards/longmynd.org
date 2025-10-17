@@ -1,7 +1,13 @@
 ---
 title: Weather from 13th October
-date: 2025-10-15T06:30:15.446Z
+date: 2025-10-17T07:32:56.380Z
 ---
+Friday just possibly Wrekin SE may be launchable and scratchy soarable, I think too light for Corndon but at least cloud level is good.
+
+Saturday too windy then rain on Sunday.
+
+\------------------------------------------
+
 Wednesday through to Friday, winds gradually veering from NE to SE, light but there is a chance of it being scratchy soarable on Corndon and later in the week Wrekin.  At present, forecasts do suggest the hills will be clear, certainly by the afternoon.  Weekend windy then wet.
 
 \-----------------------
