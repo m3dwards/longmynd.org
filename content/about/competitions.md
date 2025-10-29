@@ -10,6 +10,21 @@ For any competition queries, please email [comps@longmynd.org](mailto:comps@lon
 
 The club has many members with experience of competitive flying at the highest level; if you are thinking about entering your first competition in the UK, or abroad, or have some experience of competition flying and want to improve, we can probably find a pilot to help you. So get in touch at [comps@longmynd.org](mailto:comps@longmynd.org) and we will point you in the right direction.
 
+### **LMSC Challenge Tasks**
+
+(Draft for review, not active yet).
+
+We have been looking to implement a set of challenge tasks based at Long Mynd and other sites. Little waypoint based tasks that LMSC members can have a go at just for fun, or to provide a bit of pilot development incentive for those that may be thinking of trying a competition in the future.
+
+There are four tasks to start with, including a walking one for people to try out their navigation instrumentation, or whilst waiting for the wind to drop.
+
+It is our intention that the Long Mynd based tasks are suitable for CP as they remain on the ridge or within sight of the launch and landing fields. But we will look to get this confirmed/approved by the club Chief Coach.
+
+If these tasks get some interest then we will look to add more. We may also introduce some club award for the highest score achieved each year.
+
+The Challenge Tasks are hosted on the [Xcmap.net](https://xcmap.net/index.php?c=Long%20Mynd%20Soaring%20Club) website.
+But see [this document](https://longmynd.org/img/lmsc-challenge-tasks.pdf) for full details.
+
 ### Externally organised competitions
 
 The Long Mynd also hosts externally organised competitions, such as the British Paragliding Cup, the Hang Gliding Open, etc. In order to maintain the sites, and avoid the danger of over-crowding the club now has a number of terms and conditions for competitions. These include, but are not limited to:
