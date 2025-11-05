@@ -1,5 +1,9 @@
 ---
 title: Weather from 3rd November
-date: 2025-11-02T17:28:28.565Z
+date: 2025-11-05T09:06:09.104Z
 ---
+Thursday could be flyable and soarable at the Wrekin SE side looking at current forecast, due for wind to reduce during he afternoon though.  Will need to check again in the morning.  Even if not soarable,  should be ok for launching at least as wehaven't had much chance recently.
+
+\-----------------------------------------------------
+
 Maybe the weekend looks flyable, nothing before
