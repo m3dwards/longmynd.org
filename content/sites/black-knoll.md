@@ -27,12 +27,7 @@ sensitivities:
   - sensitivity: Shooting – usually from October to end January shooting may take
       place on and below the hill during which there must be no flying on Black
       Knoll – do not take off from nor fly to it. Shooting dates will be pasted
-      here and to the Telegram chat when known!
-  - sensitivity: |-
-      Shoot Dates: 
-      November: Sat 15th, Fri 21st, Sat 29th
-      December: Sat 6th, Sat 20th, Mon 29th
-      January: Fri 2nd, Sat 10th, Sat 31st
+      below and to the Telegram chat when known!
   - sensitivity: "The club has NO agreed landing field at the bottom of the hill. "
 accessAndParking: >-
   ![](/img/black_knoll_parking.jpeg)
@@ -67,6 +62,11 @@ Pilots where possible should try to avoid flying close to students or low over s
 
 **The Club does no have any arrangements for bottom landing in front of the hill.**
 
-During the period from 1st September to 1st February, there is shooting on the hill and woodland below take-off. There are notices put up along the road below take-off warning of the dates and times. **UNDER NO CIRCUMSTANCES** should you fly during the shooting.
+**Shooting:** During the period from 1st September to 1st February, there is shooting on the hill and woodland below take-off. There are notices put up along the road below take-off warning of the dates and times. **UNDER NO CIRCUMSTANCES** should you fly during the shooting.
+
+**2025/2026 Shooting Dates:**\
+**November:   Sat 15th,  Fri 21st,    Sat 29th**\
+**December:   Sat 6th,    Sat 20th,   Mon 29th**\
+**January:       Fri 2nd,    Sat 10th,   Sat 31st**
 
 **GYMKHANAS** also take place in fields below the take–offs, so be aware and do not over fly these events.
