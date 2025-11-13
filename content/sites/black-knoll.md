@@ -27,7 +27,12 @@ sensitivities:
   - sensitivity: Shooting – usually from October to end January shooting may take
       place on and below the hill during which there must be no flying on Black
       Knoll – do not take off from nor fly to it. Shooting dates will be pasted
-      above and to the forum when known!
+      here and to the Telegram chat when known!
+  - sensitivity: |-
+      Shoot Dates: 
+      November: Sat 15th, Fri 21st, Sat 29th
+      December: Sat 6th, Sat 20th, Mon 29th
+      January: Fri 2nd, Sat 10th, Sat 31st
   - sensitivity: "The club has NO agreed landing field at the bottom of the hill. "
 accessAndParking: >-
   ![](/img/black_knoll_parking.jpeg)
