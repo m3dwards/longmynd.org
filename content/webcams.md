@@ -13,7 +13,7 @@ locations:
           width="300" height="150" frameborder="0" marginwidth="1"
           marginheight="1" scrolling="no"></iframe>'
       - station: '<iframe style="width: 100%; height: 600px;"
-          src="https://www.midlandgliding.club/piwebcam/hangar2/hangar2.html"
+          src="https://www.midlandgliding.club/piwebcam/westcam.htmll"
           width="350" height="600" frameborder="0" marginwidth="1"
           marginheight="1" scrolling="no"></iframe>'
     webcams: >-
