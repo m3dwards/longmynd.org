@@ -1,7 +1,11 @@
 ---
 title: Weather from 24th November
-date: 2025-11-27T08:24:31.930Z
+date: 2025-11-28T11:41:20.786Z
 ---
+Sunday forecasts are still varying massively, but all agree dry and not a howling gale.  will keep an eye on things as they settle to some consus of forecast opinion.
+
+\-------------------
+
 Forecasts vary massively for Sunday, but worth watching out for, possibly the best chance until middle of next week.
 
 \-----------------------------
