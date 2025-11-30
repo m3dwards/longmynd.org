@@ -2,6 +2,10 @@
 title: Weather from 24th November
 date: 2025-11-28T11:41:20.786Z
 ---
+Windy at present, but it is due to drop gradually during the day and back to the SW.  My guess is HG flyable  at the Mynd until late on, possibly being suitable for PG's in the afternoon.  Late afternoon our SW sites likely to be a better bet to ridge soar.
+
+\--------------------------
+
 Sunday forecasts are still varying massively, but all agree dry and not a howling gale.  will keep an eye on things as they settle to some consus of forecast opinion.
 
 \-------------------
