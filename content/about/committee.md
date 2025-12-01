@@ -13,7 +13,7 @@ Safety: [Dave Thomas](mailto:safety@longmynd.org)\
 Membership: [Luke Evans](mailto:membership@longmynd.org)\
 Social: [David Bibby](mailto:social@longmynd.org)\
 Sites Coordinator: [Richard McCrohan](mailto:sites@longmynd.org)\
-Competitions: [David McLeod](mailto:comps@longmynd.org)
+Competitions: [](mailto:comps@longmynd.org)***Vacant***
 
 **Appointed Posts**\
 Chief Coach: [Dave Roberts](mailto:coaching@longmynd.org)\
@@ -32,4 +32,4 @@ Long Mynd: [Tim Dunn](mailto:sites@longmynd.org)\
 Wrekin: [Tony Flint](mailto:wrekin@longmynd.org)
 
 **Other positions**\
-Our clubs Advance British Clubs Challenge (BCC) Coordinator:  [David McLeod](mailto:comps@longmynd.org)[](mailto:comps@longmynd.org)
+Our clubs Advance British Clubs Challenge (BCC) Coordinator:  [](mailto:comps@longmynd.org)***Vacant***[](mailto:comps@longmynd.org)
