@@ -20,7 +20,10 @@ locations:
       **LMSC Webcam: pointing north to the LMSC launch site.**
 
 
-      Currently 20 minutes updated and also video turned on. (See here for previous images*: <https://www.mysolarcam.com/LongMyndNorth/>)*
+      **Currently Broken** 
+
+
+      20 minutes updated and also video turned on. (See here for previous images*: <https://www.mysolarcam.com/LongMyndNorth/>)*
 
 
       ![Looking North](https://www.mysolarcam.com/LongMyndNorth/last_big.jpg)
@@ -38,7 +41,7 @@ locations:
       **LMSC Webcam: pointing south.**
 
 
-      Now with replacement larger solar panel and camera mounting box.  Camera set to 20 minutes intervals and also video turned on. (See here for previous images)*: <https://www.mysolarcam.com/LongMyndSouth/>)*
+      Now with replacement larger solar panel and camera mounting box.  Camera set to 120 minutes intervals and also video turned off. (See here for previous images)*: <https://www.mysolarcam.com/LongMyndSouth/>)*
 
 
       ![](https://www.mysolarcam.com/LongMyndSouth/last_big.jpg "Looking South")
