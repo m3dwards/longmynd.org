@@ -1,0 +1,11 @@
+---
+title: Weather from 29th December
+date: 2025-12-29T11:59:47.919Z
+---
+So difficult this time of year as the height of any cloud or inversion can become so low just be the slightest change   in temperature.
+
+Monday somewhere between NE and ENE, so Corndon might be on - fairly breezy and the hill is clear of cloud at present.  Tuesday more likely lighter winds but clearer air and hiugher inversion.
+
+Wednesday could be a Mynd day but the inversion level possibly below the hill so could be turbulent near the hill and maybe low cloud, not really sure though.
+
+New years day, not sure yet but maybe NW and windy enough for Long Mountain.
