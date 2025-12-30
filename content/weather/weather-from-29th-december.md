@@ -1,7 +1,11 @@
 ---
 title: Weather from 29th December
-date: 2025-12-29T11:59:47.919Z
+date: 2025-12-30T09:03:29.422Z
 ---
+Today- Tuesday does look on for Corndon as the wind is stronger than indicated yesterday, but direction less than perfect - but should I think be soarable.
+
+\-----------------------------------
+
 So difficult this time of year as the height of any cloud or inversion can become so low just be the slightest change   in temperature.
 
 Monday somewhere between NE and ENE, so Corndon might be on - fairly breezy and the hill is clear of cloud at present.  Tuesday more likely lighter winds but clearer air and hiugher inversion.
