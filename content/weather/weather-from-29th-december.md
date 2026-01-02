@@ -2,6 +2,10 @@
 title: Weather from 29th December
 date: 2025-12-30T09:03:29.422Z
 ---
+Sunday looks promising for the Mynd but might be top end for PG's and for HG's could be difficult getting up the top by car.
+
+\-----------------------
+
 Today- Tuesday does look on for Corndon as the wind is stronger than indicated yesterday, but direction less than perfect - but should I think be soarable.
 
 \-----------------------------------
