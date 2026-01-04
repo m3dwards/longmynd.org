@@ -2,6 +2,10 @@
 title: Weather from 29th December
 date: 2025-12-30T09:03:29.422Z
 ---
+Today now forecast to be a lot lighter on Mynd.
+
+\-------------
+
 Sunday looks promising for the Mynd but might be top end for PG's and for HG's could be difficult getting up the top by car.
 
 \-----------------------
