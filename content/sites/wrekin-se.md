@@ -35,16 +35,19 @@ sensitivities:
 
   - sensitivity: Fields below may have livestock – please land so as to avoid where
       possible!
-accessAndParking: M54 junction 7, turn South. At 0.8 miles, close to a ‘T’
-  junction, the access track climbs off to the right. Parking is in the Wrekin
-  Forest Glen or Ercall car parks or the (now much reduced) roadside parking.
-  The Forest Glen car park will soon require payment by card or online (due May
-  2022). Traffic wardens regularly ticket those parking over the double yellow
-  lines. It is ok to take a 4×4 vehicle up to the entrance to the TV mast,  drop
-  your kit off, and return the vehicle  to the Halfway House and park the said
-  vehicle  on the left hand side of the gate (looking up the Wrekin) – do not
-  leave a vehicle anywhere on top of the hill, the Halfway House is the ONLY
-  place where we have permission to leave a single vehicle on the hill.
+accessAndParking: >-
+  M54 junction 7, turn South. At 0.8 miles, close to a ‘T’ junction, the access
+  track climbs off to the right. Parking is in the Wrekin Forest Glen, Ercall,
+  new car park (see photo) or the (now much reduced) roadside parking. . Traffic
+  wardens regularly ticket those parking over the double yellow lines. It is ok
+  to take a 4×4 vehicle up to the entrance to the TV mast,  drop your kit off,
+  and return the vehicle  to the Halfway House and park the said vehicle  on the
+  left hand side of the gate (looking up the Wrekin) – do not leave a vehicle
+  anywhere on top of the hill, the Halfway House is the ONLY place where we have
+  permission to leave a single vehicle on the hill.
+
+
+  ![](/img/wrekin-carpark.jpg)
 flying: >-
   * T/O altitude 1335 ft AMSL
 
@@ -61,8 +64,8 @@ flying: >-
   * No dogs allowed.
 siteRecords:
   - record: Richard Worley, 07.05.13, 104.3km to Rhyl. PG.
-mainImage: /img/wrekin.jpeg
-poiImage: /img/wrekin-se-poi.jpeg
+mainImage: ""
+poiImage: /img/wrekin-map.jpeg
 date: 2022-08-21T14:23:39.505Z
 ---
 #### SPECTATORS AND THE PUBLIC
