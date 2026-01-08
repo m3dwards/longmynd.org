@@ -79,7 +79,7 @@ flying: >-
 localAttractions: "![](/img/wrekin-front.jpeg)"
 siteRecords:
   - record: Neil Roberts, 30.08.2003, 168.1km to Vernham Dean. PG.
-mainImage: /img/wrekin.jpeg
+mainImage: ""
 poiImage: /img/wrekin-map.jpeg
 date: 2022-08-21T14:23:27.074Z
 ---
