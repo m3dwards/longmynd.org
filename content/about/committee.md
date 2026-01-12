@@ -4,7 +4,7 @@ date: 2024-08-08T16:43:00.132Z
 ---
 H﻿ere are our contacts
 
-Chairman: [Andrew McDonald](mailto:chairman@longmynd.org)\
+Chairman: [James Allcock](mailto:chairman@longmynd.org)\
 Secretary: [](mailto:secretary@longmynd.org)\
 Treasurer: [Jason Smith](mailto:treasurer@longmynd.org)\
 Communications:  [Chris Baird](mailto:comms@longmynd.org)\
