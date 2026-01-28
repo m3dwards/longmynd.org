@@ -20,19 +20,12 @@ locations:
       **LMSC Webcam: pointing north to the LMSC launch site.**
 
 
-      **Shortly there will be a new camera pointing at our launch.  Due to constraints by the hardware/software manufacturers it will only be available on iphone and android phones for paid up club members only**
+      **Shortly there will be a new live viewing camera pointing at our launch, with an option to view past video too.  Due to constraints by the hardware/software manufacturers it will only be available on iphone and android phones, for current club members.  Access details to be sent out by email once it has been tested successfully.**
 
 
       ![Looking North](/img/mynd_north_ubox.jpeg)
 
 
-      **Current day Video clips looking North**
-
-
-      Click on the time you want to watch – but beware if you are sneaking a view from work – it plays music whether you like it or not.
-
-
-      [LongMynd North gb – SolarCam – 4G Solar Camera Live (mysolarcam.com)](https://www.mysolarcam.com/LongMyndNorth/live.php)
 
 
       **LMSC Webcam: pointing south.**
