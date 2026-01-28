@@ -23,7 +23,7 @@ locations:
       **Shortly there will be a new camera pointing at our launch.  Due to constraints by the hardware/software manufacturers it will only be available on iphone and android phones for paid up club members only**
 
 
-      ![Looking North]()
+      ![Looking North](/img/mynd_north_ubox.jpeg)
 
 
       **Current day Video clips looking North**
@@ -38,7 +38,7 @@ locations:
       **LMSC Webcam: pointing south.**
 
 
-      Now with replacement larger solar panel and camera mounting box.  Camera set to 120 minutes intervals and also video turned off. (See here for previous images)*: [](https://www.mysolarcam.com/LongMyndSouth/)**<https://www.mysolarcam.com/LongMyndNorth/>)*
+      Now with replacement larger solar panel and camera mounting box.  Camera set to 120 minutes intervals and also video turned off. (See here for previous images)*:* [](https://www.mysolarcam.com/LongMyndSouth/)*\*\*<https://www.mysolarcam.com/LongMyndNorth/>)*
 
 
       ![](https://www.mysolarcam.com/LongMyndSouth/last_big.jpg "Looking South")
