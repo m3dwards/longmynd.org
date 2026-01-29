@@ -26,12 +26,10 @@ locations:
       ![Looking North](/img/mynd_north_ubox.jpeg)
 
 
-
-
       **LMSC Webcam: pointing south.**
 
 
-      Now with replacement larger solar panel and camera mounting box.  Camera set to 120 minutes intervals and also video turned off. (See here for previous images)*:* [](https://www.mysolarcam.com/LongMyndSouth/)*\*\*<https://www.mysolarcam.com/LongMyndNorth/>)*
+      Now with replacement larger solar panel and camera mounting box.  Camera set to 120 minutes intervals and also video turned off. (See here for previous images)*:* [](https://www.mysolarcam.com/LongMyndSouth/)*\*\*<https://www.mysolarcam.com/LongMyndNorth/>)  Yes I know it says LongMyndNorth but the camera is now pointing south !*
 
 
       ![](https://www.mysolarcam.com/LongMyndSouth/last_big.jpg "Looking South")
