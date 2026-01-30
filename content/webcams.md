@@ -32,7 +32,7 @@ locations:
       Now with replacement larger solar panel and camera mounting box.  Camera set to 120 minutes intervals and also video turned off. (See here for previous images)*:* [](https://www.mysolarcam.com/LongMyndSouth/)*\*\*<https://www.mysolarcam.com/LongMyndNorth/>)  Yes I know it says LongMyndNorth but the camera is now pointing south !*
 
 
-      ![](https://www.mysolarcam.com/LongMyndSouth/last_big.jpg "Looking South")
+      ![](https://www.mysolarcam.com/LongMyndNorth/ "Looking South")
 
 
       **Current day Video clips looking South**
@@ -41,7 +41,8 @@ locations:
       Click on the time you want to watch – but beware if you are sneaking a view from work – it plays music whether you like it or not.
 
 
-      [LongMynd South gb – SolarCam – 4G Solar Camera Live (mysolarcam.com)](https://www.mysolarcam.com/LongMyndSouth/live.php)\
+      https://www.mysolarcam.com/LongMyndNorth/live.php
+
 
       \
 
