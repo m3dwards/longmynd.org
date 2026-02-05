@@ -11,9 +11,11 @@ This is the App as shown from Android Playstore, it is similar on IOS:  There is
 
 <iframe style="width: 100%; height: 600px;" src="https://www.longmynd.org/img/imagecam1.png.jpg" width="350" height="600" frameborder="0" marginwidth="1" marginheight="1" scrolling="no"></iframe>
 
-<!--EndFragment-->\*\*In order to access the camera\*\*
+<!--EndFragment-->\\*\\*In order to access the camera\\*\\*
 
-Download the app.  Then select the location as UK and login (do not Register as a new user) enter the email address as cameras@longmynd.org   The password will have been sent to club members via their own email address.\
+Download the app.  Then select the location as UK and login (do not Register as a new user) enter the email address as cameras@longmynd.org   
+
+The password will have been sent to club members via their own email address.\
 Once logged in you will get this view:
 Important Note:
 When you are viewing the live stream or recorded images do not leave the app running in fore or background on your phone as it uses a huge amount of camera battery power, with data transferring directly to your phone and will also block out other club members from viewing.    Only have the app open just as long as you need to and no longer please.<!--StartFragment-->
