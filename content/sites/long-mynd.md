@@ -30,12 +30,7 @@ sensitivities:
   - sensitivity: BHPA membership is a requirement
 accessAndParking: ""
 launchesAndLanding: ""
-flying: |-
-  <!--StartFragment-->
-
-  [imagecam1.png.jpg (276×447)](https://longmynd.org/img/imagecam1.png.jpg)
-
-  <!--EndFragment-->
+flying: ""
 weatherStations:
   - station: <iframe frameborder="0" marginheight="1" marginwidth="1"
       scrolling="no"  src="https://widget.holfuy.com/?station=1175&su=mph&t=C&lang=en&mode=vertical"
@@ -44,8 +39,8 @@ weatherStations:
       src="https://widget.holfuy.com/?station=1175&amp;su=mph&amp;t=C&amp;lang=en&amp;mode=average&amp;avgrows=32"
       width="300" height="150" frameborder="0" marginwidth="1" marginheight="1"
       scrolling="no"></iframe>'
-webcams: "![Long Mynd looking
-  north](https://www.mysolarcam.com/LongMyndNorth/last_big.jpg)"
+webcams: "![Long Mynd looking north - see information in news section for club
+  members to access the live stream video camera]()"
 localAttractions: ""
 siteRecords:
   - record: |
