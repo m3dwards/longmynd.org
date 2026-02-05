@@ -7,7 +7,7 @@ date: 2026-02-05T12:17:00.315Z
 The app is best used through an Android phone, Iphones have limited capabilities on this App so the instructions say.
 This is the App as shown from Android Playstore, it is similar on IOS:  There is also an App called UboxPro, not tested in detail but is not better in any way that was visible.
 
-[public/img/imagecam1.png.jpg](public/img/imagecam1.png.jpg)
+`public/img/imagecam1.png.jpg`
 
 **In order to access the camera**
 Download the app.  Then select the location as UK and login (do not Register as a new user) enter the email address as cameras@longmynd.org   The password will have been sent to club members via their own email address.\
