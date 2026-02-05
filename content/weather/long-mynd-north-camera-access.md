@@ -9,7 +9,7 @@ This is the App as shown from Android Playstore, it is similar on IOS:  There is
 
 <!--StartFragment-->
 
-[imagecam1.png.jpg (276×447)](https://longmynd.org/img/imagecam1.png.jpg)
+<iframe style="width: 100%; height: 600px;" src="https://www.longmynd.org/img/imagecam1.png.jpg" width="350" height="600" frameborder="0" marginwidth="1" marginheight="1" scrolling="no"></iframe>
 
 <!--EndFragment-->
 
