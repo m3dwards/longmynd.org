@@ -30,7 +30,7 @@ sensitivities:
   - sensitivity: BHPA membership is a requirement
 accessAndParking: ""
 launchesAndLanding: ""
-flying: ""
+flying: public/img/imagecam1.png.jpg
 weatherStations:
   - station: <iframe frameborder="0" marginheight="1" marginwidth="1"
       scrolling="no"  src="https://widget.holfuy.com/?station=1175&su=mph&t=C&lang=en&mode=vertical"
