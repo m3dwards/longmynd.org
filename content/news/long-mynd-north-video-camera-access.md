@@ -30,4 +30,4 @@ Here is the method if you also already use the Ubox app for personal use at home
 The approach is to install the app on your phone, you must register it with the same email address you used to join LMSC.  Other emails will not be accepted – you may have to deregister an existing registration if you have used another email address that you are not registered with LMSC.
 
 Note that it will send you an email asking you to confirm – it may go in your junk email folder.  Choose your own password.  Once you have registered, send an email to cameras@longmynd.org asking to be connected.\
-Club Admin will check if that email address belongs to a current club member, if so you will be joined to the camera as ‘Friend’, this will then bring up a request next time you log in to the Ubox app, to accept the camera.
+Club Admin will check if that email address belongs to a current club member (patience may be required), if so you will be joined to the camera as ‘Friend’, this will then bring up a request next time you log in to the Ubox app, to accept the camera.
