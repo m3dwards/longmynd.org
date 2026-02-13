@@ -21,8 +21,8 @@ locations:
       video, pointing at our club owned launch field, with an option to view
       past video too from multiple days.  Due to constraints by the
       hardware/software manufacturers it will only be available on iphone and
-      android phones, for current club members.  Access details to be sent out
-      by email once it has been tested successfully.**
+      android phones, for current club members.  Access details sent out by
+      email from webcollect to club members.**
 
 
       ![Looking North](/img/mynd_north_ubox.jpeg)
