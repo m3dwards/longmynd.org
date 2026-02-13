@@ -1,6 +1,6 @@
 ---
 title: Webcams
-date: 2025-10-11T10:02:06.909Z
+date: 2026-02-13T12:17:31.041Z
 locations:
   - name: Long Mynd
     description: Here are the webcams for the Long Mynd
@@ -17,16 +17,18 @@ locations:
           width="350" height="600" frameborder="0" marginwidth="1"
           marginheight="1" scrolling="no"></iframe>'
     webcams: >-
-      **LMSC Webcam: pointing north to the LMSC launch site.**
-
-
-      **Shortly there will be a new live viewing camera pointing at our launch, with an option to view past video too.  Due to constraints by the hardware/software manufacturers it will only be available on iphone and android phones, for current club members.  Access details to be sent out by email once it has been tested successfully.**
+      **LMSC Webcam: pointing north to the LMSC launch site.  This a live stream
+      video, pointing at our club owned launch field, with an option to view
+      past video too from multiple days.  Due to constraints by the
+      hardware/software manufacturers it will only be available on iphone and
+      android phones, for current club members.  Access details to be sent out
+      by email once it has been tested successfully.**
 
 
       ![Looking North](/img/mynd_north_ubox.jpeg)
 
 
-      **LMSC Webcam: pointing south.**
+      **LMSC Webcam: pointing south - currently dead as solar panel not connecting.**
 
 
       Now with replacement larger solar panel and camera mounting box.  Camera set to 120 minutes intervals and also video turned off. (See here for previous images)*:* [](https://www.mysolarcam.com/LongMyndSouth/)*\*\*<https://www.mysolarcam.com/LongMyndNorth/>)  Yes I know it says LongMyndNorth but the camera is now pointing south !*
