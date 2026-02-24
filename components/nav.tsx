@@ -108,7 +108,7 @@ export default function Nav({ data }: { data: { sites: []; safety: []; learn: []
         <li className={styles.logo}>
           <a href="/">
             <span>LMSC</span>
-            <Image src={Icon} priority layout="fixed" height="30px" width="30px" />
+            <Image src={Icon} alt="LMSC logo" priority width={30} height={30} />
           </a>
         </li>
 

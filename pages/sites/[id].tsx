@@ -196,7 +196,13 @@ export default function Site({
             <div className={styles.picture}>
               <div>
                 <a href={siteData.mainImage}>
-                  <Image src={siteData.mainImage} priority layout="fill" objectFit="cover" />
+                  <Image
+                    src={siteData.mainImage}
+                    alt={`${siteData.name} site photo`}
+                    priority
+                    fill
+                    style={{ objectFit: "cover" }}
+                  />
                 </a>
               </div>
             </div>
@@ -271,7 +277,13 @@ export default function Site({
             <div className={styles.poiContainer}>
               <div className={styles.poiImage}>
                 <a href={siteData.poiImage}>
-                  <Image src={siteData.poiImage} priority layout="fill" objectFit="cover" />
+                  <Image
+                    src={siteData.poiImage}
+                    alt={`${siteData.name} points of interest map`}
+                    priority
+                    fill
+                    style={{ objectFit: "cover" }}
+                  />
                 </a>
               </div>
               <div className={styles.poiKey}>

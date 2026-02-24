@@ -62,11 +62,11 @@ export default function Home({ baseProps, newsPages, weatherPages }) {
             </div>
           </div>
           <div className={styles.coverBackground}>
-            <Image priority src={CoverImage} layout="fill" objectFit="cover" width="100%" height="100%" />
+            <Image priority src={CoverImage} alt="" fill style={{ objectFit: "cover" }} />
           </div>
           <div className={styles.coverLogo}>
             <div>
-              <Image priority src={CoverLogo} layout="fill" width="100%" height="100%" />
+              <Image priority src={CoverLogo} alt="Long Mynd Soaring Club logo" fill />
             </div>
           </div>
         </div>
@@ -82,25 +82,25 @@ export default function Home({ baseProps, newsPages, weatherPages }) {
           <section className={styles.homeSections}>
             <div className={styles.homeQuickLinks}>
               <a href="/sites" className={styles.featureBox}>
-                <Image priority src={Hill2} layout="fill" width="100%" height="100%" />
+                <Image priority src={Hill2} alt="" fill />
                 <div className={styles.textContainer}>
                   <span>Site Guide</span>
                 </div>
               </a>
               <a href="/webcams" className={styles.featureBox}>
-                <Image priority src={Hill3} layout="fill" width="100%" height="100%" />
+                <Image priority src={Hill3} alt="" fill />
                 <div className={styles.textContainer}>
                   <span>Webcams</span>
                 </div>
               </a>
               <a href="/report-incident" className={styles.featureBox}>
-                <Image priority src={Incident} layout="fill" width="100%" height="100%" />
+                <Image priority src={Incident} alt="" fill />
                 <div className={styles.textContainer}>
                   <span>Report an incident</span>
                 </div>
               </a>
               <a href="/canp" className={styles.featureBox}>
-                <Image priority src={CANP} layout="fill" width="100%" height="100%" />
+                <Image priority src={CANP} alt="" fill />
                 <div className={styles.textContainer}>
                   <span>CANP</span>
                 </div>
