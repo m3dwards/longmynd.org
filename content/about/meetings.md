@@ -9,3 +9,7 @@ Please see links to meeting notes below
 [AGM April 2024](https://longmynd.org/img/lmsc_agm_meeting_18-04-2024.pdf)
 
 [AGM April 2025](https://longmynd.org/img/LMSC_AGM_Minutes_2nd-April-2025.pdf)
+
+
+
+Please find a copy of the prevailing 2019 Constitution, the proposed updated Constitution with addendum for 2026 and a document detailing the changes made.
