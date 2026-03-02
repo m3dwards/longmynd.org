@@ -1,5 +1,9 @@
 const nextConfig = {
   reactStrictMode: true,
+  output: "export",
+  images: {
+    unoptimized: true,
+  },
   webpack: (cfg) => {
     cfg.module.rules.push({
       test: /\.md$/,
