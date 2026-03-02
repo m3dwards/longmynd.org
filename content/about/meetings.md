@@ -15,4 +15,4 @@ Please find a copy of the prevailing 2019 Constitution, the proposed updated Con
 * [2019 Constitution](/img/lmsc-constitution-of-april-2019.pdf)
 * [Proposed Constitution (Apr 2026, v1.3)](/img/lmsc-club-constitution-april-2026-v1.3.pdf)
 * [Changes vs 2019 Constitution](/img/comparison-of-new-constitution-with-2019-one.pdf)
-* [Committee Nomination Form](public/img/long-mynd-soaring-club-committee-nomination-form.docx)
+* [Committee Nomination Form](/img/long-mynd-soaring-club-committee-nomination-form.docx)
