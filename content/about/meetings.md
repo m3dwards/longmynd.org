@@ -14,8 +14,6 @@ Please see links to meeting notes below
 
 Please find a copy of the prevailing 2019 Constitution, the proposed updated Constitution with addendum for 2026 and a document detailing the changes made.
 
-[public/img/lmsc-constitution-of-april-2019.pdf](public/img/lmsc-constitution-of-april-2019.pdf)
-
-public/img/lmsc-club-constitution-april-2026-v1.3.pdf
-
-public/img/comparison-of-new-constitution-with-2019-one.pdf
+- [2019 Constitution](/img/lmsc-constitution-of-april-2019.pdf)
+- [Proposed Constitution (Apr 2026, v1.3)](/img/lmsc-club-constitution-april-2026-v1.3.pdf)
+- [Changes vs 2019 Constitution](/img/comparison-of-new-constitution-with-2019-one.pdf)
