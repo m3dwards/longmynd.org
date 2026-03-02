@@ -10,6 +10,8 @@ Please see links to meeting notes below
 
 [AGM April 2025](https://longmynd.org/img/LMSC_AGM_Minutes_2nd-April-2025.pdf)
 
+The 2026 AGM will be held at the Henry Tudor Inn, Wyle Cop, Shrewsbury on Thursday March 19th at 7.30pm
+
 Please find a copy of the prevailing 2019 Constitution, the proposed updated Constitution with addendum for 2026 and a document detailing the changes made.
 
 * [2019 Constitution](/img/lmsc-constitution-of-april-2019.pdf)
