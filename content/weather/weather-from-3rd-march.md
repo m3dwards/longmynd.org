@@ -2,6 +2,10 @@
 title: Weather from 3rd March
 date: 2026-03-02T07:54:26.641Z
 ---
+Still looking very good for Corndon today, cloudy but soarable.  Wednesday very SE in direction and Wrekin might be blown out for launching
+
+\----------------------------------------------------
+
 At last, some periods of no rain.  Don't get too excited it will be back again soon.
 
 Tuesday looks on for Corndon, NE Veering ESE during the day and clear of cloud with a reasonable cloudbase over 2500ft, launchable and soarable wind speeds.
