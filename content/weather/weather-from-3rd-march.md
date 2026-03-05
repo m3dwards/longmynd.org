@@ -2,6 +2,10 @@
 title: Weather from 3rd March
 date: 2026-03-02T07:54:26.641Z
 ---
+Huge amount of variations in forecasts for the rest of the week, probably completely naff, but maybe a chance on Friday afternoon though cloudbase is due to be very low, maybe on the hills,anywhere between NW and NE direction so can't say any suitable sites.
+
+\---------------------
+
 Still looking very good for Corndon today, cloudy but soarable.  Wednesday very SE in direction and Wrekin might be blown out for launching
 
 \----------------------------------------------------
