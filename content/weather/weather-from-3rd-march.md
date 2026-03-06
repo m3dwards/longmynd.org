@@ -2,6 +2,10 @@
 title: Weather from 3rd March
 date: 2026-03-02T07:54:26.641Z
 ---
+Saturday has SE to S winds, fairly light with base over 2000ft, so might be ok on the Wrekin in the early afternoon at least for a TTB.  Next week looks rainy again so worth a look maybe.
+
+\----------------------------------------------
+
 Huge amount of variations in forecasts for the rest of the week, probably completely naff, but maybe a chance on Friday afternoon though cloudbase is due to be very low, maybe on the hills,anywhere between NW and NE direction so can't say any suitable sites.
 
 \---------------------
