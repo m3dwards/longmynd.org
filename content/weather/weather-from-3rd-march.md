@@ -2,6 +2,10 @@
 title: Weather from 3rd March
 date: 2026-03-02T07:54:26.641Z
 ---
+More likely SE rather than S today and might be a bit drizzly at Corndon, so Wrekin better maybe.
+
+\------------------------------------
+
 Saturday has SE to S winds, fairly light with base over 2000ft, so might be ok on the Wrekin in the early afternoon at least for a TTB.  Next week looks rainy again so worth a look maybe.
 
 \----------------------------------------------
