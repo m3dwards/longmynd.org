@@ -15,6 +15,6 @@ The 2026 AGM will be held at the Henry Tudor Inn, Wyle Cop, Shrewsbury on Thursd
 Please find a copy of the prevailing 2019 Constitution, the proposed updated Constitution with addendum for 2026 and a document detailing the changes made.
 
 * [2019 Constitution](/img/lmsc-constitution-of-april-2019.pdf)
-* [Proposed Constitution (Apr 2026, v1.3)](/img/lmsc-club-constitution-april-2026-v1.3.pdf)
+* [Proposed Constitution (Apr 2026, v1.4)](/img/lmsc-club-constitution-april-2026-v1.4.pdf)
 * [Changes vs 2019 Constitution](/img/comparison-of-new-constitution-with-2019-one.pdf)
 * [Committee Nomination Form](/img/long-mynd-soaring-club-committee-nomination-form.docx)
