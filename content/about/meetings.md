@@ -20,4 +20,4 @@ Please find below a copy of the prevailing 2019 Constitution, the proposed updat
   \
   The meeting agenda and the nomination form to stand as a committee member are available via the following links
 * [Committee Nomination Form](/img/long-mynd-soaring-club-committee-nomination-form.docx)
-* [AGM March 2026 Agenda](public/img/lmsc-agm-2026-agenda.pdf)
+* [AGM March 2026 Agenda](https://longmynd.org/img/lmsc-agm-2026-agenda.pdf)
