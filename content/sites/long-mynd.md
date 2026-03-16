@@ -145,7 +145,7 @@ Pilots new to the site must seek advice before flying. Field availability may ch
 
 ### **Top Landing Approaches**
 
-There is plenty of room to top land at the site, but after landing **ALL** pilots must clear the landing area immediately(PG & HG)
+There is plenty of room to top land at the site, but after landing **ALL** pilots must clear the landing area immediately(PG & HG).  Take great care when approaching to top land and not go behind the road or our fence as the venturi affect is more marked there than when approaching directly over our field.   If experienced with flying multiple aircraft or wing types, take consideration of the change in performance and characteristics of the wing before you launch so that you are mentally prepared to make necessary adjustments to your approach.
 
 ![](/img/lm-approaches.jpeg)
 
