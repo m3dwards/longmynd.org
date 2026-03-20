@@ -2,6 +2,10 @@
 title: Weather from 16th March
 date: 2026-03-18T08:42:01.188Z
 ---
+Weekend - forecasts vary greatly - Saturday probably too light to soar anywhere, Sunday just might be soarable, maybe even the Long Mynd and thermic.
+
+\-----------------------------------
+
 Thursday much more on the East face of Corndon - better to go later when inversion lifts - might be nice evening soaring too.
 
 Friday looks too light for anything other than TTB.
