@@ -1,8 +1,8 @@
 ---
 name: Bulthy Farm Hill
-published: false
+published: true
 status: Open to all
-sensitive: false
+sensitive: true
 fee: "A daily payment has been agreed for £5 to cover parking, drop your payment
   in an envelope in the letter box at the lower farm house (on your left as you
   approach). "
