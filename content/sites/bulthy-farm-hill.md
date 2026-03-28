@@ -59,6 +59,7 @@ flying: >-
 localAttractions: Border Quad Biking and Paintballing operates at the same site.
   https://www.borderquadtrekking.com
 mainImage: /img/bulthy-hill-sat.jpeg
+poiImage: /img/bulthy-hill-map.jpeg
 date: 2026-03-28T18:27:07.025Z
 ---
 Bulthy is a small spineback ridge site located at Bulthy Farm also home of Border Quad Trekking. The top of the ridge is grassy with a few scattered rocky outcrops with a flatter area at the northern end.  While limited for soaring the landing fields are flat, rock free sheep pasture that are good thermal generators. Experience so far is that the tree line at the southern end triggers well and XC flight to the NW is possible. A bomb out involves a 10 minute walk back up the zig zag track. The top to bottom height is 330ft.
