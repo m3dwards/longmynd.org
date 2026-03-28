@@ -53,6 +53,9 @@ flying: >-
 
 
   In front of the main hill slope on the south side near the foot of the hill is a row of very large mature trees which will affect the air on launch and can cause lee side affects if scratching the hill behind them, avoid at all costs and fly out before they become an issue.
+
+
+  Bulthy Farm Hill is approx 8miles NE of Welshpool Airport ATZ
 localAttractions: Border Quad Biking and Paintballing operates at the same site.
   https://www.borderquadtrekking.com
 date: 2026-03-28T18:27:07.025Z
