@@ -3,9 +3,7 @@ name: Bulthy Farm
 published: true
 status: Open to all
 sensitive: true
-fee: "A daily payment has been agreed for £5 to cover parking, drop your payment
-  in an envelope in the letter box at the lower farm house (on your left as you
-  approach). "
+fee: ""
 hgRating: CP + 25 hours or under BHPA instruction or with a coach
 pgRating: CP + 25 hours or under BHPA instruction or with a coach
 windDirection:
@@ -31,6 +29,9 @@ sensitivities:
       At the west end of Middletown Hill is an active quarry, which could involve blasting, so avoid.
 
       If flying across to Middletown Hill note that the only available and suitable landing fields are the ones owned by the Quad Bike centre
+  - sensitivity: "A daily payment has been agreed for £5 per pilot, drop your
+      payment in an envelope in the letter box at the lower farm house (on your
+      left as you approach). "
 accessAndParking: >-
   Park where the parking sign is by the barn and pay as required.  There are a
   number of paths and tracks up, your choice, see site map. 
