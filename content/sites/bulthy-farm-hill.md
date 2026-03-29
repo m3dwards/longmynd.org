@@ -1,5 +1,5 @@
 ---
-name: Bulthy Farm Hill
+name: Bulthy Farm
 published: true
 status: Open to all
 sensitive: true
@@ -38,10 +38,10 @@ accessAndParking: >-
 
   The owner, Mike Holloway, operates an outdoor activities business and farm and has stipulated that he needs to be aware of who is on site. If you intend to visit please let him know in advance by joining a Whatsapp group using this link <https://chat.whatsapp.com/HOe7SAYbq3W8G6jjf9T6XL?mode=gi_t>
 launchesAndLanding: >-
-  There are 2 launching options. These are marked on the map.
+  There are 2 launching options. These are marked on the map. 
 
 
-  The northern end of the SSE face is as yet unflown.
+  Wind direction for the take offs are 135 to 170 degrees and 350 to 110 degrees
 
 
   Please note the power lines surrounding the landing fields. The NW side of the ridge can be flown but is as yet untried. There is a small LZ below.
