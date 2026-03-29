@@ -14,20 +14,18 @@ location:
   physicalMaps: 1:50000 137 or Explorer 216
   latlong: 52.5211, -2.8786
 sensitivities:
-  - sensitivity: "There is a new main PG bottom landing field, marked as PG2 on the
-      map. PG1, the landing field which is the field immediately below the PG
-      launch area, can only be used for ‘unplanned or emergency landings' only,
-      no deliberate top to bottoms! "
+  - sensitivity: "The main PG bottom landing field is marked as PG2 on the map. PG1,
+      the landing field which is the field immediately below the PG launch area,
+      can only be used for ‘unplanned or emergency landings' only, no deliberate
+      top to bottoms! "
   - sensitivity: Black Knoll at the south end of the ridge – Shooting may take place
       between  October and January, on and below the hill. Shooting dates will
       be posted to the Black Knoll site guide and to Telegram when known! Flying
       is not permitted on these dates.
-  - sensitivity: Do not overfly farms and horse paddocks/arena’s when low including
-      the one just below launch! Plan your landing to avoid this and have a Plan
-      B!
+  - sensitivity: "Do not overfly farms and horse paddocks/arena’s when low including
+      the one just below launch! "
   - sensitivity: When low on the ridge, take care when members of the public are
       present including horse riders and dog walkers.
-  - sensitivity: BHPA membership is a requirement
 accessAndParking: ""
 launchesAndLanding: ""
 flying: ""
@@ -85,7 +83,7 @@ The Club also offers temporary 10 day, 1 month and annual memberships pay online
 
 **No commercial flying** other than **agreed** CP+ training/tandem flights.
 
-**No acro** in front of the take off areas.
+**No acro or proximity flying** in front of the take off areas.
 
 **No Paramotors** on this site
 
@@ -94,6 +92,8 @@ The Club also offers temporary 10 day, 1 month and annual memberships pay online
 **No** overflying farms and horse paddocks/areas when low.
 
 Essential that **ALL** pilots keep clear of HGs on overshoot.
+
+Pilots **new** to the site should obatin a site briefing before flying.
 
 ### **RIGGING AREAS**
 
@@ -110,6 +110,10 @@ T/O altitude is **1420ft/432m AMSL**, hill is 700ft/213m above valley floor.
 **BEWARE rabbit holes** and uneven surfaces.
 
 After take off, clear the front of the launch area. 
+
+Be aware that the site can be busy with a combination of hang gliders, paragliders, mini wings and parakites using the site at the same time. Be vigilent and take extra care.
+
+Proximity flying and low soaring in front of the take offs is **NOT** permitted. See map.
 
 ![](/img/long-mynd-annotated-jpg.jpg)
 
@@ -141,11 +145,11 @@ Beware, some are **big**. Clear it by at least **1000ft/300m ATO** above it.
 
 ### **LANDING AREAS - Check the map.**
 
-Pilots new to the site must seek advice before flying. Field availability may change with the seasons.
+Field availability may change with the seasons.
 
 ### **Top Landing Approaches**
 
-There is plenty of room to top land at the site, but after landing **ALL** pilots must clear the landing area immediately(PG & HG).  Take great care when approaching to top land and not go behind the road or our fence as the venturi affect is more marked there than when approaching directly over our field.   If experienced with flying multiple aircraft or wing types, take consideration of the change in performance and characteristics of the wing before you launch so that you are mentally prepared to make necessary adjustments to your approach.
+There is plenty of room to top land at the site, but after landing **ALL** pilots must clear the landing area immediately(PG & HG).  Take great care when approaching to top land and not go behind the road or our fence as the venturi affect is more marked there than when approaching directly over our field.   
 
 ![](/img/lm-approaches.jpeg)
 
@@ -169,7 +173,7 @@ Always close the gate behind you** – if it’s open, close it anyway.
 
 **HG1** can be use for PG landings if there are no HGs landing there
 
-**HG1** (pan handle) and **HG2** bottom landing fields can be used all year, take care with livestock. 
+**HG1** and **HG2** bottom landing fields can be used all year, take care with livestock. 
 
 ![](/img/mynd-field-map-annotated.jpg)
 
