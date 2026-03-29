@@ -11,8 +11,8 @@ pgRating: CP + 25 hours or under BHPA instruction or with a coach
 windDirection:
   - from: SSE
     to: S
-  - from: N
-    to: N
+  - from: NNW
+    to: NNE
 location:
   physicalMaps: Explorer126  SJ310135
   what3words: ///scrapped.shadows.stormy
