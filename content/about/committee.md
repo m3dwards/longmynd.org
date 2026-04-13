@@ -35,4 +35,4 @@ Wrekin: [Tony Flint](mailto:wrekin@longmynd.org)
 **Other positions**\
 Our clubs' Advance British Clubs Challenge (BCC) Coordinator:  [](mailto:comps@longmynd.org)***Vacant***\
 \
-**This is the current [Club Constitution](https://longmynd.org/img/lmsc-club-constitution-april-2026-v1.3.pdf)**[](mailto:comps@longmynd.org)
+**This is the current [Club Constitution](https://longmynd.org/img/lmsc-club-constitution-april-2026-v1.4.pdf)**[](mailto:comps@longmynd.org)
