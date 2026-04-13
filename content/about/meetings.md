@@ -10,4 +10,4 @@ Please see links to meeting notes below
 
 [AGM April 2025](https://longmynd.org/img/LMSC_AGM_Minutes_2nd-April-2025.pdf)
 
-[AGM March 2026](public/img/lmsc-agm-2026-meeting-minutes.pdf)
+[AGM March 2026](https://longmynd.org/img/lmsc-agm-2026-meeting-minutes.pdf)
