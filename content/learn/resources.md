@@ -35,6 +35,9 @@ pageItems:
       ### GUIDANCE
 
 
+      [Long Mynd Top Landing guide](https://longmynd.org/img/long_mynd_top_landing_guide.pdf)
+
+
       [Who to call in an Emergency](/img/who-to-call-in-an-emergency.pdf)
 
 
