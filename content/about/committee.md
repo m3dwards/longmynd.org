@@ -12,7 +12,7 @@ Membership: [Luke Evans](mailto:membership@longmynd.org)\
 Social: [David Bibby](mailto:social@longmynd.org)\
 Sites Officer: [Richard McCrohan](mailto:sites@longmynd.org)\
 Competitions: [](mailto:comps@longmynd.org)***Vacant***\
-No Portfolio: [Tony Flint,](mailto:sites@longmynd.org) [Jon Mills](mailto:sites@longmynd.org) and [Pete Whittaker](mailto:sites@longmynd.org)
+Other elected members: [Tony Flint,](mailto:sites@longmynd.org) [Jon Mills](mailto:sites@longmynd.org) and [Pete Whittaker](mailto:sites@longmynd.org)
 
 **Appointed Posts**\
 Safety: [Dave Thomas](mailto:safety@longmynd.org)\
