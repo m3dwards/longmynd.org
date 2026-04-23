@@ -1,5 +1,5 @@
 ---
-title: A new site for the Long Mynd club - Bulthy Farm now fully available
+title: " Bulthy Farm site now fully available to fly"
 date: 2026-03-09T08:32:34.613Z
 ---
 Please see site guide - [Bulthy Farm - LMSC Website](https://longmynd.org/sites/bulthy-farm-hill)
