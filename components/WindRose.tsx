@@ -72,11 +72,13 @@ const WindRose = ({
     NW: 225,
     NNW: 247.5,
   };
+  const cardinalPointIndexes = new Map(cardinalPoints.map((point, index) => [point, index]));
 
   interface roseSite {
     name: string;
     directionFrom: string;
     directionTo: string;
+    coveredCardinalPoints: Array<number>;
     primaryColor: string;
     highlightColor: string;
     link: string;
@@ -90,6 +92,25 @@ const WindRose = ({
   let roseSites = Array<roseSite>();
   const highlightColor = "#555";
 
+  const getCardinalPointIndex = (point: string) => {
+    const index = cardinalPointIndexes.get(point);
+    if (index === undefined) {
+      throw new Error(`Unknown cardinal point "${point}"`);
+    }
+    return index;
+  };
+
+  const getCoveredCardinalPoints = (directionFrom: string, directionTo: string) => {
+    const coveredCardinalPoints = [getCardinalPointIndex(directionFrom)];
+    const directionToIndex = getCardinalPointIndex(directionTo);
+    while (coveredCardinalPoints[coveredCardinalPoints.length - 1] !== directionToIndex) {
+      coveredCardinalPoints.push(
+        (coveredCardinalPoints[coveredCardinalPoints.length - 1] + 1) % cardinalPoints.length
+      );
+    }
+    return coveredCardinalPoints;
+  };
+
   for (const site of sites) {
     if (!site.windDirection) continue;
     for (const direction of site.windDirection) {
@@ -97,6 +118,7 @@ const WindRose = ({
         name: site.name,
         directionFrom: direction.from,
         directionTo: direction.to,
+        coveredCardinalPoints: getCoveredCardinalPoints(direction.from, direction.to),
         primaryColor: "#66786a",
         highlightColor: highlightColor,
         link: "/sites/" + site.id,
@@ -127,6 +149,7 @@ const WindRose = ({
       name: site.siteName,
       directionFrom: site.from,
       directionTo: site.to,
+      coveredCardinalPoints: getCoveredCardinalPoints(site.from, site.to),
       primaryColor: aPrimaryColor,
       highlightColor: highlightColor,
       link: site.link,
@@ -137,30 +160,12 @@ const WindRose = ({
   const bins: Array<cardinalBin> = [{ id: 1, sites: [] }];
 
   for (const site of roseSites) {
-    const siteStartIndex = cardinalPoints.findIndex((cp) => cp === site.directionFrom);
-    let siteEndIndex = cardinalPoints.findIndex((cp) => cp === site.directionTo);
-    if (siteEndIndex < siteStartIndex) {
-      siteEndIndex += cardinalPoints.length;
-    }
-
     let binPosition = 0;
     for (const bin of bins) {
       binPosition++;
       let collisions = 0;
       for (const binSite of bin.sites) {
-        const binSiteStartIndex = cardinalPoints.findIndex((cp) => cp === binSite.directionFrom);
-        let binSiteEndIndex = cardinalPoints.findIndex((cp) => cp === binSite.directionTo);
-        if (binSiteEndIndex < binSiteStartIndex) {
-          binSiteEndIndex += cardinalPoints.length;
-        }
-
-        for (var si = siteStartIndex; si <= siteEndIndex; si++) {
-          for (var bi = binSiteStartIndex; bi <= binSiteEndIndex; bi++) {
-            if (si === bi) {
-              collisions++;
-            }
-          }
-        }
+        collisions += site.coveredCardinalPoints.filter((point) => binSite.coveredCardinalPoints.includes(point)).length;
       }
       if (collisions >= 2) {
         if (binPosition == bins.length) {
