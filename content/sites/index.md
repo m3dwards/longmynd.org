@@ -19,12 +19,12 @@ otherClubsSites:
     to: ESE
   - clubName: Malvern HGC
     siteName: Builth Wells
-    link: http://www.malvern-hang.org.uk/index.php?option=com_content&view=article&id=97&catid=11&Itemid=105
+    link: http://www.malvern-hang.org.uk/sites_guide/builth-wells.html
     from: NNW
     to: NNE
   - clubName: Malvern HGC
     siteName: Kettle Sings
-    link: http://www.malvern-hang.org.uk/index.php?option=com_content&view=article&id=3391&catid=11
+    link: http://www.malvern-hang.org.uk/sites_guide/pinnacle.html
     from: ENE
     to: ESE
   - clubName: North Wales HGPC
