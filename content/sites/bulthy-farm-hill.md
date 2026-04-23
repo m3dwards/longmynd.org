@@ -7,10 +7,10 @@ fee: ""
 hgRating: CP + 25 hours or under BHPA instruction or with a coach
 pgRating: CP + 25 hours or under BHPA instruction or with a coach
 windDirection:
-  - from: SSE
-    to: S
   - from: NNW
     to: NNE
+  - from: SSE
+    to: S
 location:
   physicalMaps: Explorer126  SJ310135
   what3words: ///scrapped.shadows.stormy
