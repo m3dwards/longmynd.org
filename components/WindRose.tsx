@@ -111,6 +111,18 @@ const WindRose = ({
     return coveredCardinalPoints;
   };
 
+  const getTextKerning = (coveredCardinalPointsCount: number, binIndex: number) => {
+    let kerning = 0;
+
+    if (coveredCardinalPointsCount <= 2) {
+      kerning -= 0.75;
+    }
+
+    kerning -= Math.min(binIndex * 0.18, 1);
+
+    return kerning;
+  };
+
   for (const site of sites) {
     if (!site.windDirection) continue;
     for (const direction of site.windDirection) {
@@ -241,7 +253,7 @@ const WindRose = ({
           center - radiusOffset - 15,
           calculateMidAngle(cardinalAngles[site.directionFrom], cardinalAngles[site.directionTo]),
           "verdana, sans-serif",
-          3 - binIndex > 0 ? 0 : 0
+          getTextKerning(site.coveredCardinalPoints.length, binIndex)
         );
       }
     }
