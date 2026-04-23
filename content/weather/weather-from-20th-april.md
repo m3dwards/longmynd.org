@@ -2,6 +2,10 @@
 title: Weather from 20th April
 date: 2026-04-20T08:13:06.950Z
 ---
+Friday still looking positive for Corndon but might still be a bit too little wind for regular soaring.  Saturday no wind, then Sunday light Southerlies but nicer air, so forecasts seem to be fairly stable on what's due to happen.
+
+\-------------------------------- 
+
 Friday has a relatively low inversion level, so afternoon best at Corndon or just possibly Wrekin SE.  wind might be a bit low for reliable soaring.
 
 Weekend much more thermic with better air, and more likely NE though.
