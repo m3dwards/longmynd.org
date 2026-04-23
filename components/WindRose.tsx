@@ -155,7 +155,10 @@ const WindRose = ({
       link: site.link,
     });
   }
-  roseSites = roseSites.sort((sa, sb) => sb.name.length - sa.name.length);
+  roseSites = roseSites.sort(
+    (sa, sb) =>
+      sb.coveredCardinalPoints.length - sa.coveredCardinalPoints.length || sb.name.length - sa.name.length
+  );
 
   const bins: Array<cardinalBin> = [{ id: 1, sites: [] }];
 
