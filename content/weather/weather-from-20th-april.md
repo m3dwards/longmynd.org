@@ -2,6 +2,10 @@
 title: Weather from 20th April
 date: 2026-04-20T08:13:06.950Z
 ---
+Sunday has at present E winds, but not as forecast as it should already be S, but all forecasts do says that's what is suppsoed to happen, with maybe SSW in the far W of our area so Camlo or even Clatter might work later.  With the high pressure, going later on is bound to be far more reliable to soar than now.
+
+\----------------------------------------------
+
 Friday still looking positive for Corndon but might still be a bit too little wind for regular soaring.  Saturday no wind, then Sunday light Southerlies but nicer air, so forecasts seem to be fairly stable on what's due to happen.
 
 \-------------------------------- 
