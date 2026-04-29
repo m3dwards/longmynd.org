@@ -2,7 +2,11 @@
 title: Weather from 27th April
 date: 2026-04-26T19:46:31.177Z
 ---
-Friday looks a possibility for our SW faciung sites at this moment.
+Friday still looking good to soar, but not sure about sites yet as forecasts vary between SW and SSE direction - but due to be dry, whereas the weekend has a much higher chance of rain although there may well be an opportunity to fly.
+
+\------------------------------------
+
+Friday looks a possibility for our SW facing sites at this moment.
 
 \-------------------------
 
