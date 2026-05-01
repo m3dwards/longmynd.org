@@ -25,7 +25,7 @@ For anything else: [chairman](mailto:chairman@longmynd.org)
 ### **For Urgent Issues**
 
 For urgent sites issues please call: [Richard McCrohan](mailto:sites@longmynd.org)\
-or for anything else: [Andrew McDonald](mailto:chairman@longmynd.org)\
+or for anything else: [chairman](mailto:chairman@longmynd.org)[](mailto:chairman@longmynd.org)\
 If you don’t get straight through, please leave a message or send a text!
 
 Land owners & tenants: you may have been provided with details of a local\
