@@ -15,25 +15,14 @@ pageItems:
 
 
       * \[LMSC Chief Coach]\
-        Dave Roberts\
-        [coaching](mailto:coaching@longmynd.org)
-      * Malcolm Davies\
-        07710738846 Mainly weekends
-      * Sian Leavesley\
-        sianleavesley\[at]yahoo.com
+        James Allcock\
+        [coaching](mailto:coaching@longmynd.org) or 07894 406224[](mailto:coaching@longmynd.org)
       * Tony Flint\
         01952 257123\
         07967 789829
-      * Mark Leavesley\
-        [mark](mailto:mark@leavesleyaviation.com)  07774 856056
-      * Ben Henson\
-        07890 909542
-      * Chris de Pinna\
-        07939 527639
       * Tim Dunn\
         timair46\[at]yahoo.com
-      * James Allcock
-        07894 406224
+      * Dave McCleod
   - description: >-
       There is a common misconception that only high achieving pilots with 100s
       or 1000s of hours airtime are capable of coaching low airtime pilots. Not
@@ -214,7 +203,7 @@ pageItems:
 ---
 ### For pilots needing coaching
 
-The Long Mynd soaring club has a large number of club coaches, who will be happy to offer experienced advice and help to newly qualified hang-glider and paraglider pilots, enabling them to safely bridge the gap from school to club. For more experienced visiting pilots, they can also provide site briefings to help you make the most of unfamiliar flying sites. The club is currently working towards a more focussed coaching approach, which will enable anyone who wants help and advice to direct their request at those coaches who are most experienced and with the right availability to be able to work to to everyones best advantage.
+The Long Mynd soaring club has several club coaches, who will be happy to offer experienced advice and help to newly qualified hang-glider and paraglider pilots, enabling them to safely bridge the gap from school to club. For more experienced visiting pilots, they can also provide site briefings to help you make the most of unfamiliar flying sites. The club is currently working towards a more focussed coaching approach, which will enable anyone who wants help and advice to direct their request at those coaches who are most experienced and with the right availability to be able to work to to everyones best advantage.
 
 Please note the up to date list of accredited LMSC coaches 
 
