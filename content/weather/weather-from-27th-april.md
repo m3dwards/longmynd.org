@@ -2,6 +2,10 @@
 title: Weather from 27th April
 date: 2026-04-26T19:46:31.177Z
 ---
+Saturday is supposed to be of soarable speed winds and very thermic but dry until late afternoon - winds S to SSW, but he Clatter camera does not show particularly favourable conditions at this moment (09:30).  Assuming the cloud rises and remains dry I think the S face of Camlo looks a possibility as Clatter is not massively steep or great to soar in very light winds.
+
+\----------------------------
+
 Friday still looking good to soar, but not sure about sites yet as forecasts vary between SW and SSE direction - but due to be dry, whereas the weekend has a much higher chance of rain although there may well be an opportunity to fly.
 
 \------------------------------------
