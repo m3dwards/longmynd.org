@@ -1,8 +1,10 @@
 ---
 title: Weather from 25th May
-date: 2026-05-28T17:12:18.105Z
+date: 2026-05-30T08:41:38.601Z
 ---
 Today(Saturday) looks ok for the Mynd, but early on far too light wind and the forecasts say well off to the south - though not showing on weather station at ground level.   By mid afternoon should be soarable and getting fairly breezy on the Mynd.  Alternative especially for earlier in the day will be Camlo.
+
+Could be a really nice evening soaring opportunity.
 
 Sunday blown out
 
