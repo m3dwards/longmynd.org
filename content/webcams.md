@@ -24,6 +24,12 @@ locations:
       ![Looking North](/img/mynd_north_ubox.jpeg)
 
 
+      **View North courtesy of the MGC**
+
+
+      https://midlandgliding.club/piwebcam/cameras/north.html
+
+
       **LMSC Webcam: pointing south - currently dead as solar panel not connecting.**
 
 
