@@ -62,6 +62,15 @@ locations:
       https://midlandgliding.club/piwebcam/cameras/north.html
 
 
+      <!--StartFragment-->
+
+
+      iframe src="[https://midlandgliding.​club/piwebcam/cameras/north.​html](https://midlandgliding.club/piwebcam/cameras/north.html)" width="960" height="544" scrolling="no"></iframe>
+
+
+      <!--EndFragment-->
+
+
       **New MGC weather data link - windspeed etc**
 
 
