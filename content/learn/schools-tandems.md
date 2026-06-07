@@ -32,13 +32,8 @@ pageItems:
 
       [https://flyevolution.co.uk](https://flyevolution.co.uk/)
   - title: YX Paragliding
-    description: >-
-      YX Paragliding  (formerly Beyond Extreme) is owned and run by Mick
-      Bird-Jones,and offers paragliding training at all levels and tandem
+    description: YX Paragliding offers paragliding training at all levels and tandem
       paragliding flights.
-
-
-      For more information see [www.yxparagliding.co.uk](http://www.yxparagliding.co.uk/)  or call 07855491080
   - title: Airways Airsports
     description: >-
       Airways Airsports are based in the Peak District and offer a wide range of
