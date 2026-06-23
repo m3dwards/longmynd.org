@@ -14,6 +14,11 @@ location:
   physicalMaps: 1:50000 137 or Explorer 216
   latlong: 52.5211, -2.8786
 sensitivities:
+  - sensitivity: We must respect the sailplane operations taking place at the
+      neighbouring Midland Gliding Club. They use tow lines from both ends of
+      their field at the same time and it is extremely dangerous to cross their
+      airfield at low altitude. On good days they will tow to a significant
+      height. Please take your climbs elsewhere on the ridge.
   - sensitivity: "The main PG bottom landing field is marked as PG2 on the map. PG1,
       the landing field which is the field immediately below the PG launch area,
       can only be used for ‘unplanned or emergency landings' only, no deliberate
@@ -26,11 +31,6 @@ sensitivities:
       the one just below launch! "
   - sensitivity: When low on the ridge, take care when members of the public are
       present including horse riders and dog walkers.
-  - sensitivity: We must respect the sailplane operations taking place at the
-      neighbouring Midland Gliding Club. They use tow lines from both ends of
-      their field at the same time and it is extremely dangerous to cross their
-      airfield at low altitude. On good days they will tow to a significant
-      height. Please take your climbs elsewhere on the ridge.
 accessAndParking: ""
 launchesAndLanding: ""
 flying: ""
