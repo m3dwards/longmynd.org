@@ -81,6 +81,8 @@ The Club also offers temporary 10 day, 1 month and annual memberships pay online
 
 **All pilots must be current BHPA members (see helmet badge) or be able to present on demand an equivalent insurance (in English).** 
 
+**DO NOT overfly the sailplane tow operations**
+
 **No commercial flying** other than **agreed** CP+ training/tandem flights.
 
 **No acro or proximity flying** in front of the take off areas.
@@ -123,7 +125,8 @@ The ridge is 4 miles/6.5km long so there is plenty of room after clearing the la
 
 **Midland Gliding Club**
 
-Do **NOT** overfly launch area less than **1500ft/460m ATO**.
+Do **NOT** overfly launch area less than **1500ft/460m AGL**.\
+This means an absolute minimum altitude of 3,000ft/920m  - but please avoid completely if possible.
 
 Do **NOT** cross in front of the windsock below ridge height when towing is active. If you hit strong lift you could rise up in front of a tug or powered glider.
 
