@@ -26,6 +26,11 @@ sensitivities:
       the one just below launch! "
   - sensitivity: When low on the ridge, take care when members of the public are
       present including horse riders and dog walkers.
+  - sensitivity: We must respect the sailplane operations taking place at the
+      neighbouring Midland Gliding Club. They use tow lines from both ends of
+      their field at the same time and it is extremely dangerous to cross their
+      airfield at low altitude. On good days they will tow to a significant
+      height. Please take your climbs elsewhere on the ridge.
 accessAndParking: ""
 launchesAndLanding: ""
 flying: ""
