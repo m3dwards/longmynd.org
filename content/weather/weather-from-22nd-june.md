@@ -2,6 +2,10 @@
 title: Weather from 22nd June
 date: 2026-06-22T07:27:06.012Z
 ---
+Thursday (today) looks ideal for Corndon later on with inversion 4000ft or so and a decent breeze, might be slightly off to the south but the east face I think will work - assuming you can stand the heat to walk up in the first place!
+
+\---------
+
 Tuesday is now forecast (by some anyway) to come on the Mynd later today !
 
 \-----------------------
