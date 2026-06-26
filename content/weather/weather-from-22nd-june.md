@@ -2,7 +2,9 @@
 title: Weather from 22nd June
 date: 2026-06-22T07:27:06.012Z
 ---
-Thursday (today) looks ideal for Corndon later on with inversion 4000ft or so and a decent breeze, might be slightly off to the south but the east face I think will work - assuming you can stand the heat to walk up in the first place!
+Friday looks good for clatter soaring and thermalling.  Saturday blown out in our area even for HG.  Sunday looks good, probably Clatter or Shepherds tump.  Just a slight chance it might be west enough fr the Mynd.
+
+(today) looks ideal for Corndon later on with inversion 4000ft or so and a decent breeze, might be slightly off to the south but the east face I think will work - assuming you can stand the heat to walk up in the first place!
 
 \---------
 
