@@ -8,4 +8,4 @@ Tuesday SW and quite strong possibly too much but maybe ideal for HG at Clatter
 
 Wednesday back on the Mynd or even Llandinam, Camlo
 
-Probabbly NW winds after then
+Probabbly NW winds after then - will update later.
