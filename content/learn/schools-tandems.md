@@ -41,4 +41,6 @@ pageItems:
 ---
 W﻿e are blessed with a few schools at the LMSC.\
 \
-Any school wishing to complete the final stages of CP training at the Long Mynd must comply with the prevailing rules of the club.
+Any school wishing to complete the final stages of CP training at the Long Mynd must comply with the prevailing rules of the club.\
+\
+The currently prevailing rules are available here.
