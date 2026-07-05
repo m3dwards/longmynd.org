@@ -43,4 +43,4 @@ W﻿e are blessed with a few schools at the LMSC.\
 \
 Any school wishing to complete the final stages of CP training at the Long Mynd must comply with the prevailing rules of the club.\
 \
-The currently prevailing rules are available [here](img/long_mynd_site_rules_for_training_v1_1_2026.pdf).
+The currently prevailing rules are available [here](https://longmynd.org/img/long_mynd_site_rules_for_training_v1_1_2026.pdf).
