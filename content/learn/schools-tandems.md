@@ -31,9 +31,6 @@ pageItems:
 
 
       [https://flyevolution.co.uk](https://flyevolution.co.uk/)
-  - title: YX Paragliding
-    description: YX Paragliding offers paragliding training at all levels and tandem
-      paragliding flights.
   - title: Airways Airsports
     description: >-
       Airways Airsports are based in the Peak District and offer a wide range of
@@ -42,4 +39,6 @@ pageItems:
 
       For more information, see: [www.airways-airsports.com](http://www.airways-airsports.com/)
 ---
-W﻿e are blessed with a few schools at the LMSC
+W﻿e are blessed with a few schools at the LMSC.\
+\
+Any school wishing to complete the final stages of CP training at the Long Mynd must comply with the prevailing rules of the club.
