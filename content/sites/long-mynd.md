@@ -79,7 +79,7 @@ date: 2024-07-24T13:05:43.058Z
 
 * Hill conversion training **is allowed** for pilots who already hold a CP rating in other environments. Alternate entry training is also allowed. 
 * Air Experience flights by suitably rated tandem pilots are allowed at this site.
-* Limited access is available for late stage pre-CP pilots under training with BHPA approved schools. A document is available [here](public/img/long_mynd_site_rules_for_training_v1_1_2026.pdf) detailing the specific site requirements for pre-CP training. Failure to comply with ALL aspects of the prevailing requirements may undermine a school's insurance position. 
+* Limited access is available for late stage pre-CP pilots under training with BHPA approved schools. A document is available [here](https://longmynd.org/img/long_mynd_site_rules_for_training_v1_1_2026.pdf) detailing the specific site requirements for pre-CP training. Failure to comply with ALL aspects of the prevailing requirements may undermine a school's insurance position. 
 
 ## SITE FEES
 
