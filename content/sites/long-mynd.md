@@ -5,7 +5,7 @@ status: Open to all
 sensitive: true
 fee: £3 for non-members
 hgRating: CP
-pgRating: CP
+pgRating: CP*
 windDirection:
   - from: WSW
     to: WNW
@@ -73,6 +73,13 @@ date: 2024-07-24T13:05:43.058Z
 * **Do not climb over the fences.**
 * **Park diagonally** by the fence to keep the road clear.
 * **Check** the on site notice board on arrival for any temporary restictions
+* There must be **no Informal coaching or training** for pre-CP rated pilots at this site.
+
+## SCHOOLS
+
+* Hill conversion training is allowed for pilots who have a CP rating in other environemnts. Alternate entry training is also allowed. 
+* Air Experience flights by suitably rated pilost are allowed at this site.
+* Limited access is available for late stage pre-CP pilots under training with BHPA approved schools. A document is available detailing the specific site requirements for pre-CP training. Failure to comply with ALL aspects of the prevailing requirements may undermine a school's insurance position. 
 
 ## SITE FEES
 
