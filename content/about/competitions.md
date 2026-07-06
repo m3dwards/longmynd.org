@@ -12,8 +12,6 @@ The club has many members with experience of competitive flying at the highest l
 
 ### **LMSC Challenge Tasks**
 
-(Draft for review, not active yet).
-
 We have been looking to implement a set of challenge tasks based at Long Mynd and other sites. Little waypoint based tasks that LMSC members can have a go at just for fun, or to provide a bit of pilot development incentive for those that may be thinking of trying a competition in the future.
 
 There are four tasks to start with, including a walking one for people to try out their navigation instrumentation, or whilst waiting for the wind to drop.
