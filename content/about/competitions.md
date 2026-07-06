@@ -21,7 +21,7 @@ It is our intention that the Long Mynd based tasks are suitable for CP as they r
 If these tasks get some interest then we will look to add more. We may also introduce some club award for the highest score achieved each year.
 
 The Challenge Tasks are hosted on the [Xcmap.net](https://xcmap.net/index.php?c=Long%20Mynd%20Soaring%20Club) website.
-But see [This Document](public/img/lmsc-challenge-tasks-rev2.pdf) [](https://longmynd.org/img/lmsc-challenge-tasks.pdf)for full details.
+But see [this document](https://longmynd.org/img/lmsc-challenge-tasks-rev2.pdf) [](public/img/lmsc-challenge-tasks-rev2.pdf)for full details.
 
 ### Externally organised competitions
 
@@ -43,7 +43,7 @@ Any queries regarding holding competitions at Long Mynd sites should be addresse
 
 Dates of any competitions already agreed may be found on the events calendar or please get in touch to get further up-to-date details.[](http://www.longmynd.org/?page_id=11)
 
-Download a [competitions booking form](public/img/comp_booking-rev.17032025.doc).
+Download a [competitions booking form](https://longmynd.org/img/comp_booking-rev.17032025.doc)[](public/img/comp_booking-rev.17032025.doc).
 
 **How to pay any fee:** the address for paying by cheque is given in the booking form above. You can also pay online. However, please note that you still MUST download, complete and send off the booking form above.
 
