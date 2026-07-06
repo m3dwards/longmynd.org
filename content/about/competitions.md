@@ -21,7 +21,7 @@ It is our intention that the Long Mynd based tasks are suitable for CP as they r
 If these tasks get some interest then we will look to add more. We may also introduce some club award for the highest score achieved each year.
 
 The Challenge Tasks are hosted on the [Xcmap.net](https://xcmap.net/index.php?c=Long%20Mynd%20Soaring%20Club) website.
-But see [this document](public/img/lmsc-challenge-tasks-rev2.pdf) [](https://longmynd.org/img/lmsc-challenge-tasks.pdf)for full details.
+But see [This Document](public/img/lmsc-challenge-tasks-rev2.pdf) [](https://longmynd.org/img/lmsc-challenge-tasks.pdf)for full details.
 
 ### Externally organised competitions
 
