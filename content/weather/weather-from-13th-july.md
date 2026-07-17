@@ -2,6 +2,10 @@
 title: Weather from 13th July
 date: 2026-07-13T07:05:59.891Z
 ---
+Friday light winds to start with, but looks as it's picking up nicely from lunchtime. some variation in direction between NW and N.  Options are Wrekin, Lawley, Long Mountain, Clunbury, Corndon possibly if north.  When it gets strong later on, Red Hopton could be a good choice if strong. 
+
+\-------------------------
+
 Thursday is lighter and may be aon the light side for easy Corndown soaring this time, again like yesterday expected to be very gusty with thermals until late in the day.  Friday forecasts vary but light and somewhere between NNE and NNW, options being Corndon, Lawley or Wrekin.  Might be similar at the weekend.
 
 \-------------------------------------
