@@ -2,7 +2,7 @@
 title: Weather from 27th July
 date: 2026-07-27T06:29:30.119Z
 ---
-Tuesday, I'm thinking might be a bittoo west for Clatter as it does not tend to soar very well unless properly SW,  Maybe even the Mynd again for HG's like yesterday - but blown out for PG's by the look of things but not quite as much as Monday.
+Tuesday, I'm thinking might be a bit too west for Clatter as it does not tend to soar very well unless properly SW,  Maybe even the Mynd again for HG's like yesterday - but blown out for PG's by the look of things but not quite as much as Monday.
 
 \------------------------------------
 
