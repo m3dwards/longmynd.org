@@ -2,6 +2,10 @@
 title: Weather from 27th July
 date: 2026-07-27T06:29:30.119Z
 ---
+Sunday due to be East or maybe SE - forecasts vary a little.  Cludbase/Inversion at 6000ft plus.  whether Corndon or Wrekin will be ridge soarable is doubtful, both may be intermittently so, it's more of a thermal and leave the hill day.
+
+\----------------------------------------
+
 Today, Wednesday a HG day, off to the south but I think ok at the Mynd.  For PG maybe Camlo as the slope is shallow and you can launch low down.
 
 Thursday a Mynd day but probably mostly HG as quite windy.
