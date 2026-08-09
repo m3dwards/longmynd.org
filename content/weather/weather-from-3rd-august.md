@@ -2,7 +2,7 @@
 title: Weather from 3rd August
 date: 2026-08-03T08:15:06.617Z
 ---
-HG only on Sunday as will get a bit windy.  nice day for it though.
+HG only on Sunday after lunchtime as will get a bit windy.  nice day for it though.
 
 \-------------
 
