@@ -2,6 +2,10 @@
 title: Weather from 10th August
 date: 2026-08-10T09:00:12.575Z
 ---
+Mynd day on Friday,  I expect the BOS Hang Gliding comp will be there too but the XC forecast is not great but should be soarable for PG and HG at least on current wind forecasts.
+
+\------------------------------
+
 Tuesday, Wrekin blown out but Corndon or Bulthy Hill should be launchable ok.  Wednesday looks better with lighter winds but hopefully still soarable.
 
 \------------------
