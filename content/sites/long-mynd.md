@@ -19,10 +19,11 @@ sensitivities:
       their field at the same time and it is extremely dangerous to cross their
       airfield at low altitude. On good days they will tow to a significant
       height. Please take your climbs elsewhere on the ridge.
-  - sensitivity: "The main PG bottom landing field is marked as PG2 on the map. PG1,
+  - sensitivity: The main PG bottom landing field is marked as PG2 on the map. PG1,
       the landing field which is the field immediately below the PG launch area,
       can only be used for ‘unplanned or emergency landings' only, no deliberate
-      top to bottoms! "
+      top to bottoms! Ground handling and kiting is not permitted. Carry to the
+      top gate to pack.
   - sensitivity: Black Knoll at the south end of the ridge – Shooting may take place
       between  October and January, on and below the hill. Shooting dates will
       be posted to the Black Knoll site guide and to Telegram when known! Flying
@@ -181,7 +182,7 @@ Beware rabbit holes, rocks and trees.
 ### **Bottom Landings - Check the map.**
 
 **PG1** bottom landing field is owned by the National Trust and **should not be used from May to July** except for 'unplanned/emergency landings' only. No deliberate top to bottom flights allowed to this field.\
-**Land in the topmost part of the field.** Note field slopes away from the hill.  **\    Carry to the top gate to pack. \
+**Land in the topmost part of the field.** Note field slopes away from the hill.  **No ground handling or kiting in the field. Carry to the top gate to pack. \
 Always close the gate behind you** – if it’s open, close it anyway.
 
 **PG2** bottom landing field can be used all year. This field can be identified by the large green shed in the NE corner. **Ensure you have enough height to cross the road. Avoid all horses on approach.**
