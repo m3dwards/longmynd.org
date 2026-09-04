@@ -1,6 +1,6 @@
 ---
 title: Weather from 31st August
-date: 2026-09-01T06:34:34.589Z
+date: 2026-09-04T12:40:25.414Z
 ---
 Saturday looking great for HG at Long Mynd, and maybe PG's too, though is currenlty forecast to get a bit strong in the afternoon.  In the morning wind due to be off to the south a bit but lower speeds.  Nicely thermic.
 
