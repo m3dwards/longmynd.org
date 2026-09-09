@@ -4,6 +4,8 @@ date: 2026-09-07T07:03:43.244Z
 ---
 Looks like as expected,  windy earlier on so long Mountain, Mynd weather says WNW but you can see the higher clouds are fully NW.  Later, on at the Mynd for PG as it calms.
 
+Thursday blown out but Friday looks on for the Mynd again.
+
 \-----------------------------------------------
 
 Wednesday - to start with probably Long Mountain as windy, but during the day the wind reduces and may come onto the Mynd a lot better.  Evening at the Mynd at least.
