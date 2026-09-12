@@ -4,8 +4,8 @@ published: true
 status: Open to all
 sensitive: true
 fee: ""
-hgRating: CP + 25 hours or under BHPA instruction or with a coach
-pgRating: CP + 25 hours or under BHPA instruction or with a coach
+hgRating: "CP "
+pgRating: "CP "
 windDirection:
   - from: NNW
     to: NNE
@@ -64,5 +64,7 @@ poiImage: /img/bulthy-hill-map.jpeg
 date: 2026-03-28T18:27:07.025Z
 ---
 Bulthy is a small spineback ridge site located at Bulthy Farm also home of Border Quad Trekking. The top of the ridge is grassy with a few scattered rocky outcrops with a flatter area at the northern end.  While limited for soaring the landing fields are flat, the rock free sheep pasture and the tree line at the southern end are good thermal generators. Experience so far is that the tree line at the southern end triggers well and XC flight to the NW is possible. A bomb out involves a 10 minute walk back up the zig zag track. The top to bottom height is 330ft.
+
+This is a new small site, with a line of trees out front, the club suggests that gualified CP pilots with less than 25 hours experience should only fly here with a BHPA instructor or coach.
 
 The LMSC Site Manager is Roy Dade, please contact him via the Whatsapp group or Telegram @RoyDade.
