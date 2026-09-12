@@ -3,7 +3,7 @@ name: Lan Fawr
 published: true
 status: Open - club only
 sensitive: true
-hgRating: CP +10 Hours
+hgRating: "CP "
 pgRating: CP
 windDirection:
   - from: W
