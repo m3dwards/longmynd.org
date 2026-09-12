@@ -3,8 +3,8 @@ name: Corndon
 published: true
 status: Open - club only
 sensitive: true
-hgRating: CP +25 hours or accompanied by coach
-pgRating: CP +25 hours or accompanied by coach
+hgRating: CP
+pgRating: "CP "
 windDirection:
   - from: N
     to: SE
@@ -79,9 +79,9 @@ date: 2022-08-21T14:21:00.308Z
 ---
 Corndon is the Club’s 2nd most popular site, it is also extremely sensitive and could be easily lost. It is incumbent on all members to ensure we keep this amazing site.
 
-Gate & access explanation:
+Corndon is a technical site, with a number of take offs for different wind directions, as well as a rocky face. Therefore the club suggests that gualified CP pilots with less than 25 hours experience should only fly here with a BHPA instructor or coach.
 
-### Farm with horses to be avoided
+**Farm with horses to be avoided**
 
 ![](/img/corndon_horses.jpeg)
 
