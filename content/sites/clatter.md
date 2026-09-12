@@ -2,8 +2,8 @@
 name: Clatter
 published: true
 status: Open - club only
-hgRating: CP +25 Hours
-pgRating: CP +15 Hours
+hgRating: "CP "
+pgRating: "CP "
 windDirection:
   - from: SSW
     to: SW
