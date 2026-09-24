@@ -2,7 +2,7 @@
 title: weather  from 21st September
 date: 2026-09-21T08:30:54.173Z
 ---
-Thursday - Camlo sout face or later maybe Clatter but gets windier by then for PG
+Thursday - Camlo south face or later maybe Clatter but gets windier by then for PG
 
 Friday possibly wet and light variable west-ish winds
 
