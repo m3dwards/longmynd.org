@@ -2,6 +2,14 @@
 title: weather  from 21st September
 date: 2026-09-21T08:30:54.173Z
 ---
+Thursday - Camlo sout face or later maybe Clatter but gets windier by then for PG
+
+Friday possibly wet and light variable west-ish winds
+
+Saturday sunny again and SW for Clatter PG and HG
+
+\------------------
+
 Wednesday starts off west so early on may be soarable on the Mynd, then after the expected lunchtime thick cloud and showers, the only possible option will be Long Mountain as it will be quite windy.
 
 \--------------------------------
