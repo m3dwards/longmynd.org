@@ -2,6 +2,12 @@
 title: weather  from 21st September
 date: 2026-09-21T08:30:54.173Z
 ---
+Saturday looks nice but a bit strong for most PGs by some forecasts but not all.  SW so Clatter for HG. possibly camlo for PG unless flying really early in the day or if not as strong as some say then clatter for PG as well.
+
+sunday wet
+
+\-----------------------------------------------------
+
 Thursday - Camlo south face or later maybe Clatter but gets windier by then for PG
 
 Friday possibly wet and light variable west-ish winds
