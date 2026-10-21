@@ -2,8 +2,8 @@
 name: Camlo
 published: true
 status: Open to all
-hgRating: CP+10
-pgRating: CP+10
+hgRating: CP
+pgRating: CP
 windDirection:
   - from: SE
     to: SSE
