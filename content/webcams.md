@@ -99,9 +99,12 @@ locations:
 
       Please see "https://www.wunderground.com/dashboard/pws/IBISHO60"
   - name: The Lawley
-    description: Possibly may require replacement camera lens in the future, in a
-      similar manner to that already carried out at Clatter, but this one is
-      massively more difficult to access.
+    description: Wind Speed no longer working, and the wind direction seems to stick
+      at times.  As the camera lens could do with replacement, in a similar
+      manner to that already carried out at Clatter, but this unit is massively
+      more difficult to access.  Will need to be taken down for a major refit
+      job, being at the top of a high pole on top of the highest point of Lawley
+      needs a team of fit people with ladders to hike up there.
     weatherStations:
       - station: '<iframe style="width: 580px; height: 250px;"
           src="https://widget.holfuy.com/?station=295&amp;su=mph&amp;t=C&amp;lang=en&amp;mode=detailed"
