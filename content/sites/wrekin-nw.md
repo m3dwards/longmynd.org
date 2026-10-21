@@ -89,7 +89,7 @@ The Wrekin is a popular walking spot for the public and can be busy, please resp
 
 **NB**
 
-This is a technical site, therefore the club suggests that gualified CP pilots with less than 25 hours experience should only fly here with a BHPA instructor or coach.
+This is a technical site, therefore the club suggests that qualified CP pilots with less than 25 hours experience should only fly here with a BHPA instructor or coach.
 
 For all pilots it is recommended on your first visit, at least, is with someone suitably experienced in flying the site in different conditions. Also look at the bottom landing options before heading up to launch.
 
