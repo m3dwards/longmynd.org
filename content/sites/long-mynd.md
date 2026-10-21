@@ -5,7 +5,7 @@ status: Open to all
 sensitive: true
 fee: £3 for non-members
 hgRating: CP
-pgRating: CP*
+pgRating: CP
 windDirection:
   - from: WSW
     to: WNW
