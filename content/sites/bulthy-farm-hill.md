@@ -42,10 +42,10 @@ launchesAndLanding: >-
   There are 2 launching options. These are marked on the map. 
 
 
-  Wind direction for the take offs are 135 to 170 degrees and 350 to 110 degrees
+  Wind direction for the take offs are 135 to 170 degrees and 350 to 110 degrees, from limited experience so far the ideal direction is about 150-160 degrees and at least 14 mph for soaring the hill, it has been flown at the extremities of these wind directions but not ideal.
 
 
-  Please note the power lines surrounding the landing fields. The NW side of the ridge can be flown but is as yet untried. There is a small LZ below.
+  Please note the power lines surrounding the landing fields. The NW side of the ridge can be flown but is as yet untried. There is a small LZ below.  Please review the landing fields before walking up and note that they are NOT at the very bottom of the overall hill and do slope, so landing parallel to the slope of the hill is advised to avoid overshooting towards the trees and hedges on the south side of the fields.
 
 
   There are usually flags around the landing area (from the Quad Bike centre), use these to judge real wind direction rather than the launch area.
