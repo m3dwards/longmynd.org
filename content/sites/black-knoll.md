@@ -64,10 +64,14 @@ Pilots where possible should try to avoid flying close to students or low over s
 
 **Shooting:** During the period from 1st September to 1st February, there is shooting on the hill and woodland below take-off. There are notices put up along the road below take-off warning of the dates and times. **UNDER NO CIRCUMSTANCES** should you fly during the shooting.
 
-**2026 Shooting Dates:**\
+**2026/7 Shooting Dates:**\
 \
-**January:       Sat 10th,   Sat 17th, Sat 24th and Sat 31st**
+**November:   Sat 7th, Sat 14th, Sat 21st, Sat 28th**
 
-**February:     Sat 7th, Sat 14th and Sat 21st**
+**December:   Sat 5th, Sat,12th, Sat 19th, Mon 28th**
+
+**January:       Sat 2nd, Sat 9th, Sat 16th, Sat 23rd**
+
+**February:     To be advised**
 
 **GYMKHANAS** also take place in fields below the take–offs, so be aware and do not over fly these events.
