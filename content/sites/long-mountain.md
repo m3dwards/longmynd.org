@@ -1,6 +1,6 @@
 ---
 name: Long Mountain
-published: false
+published: true
 status: Open to all
 sensitive: true
 fee: ""
