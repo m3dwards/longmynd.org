@@ -175,9 +175,17 @@ collections:
     folder: "content/sites"
     create: true
     identifier_field: name
+    summary: "{{name}} — {{status}} — on site list: {{published}}"
     fields:
       - { label: "Name", name: "name", widget: "string" }
-      - { label: "Published", name: "published", widget: "boolean", default: true, required: false }
+      - {
+          label: "Show on site list",
+          name: "published",
+          widget: "boolean",
+          default: true,
+          required: true,
+          hint: "On means the site is included on /sites and the wind rose. Off hides it from that list. The Publish button only saves the page.",
+        }
       - {
           label: "Status",
           name: "status",
