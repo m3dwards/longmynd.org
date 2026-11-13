@@ -2,6 +2,10 @@
 title: Weather from 9th November
 date: 2026-11-09T08:08:01.145Z
 ---
+Mynd on Friday but very light,  there is maybe a slight chance of some scratchy soaring as the air is nice.  Saturday not sure about as could be anywhere between SE and SSW, but ok speeds though.
+
+\----------------------------
+
 At present it is NNE direction but forecast to be more N or NNW, so Red Hopton or Long Mountain look ideal in this wind strength today.
 
 Probably too light to soar on Friday at Mynd
