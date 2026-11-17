@@ -76,6 +76,8 @@ flying: >-
   * No paramotors allowed.
 
   * No dogs allowed.
+
+  * Please note : The photo below shows the SE side (not the NW rifle range field) and the bottom landing field has a very significant slope on it.
 localAttractions: "![](/img/wrekin-front.jpeg)"
 siteRecords:
   - record: Neil Roberts, 30.08.2003, 168.1km to Vernham Dean. PG.
