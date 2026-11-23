@@ -7,7 +7,7 @@ H﻿ere are our **elected officers**
 Chairman: [James Allcock](mailto:chairman@longmynd.org)\
 Secretary: [Richard Amor-Wilkes](mailto:chairman@longmynd.org)[](mailto:secretary@longmynd.org)\
 Treasurer: [Jason Smith](mailto:treasurer@longmynd.org)\
-Communications: [Chris Baird](mailto:comms@longmynd.org)\
+Communications: [Vacant](mailto:comms@longmynd.org)\
 Membership: [Luke Evans](mailto:membership@longmynd.org)\
 Social: [David Bibby](mailto:social@longmynd.org)\
 Sites Officer: [Richard McCrohan](mailto:sites@longmynd.org)\
