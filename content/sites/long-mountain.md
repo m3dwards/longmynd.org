@@ -62,7 +62,7 @@ launchesAndLanding: >-
   ## Video
 
 
-  Dave Thomas has produced a comprehensive video about this site.  Please note that the video advises to pay on our website, but since fully taking over management of this site, there is currently no requirement to pay when you fly.
+  Dave Thomas has produced a comprehensive video about this site.  Please note that the video advises to pay on our website, but since fully taking over management of this site, currently there is no requirement to pay when you fly.
 
 
   <https://youtu.be/x2Uz8D0CAxo?si=oZKza-75wRlWIqYy>
